@@ -20,8 +20,8 @@ Lasers are one of the most common ammunitions of civilian and military ships. Un
 - orange = most common
 
 ###### bad lasers
-- pink = hottest
-- purple = fastest travel
+- pink = fastest shot
+- purple = hottest
 - brown = cheapest
 - black = stealthiest
 
@@ -59,6 +59,46 @@ This is a very powerful weapon, capable of taking out a small army. They are ver
 
 These are simply explosive slit bombs.They were popular until the Federre war, but over-use has now made them a luxury.
 
+## Defense
+### Force Field Gel
+
+The only known defense that is completely impregnable is the Force Field Gel.This is a defense that only Rescueland has, though many have attempted to get some. NOTHING can get in OR out, effectivly taking you out of the battle. Thus, many battleships only use this when they are damaged or a retreat is required. Another anomaly about them is that they behave like non-newtonian substances. The faster something hits the forcefield, the more energy is absorbed into the forcefield and not the object inside.
+
+#### The process of harvesting FFG
+
+It is harvested from a wellon Rescueland. The dimensions of the well are 1m-1m-5km to the exact planck. When the gel is taken, the well always refills itself over the period of a Rescueland day. There is no clear source. The gel also doesn't seem to be made of atoms, no matter how closley studied. 
+
+#### Activating the FF
+
+Once the Force Field is ready to be activated, it is ejected as a very thin tube. It spreads out until it surrounds the entire ship, where it solidifies and becomes solid, making the object inside impenetrable. The entire process takes about 1 second, but the FF protecting Rescueland takes several minutes to put up.
+
+One limitation is that it needs to be taken down every 10 years. This is because one weakness of the FFG is time. After 50 years, cracks start to apear on the shield and, after 100, the forcefield cracks apart and dissipates.
+
+### Plasma Force Fields
+
+
+
+## Engines
+
+There are many different types and colours of engine each with different properties and price.
+
+### Engine Colours
+#### good
+
+- green = most concentrated engine
+- red = most powerful engine
+- yellow = most compact engine
+- blue = fastest startup engine
+- orange = most common engine
+
+#### bad
+
+- pink = fastest engine
+- purple = hottest engine
+- brown = cheapest engine
+- black = quietest engine
+
+### Engine Types
 
 
 
