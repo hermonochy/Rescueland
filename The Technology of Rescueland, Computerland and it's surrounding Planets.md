@@ -110,11 +110,21 @@ Slit bombs are the most common type of ammo used. They are very basic, simply a 
 
 These are incredibly small, weak projectiles, cheap but useless in space battle.
 
+#### The Mega Flail (R)
+
+The Mega Flail is a spiked ball which is attached to a ship's belly. When required, it will be launched from a ships belly and crush or spike whatever is below it. It will then be pulled back with a rope attached to it. The only army that uses this is the Horsa army.
+
 #### Explosives
 
 ##### Hydro-bombs (R)
 
-This is a very powerful weapon, capable of taking out a small army. They are very expensive however, so use is limited.
+This is a very powerful bomb, capable of taking out a small army. When the bomb hits the surface, it implodes from the pressure. The force causes the shell to break apart, and the explosives inside expolade at full force. The shockwave of the bomb travels outward in a ripple, destroying anything in it's path. They are very expensive however, so use is limited.
+
+###### Types of hydro-bomb
+
+- Quick-sucsession bomb- these are meant to be fired quickly, one after the other. The first is to weaken the target, the second to destroy it and the third to destroy all remaining parts.
+- Suprise bomb- this is a bomb that lets out one leathal shot, giving the enemy no chance to resist.
+- Mini bomb- these are tiny bombs meant to take out a single target. These are not so good though, scince the power scales cubicaly.
 
 ##### Rockets (R)
 
@@ -123,17 +133,17 @@ These are simply explosive slit bombs. They were popular until the Federre war, 
 #### Chemicals
 ##### Acid thrower
 
-The acid thrower is an ancient weapon last used in the horsa war. This design is simple. It acts as a water gun firing highly concentrated acid, dissolving what it touches. This weapon is now rarely used, due to the time needed for it to take effect.
+The acid thrower is an ancient weapon last used in the Horsa war. This design is simple. It acts as a water gun firing highly concentrated acid, dissolving what it touches. This weapon is now rarely used, due to the time needed for it to take effect.
 
 #### Bunkers
 
 ##### Anti-bunker catapault (R)
 
-The anti-bunker catapault is the most common method to destroy the bunker of the enemy. A massive weight, several km long and super dense, is launched from a catapault (also massive!) onto the bunker, but shortly before impact the entire weight is concentrated into a small area, just a few metres across, and crushes a hole into the bunker. However, it usually collapses from the damage, destroying everything inside. Therefore, it can't always be used.
+The anti-bunker catapault is the most common method to destroy the bunker of the enemy. A massive weight, several km long and super dense, is launched from a catapault (also massive!) onto the bunker, but shortly before impact the entire weight is concentrated into a small area, just a few metres across, and crushes a hole into the bunker. However, the bunker usually collapses from the damage, destroying everything inside. Therefore, it can't always be used.
 
 ##### Anti-bunker drill (R)
 
-The anti-bunker drill is the method Rescueland uses when it needs to capture the bunker. It drills through the ground at incredible speeds, several thousand km/h. However, it is still slower than the anti-bunker catapault, and more expensive, which is why it is not used as often. The hole it drills is 8 metres across. It can drill into the bunker from any direction, except if it is protected by darkmaterial or FFG. 
+The anti-bunker drill is the method Rescueland uses when they needs to capture the bunker. It drills through the ground at incredible speeds, several thousand km/h. However, it is still slower than the anti-bunker catapault, and more expensive, which is why it is not used as often. The hole it drills is 8 metres across. It can drill into the bunker from any direction, except if it is protected by darkmaterial or FFG. 
 
 # Civilian
 
