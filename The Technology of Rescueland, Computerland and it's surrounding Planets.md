@@ -120,9 +120,20 @@ This is a very powerful weapon, capable of taking out a small army. They are ver
 
 These are simply explosive slit bombs. They were popular until the Federre war, but over-use has now made them a luxury.
 
+#### Chemicals
+##### Acid thrower
 
+The acid thrower is an ancient weapon last used in the horsa war. This design is simple. It acts as a water gun firing highly concentrated acid, dissolving what it touches. This weapon is now rarely used, due to the time needed for it to take effect.
 
+#### Bunkers
 
+##### Anti-bunker catapault (R)
+
+The anti-bunker catapault is the most common method to destroy the bunker of the enemy. A massive weight, several km long and super dense, is launched from a catapault (also massive!) onto the bunker, but shortly before impact the entire weight is concentrated into a small area, just a few metres across, and crushes a hole into the bunker. However, it usually collapses from the damage, destroying everything inside. Therefore, it can't always be used.
+
+##### Anti-bunker drill (R)
+
+The anti-bunker drill is the method Rescueland uses when it needs to capture the bunker. It drills through the ground at incredible speeds, several thousand km/h. However, it is still slower than the anti-bunker catapault, and more expensive, which is why it is not used as often. The hole it drills is 8 metres across. It can drill into the bunker from any direction, except if it is protected by darkmaterial or FFG. 
 
 # Civilian
 
