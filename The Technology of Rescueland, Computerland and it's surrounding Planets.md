@@ -1,16 +1,16 @@
 ﻿R = Rescueland tech, C = Computerland tech
 
-
 # Military
 
 ## Defence
+
 ### Force Field Gel (R)
 
 The only known defence that is completely impregnable is the Force Field Gel. This is a defence that only Rescueland has, though many have attempted to get some. NOTHING can get in OR out, effectively taking you out of the battle. Thus, many battleships only use this when they are damaged or a retreat is required. Another anomaly about them is that they behave like non-newtonian substances. The faster something hits the forcefield, the more energy is absorbed into the forcefield and not the object inside.
 
 #### The process of harvesting FFG
 
-The Force Field Gel is harvested from a well on Rescueland. The dimensions of the well are 1m-1m-5km to the exact planck. When the gel is consumed, the well always refills itself over the period of a Rescueland day. The provinience of the matter is unknown. The gel also doesn't seem to be made of atoms, no matter how closely studied. 
+The Force Field Gel is harvested from a well on Rescueland. The dimensions of the well are 1m-1m-5km to the exact planck. It is directly under the main runway of Rescueland, a trick which has protected the location of the well scince it was discovered. When the gel is consumed, the well always refills itself over the period of a Rescueland day. The provinience of the matter is unknown. The gel also doesn't seem to be made of atoms, no matter how closely studied. 
 
 #### Activating the FF
 
@@ -22,7 +22,11 @@ One limitation is that it needs to be taken down every 10 years. This is because
 
 This is the kind of force field that all other planets use. It is the most effective of all defences (except for the FFG). It creates a blue sheen 1 cm above the surface of the ship. Unlike the FFG, the Plasma Force Field is transmissive to on-board projectiles, but it can only repel a few dozen attacks before it needs to regenerate.
 
-### FCRT DarkArmour
+### Magnetic Force Fields (R)
+
+These force fields are purely meant to deflect some slit bombs, creating an electromagnetic field around the ship. However, this does not work on all slit bombs, as some are not magnetic. It also won't deflect a direct shot traveling fast enough, though it may slow it down. Most ships have these shields on during battle, though it is impractical when flying in close formation.
+
+### FCRT DarkArmour (R)
 
 Dark is a defence that FCRT's carry. They have very thin plates of Darkmaterial (see below) on them, which is why it is hard to destroy an FCRT even without a FFG. The attacker is required to get under the layers of plates in order to land a shot that has even a remote chance of destroying the FCRT.
 
@@ -40,7 +44,7 @@ The most famous use of this substance is to build practically indestructible fig
 
 ### Guns (R)
 
-There are 4 main sizes of cannon:A large cannon, a universal cannon, a small cannon and an extra small one.
+There are 4 main sizes of cannon: A large cannon, a universal cannon, a small cannon and an extra small one.
 
 #### The large cannon 
 
@@ -102,7 +106,7 @@ Slit bombs are the most common type of ammo used. They are very basic, simply a 
 - Shielded slit bombs
 - Surface to surface slit bombs
 
-##### Machine Guns
+#### Machine Guns (R+C)
 
 These are incredibly small, weak projectiles, cheap but useless in space battle.
 
@@ -147,3 +151,7 @@ There are many different types and colours of engine each with different propert
 - ⚫️ = quietest engine
 
 ### Engine Types
+
+
+## Special Metals
+
