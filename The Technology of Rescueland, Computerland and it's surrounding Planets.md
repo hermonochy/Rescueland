@@ -77,7 +77,7 @@ Lasers are one of the most common ammunitions of civilian and military ships. Th
 - ⚪️ = purest(least energy wasted) (R)
 - 🟠️ = most common (R)
 
-- 💓️ = fastest shot (B)
+- 🩷 = fastest shot (B)
 - 🟣️ = hottest (B)
 - 🟤️ = cheapest (B)
 - ⚫️ = stealthiest (B)
@@ -162,7 +162,7 @@ There are many different types and colours of engine each with different propert
 - 🟠️ = most common engine (R)
 
 
-- 💓️ = fastest engine (B)
+- 🩷 = fastest engine (B)
 - 🟣️ = hottest engine (B)
 - 🟤️ = cheapest engine (B)
 - ⚫️ = quietest engine (B)
@@ -171,4 +171,12 @@ There are many different types and colours of engine each with different propert
 
 
 ## Special Metals
+### Conductium (C) con-duct-ee-umm
+Conductium is what the Center of computerland is made of, it has a 100% electrical transfer efficentcy and is roughly as dense as hydrogen even though the atom is 300 times bigger than francium. the conductuim atom has 24 protons and 2000 nuetrons but only 1 electron, this is the reason it is good at keeping electrons to extract the electron you need a special isotop of conductium. The bonds conductium makes are almost indestructable and because of this harvesting and moulding the material is increadibly expensive, this has the upside of only melting at the melting point of dark material degrees kelvin \(DO NOT USE AT THAT TEMPRATURE, NEUTRON STARS WILL FORM\). The uses of conductium include:
 
+- high accuracy electrical transfer.
+- \(uinfinity_t\)-1 speed electron cannons.
+- cross planet power transfer.
+- quantum reseach \(the atom size helps with research\)
+
+### Techanda
