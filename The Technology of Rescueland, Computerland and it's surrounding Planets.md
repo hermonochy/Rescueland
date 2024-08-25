@@ -1,4 +1,4 @@
-﻿R = Rescueland tech, C = Computerland tech
+﻿R = Rescueland tech, C = Computerland tech, B = Bad tech
 
 # Military
 
@@ -70,19 +70,17 @@ Lasers are one of the most common ammunitions of civilian and military ships. Th
 
 ##### Basic Lasers (R)
 
-###### good lasers
-- 🟢️ = most concentrated
-- 🔴️ = most powerful
-- 🟡️ = most accurate
-- 🔵️ = fastest firing
-- ⚪️ = purest(least energy wasted)
-- 🟠️ = most common
+- 🟢️ = most concentrated (R)
+- 🔴️ = most powerful (R)
+- 🟡️ = most accurate (R)
+- 🔵️ = fastest firing (R)
+- ⚪️ = purest(least energy wasted) (R)
+- 🟠️ = most common (R)
 
-###### bad lasers
-- 💓️ = fastest shot
-- 🟣️ = hottest
-- 🟤️ = cheapest
-- ⚫️ = stealthiest
+- 💓️ = fastest shot (B)
+- 🟣️ = hottest (B)
+- 🟤️ = cheapest (B)
+- ⚫️ = stealthiest (B)
 
 These lasers can be of different power, ranging from a simple stun to planet destroying power. The lasers can also be short range, lashing out like lightning. The advantage of this is that it can manuver, so it almost never misses. There are also Lightdrones that have laser tips.
 
@@ -155,21 +153,19 @@ The anti-bunker drill is the method Rescueland uses when they needs to capture t
 There are many different types and colours of engine each with different properties and price.
 
 ### Engine Colours
-#### good
 
-- 🟢️ = most concentrated engine
-- 🔴️ = most powerful engine
-- 🟡️ = most compact engine
-- 🔵️ = fastest startup engine
-- ⚪️ = cleanest engine
-- 🟠️ = most common engine
+- 🟢️ = most concentrated engine (R)
+- 🔴️ = most powerful engine (R)
+- 🟡️ = most compact engine (R)
+- 🔵️ = fastest startup engine (R)
+- ⚪️ = cleanest engine (R)
+- 🟠️ = most common engine (R)
 
-#### bad
 
-- 💓️ = fastest engine
-- 🟣️ = hottest engine
-- 🟤️ = cheapest engine
-- ⚫️ = quietest engine
+- 💓️ = fastest engine (B)
+- 🟣️ = hottest engine (B)
+- 🟤️ = cheapest engine (B)
+- ⚫️ = quietest engine (B)
 
 ### Engine Types
 
