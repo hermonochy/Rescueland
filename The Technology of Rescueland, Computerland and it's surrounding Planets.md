@@ -6,7 +6,7 @@
 
 ### Force Field Gel (R)
 
-The only known defence that is completely impregnable is the Force Field Gel. This is a defence that only Rescueland has, though many have attempted to get some. NOTHING can get in OR out, effectively taking you out of the battle. Thus, many battleships only use this when they are damaged or a retreat is required. Another anomaly about them is that they behave like non-newtonian substances. The faster something hits the forcefield, the more energy is absorbed into the forcefield and not the object inside.
+The only known defence that is completely impenetrable is the Force Field Gel. This is a defence that only Rescueland has, though many have attempted to get some. NOTHING can get in OR out, effectively taking you out of the battle. Thus, many battleships only use this when they are damaged or a retreat is required. Another anomaly about them is that they behave like non-newtonian substances. The faster something hits the forcefield, the more energy is absorbed into the forcefield and not the object inside.
 
 #### The process of harvesting FFG
 
@@ -87,6 +87,24 @@ These lasers can be of different power, ranging from a simple stun to planet des
 #### Beamers (R)
 
 The second type of laser has three functions: stunning electronics, destroying ships and telekinesis. However, this laser type is limited to 5 km, whereas other weapons have a range of several trillion light years. This makes it impractical in most battles, so it is not very popular. They come in 4 colours of beam: green, red, gold and pink.
+
+##### FCRT Lasers
+
+###### P-series Laser (R)
+
+The P-series were the first steerable laser designs. They produce a thin, red beam which can latch onto a target and follow it indefinetly. It's reactions are slow though, so it is possible to avoid it by putting an object between you and the laser. It is also quite weak, and it would take several shots to take someone down. The newest one is the P-45
+
+###### TL-series (R)
+
+The TL series is similar to the P-series, but it is a larger, green beam. It is also more powerful and faster manuvering, but it requires alot more power, so a regular FCRT can use this for a maximum of 88 secondsworth of beam. The newest model is the TL-34.
+
+###### Laser Hair
+
+FCRT's have no hair, but can activate short lasers sticking out of their heads,usualy during battle. It can be used to ram their target, abit like a bayonet. Some FCRT's even style it like hair, but they usualy don't bother. 
+
+###### Granite Laser (C)
+
+The Granite Laser is a weapon designed by Computerland, but is usually used by the FCRT. Though technicaly not a laser, this weapon acts so much like one that it has been named The Granite Laser. It fires a beam of molten granite at the target, engulving them. The granite solidifies as soon as it hits, immobilising the target until it is broken free.
 
 #### Slit Bombs (R)
 
