@@ -190,52 +190,54 @@ There are many different types and colours of engine each with different propert
 
 ## Special Metals
 ### Conductium (C) con-duct-ee-umm
-Conductium is what the Center of computerland is made of, it has a 100% electrical transfer efficentcy and is roughly as dense as hydrogen even though the atom is 300 times bigger than francium. The conductuim atom has 24 protons and 2000 nuetrons but only 1 electron, this is the reason it is good at keeping electrons to extract the electron you need a special isotop of conductium. The bonds conductium makes are almost indestructable and because of this harvesting and moulding the material is increadibly expensive, this has the upside of only melting at the melting point of dark material degrees kelvin \(DO NOT USE AT THAT TEMPRATURE, NEUTRON STARS WILL FORM\). The uses of conductium include:
+Conductium is what the Center of computerland is made of. It has a 100% electrical transfer efficentcy and is roughly as dense as hydrogen, even though the atom is 300 times bigger than francium. The conductuim atom has 24 protons and 2000 nutrons but only 1 electron. This is the reason it is good at keeping electrons. To extract the electron, you need a special isotope of conductium. The bonds conductium makes are almost indestructable and because of this harvesting and moulding the material is increadibly expensive. This has the upside of only melting at the same temperature as dark material. \(DO NOT USE AT THAT TEMPRATURE, NEUTRON STARS WILL FORM\). The uses of conductium include:
 
-- high accuracy electrical transfer.
+- High accuracy electrical transfer.
 - \(uinfinity_t\)-1 speed electron cannons.
-- cross planet power transfer.
-- quantum reseach \(the atom size helps with research\)
+- Cross planet power transfer.
+- Quantum reseach \(the atom size helps with research\)
 
-### Techanda (R)
+### Techanda (R) Teh-chuhn-dahh
 
 Techanda is a cheap but tough material, dull coloured. It is used for more common objects. It is not a very good conductor of heat and electricity.
+
 Uses are:
 
-- ship supports
-- slit bombs
-- bases
-- anttenae
+- Ship supports
+- Slit bombs
+- Bases
+- Antennae
 
-### Eleha (R)
+### Eleha (R) Ellieeh-hah
 
-Eleha is one of the most expensive metal, super tough and unreactive to most things. This metal is shiny and silver.
+Eleha is one of the most expensive metals, super tough and unreactive to most things. It also has a similar, if not higher, melting temperature than conductium or Darkmaterial. This metal is shiny and silver.
+
 Uses are:
 
-- slit bombs
-- heat shields
-- gears
-- hinges
+- Slit bombs
+- Heat shields
+- Gears
+- Hinges
 
-### Pakira (R)
+### Pakira (R) Pack-eer-ahh
 
 Pakira is cheap and malleable, and is highly reactive to fire and water. Most ships are made of this metal.
+
 Uses are:
 
-- main frame of ships
-- wings
-- some cannons
+- Main frame of ships
+- Wings
+- Some cannon types
 
-### Plamea (R)
+### Plamea (R) Plam-meha
 
 Plamea is a cheap and brittle material with a low melting point, though some isotopes are relativly tough.This is what the interceptors are mostly made of. This is also the closest element to Darkmaterial.
+
 Uses are:
 
-- main frame of ships
-- cannons
-- thrusters
-- 
-
+- Main frame of ships
+- Cannons
+- Thrusters
 
 
 
