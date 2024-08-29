@@ -1,5 +1,93 @@
 ﻿R = Rescueland tech, C = Computerland tech, B = Bad tech
 
+# General
+
+## Engines
+
+There are many different types and colours of engine each with different properties and price.
+
+### Engine Colours
+
+- 🟢️ = most concentrated engine (R)
+- 🔴️ = most powerful engine (R)
+- 🟡️ = most compact engine (R)
+- 🔵️ = fastest startup engine (R)
+- ⚪️ = cleanest engine (R)
+- 🟠️ = most common engine (R)
+
+
+- 🩷 = fastest engine (B)
+- 🟣️ = hottest engine (B)
+- 🟤️ = cheapest engine (B)
+- ⚫️ = quietest engine (B)
+
+### Engine Types
+
+
+## Special Metals
+### Conductium (C) con-duct-ee-umm
+Conductium is what the Center of computerland is made of. It has a 100% electrical transfer efficiency and is roughly as dense as hydrogen, even though the atom is 300 times bigger than francium. The conductuim atom has 24 protons and 2000 nutrons but only 1 electron. This is the reason it is good at keeping electrons. To extract the electron, you need a special isotope of conductium. The bonds conductium makes are almost indestructible and because of this harvesting and moulding the material is incredibly expensive. This has the upside of only melting at the same temperature as dark material. \(DO NOT USE AT THAT TEMPERATURE, NEUTRON STARS WILL FORM\). The uses of conductium include:
+
+- High accuracy electrical transfer.
+- \(uinfinity_t\)-1 speed electron cannons.
+- Cross planet power transfer.
+- Quantum research \(the atom size helps with research\)
+
+### Techanda (R) Teh-chuhn-dahh
+
+Techanda is a cheap but tough material, dull coloured. It is used for more common objects. It is not a very good conductor of heat and electricity. It usually forms in 'fibres' and therefore can split fairly quickly. There are many different isotopes, but only a few are used regularly. It does not rust, but will weaken when in contact with water for an extended time.
+
+Uses are:
+
+- Ship supports
+- Slit bombs
+- Bases
+- Antennae
+
+### Eleha (R) Ellieeh-hah
+
+Eleha is one of the most expensive metals, super tough and unreactive to most things. It also has a similar, if not higher, melting temperature to conductium or Darkmaterial. This metal is shiny and silver and an excellent conductor of heat and electricity, but will eventually rust.
+
+Uses are:
+
+- Wires
+- Slit bombs
+- Heat shields
+- Gears
+- Hinges
+
+### Pakira (R) Pack-eer-ahh
+
+Pakira is cheap and malleable, and is highly reactive to fire and water. Most ships are made of a tougher isotope of this metal.
+
+Uses are:
+
+- Main frame of ships
+- Wings
+- Some cannon types
+
+### Plamea (R) Plam-meha
+
+Plamea is a cheap and brittle material with a low melting point, though some isotopes are relatively tough. This is what most modern interceptors are made of. This is also chemically the closest element to Darkmaterial.
+
+Uses are:
+
+- Main frame of ships
+- Cannons
+- Thrusters
+
+### Solitme (R) Sol-eet-meh
+
+This is a very hard material, but erodes easily, used for smaller ships. It is completely resistant to fire but reacts to water, eventualy dissolving.
+
+Uses are:
+
+- Large-Damage slit bombs
+- Surface to surface slit bombs
+- SU (Single Use) vehicles
+- Drones
+
+
 # Military
 
 ## Defence
@@ -10,7 +98,7 @@ The only known defence that is completely impenetrable is the Force Field Gel. T
 
 #### The process of harvesting FFG
 
-The Force Field Gel is harvested from a well on Rescueland. The dimensions of the well are 1m-1m-5km to the exact planck. It is directly under the main runway of Rescueland, a trick which has protected the location of the well scince it was discovered. When the gel is consumed, the well always refills itself over the period of a Rescueland day. The provinience of the matter is unknown. The gel also doesn't seem to be made of atoms, no matter how closely studied. 
+The Force Field Gel is harvested from a well on Rescueland. The dimensions of the well are 1m-1m-5km to the exact planck. It is directly under the main runway of Rescueland, a trick which has protected the location of the well since it was discovered. When the gel is consumed, the well always refills itself over the period of a Rescueland day. The provinience of the matter is unknown. The gel also doesn't seem to be made of atoms, no matter how closely studied. 
 
 #### Activating the FF
 
@@ -24,7 +112,7 @@ This is the kind of force field that all other planets use. It is the most effec
 
 ### Magnetic Force Fields (R)
 
-These force fields are purely meant to deflect some slit bombs, creating an electromagnetic field around the ship. However, this does not work on all slit bombs, as some are not magnetic. It also won't deflect a direct shot traveling fast enough, though it may slow it down. Most ships have these shields on during battle, though it is impractical when flying in close formation.
+These force fields are purely meant to deflect some slit bombs, creating an electromagnetic field around the ship. However, this does not work on all slit bombs, as some are not magnetic. It also won't deflect a direct shot travelling fast enough, though it may slow it down. Most ships have these shields on during battle, though it is impractical when flying in close formation.
 
 ### FCRT DarkArmour (R)
 
@@ -48,7 +136,7 @@ There are 4 main sizes of cannon: A large cannon, a universal cannon, a small ca
 
 #### The large cannon 
 
-This cannon is used for fast-load slit bombs, Large-damage slit bombs and lightdrones.
+This cannon is used for fast-load slit bombs, Large-damage slit bombs and laserdrones.
 
 #### The universal cannon
 
@@ -82,7 +170,7 @@ Lasers are one of the most common ammunitions of civilian and military ships. Th
 - 🟤️ = cheapest (B)
 - ⚫️ = stealthiest (B)
 
-These lasers can be of different power, ranging from a simple stun to planet destroying power. The lasers can also be short range, lashing out like lightning. The advantage of this is that it can manuver, so it almost never misses. There are also Lightdrones that have laser tips.
+These lasers can be of different power, ranging from a simple stun to planet destroying power. The lasers can also be short range, lashing out like lightning. The advantage of this is that it can manoeuver, so it almost never misses. There are also laserdrones, which are rocket propelled tubes have laser tips.
 
 #### Beamers (R)
 
@@ -92,19 +180,19 @@ The second type of laser has three functions: stunning electronics, destroying s
 
 ###### P-series Laser (R)
 
-The P-series were the first steerable laser designs. They produce a thin, red beam which can latch onto a target and follow it indefinetly. It's reactions are slow though, so it is possible to avoid it by putting an object between you and the laser. It is also quite weak, and it would take several shots to take someone down. The newest one is the P-45
+The P-series were the first steerable laser designs. They produce a thin, red beam which can latch onto a target and follow it indefinitely. It's reactions are slow though, so it is possible to avoid it by putting an object between you and the laser. It is also quite weak, and it would take several shots to take someone down. The newest one is the P-45
 
 ###### TL-series (R)
 
-The TL series is similar to the P-series, but it is a larger, green beam. It is also more powerful and faster manuvering, but it requires alot more power, so a regular FCRT can use this for a maximum of 88 secondsworth of beam. The newest model is the TL-34.
+The TL series is similar to the P-series, but it is a larger, green beam. It is also more powerful and faster manoeuvring, but it requires alot more power, so a regular FCRT can use this for a maximum of 88 secondsworth of beam. The newest model is the TL-34.
 
 ###### Laser Hair
 
-FCRT's have no hair, but can activate short lasers sticking out of their heads,usualy during battle. It can be used to ram their target, abit like a bayonet. Some FCRT's even style it like hair, but they usualy don't bother. 
+FCRT's have no hair, but can activate short lasers sticking out of their heads,usually during battle. It can be used to ram their target, a bit like a bayonet. Some FCRT's even style it like hair, but they usually don't bother. 
 
 ###### Granite Laser (C)
 
-The Granite Laser is a weapon designed by Computerland, but is usually used by the FCRT. Though technicaly not a laser, this weapon acts so much like one that it has been named The Granite Laser. It fires a beam of molten granite at the target, engulving them. The granite solidifies as soon as it hits, immobilising the target until it is broken free.
+The Granite Laser is a weapon designed by Computerland, but is usually used by the FCRT. Though technically not a laser, this weapon acts so much like one that it has been named The Granite Laser. It fires a beam of molten granite at the target, engulfing them. The granite solidifies as soon as it hits, immobilising the target until it is broken free.
 
 #### Slit Bombs (R)
 
@@ -134,13 +222,13 @@ The Mega Flail is a spiked ball which is attached to a ship's belly. When requir
 
 ##### Hydro-bombs (R)
 
-This is a very powerful bomb, capable of taking out a small army. When the bomb hits the surface, it implodes from the pressure. The force causes the shell to break apart, and the explosives inside expolade at full force. The shockwave of the bomb travels outward in a ripple, destroying anything in it's path. They are very expensive however, so use is limited.
+This is a very powerful bomb, capable of taking out a small army. When the bomb hits the surface, it implodes from the pressure. The force causes the shell to break apart, and the explosives inside explode at full force. The shock-wave of the bomb travels outward in a ripple, destroying anything in it's path. They are very expensive however, so use is limited.
 
 ###### Types of hydro-bomb
 
 - Quick-sucsession bomb- these are meant to be fired quickly, one after the other. The first is to weaken the target, the second to destroy it and the third to destroy all remaining parts.
-- Suprise bomb- this is a bomb that lets out one leathal shot, giving the enemy no chance to resist.
-- Mini bomb- these are tiny bombs meant to take out a single target. These are not so good though, scince the power scales cubicaly.
+- Suprise bomb- this is a bomb that lets out one lethal shot, giving the enemy no chance to resist.
+- Mini bomb- these are tiny bombs meant to take out a single target. These are not so good though, since the power scales cubically.
 
 ##### Rockets (R)
 
@@ -153,91 +241,18 @@ The acid thrower is an ancient weapon last used in the Horsa war. This design is
 
 #### Bunkers
 
-##### Anti-bunker catapault (R)
+##### Anti-bunker catapult (R)
 
-The anti-bunker catapault is the most common method to destroy the bunker of the enemy. A massive weight, several km long and super dense, is launched from a catapault (also massive!) onto the bunker, but shortly before impact the entire weight is concentrated into a small area, just a few metres across, and crushes a hole into the bunker. However, the bunker usually collapses from the damage, destroying everything inside. Therefore, it can't always be used.
+The anti-bunker catapult is the most common method to destroy the bunker of the enemy. A massive weight, several km long and super dense, is launched from a catapult (also massive!) onto the bunker, but shortly before impact the entire weight is concentrated into a small area, just a few metres across, and crushes a hole into the bunker. However, the bunker usually collapses from the damage, destroying everything inside. Therefore, it can't always be used.
 
 ##### Anti-bunker drill (R)
 
-The anti-bunker drill is the method Rescueland uses when they needs to capture the bunker. It drills through the ground at incredible speeds, several thousand km/h. However, it is still slower than the anti-bunker catapault, and more expensive, which is why it is not used as often. The hole it drills is 8 metres across. It can drill into the bunker from any direction, except if it is protected by darkmaterial or FFG. 
+The anti-bunker drill is the method Rescueland uses when they needs to capture the bunker. It drills through the ground at incredible speeds, several thousand km/h. However, it is still slower than the anti-bunker catapult, and more expensive, which is why it is not used as often. The hole it drills is 8 metres across. It can drill into the bunker from any direction, except if it is protected by Darkmaterial or FFG. 
 
 # Civilian
 
 
-# General
 
-## Engines
-
-There are many different types and colours of engine each with different properties and price.
-
-### Engine Colours
-
-- 🟢️ = most concentrated engine (R)
-- 🔴️ = most powerful engine (R)
-- 🟡️ = most compact engine (R)
-- 🔵️ = fastest startup engine (R)
-- ⚪️ = cleanest engine (R)
-- 🟠️ = most common engine (R)
-
-
-- 🩷 = fastest engine (B)
-- 🟣️ = hottest engine (B)
-- 🟤️ = cheapest engine (B)
-- ⚫️ = quietest engine (B)
-
-### Engine Types
-
-
-## Special Metals
-### Conductium (C) con-duct-ee-umm
-Conductium is what the Center of computerland is made of. It has a 100% electrical transfer efficentcy and is roughly as dense as hydrogen, even though the atom is 300 times bigger than francium. The conductuim atom has 24 protons and 2000 nutrons but only 1 electron. This is the reason it is good at keeping electrons. To extract the electron, you need a special isotope of conductium. The bonds conductium makes are almost indestructable and because of this harvesting and moulding the material is increadibly expensive. This has the upside of only melting at the same temperature as dark material. \(DO NOT USE AT THAT TEMPRATURE, NEUTRON STARS WILL FORM\). The uses of conductium include:
-
-- High accuracy electrical transfer.
-- \(uinfinity_t\)-1 speed electron cannons.
-- Cross planet power transfer.
-- Quantum reseach \(the atom size helps with research\)
-
-### Techanda (R) Teh-chuhn-dahh
-
-Techanda is a cheap but tough material, dull coloured. It is used for more common objects. It is not a very good conductor of heat and electricity.
-
-Uses are:
-
-- Ship supports
-- Slit bombs
-- Bases
-- Antennae
-
-### Eleha (R) Ellieeh-hah
-
-Eleha is one of the most expensive metals, super tough and unreactive to most things. It also has a similar, if not higher, melting temperature than conductium or Darkmaterial. This metal is shiny and silver.
-
-Uses are:
-
-- Slit bombs
-- Heat shields
-- Gears
-- Hinges
-
-### Pakira (R) Pack-eer-ahh
-
-Pakira is cheap and malleable, and is highly reactive to fire and water. Most ships are made of this metal.
-
-Uses are:
-
-- Main frame of ships
-- Wings
-- Some cannon types
-
-### Plamea (R) Plam-meha
-
-Plamea is a cheap and brittle material with a low melting point, though some isotopes are relativly tough.This is what the interceptors are mostly made of. This is also the closest element to Darkmaterial.
-
-Uses are:
-
-- Main frame of ships
-- Cannons
-- Thrusters
 
 
 
