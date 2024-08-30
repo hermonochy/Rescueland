@@ -1,4 +1,13 @@
-﻿R = Rescueland tech, C = Computerland tech, B = Bad tech
+﻿U = Universal
+R = Rescueland tech
+C = Computerland tech
+H = Helucky tech
+F = Federre tech
+Ho = Horsa tech
+B = All Bad Planets tech
+
+
+
 
 # General
 
@@ -12,7 +21,7 @@ Conductium is what the Center of computerland is made of. It has a 100% electric
 - Cross planet power transfer.
 - Quantum research \(the atom size helps with research\)
 
-### Techanda (R) Teh-chuhn-dahh
+### Techanda (U) Teh-chuhn-dahh
 
 Techanda is a cheap but tough material, dull coloured. It is used for more common objects. It is not a very good conductor of heat and electricity. It usually forms in 'fibres' and therefore can split fairly quickly. There are many different isotopes, but only a few are used regularly. It does not rust, but will weaken when in contact with water for an extended time.
 
@@ -35,7 +44,7 @@ Uses are:
 - Gears
 - Hinges
 
-### Pakira (R) Pack-eer-ahh
+### Pakira (U) Pack-eer-ahh
 
 Pakira is cheap and malleable, and is highly reactive to fire and water. Most ships are made of a tougher isotope of this metal.
 
@@ -45,7 +54,7 @@ Uses are:
 - Wings
 - Some cannon types
 
-### Plamea (R) Plam-meha
+### Plamea (U) Plam-meha
 
 Plamea is a cheap and brittle material with a low melting point, though some isotopes are relatively tough. This is what most modern interceptors are made of. This is also chemically the closest element to Darkmaterial.
 
@@ -55,9 +64,9 @@ Uses are:
 - Cannons
 - Thrusters
 
-### Solitme (R) Sol-eet-meh
+### Solitme (U) Sol-eet-meh
 
-This is a very hard material, but erodes easily, used for smaller ships. It is completely resistant to fire but reacts to water, eventualy dissolving.
+This is a very hard material, but erodes easily, used for smaller ships. It is completely resistant to fire but reacts to water, eventually dissolving.
 
 Uses are:
 
@@ -66,6 +75,10 @@ Uses are:
 - SU (Single Use) vehicles
 - Drones
 
+
+### Engine Types
+
+# Ships and their Systems
 
 ## Engines
 
@@ -78,16 +91,23 @@ There are many different types and colours of engine each with different propert
 - 🟡️ = most compact engine (R)
 - 🔵️ = fastest startup engine (R)
 - ⚪️ = cleanest engine (R)
-- 🟠️ = most common engine (R)
+- 🟠️ = most common engine (U)
 
 
-- 🩷 = fastest engine (B)
-- 🟣️ = hottest engine (B)
-- 🟤️ = cheapest engine (B)
-- ⚫️ = quietest and coldest engine (B)
+- 🩷 = fastest engine (H)
+- 🟣️ = hottest engine (H)
+- 🟤️ = cheapest engine (H)
+- ⚫️ = quietest and coldest engine (H)
 
-### Engine Types
+## General
 
+## Energy Scoop
+
+This is a device that allows kinetic energy to be transferred into fuel and back again with practically no energy loss, essentially 'scooping' the energy out. This can't be used as the main power supply though, because the energy form it creates is not very dense in energy, so it is impossible to store enough for a decent range. Instead, it is usually used as a brake. Then, when the ship needs to accelerate, the energy can be released again.
+
+## Atmospheric Bubble
+
+This is a highly advanced design which allows atmospheric vehicles to enter space. When activated, it creates a 'bubble' in which the vehicle can travel.
 
 # Military
 
@@ -95,7 +115,7 @@ There are many different types and colours of engine each with different propert
 
 ### Force Field Gel (R)
 
-The only known defence that is completely impenetrable is the Force Field Gel. This is a defence that only Rescueland has, though many have attempted to get some. NOTHING can get in OR out, effectively taking you out of the battle. Thus, many battleships only use this when they are damaged or a retreat is required. Another anomaly about them is that they behave like non-newtonian substances. The faster something hits the forcefield, the more energy is absorbed into the forcefield and not the object inside.
+The only known defence that is almost completely impenetrable is Force Field Gel. Only two known weaknesses exist: time and Mutant FFG (see below). This is a defence that only Rescueland has, though many have attempted to get some. NOTHING can get in OR out, effectively taking you out of the battle. Thus, many battleships only use this when they are damaged or a retreat is required. Another anomaly about them is that they behave like non-newtonian substances. The faster something hits the forcefield, the more energy is absorbed into the forcefield and not the object inside.
 
 #### The process of harvesting FFG
 
@@ -105,13 +125,17 @@ The Force Field Gel is harvested from a well on Rescueland. The dimensions of th
 
 Once the Force Field is ready to be activated, it is ejected as a very thin tube. It spreads out until it surrounds the entire ship, where it solidifies and becomes solid, making the object inside impenetrable. The entire process takes about 1 second, but the FF protecting Rescueland takes several minutes to build up.
 
-One limitation is that it needs to be taken down every 10 years. This is because one weakness of the FFG is time. After 50 years, cracks start to appear on the shield and, after 100, the force field cracks apart and dissipates.
+One limitation is that it needs to be taken down every 10 years. After 50 years, cracks start to appear on the shield and, after 100, the force field cracks apart and dissipates.
 
-### Plasma Force Fields (R+C)
+#### Mutant FFG
+
+Only a tiny sample of Mutant FFG exists, found onboard an ancient battleship. This gel has a green tinge, rather than an orange one, and can last for 10 times the length of the regular FF. However, the biggest difference is that it destroys, rather than repels, whatever it comes in contact with, including other FFG's. The process of making it is unknown, though scientists suspect it may have to do with the ring that was crushed while that paticlar batch was being made.
+
+### Plasma Force Fields (U)
 
 This is the kind of force field that all other planets use. It is the most effective of all defences (except for the FFG). It creates a blue sheen 1 cm above the surface of the ship. Unlike the FFG, the Plasma Force Field is transmissive to on-board projectiles, but it can only repel a few dozen attacks before it needs to regenerate.
 
-### Magnetic Force Fields (R+B)
+### Magnetic Force Fields (R+H)
 
 These force fields are purely meant to deflect some slit bombs, creating an electromagnetic field around the ship. However, this does not work on all slit bombs, as some are not magnetic. It also won't deflect a direct shot travelling fast enough, though it may slow it down. Most ships have these shields on during battle, though it is impractical when flying in close formation.
 
@@ -119,17 +143,21 @@ These force fields are purely meant to deflect some slit bombs, creating an elec
 
 The Verdant Shield Projector is an innovative defensive system designed to protect Resceland until the FFG is activated. This technology generates an energy shield composed of charged particles that can absorb and dissipate kinetic energy, as well as provide a barrier against certain projectile weapons.
 
-    Functionality: The shield can be deployed quickly in the field and adjusts its energy output based on the level of incoming threat. For example, it can absorb the impact of small arms fire and provide cover against explosion shockwaves.
-    Strengths: Highly effective against conventional weapons and offers additional environmental protection (e.g., against chemical or biological agents).
-    Weaknesses: The shield has limited duration and can be drained by sustained attacks. It also has trouble with high-velocity projectiles or directed-energy weapons. The newest version, the VSP-7, features improved energy efficiency and integration with personal armor systems.
+Functionality: The shield can be deployed quickly in the field and adjusts its energy output based on the level of incoming threat. For example, it can absorb the impact of small arms fire and provide cover against explosion shockwaves.
+Strengths: Highly effective against conventional weapons and offers additional environmental protection (e.g., against chemical or biological agents).
+Weaknesses: The shield has limited duration and can be drained by sustained attacks. It also has trouble with high-velocity projectiles or directed-energy weapons. The newest version, the VSP-7, features improved energy efficiency and integration with personal armour systems.
+
+### Energy Absorption Shields (R)
+This shield absorbs and converts incoming energy attacks into usable power for the ship’s systems. Essentially, it can turn enemy fire into a source of energy for the vessel.
+It is widely used, as it enhances ship durability while providing additional power for weapons and systems, creating a feedback loop of sustainability in battle. It does not repel projectiles though, so an additional shield is needed.
 
 
 ### FCRT DarkArmour (R)
 
-DarkArmour is a defence that FCRT's carry. They have very thin plates of Darkmaterial (see below) on them, which is why it is hard to destroy an FCRT even without a FFG. The attacker is required to get under the layers of plates in order to land a shot that has even a remote chance of destroying the FCRT.
+DarkArmour is a defence that FCRT's carry. They have very thin plates of Darkmaterial (see below) on them, only a few femtometres thick, which is why it is hard to destroy an FCRT even without a FFG. The attacker is required to get under the layers of plates in order to land a shot that has even a remote chance of destroying the FCRT.
 
 
-## Darkmaterial, Greymaterial and Lightmaterial (R + B)
+## Darkmaterial, Greymaterial and Lightmaterial (U)
 
 Darkmaterial is a very rare substance, fought for by many. Grey and Lightmaterial are chemically identical to Darkmaterial, but are used for different things. 
 
@@ -140,7 +168,7 @@ The most famous use of this substance is to build practically indestructible fig
 
 ## Weaponry
 
-### Guns
+### Guns (U)
 
 There are 4 main sizes of cannon: A large cannon, a universal cannon, a small cannon and an extra small one.
 
@@ -173,24 +201,27 @@ Lasers are one of the most common ammunitions of civilian and military ships. Th
 - 🟡️ = most accurate (R)
 - 🔵️ = fastest firing (R)
 - ⚪️ = purest(least energy wasted) (R)
-- 🟠️ = most common (R)
+- 🟠️ = most common (U)
 
-- 🩷 = fastest shot (B)
-- 🟣️ = hottest (B)
-- 🟤️ = cheapest (B)
-- ⚫️ = stealthiest (B)
+- 🩷 = fastest shot (H)
+- 🟣️ = hottest (H)
+- 🟤️ = cheapest (H)
+- ⚫️ = stealthiest (H)
 
-These lasers can be of different power, ranging from a simple stun to planet destroying power. The lasers can also be short range, lashing out like lightning. The advantage of this is that it can manoeuver, so it almost never misses. There are also laserdrones, which are rocket propelled tubes have laser tips.
+These lasers can be of different power, ranging from a simple stun to planet destroying power. The lasers can also be short range, lashing out like lightning. The advantage of this is that it can manoeuvre, so it almost never misses. There are also laserdrones, which are rocket propelled tubes have laser tips.
 
-#### Beamers (R+B)
+##### Beamers (R+H+F)
 
 The second type of laser has three functions: stunning electronics, destroying ships and telekinesis. However, this laser type is limited to 5 km, whereas other weapons have a range of several trillion light years. This makes it impractical in most battles, so it is not very popular. They come in 4 colours of beam: green, red, gold and pink.
 
 
-#### Hyperion Fusion Cannons (C)
+##### Hyperion Fusion Cannons (C)
 
-    Functionality: These fusion-based weapons convert atomic energy into focused blasts, capable of incredible damage. The cannons can also vary their output intensity, allowing for both wide-area suppression and pinpoint strikes.
-    Strengths: Multi-purpose functionality, enabling tactical versatility and devastating offensive power, perfect for engaging multiple targets or focusing on a single high-value enemy ship. These are repelable by even the most basic of shields, so are rarely used.
+These fusion-based weapons convert atomic energy into focused blasts, capable of incredible damage. The cannons can also vary their output intensity, allowing for both wide-area suppression and pinpoint strikes. They have a multi-purpose functionality, enabling tactical versatility and devastating offensive power, perfect for engaging multiple targets or focusing on a single high-value enemy ship. These can be repelled by most shields though, so are not commonly used.
+
+##### Cataclysm Beam Projectors (R)
+
+This weapon is an enormous energy beam that harness the power of a star to discharge concentrated energy onto a target ship, resulting in catastrophic disintegration of hull and systems. Capable of crippling the most ships with a single blast, they are effective across vast distances and are usually fired from a planet.
 
 
 ##### FCRT Lasers
@@ -201,7 +232,7 @@ The P-series were the first steerable laser designs. They produce a thin, red be
 
 ###### TL-series (R)
 
-The TL series is similar to the P-series, but it is a larger, green beam. It is also more powerful and faster manoeuvring, but it requires alot more power, so a regular FCRT can use this for a maximum of 88 secondsworth of beam. The newest model is the TL-34.
+The TL series is similar to the P-series, but it is a larger, green beam. It is also more powerful and faster manoeuvring, but it requires a lot more power, so a regular FCRT can use this for a maximum of 88 seconds worth of beam. The newest model is the TL-34.
 
 ###### Laser Hair (R)
 
@@ -211,7 +242,7 @@ FCRT's have no hair, but can activate short lasers sticking out of their heads,u
 
 The Granite Laser is a weapon designed by Computerland, but is usually used by the FCRT. Though technically not a laser, this weapon acts so much like one that it has been named The Granite Laser. It fires a beam of molten granite at the target, engulfing them. The granite solidifies as soon as it hits, immobilising the target until it is broken free.
 
-#### Slit Bombs (R+B)
+#### Slit Bombs (U)
 
 Slit bombs are the most common type of ammo used. They are very basic, simply a sharp projectile, reusable until they go blunt. Some are rocket powered, so they are steerable.
 
@@ -227,24 +258,28 @@ Slit bombs are the most common type of ammo used. They are very basic, simply a 
 - Shielded slit bombs
 - Surface to surface slit bombs
 
-#### Machine Guns (R+C)
+#### Machine Guns (U)
 
 These are incredibly small, weak projectiles, cheap but useless in space battle.
 
-#### The Mega Flail (B)
+#### Tachyon Launchers (U)
+
+    These launchers fire projectiles that harness tachyon particles. They were capable of striking targets before they have time to react, but now they are considered slow, so are now rarely used. They can be repelled by FFG's, Darkmaterial and Plasma Force Fields.
+
+#### The Mega Flail (Ho)
 
 The Mega Flail is a spiked ball which is attached to a ship's belly. When required, it will be launched from a ships belly and crush or spike whatever is below it. It will then be pulled back with a rope attached to it. The only army that uses this is the Horsa army.
 
 #### Explosives
 
-##### Hydro-bombs (R+B)
+##### Hydro-bombs (R+H+F)
 
 This is a very powerful bomb, capable of taking out a small army. When the bomb hits the surface, it implodes from the pressure. The force causes the shell to break apart, and the explosives inside explode at full force. The shock-wave of the bomb travels outward in a ripple, destroying anything in it's path. They are very expensive however, so use is limited.
 
 ###### Types of hydro-bomb
 
 - Quick-sucsession bomb- these are meant to be fired quickly, one after the other. The first is to weaken the target, the second to destroy it and the third to destroy all remaining parts.
-- Suprise bomb- this is a bomb that lets out one lethal shot, giving the enemy no chance to resist.
+- Surprise bomb- this is a bomb that lets out one lethal shot, giving the enemy no chance to resist.
 - Mini bomb- these are tiny bombs meant to take out a single target. These are not so good though, since the power scales cubically.
 
 ##### Rockets (R+B)
@@ -256,19 +291,17 @@ These are simply explosive slit bombs. They were popular until the Federre war, 
 
 The acid thrower is an ancient weapon last used in the Horsa war. This design is simple. It acts as a water gun firing highly concentrated acid, dissolving what it touches. This weapon is now rarely used, due to the time needed for it to take effect.
 
-##### Corroder Cannons (B)
-
 #### Sound
 
-Sonic Blasters (R)
+##### Sonic Blasters (U)
 
 Utilizing sound-wave propagation, Sonic Blasters deliver concussive blasts capable of damaging internal organs and shattering structures without traditional explosive means.
-However, they have long scince been forgotten as they only work on living organisims.
+However, they have long since been forgotten as they only work on living organisms and only in an atmosphere.
 
 
 #### Bunkers
 
-##### Anti-bunker catapult (R)
+##### Anti-bunker catapult (R+H)
 
 The anti-bunker catapult is the most common method to destroy the bunker of the enemy. A massive weight, several km long and super dense, is launched from a catapult (also massive!) onto the bunker, but shortly before impact the entire weight is concentrated into a small area, just a few metres across, and crushes a hole into the bunker. However, the bunker usually collapses from the damage, destroying everything inside. Therefore, it can't always be used.
 
