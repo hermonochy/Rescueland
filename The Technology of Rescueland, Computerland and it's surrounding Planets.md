@@ -8,7 +8,6 @@ B = All Bad Planets tech
 
 
 
-
 # General
 
 ## Special Metals
@@ -152,6 +151,20 @@ This shield absorbs and converts incoming energy attacks into usable power for t
 It is widely used, as it enhances ship durability while providing additional power for weapons and systems, creating a feedback loop of sustainability in battle. It does not repel projectiles though, so an additional shield is needed.
 
 
+
+### Holo-Decoy Defense System (R) 
+Holo-Decoy systems utilize advanced holographic technology to create realistic illusions of the ship, confusing targeting algorithms and shielding enemy weapons. However, advanced radars are not fooled, so it can only used for a few seconds at a time.
+#### Holo-Decoy types:
+
+- Standard Holo-Decoy: Creates a simple holographic projection of the ship, distracting some enemy fire.
+- Multi-Phase Holo-Decoy: Creates multiple images of the ship at once, each moving independently to confuse targeting systems.
+- Active Holo-Decoy: Mimics firing patterns and maneuvers of the actual ship, making it more convincing.
+- Signal-Reflecting Decoy: Sends out false signals to confuse enemy sensors, leading attackers to engage imaginary threats.
+- Adaptive Holo-Cloak: Integrates with the ship's systems to blend in with backgrounds, effectively rendering it less visible to intrusions.
+
+
+
+
 ### FCRT DarkArmour (R)
 
 DarkArmour is a defence that FCRT's carry. They have very thin plates of Darkmaterial (see below) on them, only a few femtometres thick, which is why it is hard to destroy an FCRT even without a FFG. The attacker is required to get under the layers of plates in order to land a shot that has even a remote chance of destroying the FCRT.
@@ -248,15 +261,15 @@ Slit bombs are the most common type of ammo used. They are very basic, simply a 
 
 ##### Slit bomb types
 
-- Basic slit bombs
-- Rocket-powered slit bombs
-- Fast-load slit bombs
-- Cluster slit bombs
-- Extra-small slit bombs
-- Deep-penetration slit bombs
-- Large-damage slit bombs
-- Shielded slit bombs
-- Surface to surface slit bombs
+- Basic slit bombs: These are simply sharp projectiles
+- Rocket-powered slit bombs: These slit bombs are rocket powered, so can steer and return to the owner after use.
+- Fast-load slit bombs: These are built to be loaded quickly into the cannon, and can be lanched within a few miliseconds of one another.
+- Cluster slit bombs: These are smaller slit bombs, so many can be launched at once. Therefore, many targets can be hit at once.
+- Extra-small slit bombs: These are tiny slit bombs, rarley used due to their ineffectiveness. The only current users of this slit bomb are the Helucky Darkfighters.
+- Deep-penetration slit bombs: These are very thin slit bombs, used to penetrate paticulary deep. They are the main slit bomb type that use eleha.
+- Large-damage slit bombs: These are the opposite of deep-penetration slit bombs, broad and blunt. Due to this, a very powerful cannon is required to launch these.
+- Shielded slit bombs: This slit bomb is single use, with a shield at the front that breaks off shortly before impact. They are also made of eleha.
+- Surface to surface slit bombs: These are slit bombs that are purely rocket powered, launched from one planet to hit another planet. They are made of solitme.
 
 #### Machine Guns (U)
 
