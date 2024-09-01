@@ -12,13 +12,16 @@ B = All Bad Planets tech
 
 ## Special Metals
 
-### Conductium (C) con-duct-ee-umm
-Conductium is what the Center of computerland is made of. It has a 100% electrical transfer efficiency and is roughly as dense as hydrogen, even though the atom is 300 times bigger than francium. The conductuim atom has 24 protons and 2000 nutrons but only 1 electron. This is the reason it is good at keeping electrons. To extract the electron, you need a special isotope of conductium. The bonds conductium makes are almost indestructible and because of this harvesting and moulding the material is incredibly expensive. This has the upside of only melting at the same temperature as dark material. \(DO NOT USE AT THAT TEMPERATURE, NEUTRON STARS WILL FORM\). The uses of conductium include:
+### Conductium \(C\) con-duct-ee-umm
+Conductium is what the Center of computerland is made of. It has a 100% electrical transfer efficiency and is roughly as dense as hydrogen, even though the atom is 300 times bigger than francium. The conductuim atom has 24 protons and 2000 nutrons but only 1 electron. This is the reason it is good at keeping electrons. To extract the electron, you need a special isotope of conductium. The bonds conductium makes are almost indestructible and because of this harvesting and moulding the material is incredibly expensive. This has the upside of only melting at the same temperature as dark material, although this is a bad idea as the nuetron structure will deform. The uses of conductium include:
 
 - High accuracy electrical transfer.
 - \(uinfinity_t\)-1 speed electron cannons.
 - Cross planet power transfer.
 - Quantum research \(the atom size helps with research\)
+
+### Atomon \(C\) ah-tom-on
+Atomon is a very small atom, roughly the size of hydrogen but has the upsade of being very thin, small, and strong for electrical insulation. The reason Atomon is so strong is because it forms when a extreamly high voltage has been flowing through pure hydrogen \(mandatory no explossions occur\) for ~1,000,000 years and two of the hydrogen atoms half merge and loses one electron. This means whenever electrisity tries to pass through it will work because of the spare electron spot, but because of the half merged state when two electrons try to pass through in a short span of the time \(high power electricity\) it will try to accept two electrons and then regect them immeadiatly and not allow any current to flow. the most common use case for this is very reliable and reuseable high power fuses.
 
 ### Techanda (U) Teh-chuhn-dahh
 
