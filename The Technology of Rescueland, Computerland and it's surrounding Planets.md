@@ -311,6 +311,23 @@ The acid thrower is an ancient weapon last used in the Horsa war. This design is
 Utilizing sound-wave propagation, Sonic Blasters deliver concussive blasts capable of damaging internal organs and shattering structures without traditional explosive means.
 However, they have long since been forgotten as they only work on living organisms and only in an atmosphere.
 
+#### Electromagnetic Pulse (R)
+
+The Electromagnetic Pulse (EMP) is a simple but effective piece of technology designed to incapacitate electronic systems and disrupt communication networks. It operates using electromagnetic principles and can range in scale from portable units to large-scale weapons deployed from vehicles or aircraft. The EMP is seen as a non-lethal alternative to traditional explosives, making it a strategic choice in modern warfare and electronic countermeasures.
+##### EMP Types:
+
+- Focused EMP Projector: A portable device that emits a targeted burst of electromagnetic energy, designed to disable enemy electronics in a specific area without causing physical destruction to infrastructure. Typically used by special operations units.
+
+- Vehicle-Mounted EMP Cannon: A more powerful version designed to be mounted on military vehicles. Capable of producing a wide arc of disruption, taking out multiple electronic systems within a defined radius. Ideal for battlefield scenarios where multiple enemy vehicles and drones are present.
+
+- Aerial EMP Drone: Small, agile drones equipped with miniaturized EMP emitters. They can fly into enemy territory and deploy a localized EMP to disrupt communications, providing a tactical advantage to ground forces. They are often used for reconnaissance missions that rely on stealth.
+
+- Satellite-Based EMP Array: A large-scale system capable of generating a high-altitude EMP over a vast area. This system can be activated remotely to impact entire regions, knocking out grid systems, communications, and critical infrastructure with precision. It's engineered to be a deterrent against large-scale conflicts.
+
+- Portable Microwave EMP Generator: This compact device generates focused microwave bursts capable of disrupting the electronics of nearby vehicles or drones. It can be disguised as regular equipment, allowing operatives to deploy it covertly, limiting detection and retaliation.
+
+- Cybernetic EMP Field: A system designed to create a localized EMP field around a specific area, protecting it from electronic surveillance and attacks. Often integrated into military installations or VIP protection protocols, it can shield sensitive equipment and personnel from electronic threats.
+
 
 #### Bunkers
 
