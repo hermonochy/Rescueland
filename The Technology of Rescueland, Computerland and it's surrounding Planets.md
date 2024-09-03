@@ -48,7 +48,7 @@ Uses are:
 
 ### Pakira (U) Pack-eer-ahh
 
-Pakira is cheap and malleable, and is highly reactive to fire and water. Most ships are made of a tougher isotope of this metal.
+Pakira is cheap and malleable, and is highly reactive to fire and water. Most ships are made of a tough isotope of this metal.
 
 Uses are:
 
