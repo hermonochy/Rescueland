@@ -5,6 +5,7 @@ H = Helucky tech
 F = Federre tech
 Ho = Horsa tech
 B = All Bad Planets tech
+L = Lower tech
 
 
 
@@ -25,64 +26,141 @@ Atomon is a very small atom, roughly the size of hydrogen but has the upside of 
 
 ### Techanda (U) Teh-chuhn-dahh
 
-Techanda is a cheap but tough material, dull coloured. It is used for more common objects. It is not a very good conductor of heat and electricity. It usually forms in 'fibres' and therefore can split fairly quickly. There are many different isotopes, but only a few are used regularly. It does not rust, but will weaken when in contact with water for an extended time.
+Techanda is a versatile and durable material known for its cost-effectiveness in construction and manufacturing. Its dull, muted colors range from peach to brown, giving it an unassuming appearance. Despite being a strong material, Techanda is not an efficient conductor of heat or electricity, making it less suitable for applications requiring high thermal or electrical performance. This alloy typically forms in fibrous structures, allowing it to be molded and manipulated easily; however, it can split under certain stress conditions, due to its layered composition.
 
-Uses are:
+Several isotopes of Techanda exist, but only a few are regularly employed for practical applications, each engineered to balance toughness and cost. Notably, it does not rust like traditional metals but tends to weaken when subjected to prolonged exposure to water or humidity, making it important to consider environmental factors in its usage.
 
-- Ship supports
-- Slit bombs
-- Bases
-- Antennae
+#### Common Uses:
+- Ship Supports: Used as structural elements in ship design due to its strength-to-weight ratio.
+- Slit Bombs: Employed as the main material for slit bombs.
+- Bases: Forms the foundational frameworks for research bases.
+- Antennae: Used in the construction of various communications and sensor antennae.
 
 ### Eleha (R) Ellieeh-hah
 
-Eleha is one of the most expensive metals, super tough and unreactive to most things. It also has a similar, if not higher, melting temperature to conductium or Darkmaterial. This metal is shiny and silver and an excellent conductor of heat and electricity, but will eventually rust.
+Eleha is hailed as one of the finest metals, celebrated for its superior toughness and extraordinary inertness regarding chemical reactions. Its shimmering silver surface not only contributes to its visual appeal but also serves functional purposes, as the metal exhibits excellent conductivity for both heat and electricity. With melting temperatures that rival or exceed those of conductium and Darkmaterial, Eleha is a favored choice for high-performance applications; however, it is important to note that it can eventually succumb to rusting if not properly treated.
 
-Uses are:
+The scarcity of this metal makes it significantly more expensive compared to other metals, but the investment is often justified by its outstanding performance characteristics. 
 
-- Wires
-- Slit bombs
-- Heat shields
-- Gears
-- Hinges
+#### Common Uses:
+- Wires: Utilized in high-speed data and power transmission systems.
+- Slit Bombs: Integrated into some slit bombs, due to it's longer lifespan. 
+- Heat Shields: High melting temperature allows it to protect a spacecraft constantly exposed to flames.
+- Gears: Employed in sophisticated machinery where strength and precision are required for operational efficiency.
+- Hinges: Crafted for robust movable parts in various applications, where durability is critical.
 
 ### Pakira (U) Pack-eer-ahh
 
-Pakira is cheap and malleable, and is highly reactive to fire and water. Most ships are made of a tough isotope of this metal.
+Pakira is recognized for its affordability and malleability, making it a popular choice in bulk production. However, it is important to note that Pakira is highly reactive to both fire and water, necessitating careful handling and storage to prevent deterioration. Most of the ships manufactured within the Rescueland Empire are constructed from a particularly tough isotope of this metal.
 
-Uses are:
+Despite its reactivity, when properly alloyed or coated, Pakira can serve functional purposes while maintaining structural integrity, particularly in maritime and atmospheric applications.
 
-- Main frame of ships
-- Wings
-- Some cannon types
+#### Common Uses:
+- Main Frame of Ships: Acts as the foundational material, giving ships their primary structure and form.
+- Wings: Utilized in the construction of aircraft wings, combining lightness with sufficient strength for flight.
+- Some Cannon Types: Employed in the production of certain types of cannon, benefiting from its moldability.
+
 
 ### Plamea (U) Plam-meha
 
-Plamea is a cheap and brittle material with a low melting point, though some isotopes are relatively tough. This is what most modern interceptors are made of. This is also chemically the closest element to Darkmaterial.
+Plamea is a cost-effective yet brittle material, characterized by a relatively low melting point. Some of its isotopes possess a degree of toughness, but overall, it tends to be less resilient under stress. Notably, Plamea shares similar chemical properties with Darkmaterial.
+Modern interceptors predominantly use Plamea for various structural components, allowing for lightweight designs that are easy to maneuver. However, the chemical and physical characteristics of this material necessitate careful design considerations to avoid failures during operation.
 
-Uses are:
+#### Common Uses:
+- Main Frame of Ships: Serves as a major component in interceptor designs, balancing weight and structural requirements.
+- Cannons: Utilized to manufacture most types of cannons where cost and lightweight attributes are prioritized.
+- Thrusters: Incorporated in propulsion systems, optimizing maneuverability.
 
-- Main frame of ships
-- Cannons
-- Thrusters
 
 ### Solitme (U) Sol-eet-meh
 
-This is a very hard material, but erodes easily, used for smaller ships. It is completely resistant to fire but reacts to water, eventually dissolving.
+Solitme is known for its exceptional hardness, making it a reliable choice for applications requiring durability. However, despite its robustness, Solitme is prone to erosion, particularly when exposed to harsh environments. While it is entirely resistant to high temperatures and fire, it reacts negatively with water, leading to eventual dissolution if not managed properly.
 
-Uses are:
+This set of characteristics makes Solitme particularly useful for specific military applications, especially those involving munitions.
 
-- Large-Damage slit bombs
-- Surface to surface slit bombs
-- SU (Single Use) vehicles
-- Drones
+#### Common Uses:
+- Large-Damage Slit Bombs: Designed for high-impact offensives, capitalizing on its resistance to heat.
+- Surface-to-Surface Slit Bombs: Employed in missile designs that require robust materials for launch and impact.
+- Single Use (SU) Vehicles: Utilized in expendable military vehicles designed for quick operations before disposal.
+- Drones: Incorporated into the construction of drones where lightweight yet durable materials are essential for aerial operations.
 
+### Nyctron (U) Nik-tron
 
-### Engine Types
+Nyctron is a unique alloy known for its lightweight properties and inherent flexibility. It has a dark, almost shadowy hue, making it visually distinct. This metal is slightly luminescent and has a unique property of absorbing ambient light, which can be useful in various applications, particularly in stealth technology. Nyctron holds its own in terms of resistance to environmental stresses, but it is less durable than other metals when faced with blunt force trauma.
+
+#### Common Uses:
+
+Stealth Technology: Employed in the construction of stealth ships and vehicles, reducing visibility.
+Lightweight Frameworks: Utilized in non-essential structural components where weight savings are critical.
+Fiber Optics: Perfect for transmitting light signals in advanced communication systems.
+
+### Krython (R) Kree-thon
+
+Krython is a rare and precious metal renowned for its extreme durability and excellent thermal properties. It possesses a brilliant blue sheen and is often coated for aesthetic purposes. Krython acts as an outstanding conductor of heat and electricity while remaining inert to most corrosive agents, with a vastly lower rusting rate than standard metals; thus, it is highly sought after for high-end applications and advanced technology.
+
+#### Common Uses:
+
+High-Performance Electronics: Utilized in top-tier circuitry and microprocessors.
+Advanced Heat Exchangers: Employed in systems requiring superior thermal conductivity.
+Aerospace Components: Used in vehicle structures that encounter extreme temperatures during flight.
+
+### Vermithium (R) Ver-mih-thi-um
+
+Vermithium is a rare metal known for its distinct reddish hue and metallic lamination. This captivating metal has piezoelectric properties, allowing it to convert mechanical energy into electrical energy, making it especially interesting for energy-harvesting applications. Vermithium's strength and flexibility make it exceptional but also relatively rare, resulting in higher costs.
+
+#### Common Uses:
+
+Energy Harvesters: Incorporated in advanced technologies that convert vibrations or movements into electrical power.
+Weaponry: Used in weapons systems where weight and energy efficiency are critical.
+Infrastructure: Utilized in structures where flexibility and energy generation are needed.
+
+### Quorite (U) Kwor-ite
+
+Quorite is an ultra-durable and low-density metal recognized for its unique resistance to wear and tear. Its surface has a distinctive matte finish, and it is often employed in high-risk applications due to its capacity to withstand extreme conditions. While it is not as commonly available as cheaper metals, its unique properties make it valuable in specialized fields.
+
+#### Common Uses:
+
+Protective Coatings: Often applied as a surface treatment for vehicles and machinery to enhance longevity.
+High-Stress Components: Utilized in situations requiring materials that can endure physical abuse.
+Military Gear: Employed in armor systems and protective wear.
+        
+# Rescueland Robots (R)
+
+## Robot Personality
+
+Rescueland Robots are designed with a unique personality framework that sets them apart from normal robots. This framework is a result of an innovative gas injected every hundred years, known informally as "Rescueland Gas." This gas, though unknown why, causes the robots to have emotions, thoughts and imaginations. As a result, these robots become more than mere machines; they exhibit characteristics akin to living beings.
+The emotional spectrum of a Rescueland Robot is as complex as a human one, allowing them to engage meaningfully with the world around them. They can learn and adapt their personalities based on interactions and experiences, leading to highly individualized robots that resonate with their users. Each robot has a distinct personality profile that remains unchanged, even when the gas is replenshed. 
+
+## Robot Versions
+
+Rescueland Robots are dynamic entities, constantly undergoing upgrades and enhancements that can result in new iterations, often warranting a change in their designation. Each version reflects improvements in technology and functionalities.
+
+### Notable Versions:
+
+- Super Two's: This is the first design of robot, gifted to the Super Owls by Klesone.
+- FRJ's: The longest-lasting robot type, remaining unchanged until 105 ADOTR.
+- Hulk Super FRJ's: A more powerful version of the FRJ's, specificaly designed for battle against Horsa.
+- 
+
+## Robot Types
+
+Rescueland Robots are categorized into eight major groups, each with different jobs and capabilities.
+
+### Types
+
+- Regular FCRT's: These FCRT's are the most common type, acting as civilians and soldiers.
+
+![](screenshots/regularFCRT.png)
+
+- Pilot FCRT's: These FCRT's specialise in piloting all transports.
+
+![](screenshots/PilotFCRT.png)
 
 # Ships and their Systems
 
 ## Engines
+
+### Engine Types
 
 There are many different types and colours of engine each with different properties and price.
 
@@ -103,11 +181,11 @@ There are many different types and colours of engine each with different propert
 
 ## General
 
-## Energy Scoop
+## Energy Scoop (R)
 
 This is a device that allows kinetic energy to be transferred into fuel and back again with practically no energy loss, essentially 'scooping' the energy out. This can't be used as the main power supply though, because the energy form it creates is not very dense in energy, so it is impossible to store enough for a decent range. Instead, it is usually used as a brake. Then, when the ship needs to accelerate, the energy can be released again.
 
-## Atmospheric Bubble
+## Atmospheric Bubble (R)
 
 This is a highly advanced design which allows atmospheric vehicles to enter space. When activated, it creates a 'bubble' in which the vehicle can travel.
 
@@ -137,7 +215,7 @@ Only a tiny sample of Mutant FFG exists, found onboard an ancient battleship. Th
 
 This is the kind of force field that all other planets use. It is the most effective of all defences (except for the FFG). It creates a blue sheen 1 cm above the surface of the ship. Unlike the FFG, the Plasma Force Field is transmissive to on-board projectiles, but it can only repel a few dozen attacks before it needs to regenerate.
 
-### Magnetic Force Fields (R+H)
+### Magnetic Force Fields (L)
 
 These force fields are purely meant to deflect some slit bombs, creating an electromagnetic field around the ship. However, this does not work on all slit bombs, as some are not magnetic. It also won't deflect a direct shot travelling fast enough, though it may slow it down. Most ships have these shields on during battle, though it is impractical when flying in close formation.
 
@@ -235,7 +313,7 @@ The second type of laser has three functions: stunning electronics, destroying s
 
 These fusion-based weapons convert atomic energy into focused blasts, capable of incredible damage. The cannons can also vary their output intensity, allowing for both wide-area suppression and pinpoint strikes. They have a multi-purpose functionality, enabling tactical versatility and devastating offensive power, perfect for engaging multiple targets or focusing on a single high-value enemy ship. These can be repelled by most shields though, so are not commonly used.
 
-##### Cataclysm Beam Projectors (R)
+##### Cataclysm Beam Projectors (L)
 
 This weapon is an enormous energy beam that harness the power of a star to discharge concentrated energy onto a target ship, resulting in catastrophic disintegration of hull and systems. Capable of crippling the most ships with a single blast, they are effective across vast distances and are usually fired from a planet.
 
@@ -274,13 +352,13 @@ Slit bombs are the most common type of ammo used. They are very basic, simply a 
 - Shielded slit bombs: This slit bomb is single use, with a shield at the front that breaks off shortly before impact. They are also made of eleha.
 - Surface to surface slit bombs: These are slit bombs that are purely rocket powered, launched from one planet to hit another planet. They are made of solitme.
 
-#### Machine Guns (U)
+#### Machine Guns (L)
 
 These are incredibly small, weak projectiles, cheap but useless in space battle.
 
-#### Tachyon Launchers (U)
+#### Tachyon Launchers (L)
 
-    These launchers fire projectiles that harness tachyon particles. They were capable of striking targets before they have time to react, but now they are considered slow, so are now rarely used. They can be repelled by FFG's, Darkmaterial and Plasma Force Fields.
+These launchers fire projectiles that harness tachyon particles. They were capable of striking targets before they have time to react, but now they are considered slow, so are now rarely used. They can be repelled by FFG's, Darkmaterial and Plasma Force Fields.
 
 #### The Mega Flail (Ho)
 
@@ -298,23 +376,23 @@ This is a very powerful bomb, capable of taking out a small army. When the bomb 
 - Surprise bomb- this is a bomb that lets out one lethal shot, giving the enemy no chance to resist.
 - Mini bomb- these are tiny bombs meant to take out a single target. These are not so good though, since the power scales cubically.
 
-##### Rockets (R+B)
+##### Rockets (L)
 
 These are simply explosive slit bombs. They were popular until the Federre war, but over-use has now made them a luxury.
 
 #### Chemicals
-##### Acid thrower (R+B)
+##### Acid thrower (L)
 
 The acid thrower is an ancient weapon last used in the Horsa war. This design is simple. It acts as a water gun firing highly concentrated acid, dissolving what it touches. This weapon is now rarely used, due to the time needed for it to take effect.
 
 #### Sound
 
-##### Sonic Blasters (U)
+##### Sonic Blasters (L)
 
 Utilizing sound-wave propagation, Sonic Blasters deliver concussive blasts capable of damaging internal organs and shattering structures without traditional explosive means.
 However, they have long since been forgotten as they only work on living organisms and only in an atmosphere.
 
-#### Electromagnetic Pulse (R)
+#### Electromagnetic Pulse (L)
 
 The Electromagnetic Pulse (EMP) is a simple but effective piece of technology designed to incapacitate electronic systems and disrupt communication networks. It operates using electromagnetic principles and can range in scale from portable units to large-scale weapons deployed from vehicles or aircraft. The EMP is seen as a non-lethal alternative to traditional explosives, making it a strategic choice in modern warfare and electronic countermeasures.
 ##### EMP Types:
@@ -334,7 +412,7 @@ The Electromagnetic Pulse (EMP) is a simple but effective piece of technology de
 
 #### Bunkers
 
-##### Anti-bunker catapult (R+H)
+##### Anti-bunker catapult (L)
 
 The anti-bunker catapult is the most common method to destroy the bunker of the enemy. A massive weight, several km long and super dense, is launched from a catapult (also massive!) onto the bunker, but shortly before impact the entire weight is concentrated into a small area, just a few metres across, and crushes a hole into the bunker. However, the bunker usually collapses from the damage, destroying everything inside. Therefore, it can't always be used.
 
@@ -344,7 +422,94 @@ The anti-bunker drill is the method Rescueland uses when they needs to capture t
 
 # Civilian
 
+## The FCRT Suit (R)
 
+The FCRT Suit represents a remarkable fusion of advanced materials, cutting-edge technology, and human enhancement, allowing living organisims the features of FCRT's. Designed for emergency civilian use, this ultra thin suit grants its wearer extraordinary capabilities including flight, enhanced durability, and a suite of offensive and defensive systems. Crafted from Darkmaterial plates and eleha, the suit is lightweight yet incredibly strong, allowing for unparalleled maneuverability while ensuring the wearer’s safety.
+
+### Key Features
+
+1.Flight Capability: The paramount feature of the FCRT Suit is its flight system, which integrates several technologies for safe and agile aerial maneuvering.
+
+2.Indestructibility: The suit’s structural integrity is achieved through a combination of technologies, providing an almost indestrucible suit. The outer layer of the suit incorporates a nano-composite material that utilizes carbon nanotubes and graphene, rendering it nearly indestructible against a variety of physical impacts.
+- Reactive Armor Technology: The suit features integrated reactive armor that activates upon high-velocity impacts or projectiles. Sensors can detect incoming threats and trigger a countermeasure response that absorbs or deflects the impact.
+- Darkmaterial: Should these technologies fail, it also features a layer of Darkmaterial plates underneath, ensuring almost complete safety.
+
+3.Defense and Offense
+
+The suit boasts advanced weaponry, including the P-series Laser for precise targeting, capable of latching onto and tracking adversaries with its thin red beam, and the more powerful TL-series Laser, which emits a lethal green beam with enhanced maneuverability for rapid engagements. Close combat is augmented by the Laser Hair, extending short laser projections from the suit’s head, functioning as a formidable melee weapon. Additionally, the Granite Laser delivers molten granite to immobilize targets effectively. For defense, the suit incorporates Force Field Gel and Plasma Force Fields.
+
+4.Integrated Communication and Control Systems
+
+The helmet of the FCRT Suit is equipped with advanced communication technology for seamless coordination and information sharing.
+Encrypted Communication Channels: Ensures secure communication with teams or command centers, facilitating instant access to real-time data.
+
+5. Health Monitoring Systems
+
+The suit features advanced health monitoring systems that continuously assess the wearer's physiological state.
+
+- Biometric Sensors: Embedded sensors track vital signs including heart rate, oxygen levels, and stress indicators. The data is analyzed continuously to identify potential health risks.
+- Combat Recovery Protocol: In the event of injury, the suit can administer localized therapeutics, such as pain relief or clotting agents, aiding in rapid recovery during engagement.
+
+
+## AquaPurifier (L) Ah-kwah-pur-if-eye-er
+
+The AquaPurifier is an old bt reliable water filtration system engineered to deliver clean and safe drinking water. Its sleek, countertop design blends seamlessly into kitchens, and it uses multiple filtration technologies to ensure the highest quality. The AquaPurifier features a luminescent display that indicates water quality and filter status.
+
+### Features:
+- Multi-Stage Filtration: The AquaPurifier employs a series of filters, including activated charcoal, reverse osmosis, and UV light sterilization, effectively removing contaminants, such as bacteria, heavy metals, and impurities.
+- Real-Time Monitoring: Users can check the quality of the water being dispensed through a digital interface that displays details like pH levels, TDS (Total Dissolved Solids), and filter lifespan.
+- Self-Cleaning Function: The device includes a self-cleaning setting to ensure optimal performance and hygiene, reducing maintenance efforts.
+- Eco-Friendly Design: Built from sustainable materials, the AquaPurifier minimizes waste through its efficient filter replacement system.
+
+### Common Uses:
+- Daily Drinking Water: Provides clean, safe drinking water for households, reducing reliance on bottled water.
+- Cooking and Food Preparation: Ensures that water used in cooking and food preparation is purified and healthy.
+- Health and Wellness: Contributes to overall family health and wellness by promoting proper hydration.
+
+## Atmosphere Regulator (L)
+
+The Atmosphere Regulator is a residential climate control appliance meticulously designed to improve indoor air quality and maintain optimal living conditions. Its compact form fits seamlessly in any living space, equipped with cutting-edge sensors that continuously monitor environmental conditions.
+
+### Features:
+- Air Quality Monitoring: The device assesses pollutants, humidity levels, and temperature, providing real-time data on indoor air quality through a visual display.
+- Advanced Filtration System: The Atmosphere Regulator integrates HEPA and activated carbon filters to capture allergens, dust, and odors, ensuring clean air circulation.
+- Humidity Control: It has a built-in dehumidifier and humidifier, allowing users to set and maintain ideal humidity levels for comfort and health.
+- Silent Operation: The device operates quietly, minimizing disturbances to daily life while maintaining effective performance.
+
+### Common Uses:
+- Improved Air Quality: Helps to reduce allergens and pollutants, resulting in healthier living environments.
+- Temperature Regulation: Assists in maintaining a comfortable temperature, making homes more pleasant year-round.
+- Allergy Relief: The advanced filtration system aids individuals with respiratory conditions by decreasing airborne irritants.
+
+## LightSphere (L)
+
+The LightSphere is an innovative illumination device designed to provide customizable lighting solutions for homes. This appliance has a futuristic, spherical shape that houses numerous LEDs capable of producing a wide spectrum of colors and intensities. 
+
+### Features:
+- Color Customization: Users can choose from millions of colors or set schedules for light changes according to the time of day and mood, enhancing the ambiance of any room.
+- Energy Efficiency: Utilizing energy-saving LED technology, the LightSphere offers long-lasting illumination while maintaining a low power consumption rate.
+- Remote Control System: The user-friendly interface enables control via a smartphone app or through voice command, allowing for remote operation from anywhere in the house.
+- Mood Settings: Pre-programmed mood settings adapt the lighting to various activities, such as reading, relaxation, or entertaining, transforming the atmosphere instantaneously.
+
+### Common Uses:
+- Everyday Lighting: Serves as a primary or supplementary light source in residential settings.
+- Event and Mood Lighting: Perfect for enhancing special occasions, parties, or intimate gatherings with customizable lighting options.
+- Nighttime Safety: Features low-intensity night-light modes to provide safety and comfort during nighttime hours.
+
+## ClimatePod (L)
+
+The ClimatePod is an intelligent temperature control device that intuitively adjusts the indoor climate based on user preferences. It features a minimalist, cylindrical design that enables easy integration into any living space.
+
+### Features:
+- Adaptive Temperature Control: The ClimatePod learns from user behavior, automatically adjusting temperatures to ensure comfort while maximizing energy efficiency.
+- Heater and Cooler Functionality: It functions both as a heater and an air conditioner, catering to seasonal changes and varying climate conditions without the need for separate devices.
+- Smart Ventilation: The device incorporates smart ventilation technology, managing airflow to enhance overall air circulation within the home.
+- Quiet Modes: Operating on silent settings or low noise levels during nighttime ensures undisturbed sleep.
+
+### Common Uses:
+- Year-Round Comfort: Maintains a comfortable living environment regardless of outside weather conditions.
+- Energy Efficiency: Reduces energy consumption through intelligent adjustments based on real-time usage and occupancy.
+- Allergy Reduction: Improved air circulation helps to minimize musty smells and allergens, creating a healthier living environment.
 
 
 
