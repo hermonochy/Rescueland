@@ -1,28 +1,161 @@
-﻿U = Universal
+﻿# Keys
+
+U = Universal
+
 R = Rescueland tech
+
 C = Computerland tech
+
 H = Helucky tech
+
 F = Federre tech
+
 Ho = Horsa tech
+
 B = All Bad Planets tech
+
 L = Lower tech
 
+# Contents
+## Metals
+[Conductium](#conductium-c-con-duct-ee-umm)
+,
+[Atomon](#atomon-c-ah-tom-on)
+,
+[Techanda](#techanda-u-teh-chuhn-dahh)
+,
+[Eleha](#eleha-r-ellieeh-hah)
+,
+[Pakira](#pakira-u-pack-ear-ahh)
+,
+[Plamea](#plamea-u-plam-meha)
+,
+[Solitme](#solitme-u-sol-eet-meh)
+,
+[Nyctron](#nyctron-u-nik-tron)
+,
+[Krython](#krython-u-kree-thon)
+,
+[Vermithium](#vermithium-r-ver-mih-thi-um)
+,
+[Quorite](#quorite-u-kwor-ite)
 
+## Rescueland Robots
+
+[Robot Personality](#robot-personality)
+,
+[Robot Versions](#robot-versions)
+,
+[Robot Types](#robot-types)
+
+## Engines
+
+[Engine Types](#engine-types)
+,
+[Engine Colours](#engine-colours)
+,
+[Energy Scoop](#energy-scoop-r)
+,
+[Atmospheric Bubble](#atmospheric-bubble-r)
+
+## Military
+
+### Defense
+
+[Force Field Gel](#force-field-gel-r)
+,
+[Plasma Force Fields](#plasma-force-fields-u)
+,
+[Magnetic Force Fields](#magnetic-force-fields-l)
+,
+[The Verdant Shield Projector](#the-verdant-shield-projector-r)
+,
+[Energy Absorption Shields](#energy-absorption-shields-r)
+,
+[Holo-Decoy Defense System](#holo-decoy-defense-system-r)
+,
+[FCRT DarkArmour](#fcrt-darkarmour-r)
+,
+[Darkmaterial, Greymaterial and Lightmaterial](#darkmaterial-greymaterial-and-lightmaterial-u)
+
+### Weaponry
+
+[Guns](#guns-u)
+
+#### Lasers
+
+[Basic Lasers](#basic-lasers)
+,
+[Beamers](#beamers-rh)
+,
+[Hyperion Fusion Cannons](#hyperion-fusion-cannons-c)
+,
+[Cataclysm Beam Projectors](#cataclysm-beam-projectors-l)
+
+##### FCRT Lasers
+
+[P-Series](#p-series-laser-r)
+,
+[TL-Series](#tl-series-r)
+,
+[Laser Hair](#laser-hair-r)
+,
+[Granite Laser](#granite-laser-c)
+
+#### Projectiles
+
+[Slit Bombs](#slit-bombs-u)
+,
+[Machine Guns](#machine-guns-l)
+,
+[Tachyon Launchers](#tachyon-launchers-l)
+,
+[The Mega Flail](#the-mega-flail-ho)
+
+#### Explosives
+
+[Hydro Bombs](#hydro-bombs-rhf)
+,
+[Rockets](#rockets-l)
+
+#### Other
+
+[Anti-bunker Catapult](#anti-bunker-catapult-l)
+,
+[Anti-bunker Drill](#anti-bunker-drill-rb)
+,
+[Acid Thrower](#acid-thrower-l)
+,
+[Sonic Blasters](#sonic-blasters-l)
+,
+[Electromagnetic Pulse](#electromagnetic-pulse-l)
+
+## Civilian
+
+[FCRT Suit](#the-fcrt-suit-r)
+,
+[AquaPurifier](#aquapurifier-l-ah-kwah-pur-if-eye-er)
+,
+[Atmosphere Regulator](#atmosphere-regulator-l)
+,
+[LightSphere](#lightsphere-l)
+,
+[ClimatePod](#climatepod-l)
 
 # General
 
 ## Special Metals
 
 ### Conductium \(C\) con-duct-ee-umm
-Conductium is what the Center of computerland is made of. It has a 100% electrical transfer efficiency and is roughly as dense as hydrogen, even though the atom is 300 times bigger than francium. The conductuim atom has 24 protons and 2000 neutrons but only 1 electron. This is the reason it is good at keeping electrons. To extract the electron, you need a special isotope of conductium. The bonds conductium makes are almost indestructible and because of this harvesting and moulding the material is incredibly expensive. This has the upside of only melting at the same temperature as dark material, although this is a bad idea as the neutron structure will deform. The uses of conductium include:
+Conductium is what the Center of Computerland is made of. It has a 100% electrical transfer efficiency and is roughly as dense as hydrogen, even though the atom is 300 times bigger than francium. The conductuim atom has 24 protons and 2000 neutrons but only 1 electron. This is the reason it is good at keeping electrons. To extract the electron, you need a special isotope of conductium. The bonds conductium makes are almost indestructible and because of this harvesting and moulding the material is incredibly expensive. This has the upside of only melting at the same temperature as dark material, although this is a bad idea as the neutron structure will deform. The uses of conductium include:
 
 - High accuracy electrical transfer.
 - \(uinfinity_t\)-1 speed electron cannons.
 - Cross planet power transfer.
-- Quantum research \(the atom size helps with research\)
+- Quantum research \(the atom size helps with research\).
 
 ### Atomon \(C\) ah-tom-on
-Atomon is a very small atom, roughly the size of hydrogen but has the upside of being very thin, small, and strong for electrical insulation. The reason Atomon is so strong is because it forms when a extremely high voltage has been flowing through pure hydrogen \(mandatory no explosions occur\) for around 1,000,000 years and two of the hydrogen atoms half merge and loses one electron. This means whenever electricity tries to pass through it will work because of the spare electron spot, but because of the half merged state when two electrons try to pass through in a short span of the time \(high power electricity\) it will try to accept two electrons and then reject them immediately and not allow any current to flow. The most common use case for this is very reliable and reusable high power fuses.
+Atomon is a very small atom, roughly the size of hydrogen but has the upside of being very thin, small, and strong for electrical insulation. The reason Atomon is so strong is because it forms when a extremely high voltage flows through pure hydrogen \(mandatory no explosions occur\) for around 1,000,000 years and two hydrogen atoms half merge and loses one electron. This means whenever electricity tries to pass through, it will work because of the spare electron spot. However, due to the half merged state when two electrons try to pass through in a short span of the time \(high power electricity\) it will try to accept two electrons and then reject them immediately and not allow any current to flow. The most common use case for this is very reliable and reusable high power fuses.
 
 ### Techanda (U) Teh-chuhn-dahh
 
@@ -45,15 +178,15 @@ The scarcity of this metal makes it significantly more expensive compared to oth
 #### Common Uses:
 - Wires: Utilized in high-speed data and power transmission systems.
 - Slit Bombs: Integrated into some slit bombs, due to it's longer lifespan. 
-- Heat Shields: High melting temperature allows it to protect a spacecraft constantly exposed to flames.
+- Heat Shields: High melting temperature allows it to protect a spacecraft constantly exposed to extreme heat.
 - Gears: Employed in sophisticated machinery where strength and precision are required for operational efficiency.
 - Hinges: Crafted for robust movable parts in various applications, where durability is critical.
 
-### Pakira (U) Pack-eer-ahh
+### Pakira (U) Pack-ear-ahh
 
-Pakira is recognized for its affordability and malleability, making it a popular choice in bulk production. However, it is important to note that Pakira is highly reactive to both fire and water, necessitating careful handling and storage to prevent deterioration. Most of the ships manufactured within the Rescueland Empire are constructed from a particularly tough isotope of this metal.
+Pakira is recognized for its affordability and malleability, making it a popular choice in bulk production. However, it is important to note that pakira is highly reactive to both fire and water, necessitating careful handling and storage to prevent deterioration. Most of the ships manufactured within the Rescueland Empire are constructed from a particularly tough isotope of this metal.
 
-Despite its reactivity, when properly alloyed or coated, Pakira can serve functional purposes while maintaining structural integrity, particularly in maritime and atmospheric applications.
+Despite its reactivity, when properly alloyed or coated, pakira can serve functional purposes while maintaining structural integrity, particularly in maritime and atmospheric applications.
 
 #### Common Uses:
 - Main Frame of Ships: Acts as the foundational material, giving ships their primary structure and form.
@@ -90,19 +223,18 @@ Nyctron is a unique alloy known for its lightweight properties and inherent flex
 
 #### Common Uses:
 
-Stealth Technology: Employed in the construction of stealth ships and vehicles, reducing visibility.
-Lightweight Frameworks: Utilized in non-essential structural components where weight savings are critical.
-Fiber Optics: Perfect for transmitting light signals in advanced communication systems.
+- Stealth Technology: Employed in the construction of stealth ships and vehicles, reducing visibility.
+- Lightweight Frameworks: Utilized in non-essential structural components where weight savings are critical.
+- Fiber Optics: Perfect for transmitting light signals in advanced communication systems.
 
-### Krython (R) Kree-thon
+### Krython (U) Kree-thon
 
-Krython is a rare and precious metal renowned for its extreme durability and excellent thermal properties. It possesses a brilliant blue sheen and is often coated for aesthetic purposes. Krython acts as an outstanding conductor of heat and electricity while remaining inert to most corrosive agents, with a vastly lower rusting rate than standard metals; thus, it is highly sought after for high-end applications and advanced technology.
+Krython is a rare metal known for its durability and thermal properties. It possesses a brilliant blue sheen and is often coated for aesthetic purposes. Krython acts as a good conductor of heat and electricity while remaining inert to most corrosive agents, with a vastly lower rusting rate than standard metals; thus, it is occasionaly sought after for  applications and technology.
 
 #### Common Uses:
 
-High-Performance Electronics: Utilized in top-tier circuitry and microprocessors.
-Advanced Heat Exchangers: Employed in systems requiring superior thermal conductivity.
-Aerospace Components: Used in vehicle structures that encounter extreme temperatures during flight.
+- Electronics: Utilized in circuitry and microprocessors.
+- Minor Heat Exchangers: Employed in systems requiring minor thermal conductivity.
 
 ### Vermithium (R) Ver-mih-thi-um
 
@@ -110,8 +242,8 @@ Vermithium is a rare metal known for its distinct reddish hue and metallic lamin
 
 #### Common Uses:
 
-Energy Harvesters: Incorporated in advanced technologies that convert vibrations or movements into electrical power.
-Weaponry: Used in weapons systems where weight and energy efficiency are critical.
+- Energy Harvesters: Incorporated in technologies that convert vibrations or movements into electrical power.
+- Weaponry: Used in weapons systems where weight and energy efficiency are critical.
 Infrastructure: Utilized in structures where flexibility and energy generation are needed.
 
 ### Quorite (U) Kwor-ite
@@ -120,9 +252,9 @@ Quorite is an ultra-durable and low-density metal recognized for its unique resi
 
 #### Common Uses:
 
-Protective Coatings: Often applied as a surface treatment for vehicles and machinery to enhance longevity.
-High-Stress Components: Utilized in situations requiring materials that can endure physical abuse.
-Military Gear: Employed in armor systems and protective wear.
+- Protective Coatings: Often applied as a surface treatment for vehicles and machinery to enhance longevity.
+- High-Stress Components: Utilized in situations requiring materials that can endure physical abuse.
+- Military Gear: Employed in armor systems and protective wear.
         
 # Rescueland Robots (R)
 
@@ -146,15 +278,19 @@ Rescueland Robots are dynamic entities, constantly undergoing upgrades and enhan
 
 Rescueland Robots are categorized into eight major groups, each with different jobs and capabilities.
 
-### Types
+### Types in order of population
 
 - Regular FCRT's: These FCRT's are the most common type, acting as civilians and soldiers.
 
-![](screenshots/regularFCRT.png)
+![](screenshots/RegularFCRT.png)
 
 - Pilot FCRT's: These FCRT's specialise in piloting all transports.
 
 ![](screenshots/PilotFCRT.png)
+
+- Spy FCRT's: These FCRT's are disguised as an asteroid with extra cloaking devices, build to spy on enemies.
+
+![](screenshots/SpyFCRT.png)
 
 # Ships and their Systems
 
@@ -181,11 +317,11 @@ There are many different types and colours of engine each with different propert
 
 ## General
 
-## Energy Scoop (R)
+### Energy Scoop (R)
 
 This is a device that allows kinetic energy to be transferred into fuel and back again with practically no energy loss, essentially 'scooping' the energy out. This can't be used as the main power supply though, because the energy form it creates is not very dense in energy, so it is impossible to store enough for a decent range. Instead, it is usually used as a brake. Then, when the ship needs to accelerate, the energy can be released again.
 
-## Atmospheric Bubble (R)
+### Atmospheric Bubble (R)
 
 This is a highly advanced design which allows atmospheric vehicles to enter space. When activated, it creates a 'bubble' in which the vehicle can travel.
 
@@ -498,7 +634,7 @@ The LightSphere is an innovative illumination device designed to provide customi
 
 ## ClimatePod (L)
 
-The ClimatePod is an intelligent temperature control device that intuitively adjusts the indoor climate based on user preferences. It features a minimalist, cylindrical design that enables easy integration into any living space.
+The ClimatePod is a temperature control device that intuitively adjusts the indoor climate based on user preferences. It features a minimalist, cylindrical design that enables easy integration into any living space.
 
 ### Features:
 - Adaptive Temperature Control: The ClimatePod learns from user behavior, automatically adjusting temperatures to ensure comfort while maximizing energy efficiency.
@@ -508,7 +644,7 @@ The ClimatePod is an intelligent temperature control device that intuitively adj
 
 ### Common Uses:
 - Year-Round Comfort: Maintains a comfortable living environment regardless of outside weather conditions.
-- Energy Efficiency: Reduces energy consumption through intelligent adjustments based on real-time usage and occupancy.
+- Energy Efficiency: Reduces energy consumption through adjustments based on real-time usage and occupancy.
 - Allergy Reduction: Improved air circulation helps to minimize musty smells and allergens, creating a healthier living environment.
 
 
