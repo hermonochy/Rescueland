@@ -207,9 +207,9 @@ Modern interceptors predominantly use Plamea for various structural components, 
 
 ### Solitme (U) Sol-eet-meh
 
-Solitme is known for its exceptional hardness, making it a reliable choice for applications requiring durability. However, despite its robustness, Solitme is prone to erosion, particularly when exposed to harsh environments. While it is entirely resistant to high temperatures and fire, it reacts negatively with water, leading to eventual dissolution if not managed properly.
+Solitme is known for its exceptional hardness, making it a reliable choice for applications requiring durability. However, despite its robustness, Solitme is prone to erosion, particularly when exposed to harsh environments. While it is entirely resistant to high temperatures and fire, it reacts negatively with liquids, leading to eventual dissolution if not managed properly. For applications in harsh environments, solitme is preferably coated with nyctron trisulphate.
 
-This set of characteristics makes Solitme particularly useful for specific military applications, especially those involving munitions.
+This set of characteristics makes Solitme particularly useful for specific military applications.
 
 #### Common Uses:
 - Large-Damage Slit Bombs: Designed for high-impact offensives, capitalizing on its resistance to heat.
@@ -288,7 +288,7 @@ Rescueland Robots are categorized into eight major groups, each with different j
 
 ![](screenshots/PilotFCRT.png)
 
-- Spy FCRT's: These FCRT's are disguised as an asteroid with extra cloaking devices, build to spy on enemies.
+- Spy FCRT's: These FCRT's are disguised as an asteroid with extra cloaking devices, built to spy on enemies.
 
 ![](screenshots/SpyFCRT.png)
 
@@ -319,7 +319,7 @@ There are many different types and colours of engine each with different propert
 
 ### Energy Scoop (R)
 
-This is a device that allows kinetic energy to be transferred into fuel and back again with practically no energy loss, essentially 'scooping' the energy out. This can't be used as the main power supply though, because the energy form it creates is not very dense in energy, so it is impossible to store enough for a decent range. Instead, it is usually used as a brake. Then, when the ship needs to accelerate, the energy can be released again.
+This is a device that allows kinetic energy to be transformed into higher entropy fuel and back again with negligible loss, essentially 'scooping' the energy. This can't be used as the main power supply though, because the energy density is low, so it is impractical to store sufficient energy for long distance journeys. Instead, it is usually used as a regenerative brake, providing energy for subsequent acceleration.
 
 ### Atmospheric Bubble (R)
 
@@ -389,11 +389,11 @@ DarkArmour is a defence that FCRT's carry. They have very thin plates of Darkmat
 
 ## Darkmaterial, Greymaterial and Lightmaterial (U)
 
-Darkmaterial is a very rare substance, fought for by many. Grey and Lightmaterial are chemically identical to Darkmaterial, but are used for different things. 
+Darkmaterial is a very rare substance, fought for by many. Grey and Lightmaterial are chemically identical to Darkmaterial, but have different purposes. 
 
 ### Darkfighters, Greyfighters and Lightfighters
 
-The most famous use of this substance is to build practically indestructible fighters. The only known way to destroy these ships is to slam them at an almost infinite speed into a Force Field Gel. This is also how they are made. The material needs to be shaped into a fighter by slamming small Force Field Gel balls into the machine at the necessary speed and precision. This is why the little Force Field Gel that other planets obtain is saved, should they find some Darkmaterial. The process is the most expensive one known in the entire multiverse, which is why there are only a few dozen of them, though they are increasing in number. Therefore, these ships are, in a way, the atomic bombs of the multiverse.
+The most famous use of this substance is to build practically indestructible fighters. The only known way to destroy these ships is to slam them, at almost infinite speed, into a Force Field Gel. This is also how the fighters are made. The material needs to be shaped into a fighter by slamming small Force Field Gel balls into the machine at the necessary speed and precision. This is why the little Force Field Gel that other planets obtain is saved, should they find some Darkmaterial. The process is the most expensive one known in the entire multiverse, which is why there are only a few dozen of them, though they are increasing in number. Therefore, these ships are, in a way, the atomic bombs of the multiverse.
 
 
 ## Weaponry
@@ -438,7 +438,7 @@ Lasers are one of the most common ammunitions of civilian and military ships. Th
 - 🟤️ = cheapest (H)
 - ⚫️ = stealthiest (H)
 
-These lasers can be of different power, ranging from a simple stun to planet destroying power. The lasers can also be short range, lashing out like lightning. The advantage of this is that it can manoeuvre, so it almost never misses. There are also laserdrones, which are rocket propelled tubes have laser tips.
+These lasers can be of different power, ranging from a simple stun shot to planet destroying power. The lasers can also be short range, lashing out of a cannon like lightning. The advantage of this is that it can manoeuvre, so it almost never misses. There are also laserdrones, which are rocket propelled tubes have laser tips.
 
 ##### Beamers (R+H+F)
 
