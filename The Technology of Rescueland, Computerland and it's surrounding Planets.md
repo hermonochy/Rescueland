@@ -144,7 +144,7 @@ L = Lower tech
 
 # General
 
-## Special Metals
+## Metals
 
 ### Conductium \(C\) con-duct-ee-umm
 Conductium is what the Center of Computerland is made of. It has a 100% electrical transfer efficiency and is roughly as dense as hydrogen, even though the atom is 300 times bigger than francium. The conductuim atom has 24 protons and 2000 neutrons but only 1 electron. This is the reason it is good at keeping electrons. To extract the electron, you need a special isotope of conductium. The bonds conductium makes are almost indestructible and because of this harvesting and moulding the material is incredibly expensive. This has the upside of only melting at the same temperature as dark material, although this is a bad idea as the neutron structure will deform. The uses of conductium include:
@@ -261,7 +261,7 @@ Quorite is an ultra-durable and low-density metal recognized for its unique resi
 ## Robot Personality
 
 Rescueland Robots are designed with a unique personality framework that sets them apart from normal robots. This framework is a result of an innovative gas injected every hundred years, known informally as "Rescueland Gas." This gas, though unknown why, causes the robots to have emotions, thoughts and imaginations. As a result, these robots become more than mere machines; they exhibit characteristics akin to living beings.
-The emotional spectrum of a Rescueland Robot is as complex as a human one, allowing them to engage meaningfully with the world around them. They can learn and adapt their personalities based on interactions and experiences, leading to highly individualized robots that resonate with their users. Each robot has a distinct personality profile that remains unchanged, even when the gas is replenshed. 
+The emotional spectrum of a Rescueland Robot is as complex as a human one, allowing them to engage meaningfully with the world around them. They can learn and adapt their personalities based on interactions and experiences, leading to highly individualized robots that resonate with their users. Each robot has a distinct personality profile that remains unchanged, even when the gas is replenished. 
 
 ## Robot Versions
 
@@ -374,18 +374,15 @@ Holo-Decoy systems utilize advanced holographic technology to create realistic i
 #### Holo-Decoy types:
 
 - Standard Holo-Decoy: Creates a simple holographic projection of the ship, distracting some enemy fire.
-- Multi-Phase Holo-Decoy: Creates multiple images of the ship at once, each moving independently to confuse targeting systems.
+- Multi Holo-Decoy: Creates multiple images of the ship at once, each moving independently to confuse targeting systems.
 - Active Holo-Decoy: Mimics firing patterns and maneuvers of the actual ship, making it more convincing.
 - Signal-Reflecting Decoy: Sends out false signals to confuse enemy sensors, leading attackers to engage imaginary threats.
 - Adaptive Holo-Cloak: Integrates with the ship's systems to blend in with backgrounds, effectively rendering it less visible to intrusions.
 
 
-
-
 ### FCRT DarkArmour (R)
 
-DarkArmour is a defence that FCRT's carry. They have very thin plates of Darkmaterial (see below) on them, only a few femtometres thick, which is why it is hard to destroy an FCRT even without a FFG. The attacker is required to get under the layers of plates in order to land a shot that has even a remote chance of destroying the FCRT.
-
+DarkArmour (see below), an FCRT defence layer plated only a few femtometers thick, make it hard to destroy an FCRT, even if not FFG protected. A successful attack requires shooting under the layers of plates for having even a remote chance of destroying the FCRT.
 
 ## Darkmaterial, Greymaterial and Lightmaterial (U)
 
@@ -458,7 +455,7 @@ This weapon is an enormous energy beam that harness the power of a star to disch
 
 ###### P-series Laser (R)
 
-The P-series were the first steerable laser designs. They produce a thin, red beam which can latch onto a target and follow it indefinitely. It's reactions are slow though, so it is possible to avoid it by putting an object between you and the laser. It is also quite weak, and it would take several shots to take someone down. The newest one is the P-45
+The P-series were the first steerable laser designs, producing a thin, red beam which can latch onto a target and follow it indefinitely. P-series laser reactions are slow though, so it is possible to avoid impact by putting an object between you and the laser. It is also quite weak, and it would take several shots to take someone down. The newest model is the P-45.
 
 ###### TL-series (R)
 
@@ -610,7 +607,7 @@ The Atmosphere Regulator is a residential climate control appliance meticulously
 - Air Quality Monitoring: The device assesses pollutants, humidity levels, and temperature, providing real-time data on indoor air quality through a visual display.
 - Advanced Filtration System: The Atmosphere Regulator integrates HEPA and activated carbon filters to capture allergens, dust, and odors, ensuring clean air circulation.
 - Humidity Control: It has a built-in dehumidifier and humidifier, allowing users to set and maintain ideal humidity levels for comfort and health.
-- Silent Operation: The device operates quietly, minimizing disturbances to daily life while maintaining effective performance.
+- Silent Operation: The device operates soundlessly, minimizing disturbances to daily life while maintaining effective performance.
 
 ### Common Uses:
 - Improved Air Quality: Helps to reduce allergens and pollutants, resulting in healthier living environments.
@@ -624,7 +621,7 @@ The LightSphere is an innovative illumination device designed to provide customi
 ### Features:
 - Color Customization: Users can choose from millions of colors or set schedules for light changes according to the time of day and mood, enhancing the ambiance of any room.
 - Energy Efficiency: Utilizing energy-saving LED technology, the LightSphere offers long-lasting illumination while maintaining a low power consumption rate.
-- Remote Control System: The user-friendly interface enables control via a smartphone app or through voice command, allowing for remote operation from anywhere in the house.
+- Remote Control System: The user-friendly interface enables control via an FCRT suit or through voice command, allowing for remote operation from anywhere in the house.
 - Mood Settings: Pre-programmed mood settings adapt the lighting to various activities, such as reading, relaxation, or entertaining, transforming the atmosphere instantaneously.
 
 ### Common Uses:
@@ -639,8 +636,7 @@ The ClimatePod is a temperature control device that intuitively adjusts the indo
 ### Features:
 - Adaptive Temperature Control: The ClimatePod learns from user behavior, automatically adjusting temperatures to ensure comfort while maximizing energy efficiency.
 - Heater and Cooler Functionality: It functions both as a heater and an air conditioner, catering to seasonal changes and varying climate conditions without the need for separate devices.
-- Smart Ventilation: The device incorporates smart ventilation technology, managing airflow to enhance overall air circulation within the home.
-- Quiet Modes: Operating on silent settings or low noise levels during nighttime ensures undisturbed sleep.
+- Ventilation: The device incorporates ventilation technology, managing airflow to enhance overall air circulation within the home.
 
 ### Common Uses:
 - Year-Round Comfort: Maintains a comfortable living environment regardless of outside weather conditions.

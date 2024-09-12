@@ -3,11 +3,15 @@ This file will show all major events that happened since the DOTR (Discovery Of 
 
 ## 0 ADOTR: Discovery of the Rings
 
-The Super Owls discovered the Rings, coming to consciousness and receiving many powers.
+The Super Owls discovered the Rings, coming to consciousness and receiving many powers, including space flight, shapeshifting, sizeshifting, etc.
 
 ## 8 ADOTR: Discovery of Bad Guy Land
 
 Bad Guy Land is discovered. Initial scouting missions report alarming developments: enslaved inhabitants, brutal governance, and a culture steeped in warfare. Tensions rise as the looming threat of Bad Guy Land becomes apparent.
+
+## 14 ADOTR: Discovery of Computerland
+
+Rescueland discovered that they were not alone in the fight against Bad Guy Land. Another planet, although very distant, was also battling Bad Guy Land. The first contact was successful, and the two became powerful allies.
 
 ## 18 ADOTR: The Super Twos
 
@@ -18,18 +22,18 @@ Klesone gifts Rescueland the first Super Twos, their most advanced design of rob
 The Rescuelanders engage in their first major military confrontation with Bad Guy Land over the planet N2, which has fallen under their control. Upon learning that Bad Guy Land had overtaken N2 and enslaved its citizens, the Rescuelanders mobilize quickly to liberate the planet. N2 is characterized by dense, tropical vegetation and primitive civilizations, making Bad Guy Land's robotic enforcers particularly vulnerable to computer-targeted weapons.
 The Rescuelanders gather intelligence on Bad Guy Land's operations, noting the extensive use of robotic units and the weak spots in their defenses. Armed with this information, they prepare to deploy electromagnetic pulses (EMPs) to disable the robots.
 A specialized team of Rescuelander commandos, equipped with stealth technology, infiltrates N2 to assess enemy positions. They observe routine patrols and devise a plan to maximize the effect of their EMPs.
-A few days later, Rescueland forces descend upon N2. As they approach the surface, they deploy the EMPs, disrupting the robots' systems and causing them to convulse and shut down. The Rescuelanders follow up with ground troops, engaging in close combat with the few surviving enforcers of Bad Guy Land. The Rescuelanders successfully liberate the inhabitants of N2, launching a minor attack on the Bad Guy Land planet as a warning.
+A few days later, Rescueland forces descend upon N2. As they approach the surface, they deploy the EMPs, disrupting the robots' systems and causing them to shut down. The Rescuelanders follow up with ground troops, engaging in close combat with the few surviving enforcers of Bad Guy Land. The Rescuelanders successfully liberate the inhabitants of N2.
 
 ## 23 ADOTR: The War for Rescueland
 
 Following their preliminary victories, Rescueland’s forces are emboldened but unaware of Bad Guy Land’s plans for a coordinated and overwhelming assault. Bad Guy Land seeks revenge for previous defeats and has been quietly amassing a formidable fleet.
-The Bad Guy Land fleet, consisting of dreadnoughts and stealth cruisers, stealthily approaches Rescueland. Utilizing superior reconnaissance technology, they pinpoint strategic military and civilian targets across the planet.
+The Bad Guy Land fleet, consisting of dreadnoughts and stealth cruisers, stealthily approaches Rescueland. Utilizing their reconnaissance technology, they pinpoint strategic military and civilian targets across the planet.
 In the dead of night, the Bad Guy Land fleet launches a surprise attack from orbit. They unleash barrages of missiles and energy blasts targeting Rescueland’s planetary defenses and infrastructure. The initial strike cripples communication systems and causes chaos, as ground forces are taken by surprise.
 As the attack unfolds, Rescuelanders scramble to mobilize their orbital defense systems and call in reinforcements from regional installations. Spaceborne fighters are launched, and attempts to rally a cohesive defense commence under immense pressure.
 Defense ships engage in desperate dogfights with Bad Guy Land’s ships. The Rescuelanders employ evasive maneuvers and tactical formations, but the overwhelming force of the Bad Guy Land fleet proves difficult to overcome. Initial small-scale victories give way to intense losses as key ships are destroyed.
 As the battle drags on, the Rescuelanders find their resources stretched thin. Key installations begin to fall, and morale declines under the relentless assault.
 Realizing the dire situation, the Rescueland High Command decides to retreat. Evacuation corridors are established to facilitate a strategic withdrawal in small packs. Ships are hastily organized, with many civilians and soldiers evacuating under fire.
-The escape is chaotic, with many Rescuelander ships sustaining damage as they flee. The enemy’s pursuit is relentless, resulting in high casualties among Rescueland’s personnel. Rescueland is lost to Bad Guy Land, and the victory signals a shift in momentum, leaving them in a vulnerable state.
+The escape is chaotic, with many Rescueland ships sustaining damage as they flee. The enemy’s pursuit is relentless, resulting in high casualties among Rescueland’s personnel. Rescueland is lost to Bad Guy Land, and the victory signals a shift in momentum, leaving them in a vulnerable state.
 In the aftermath of their defeat and retreat, the Rescuelanders regroup on Hermonochy, a planet with hidden resources ideal for rebuilding their forces. They recognize the need to strategize, train, and unite to counter Bad Guy Land’s growing influence.
 In the ensuing years, Rescueland begins to establish new alliances with neighboring worlds, pooling resources and technology. They recruit skilled pilots, engineers, and soldiers from various planets, establishing a formidable alliance.
 Working tirelessly, Rescuelanders invest in new technologies to enhance their military capabilities. Newer fighter ships, stronger energy shields, and improved tactics are developed to address the shortcomings of their previous encounter with Bad Guy Land.
