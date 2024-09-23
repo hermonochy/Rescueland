@@ -1,9 +1,17 @@
-This file will show all major events that happened since the DOTR (Discovery Of The Rings). Rescueland years are always measured after this, ADOTR (After Discovery Of The Rings). There is no such thing as a year on Rescueland, but the "year" on Rescueland is about 888 years on Earth.
+This document will show all major events that happened since the DOTR (Discovery Of The Rings). Rescueland years are always measured after this, ADOTR (After Discovery Of The Rings). There is no such thing as a year on Rescueland, but the time period they use on Rescueland is about 888 years on Earth.
 
 
 ## 0 ADOTR: Discovery of the Rings
 
 The Super Owls discovered the Rings, coming to consciousness and receiving many powers, including space flight, shapeshifting, sizeshifting, etc.
+
+## 2 ADOTR: The Launch of the First Spaceship
+
+Rescueland successfully launches its first spaceship, designed for scientific research and exploration of the multiverse beyond their home planet.
+
+## 4 ADOTR: The First Successful Entry of Another Multiverse
+
+Rescueland successfully builds and sends a ship with enogh range to enter another multiverse and dimension, revealing just how big their world was. 
 
 ## 8 ADOTR: Discovery of Bad Guy Land
 
@@ -226,8 +234,7 @@ During the Revolution, three new primary classes of ships were introduced: Inter
 
 ### The Impact on Rescueland’s Military
 
-Background:
-By 90 ADOTR, the Rescueland military had successfully integrated the new classes and organized its fleets, establishing a resilient and adaptable force prepared for any challenges.
+By 107 ADOTR, the Rescueland military had successfully integrated the new classes and organized its fleets, establishing a resilient and adaptable force prepared for any challenges.
 
 - Increased Combat Efficiency: The newly organized army enhances coordination across all levels of the military hierarchy, resulting in improved battle tactics. Joint operations enable precise execution of strategies, reducing casualties and maximizing effectiveness.
 
@@ -239,14 +246,18 @@ By 90 ADOTR, the Rescueland military had successfully integrated the new classes
 
 The success of the revolution of the armies fundamentally alters the course of Rescueland’s military history. With the introduction of Interceptors, Battleships, and Pocket Destroyers, alongside a commitment to organizational excellence, the Empire stands fortified against any future threats. The revolution marks a new era of military prowess, poised to defend the Empire's interests across the galaxy and maintain peace and order in an ever-evolving universe.
 
-## 111 ADOTR: War against Horsa
+## 105 - 508 ADOTR: The Golden Age
 
-In 111 ADOTR, the Rescueland Empire faced a formidable threat from the planet Horsa, which had recently advanced its military technology and fielded a newly constructed fleet. With a well-organized and powerful military, Horsa posed an immediate danger to Rescueland’s territorial integrity. Drawing upon the recently restructured military composed of Interceptors, Battleships, and Pocket Destroyers, the Rescueland Empire prepared for an intense confrontation that would shape the future of both civilizations.
+Mega*9 Ultra*9 Bad Guy Land's destruction struck fear into any other resistance, and the Rescueland Empire experienced a very long era of peace, alowing technology to advance massively.
+
+## 508 ADOTR: War against Horsa
+
+In 508 ADOTR, the Rescueland Empire faced a formidable threat from the planet Horsa, which had recently advanced its military technology and fielded a newly constructed fleet. With a well-organized and powerful military, Horsa posed an immediate danger to Rescueland’s territorial integrity. Drawing upon the recently restructured military composed of Interceptors, Battleships, and Pocket Destroyers, the Rescueland Empire prepared for an intense confrontation that would shape the future of both civilizations.
 
 Horsa, a planet known for its resource-rich environments and strategic positioning within the galaxy, had empowered its military significantly in recent years. With the ambition to expand its influence, the Horsa military under the command of General Kael developed advanced warships and refined tactics that could potentially rival the Rescueland Navy.
-Rescueland's intelligence had detected unusual military movements from Horsa, prompting military strategists, including Commander of War, Nuchie, to assume a posture of readiness. With a fleet numbering a few hundred thousand ships—an impressive size but still dwarfed by the scales possible in the galaxy—the Rescueland military prepared for potential engagement.
+Rescueland's intelligence had detected unusual military movements from Horsa, prompting military strategists, including Commander of War, Nuchie, to assume a posture of readiness. With a fleet numbering a few hundred thousand ships —an impressive size but still dwarfed by the scales possible in the galaxy — the Rescueland military prepared for potential engagement.
 
-As relations deteriorated, skirmishes broke out near Horsa’s outer rim. In the early months of 111 ADOTR, two fleets collided in what would become one of the first significant space battles of the war.
+As relations deteriorated, skirmishes broke out near Horsa’s outer rim. In the early months of 508 ADOTR, two fleets collided in what would become one of the first significant space battles of the war.
 The Rescueland fleet, organized into a cohesive task force of Interceptors, Battleships, and Pocket Destroyers, advanced towards Horsa’s territory. Nuchie led the fleet from the bridge of the flagship, the Perigrine, a class-A Battleship.
 
 The first engagement involved a clash between Rescueland Interceptors and Horsa Interceptors. Agile maneuvers and precise targeting software allowed Rescueland’s small but advanced interceptor squadrons to hold their ground against Horsa’s opponents.

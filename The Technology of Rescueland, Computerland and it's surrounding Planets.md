@@ -177,7 +177,7 @@ The scarcity of this metal makes it significantly more expensive compared to oth
 
 #### Common Uses:
 - Wires: Utilized in high-speed data and power transmission systems.
-- Slit Bombs: Integrated into some slit bombs, due to it's longer lifespan. 
+- Slit Bombs: Integrated into some slit bombs, due to it's toughness. 
 - Heat Shields: High melting temperature allows it to protect a spacecraft constantly exposed to extreme heat.
 - Gears: Employed in sophisticated machinery where strength and precision are required for operational efficiency.
 - Hinges: Crafted for robust movable parts in various applications, where durability is critical.
@@ -282,15 +282,15 @@ Rescueland Robots are categorized into eight major groups, each with different j
 
 - Regular FCRT's: These FCRT's are the most common type, acting as civilians and soldiers.
 
-![](screenshots/RegularFCRT.png)
+![](images/RegularFCRT.png)
 
 - Pilot FCRT's: These FCRT's specialise in piloting all transports.
 
-![](screenshots/PilotFCRT.png)
+![](images/PilotFCRT.png)
 
 - Spy FCRT's: These FCRT's are disguised as an asteroid with extra cloaking devices, built to spy on enemies.
 
-![](screenshots/SpyFCRT.png)
+![](images/SpyFCRT.png)
 
 # Ships and their Systems
 
