@@ -2,24 +2,22 @@ This file will give a breif overview of major planets, ordered by distance to Re
 
 ## Keys
 Name: The name of the planet
-Pronounced: The pronounciation of the name
-Capital: The capital city of the planet
-Leader: The leader, or political system of the planet
-Power Status: Every inhabited planet has a number assigned to it, ordering it's military power.
-Tech level: How high the technology is, on a scale of 1-12, or military
-Population: The population of the planet
-Atmospere: The main gasses of the atmoshere
-General: General information
 
-Name:
-Pronounced:
-Capital:
-Leader:
-Power Status:/6000000000
-Tech Level: 
-Population:
-Atmosphere:
-General:
+Pronounced: The pronounciation of the name
+
+Capital: The capital city of the planet
+
+Leader: The leader, or political system of the planet
+
+Power Status: Every inhabited planet has a number assigned to it, ordering it's military power.
+
+Tech level: How high the technology is, on a scale of 1-12, or military
+
+Population: The population of the planet
+
+Atmospere: The main gasses of the atmoshere
+
+General: General information
 
 # Core Systems
 
@@ -234,7 +232,7 @@ General: Filcho focuses on research and exploration with lightly armed research 
 
 
 
-### Wana
+## Wana
 
 Name: Wana
 
@@ -256,7 +254,7 @@ General: A hub for experimental technologies, Wana fosters new inventions that s
 
 
 
-### Wonto
+## Wonto
 
 Name: Wonto
 
@@ -278,7 +276,7 @@ General: A small, peaceful planet focused on ecological restoration, Wonto is ri
 
 
 
-### Fufe
+## Fufe
 
 Name: Fufe
 
@@ -300,7 +298,7 @@ General: A vibrant agricultural planet, Fufe exports food supplies, featuring co
 
 
 
-### N2
+## N2
 
 Name: N2
 
@@ -322,7 +320,7 @@ General: The weakest planet in the Rescueland Empire, N2 joined due to threats f
 
 
 
-### Nelula
+## Nelula
 
 Name: Nelula
 
@@ -344,7 +342,7 @@ General: Nelula serves as the guardian of N2, ensuring no major threats arise ag
 
 
 
-### Ehana
+## Ehana
 
 Name: Ehana
 
@@ -366,7 +364,7 @@ General: A desert planet that harnesses solar energy, Ehana is largely self-suff
 
 
 
-### Heloa
+## Heloa
 
 Name: Heloa
 
@@ -388,7 +386,7 @@ General: Known for its deep-space exploration programs, Heloa is home to Lumen U
 
 
 
-### Keluha
+## Keluha
 
 Name: Keluha
 
