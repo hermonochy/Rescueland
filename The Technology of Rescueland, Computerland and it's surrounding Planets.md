@@ -18,10 +18,7 @@ L = Lower tech
 
 # Contents
 ## Metals
-[Conductium](#conductium-c-con-duct-ee-umm)
-,
-[Atomon](#atomon-c-ah-tom-on)
-,
+
 [Techanda](#techanda-u-teh-chuhn-dahh)
 ,
 [Eleha](#eleha-r-ellieeh-hah)
@@ -39,6 +36,10 @@ L = Lower tech
 [Vermithium](#vermithium-r-ver-mih-thi-um)
 ,
 [Quorite](#quorite-u-kwor-ite)
+,
+[Conductium](#conductium-c-con-duct-ee-umm)
+,
+[Atomon](#atomon-c-ah-tom-on)
 
 ## Rescueland Robots
 
@@ -146,16 +147,13 @@ L = Lower tech
 
 ## Metals
 
-### Conductium \(C\) con-duct-ee-umm
-Conductium is what the Center of Computerland is made of. It has a 100% electrical transfer efficiency and is roughly as dense as hydrogen, even though the atom is 300 times bigger than francium. The conductuim atom has 24 protons and 2000 neutrons but only 1 electron. This is the reason it is good at keeping electrons. To extract the electron, you need a special isotope of conductium. The bonds conductium makes are almost indestructible and because of this harvesting and moulding the material is incredibly expensive. This has the upside of only melting at the same temperature as dark material, although this is a bad idea as the neutron structure will deform. The uses of conductium include:
+## Darkmaterial, Greymaterial and Lightmaterial (U)
 
-- High accuracy electrical transfer.
-- \(uinfinity_t\)-1 speed electron cannons.
-- Cross planet power transfer.
-- Quantum research \(the atom size helps with research\).
+Darkmaterial is a very rare substance, fought for by many. Grey and Lightmaterial are chemically identical to Darkmaterial, but have different purposes. 
 
-### Atomon \(C\) ah-tom-on
-Atomon is a very small atom, roughly the size of hydrogen but has the upside of being very thin, small, and strong for electrical insulation. The reason Atomon is so strong is because it forms when a extremely high voltage flows through pure hydrogen \(mandatory no explosions occur\) for around 1,000,000 years and two hydrogen atoms half merge and loses one electron. This means whenever electricity tries to pass through, it will work because of the spare electron spot. However, due to the half merged state when two electrons try to pass through in a short span of the time \(high power electricity\) it will try to accept two electrons and then reject them immediately and not allow any current to flow. The most common use case for this is very reliable and reusable high power fuses.
+### Darkfighters, Greyfighters and Lightfighters
+
+The most famous use of this substance is to build practically indestructible fighters. The only known way to destroy these ships is to slam them, at almost infinite speed, into a Force Field Gel. This is also how the fighters are made. The material needs to be shaped into a fighter by slamming small Force Field Gel balls into the machine at the necessary speed and precision. This is why the little Force Field Gel that other planets obtain is saved, should they find some Darkmaterial. The process is the most expensive one known in the entire multiverse, which is why there are only a few dozen of them, though they are increasing in number. Therefore, these ships are, in a way, the atomic bombs of the multiverse.
 
 ### Techanda (U) Teh-chuhn-dahh
 
@@ -255,6 +253,18 @@ Quorite is an ultra-durable and low-density metal recognized for its unique resi
 - Protective Coatings: Often applied as a surface treatment for vehicles and machinery to enhance longevity.
 - High-Stress Components: Utilized in situations requiring materials that can endure physical abuse.
 - Military Gear: Employed in armor systems and protective wear.
+
+### Conductium \(C\) con-duct-ee-umm
+Conductium is what the Center of Computerland is made of. It has a 100% electrical transfer efficiency and is roughly as dense as hydrogen, even though the atom is 300 times bigger than francium. The conductuim atom has 24 protons and 2000 neutrons but only 1 electron. This is the reason it is good at keeping electrons. To extract the electron, you need a special isotope of conductium. The bonds conductium makes are almost indestructible and because of this harvesting and moulding the material is incredibly expensive. This has the upside of only melting at the same temperature as dark material, although this is a bad idea as the neutron structure will deform. The uses of conductium include:
+
+- High accuracy electrical transfer.
+- \(uinfinity_t\)-1 speed electron cannons.
+- Cross planet power transfer.
+- Quantum research \(the atom size helps with research\).
+
+### Atomon \(C\) ah-tom-on
+Atomon is a very small atom, roughly the size of hydrogen but has the upside of being very thin, small, and strong for electrical insulation. The reason Atomon is so strong is because it forms when a extremely high voltage flows through pure hydrogen \(mandatory no explosions occur\) for around 1,000,000 years and two hydrogen atoms half merge and loses one electron. This means whenever electricity tries to pass through, it will work because of the spare electron spot. However, due to the half merged state when two electrons try to pass through in a short span of the time \(high power electricity\) it will try to accept two electrons and then reject them immediately and not allow any current to flow. The most common use case for this is very reliable and reusable high power fuses.
+
         
 # Rescueland Robots (R)
 
@@ -383,15 +393,6 @@ Holo-Decoy systems utilize advanced holographic technology to create realistic i
 ### FCRT DarkArmour (R)
 
 DarkArmour (see below), an FCRT defence layer plated only a few femtometers thick, make it hard to destroy an FCRT, even if not FFG protected. A successful attack requires shooting under the layers of plates for having even a remote chance of destroying the FCRT.
-
-## Darkmaterial, Greymaterial and Lightmaterial (U)
-
-Darkmaterial is a very rare substance, fought for by many. Grey and Lightmaterial are chemically identical to Darkmaterial, but have different purposes. 
-
-### Darkfighters, Greyfighters and Lightfighters
-
-The most famous use of this substance is to build practically indestructible fighters. The only known way to destroy these ships is to slam them, at almost infinite speed, into a Force Field Gel. This is also how the fighters are made. The material needs to be shaped into a fighter by slamming small Force Field Gel balls into the machine at the necessary speed and precision. This is why the little Force Field Gel that other planets obtain is saved, should they find some Darkmaterial. The process is the most expensive one known in the entire multiverse, which is why there are only a few dozen of them, though they are increasing in number. Therefore, these ships are, in a way, the atomic bombs of the multiverse.
-
 
 ## Weaponry
 
