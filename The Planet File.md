@@ -584,4 +584,4 @@ Population: N/a
 
 Atmospere: N/a
 
-General: While not technicaly part of the Rescueland Empire, this planet made solely of computers has remained a close ally of them scince 14 ADOTR.
+General: While not technicaly part of the Rescueland Empire, this planet made solely of a Conductium core and sentient electricity has remained a close ally of them scince 14 ADOTR.
