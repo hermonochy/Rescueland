@@ -559,7 +559,7 @@ Power Status: 3650000000/6000000000
 Tech Level: 6
 
 Population: 4,000,000,000
-#
+
 Atmosphere: Oxygen 40%, Nitrogen 40%, Carbon Dioxide 20%
 
 General: Terranova is one of the greenest planets known, with 90% of the planet being covered in some form of plant.
