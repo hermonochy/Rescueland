@@ -1,6 +1,6 @@
 # Rescueland
 
-This is a repository where everything about Rescueland and Computerland will be recorded. This includes the technology, the history  and the planets (so far).
+Repository compiling  notes and data about Rescueland and Computerland, including the technology, the history  and the planets (so far).
 
 ## [The Technology of Rescueland, Computerland and it's surrounding Planets](https://github.com/hermonochy/Rescueland_books/blob/main/The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md)
 
