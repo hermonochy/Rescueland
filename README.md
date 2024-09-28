@@ -10,4 +10,6 @@ This is a book that explains all the technology and resources of Rescueland and 
 
 This file will describe all major events of Rescueland in detail.
 
+## [The Planet File](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md)
 
+This file will include details about all major planets in the Rescueland Empire.
