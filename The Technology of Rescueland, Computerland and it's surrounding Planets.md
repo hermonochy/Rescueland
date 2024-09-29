@@ -134,7 +134,7 @@ L = Lower tech
 ## Civilian
 
 [FCRT Suit](#the-fcrt-suit-r)
-'
+,
 [Exoskeleton Suit](#exoskeleton-suit-l)
 ,
 [AquaPurifier](#aquapurifier-l-ah-kwah-pur-if-eye-er)
