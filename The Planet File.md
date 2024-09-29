@@ -1,6 +1,7 @@
 This file will give a breif overview of major planets, ordered by distance to Rescueland.
 
 ## Keys
+
 Name: The name of the planet
 
 Pronounced: The pronounciation of the name
@@ -11,7 +12,7 @@ Leader: The leader, or political system of the planet
 
 Power Status: Every inhabited planet has a number assigned to it, ordering it's military power.
 
-Tech level: How high the technology is, on a scale of 1-12, or military
+Tech level: How high the technology is, on a scale of 1-12, or military. 1 means it is stone age level, 12 as high as it can go. Earth would be a level 3 planet.
 
 Population: The population of the planet
 
@@ -316,7 +317,7 @@ Population: 15 million
 
 Atmosphere: Nitrogen 70%, Oxygen 25%, Argon 4%
 
-General: The weakest planet in the Rescueland Empire, N2 joined due to threats from Bad Guy Land.
+General: The weakest planet in the Rescueland Empire, N2 joined due to threats from Bad Guy Land. There is no set leader, as the entire planet is split up into tribes on average about a thousand strong.
 
 
 
