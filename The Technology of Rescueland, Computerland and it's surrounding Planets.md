@@ -134,6 +134,8 @@ L = Lower tech
 ## Civilian
 
 [FCRT Suit](#the-fcrt-suit-r)
+'
+[Exoskeleton Suit](#exoskeleton-suit-l)
 ,
 [AquaPurifier](#aquapurifier-l-ah-kwah-pur-if-eye-er)
 ,
@@ -142,6 +144,8 @@ L = Lower tech
 [LightSphere](#lightsphere-l)
 ,
 [ClimatePod](#climatepod-l)
+,
+[Urban Transport Pod](#urban-transport-pod-l)
 
 # General
 
@@ -584,6 +588,9 @@ The suit features advanced health monitoring systems that continuously assess th
 - Biometric Sensors: Embedded sensors track vital signs including heart rate, oxygen levels, and stress indicators. The data is analyzed continuously to identify potential health risks.
 - Combat Recovery Protocol: In the event of injury, the suit can administer localized therapeutics, such as pain relief or clotting agents, aiding in rapid recovery during engagement.
 
+## Exoskeleton Suit (L)
+
+The Exoskeleton Suit enhances user strength and mobility, making everyday tasks easier. It is especially useful for heavy lifting and assisting those with mobility challenges, designed as a weaker, more basic FCRT suit which only enhances strength and precision, carrying no weaponry or defense.
 
 ## AquaPurifier (L) Ah-kwah-pur-if-eye-er
 
@@ -644,7 +651,9 @@ The ClimatePod is a temperature control device that intuitively adjusts the indo
 - Energy Efficiency: Reduces energy consumption through adjustments based on real-time usage and occupancy.
 - Allergy Reduction: Improved air circulation helps to minimize musty smells and allergens, creating a healthier living environment.
 
+## Urban Transport Pod (L)
 
+The Urban Transport Pod serves as an efficient and compact personal transport vehicle, specifically designed for urban environments. With a sleek and ergonomic design, this pod offers a safe and comfortable ride with advanced navigation systems that allow for seamless routing through city traffic. It can go under water, on ground or fly.
 
 
 
