@@ -26,19 +26,19 @@ General: General information
 
 Name: Rescueland/Recua
 
-Pronounced: resc-ooh-laned/R(with tongue roll)-ekk-ooh-ahh
+Pronounced: resc-ooh-laned/r(with tongue roll)-ekk-ooh-ahh
 
 Capital: Non-existent
 
-Leader: none
+Leader: none (except during war, where Weda can take control)
 
 Power Status: 5999999999/6000000000
 
 Tech Level: military + 12
 
-Population: 89798985759375000 septillion
+Population: 8.9798*10^18 
 
-Atmospere: Nitrogen 90%,hydrogen 8%, oxygen 1%
+Atmospere: Nitrogen 90%, Hydrogen 8%, Oxygen 1%
 
 General: The entire planet is sometimes covered in the largest FFG known in history. If an invasion is attempted, they must collect right infront of the FFG until it expires.
 
@@ -181,7 +181,7 @@ Power Status: 5908648566/6000000000
 
 Tech Level: 9
 
-Population: 45 billion
+Population: 45 trillion
 
 Atmosphere: Oxygen 55%, Nitrogen 30%, Trace gases 15%
 
@@ -203,7 +203,7 @@ Power Status: 5908648564/6000000000
 
 Tech Level: 8
 
-Population: 78 billion
+Population: 780 billion
 
 Atmosphere: Oxygen 60%, Nitrogen 30%, Methane 10%
 

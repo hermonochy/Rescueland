@@ -149,13 +149,13 @@ L = Lower tech
 
 # General
 
-## Metals
+## Materials
 
-## Darkmaterial, Greymaterial and Lightmaterial (U)
+### Darkmaterial, Greymaterial and Lightmaterial (U)
 
 Darkmaterial is a very rare substance, fought for by many. Grey and Lightmaterial are chemically identical to Darkmaterial, but have different purposes. 
 
-### Darkfighters, Greyfighters and Lightfighters
+#### Darkfighters, Greyfighters and Lightfighters
 
 The most famous use of this substance is to build practically indestructible fighters. The only known way to destroy these ships is to slam them, at almost infinite speed, into a Force Field Gel. This is also how the fighters are made. The material needs to be shaped into a fighter by slamming small Force Field Gel balls into the machine at the necessary speed and precision. This is why the little Force Field Gel that other planets obtain is saved, should they find some Darkmaterial. The process is the most expensive one known in the entire multiverse, which is why there are only a few dozen of them, though they are increasing in number. Therefore, these ships are, in a way, the atomic bombs of the multiverse.
 
@@ -562,11 +562,11 @@ The anti-bunker drill is the method Rescueland uses when they needs to capture t
 
 ## The FCRT Suit (R)
 
-The FCRT Suit represents a remarkable fusion of advanced materials, cutting-edge technology, and human enhancement, allowing living organisims the features of FCRT's. Designed for emergency civilian use, this ultra thin suit grants its wearer extraordinary capabilities including flight, enhanced durability, and a suite of offensive and defensive systems. Crafted from Darkmaterial plates and eleha, the suit is lightweight yet incredibly strong, allowing for unparalleled maneuverability while ensuring the wearer’s safety.
+The FCRT Suit represents a remarkable fusion of advanced materials, cutting-edge technology, and human enhancement, allowing living organisims the features of FCRT's. Designed for emergency civilian use, this ultra thin suit grants its wearer extraordinary capabilities including flight, superior endurance, and a suite of offensive and defensive systems. Crafted from Darkmaterial plates and eleha, the suit is lightweight yet incredibly strong, allowing for unparalleled maneuverability while ensuring the wearer’s safety.
 
 ### Key Features
 
-1.Flight Capability: The paramount feature of the FCRT Suit is its flight system, which integrates several technologies for safe and agile aerial maneuvering.
+1.Flight Capability: The main feature of the FCRT Suit is its flight system, which integrates several technologies for safe and agile aerial maneuvering.
 
 2.Indestructibility: The suit’s structural integrity is achieved through a combination of technologies, providing an almost indestrucible suit. The outer layer of the suit incorporates a nano-composite material that utilizes carbon nanotubes and graphene, rendering it nearly indestructible against a variety of physical impacts.
 - Reactive Armor Technology: The suit features integrated reactive armor that activates upon high-velocity impacts or projectiles. Sensors can detect incoming threats and trigger a countermeasure response that absorbs or deflects the impact.
@@ -648,7 +648,6 @@ The ClimatePod is a temperature control device that intuitively adjusts the indo
 
 ### Common Uses:
 - Year-Round Comfort: Maintains a comfortable living environment regardless of outside weather conditions.
-- Energy Efficiency: Reduces energy consumption through adjustments based on real-time usage and occupancy.
 - Allergy Reduction: Improved air circulation helps to minimize musty smells and allergens, creating a healthier living environment.
 
 ## Urban Transport Pod (L)
