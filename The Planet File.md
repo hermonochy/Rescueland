@@ -1,10 +1,10 @@
-This file will give a breif overview of major planets, ordered by distance to Rescueland.
+This file will give a brief overview of major planets, ordered by distance to Rescueland.
 
 ## Keys
 
 Name: The name of the planet
 
-Pronounced: The pronounciation of the name
+Pronounced: The pronounciation of the planet name
 
 Capital: The capital city of the planet
 
@@ -12,11 +12,11 @@ Leader: The leader, or political system of the planet
 
 Power Status: Every inhabited planet has a number assigned to it, ordering it's military power.
 
-Tech level: How high the technology is, on a scale of 1-12, or military. 1 means it is stone age level, 12 as high as it can go. Earth would be a level 3 planet.
+Tech level: How high the technology is, on a scale of 1-12, or military. 1 means it is stone age level, 12 as high as it can go. Earth is a level 3 planet in this scale.
 
-Population: The population of the planet
+Population: The number of inhabitants
 
-Atmospere: The main gasses of the atmoshere
+Atmosphere: The main gasses of the atmoshpere
 
 General: General information
 
