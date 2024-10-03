@@ -94,7 +94,7 @@ Leader: Erros
 
 Power Status: 5000132320/6000000000
 
-Tech Level: 3
+Tech Level: 6
 
 Population: 7.8 billion
 
@@ -122,7 +122,7 @@ Population: 34.2 quadrillion
 
 Atmosphere: 
 
-General: This was the first non-core planet to join the planet. The flora, covering most of this planet, is senitent.
+General: This was the first non-core planet to join the empire. The flora, covering most of this planet, is sentient.
 
 ## Klesone
 
@@ -142,7 +142,7 @@ Population: 652 quintillion
 
 Atmosphere: hydrogen 90%, helium 9%, methane 0.7%
 
-General: This planet is massive and hot, and was on verge of becoming a star. It is also one of the most powerful supporters of Rescueland, and it is they who gave the Super Owls the first Super Two's.
+General: This planet is massive and hot, and was on verge of becoming a star. It is also one of the most powerful supporters of Rescueland, and it is they who gave the Super Owls the first Super Two's, the most advanced robots developed on Klesone at the time.
 
 ## Oxo
 
@@ -162,7 +162,7 @@ Population: 1.2 million
 
 Atmosphere: sodium 80%, potassium 18%
 
-General: This is a dwarf planet which orbits Klesone, with the same leader. There are regular shuttles in between the two.
+General: This is a moon which orbits Klesone, with the same leader. There are regular shuttles in between the two.
 
 
 ## The Fil System
@@ -207,7 +207,7 @@ Population: 780 billion
 
 Atmosphere: Oxygen 60%, Nitrogen 30%, Methane 10%
 
-General: The weakest of the three Fil planets, Filna is defenseless and relies on Filto for protection.
+General: The weakest of the three Fil planets, Filna is defenseless and relies on Filto for protection. It produces civilian goods for the system.
 
 
 
@@ -273,7 +273,7 @@ Population: 2 billion
 
 Atmosphere: Oxygen 45%, Carbon Dioxide 30%, Helium 25%
 
-General: A small, peaceful planet focused on ecological restoration, Wonto is rich in biodiversity and dedicated to preserving life.
+General: A small, peaceful planet focused on ecological restoration, Wonto is rich in biodiversity and dedicated to preserve life.
 
 
 
@@ -289,7 +289,7 @@ Leader: The Unitary Council
 
 Power Status: 2900000000/6000000000
 
-Tech Level: 4
+Tech Level: 5
 
 Population: 250 million
 
@@ -441,7 +441,7 @@ Power Status: 4556732960/6000000000
 
 Tech Level: 7
 
-Population: 5,200,000,000 million
+Population: 5.2 quadrillion
 
 Atmosphere: Oxygen 40%, Argon 30%, Neon 26%
 
@@ -462,7 +462,9 @@ Power Status: 5200000000/6000000000
 Tech Level: 8
 
 Population: 100 billion
+
 Atmosphere: Carbon Dioxide 70%, Sulfur Dioxide 20%, Methane 10%
+
 General: Known for its vast mines, Metallara is a heavily industrialized planet where robots specialize in metal extraction and manufacturing.
 
 ## Celestara
@@ -480,6 +482,7 @@ Power Status: 3000000000/6000000000
 Tech Level: 7
 
 Population: 380 million
+
 Atmosphere: Nitrogen 50%, Oxygen 36%, Argon 13%
 
 General: A visually stunning planet with bioluminescent flora, Celestara is one of the largest attractions for artists and biologists.
@@ -520,7 +523,6 @@ Tech Level: 9
 
 Population: 800 trillion
 
-
 Atmosphere: Carbon Monoxide 50%, Vaporized Minerals 30%, Oxygen 20%
 
 General: A volcanic planet with intense geothermal activity, Ignis Terra is characterized by its heat-based technologies.
@@ -559,7 +561,7 @@ Power Status: 3650000000/6000000000
 
 Tech Level: 6
 
-Population: 4,000,000,000
+Population: 4 billion
 
 Atmosphere: Oxygen 40%, Nitrogen 40%, Carbon Dioxide 20%
 
