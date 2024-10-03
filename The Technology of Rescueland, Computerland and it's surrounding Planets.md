@@ -272,21 +272,24 @@ Atomon is a very small atom, roughly the size of hydrogen but has the upside of 
         
 # Rescueland Robots (R)
 
+Aside from Super Owls, the main civilians of Rescueland are Rescueland robots, such as FCRT's.
+
 ## Robot Personality
 
-Rescueland Robots are designed with a unique personality framework that sets them apart from normal robots. This framework is a result of an innovative gas injected every hundred years, known informally as "Rescueland Gas." This gas, though unknown why, causes the robots to have emotions, thoughts and imaginations. As a result, these robots become more than mere machines; they exhibit characteristics akin to living beings.
-The emotional spectrum of a Rescueland Robot is as complex as a human one, allowing them to engage meaningfully with the world around them. They can learn and adapt their personalities based on interactions and experiences, leading to highly individualized robots that resonate with their users. Each robot has a distinct personality profile that remains unchanged, even when the gas is replenished. 
+Rescueland Robots are designed with a unique personality that sets them apart from normal robots. This is a result of an innovative gas injected every hundred years, known informally as "Rescueland Gas." This gas, though unknown why, causes the robots to have emotions, thoughts and imaginations. As a result, these robots become more than machines; they exhibit the characteristics of living beings.
+The emotional spectrum of a Rescueland Robot is as complex as a living one, allowing them to engage meaningfully with the world around them. In the event of gas having been entirely consumed, behaviour reverts to that of a conventional robot. Each robot has a distinct personality that remains unchanged after replenishing the consumed gas. 
 
 ## Robot Versions
 
-Rescueland Robots are dynamic entities, constantly undergoing upgrades and enhancements that can result in new iterations, often warranting a change in their designation. Each version reflects improvements in technology and functionalities.
+Rescueland Robots are constantly undergoing upgrades and enhancements that can result in new iterations, often warranting a change in their designation. Each version reflects improvements in technology and functionalities.
 
 ### Notable Versions:
 
 - Super Two's: This is the first design of robot, gifted to the Super Owls by Klesone.
-- FRJ's: The longest-lasting robot type, remaining unchanged until 105 ADOTR.
+- FRJ's: The longest-reigning robot type, remaining unchanged until 105 ADOTR.
 - Hulk Super FRJ's: A more powerful version of the FRJ's, specificaly designed for battle against Horsa.
-- 
+- FRT's: A prototype version of the FCRT's.
+- FCRT's: Currently the most modern type of robot are the FCRT's.
 
 ## Robot Types
 
@@ -294,7 +297,7 @@ Rescueland Robots are categorized into eight major groups, each with different j
 
 ### Types in order of population
 
-- Regular FCRT's: These FCRT's are the most common type, acting as civilians and soldiers.
+- Regular FCRT's: These FCRT's are the most common type, acting as both civilians and soldiers.
 
 ![](images/RegularFCRT.png)
 
@@ -322,7 +325,6 @@ There are many different types and colours of engine each with different propert
 - 🔵️ = fastest startup engine (R)
 - ⚪️ = cleanest engine (R)
 - 🟠️ = most common engine (U)
-
 
 - 🩷 = fastest engine (H)
 - 🟣️ = hottest engine (H)
@@ -451,9 +453,9 @@ The second type of laser has three functions: stunning electronics, destroying s
 
 These fusion-based weapons convert atomic energy into focused blasts, capable of incredible damage. The cannons can also vary their output intensity, allowing for both wide-area suppression and pinpoint strikes. They have a multi-purpose functionality, enabling tactical versatility and devastating offensive power, perfect for engaging multiple targets or focusing on a single high-value enemy ship. These can be repelled by most shields though, so are not commonly used.
 
-##### Cataclysm Beam Projectors (L)
+##### Solar Beam Projectors (L)
 
-This weapon is an enormous energy beam that harness the power of a star to discharge concentrated energy onto a target ship, resulting in catastrophic disintegration of hull and systems. Capable of crippling the most ships with a single blast, they are effective across vast distances and are usually fired from a planet.
+This weapon is an enormous energy beam that harness the power of a star to discharge concentrated energy onto a target ship, resulting in catastrophic disintegration of hull and systems. Capable of crippling the many ships with a single blast, they are effective across vast distances and are usually fired from a planet.
 
 
 ##### FCRT Lasers
@@ -502,38 +504,38 @@ These launchers fire projectiles that harness tachyon particles. They were capab
 
 The Mega Flail is a spiked ball which is attached to a ship's belly. When required, it will be launched from a ships belly and crush or spike whatever is below it. It will then be pulled back with a rope attached to it. The only army that uses this is the Horsa army.
 
-#### Explosives
+### Explosives
 
-##### Hydro-bombs (R+H+F)
+#### Hydro-bombs (R+H+F)
 
 This is a very powerful bomb, capable of taking out a small army. When the bomb hits the surface, it implodes from the pressure. The force causes the shell to break apart, and the explosives inside explode at full force. The shock-wave of the bomb travels outward in a ripple, destroying anything in it's path. They are very expensive however, so use is limited.
 
-###### Types of hydro-bomb
+##### Types of hydro-bomb
 
 - Quick-sucsession bomb- these are meant to be fired quickly, one after the other. The first is to weaken the target, the second to destroy it and the third to destroy all remaining parts.
 - Surprise bomb- this is a bomb that lets out one lethal shot, giving the enemy no chance to resist.
 - Mini bomb- these are tiny bombs meant to take out a single target. These are not so good though, since the power scales cubically.
 
-##### Rockets (L)
+#### Rockets (L)
 
 These are simply explosive slit bombs. They were popular until the Federre war, but over-use has now made them a luxury.
 
-#### Chemicals
-##### Acid thrower (L)
+### Chemicals
+#### Acid thrower (L)
 
 The acid thrower is an ancient weapon last used in the Horsa war. This design is simple. It acts as a water gun firing highly concentrated acid, dissolving what it touches. This weapon is now rarely used, due to the time needed for it to take effect.
 
-#### Sound
+### Sound
 
-##### Sonic Blasters (L)
+#### Sonic Blasters (L)
 
 Utilizing sound-wave propagation, Sonic Blasters deliver concussive blasts capable of damaging internal organs and shattering structures without traditional explosive means.
 However, they have long since been forgotten as they only work on living organisms and only in an atmosphere.
 
-#### Electromagnetic Pulse (L)
+### Electromagnetic Pulse (L)
 
 The Electromagnetic Pulse (EMP) is a simple but effective piece of technology designed to incapacitate electronic systems and disrupt communication networks. It operates using electromagnetic principles and can range in scale from portable units to large-scale weapons deployed from vehicles or aircraft. The EMP is seen as a non-lethal alternative to traditional explosives, making it a strategic choice in modern warfare and electronic countermeasures.
-##### EMP Types:
+#### EMP Types:
 
 - Focused EMP Projector: A portable device that emits a targeted burst of electromagnetic energy, designed to disable enemy electronics in a specific area without causing physical destruction to infrastructure. Typically used by special operations units.
 
@@ -548,13 +550,13 @@ The Electromagnetic Pulse (EMP) is a simple but effective piece of technology de
 - Cybernetic EMP Field: A system designed to create a localized EMP field around a specific area, protecting it from electronic surveillance and attacks. Often integrated into military installations or VIP protection protocols, it can shield sensitive equipment and personnel from electronic threats.
 
 
-#### Bunkers
+### Bunkers
 
-##### Anti-bunker catapult (L)
+#### Anti-bunker catapult (L)
 
 The anti-bunker catapult is the most common method to destroy the bunker of the enemy. A massive weight, several km long and super dense, is launched from a catapult (also massive!) onto the bunker, but shortly before impact the entire weight is concentrated into a small area, just a few metres across, and crushes a hole into the bunker. However, the bunker usually collapses from the damage, destroying everything inside. Therefore, it can't always be used.
 
-##### Anti-bunker drill (R+B)
+#### Anti-bunker drill (R+B)
 
 The anti-bunker drill is the method Rescueland uses when they needs to capture the bunker. It drills through the ground at incredible speeds, several thousand km/h. However, it is still slower than the anti-bunker catapult, and more expensive, which is why it is not used as often. The hole it drills is 8 metres across. It can drill into the bunker from any direction, except if it is protected by Darkmaterial or FFG. 
 
