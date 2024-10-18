@@ -398,7 +398,7 @@ Holo-Decoy systems utilize advanced holographic technology to create realistic i
 
 ### FCRT DarkArmour (R)
 
-DarkArmour (see below), an FCRT defence layer plated only a few femtometers thick, make it hard to destroy an FCRT, even if not FFG protected. A successful attack requires shooting under the layers of plates for having even a remote chance of destroying the FCRT.
+DarkArmour is an FCRT defenceive layer plated only a few femtometers thick, make it hard to destroy an FCRT, even if not FFG protected. A successful attack requires shooting under the layers of plates for having even a remote chance of destroying the FCRT.
 
 ## Weaponry
 
