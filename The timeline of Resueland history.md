@@ -1,4 +1,4 @@
-This document will show all major events that happened since the DOTR (Discovery Of The Rings). Rescueland years are always measured after this, ADOTR (After Discovery Of The Rings). While there is no such thing as a year on Rescueland, the time period used on Rescueland is about 888 Earth years .
+This document will show all major events that happened since the DOTR (Discovery Of The Rings). Rescueland years are always measured after this, ADOTR (After Discovery Of The Rings). While there is no such thing as a year on Rescueland, the time period used on Rescueland is about 888 Earth years.
 
 
 ## 0 ADOTR: Discovery of the Rings
@@ -177,9 +177,9 @@ Before long, Ultra Bad Guy Land submits, and is drawn into the Rescueland Empire
 
 In 90 ADOTR, the Rescueland Empire discovers a minor threat: Voldim, a planet with aggressive ambitions but limited military capabilities. Although Voldim’s technology is outdated compared to Rescueland’s advanced systems, their leadership mistakenly believes they can challenge the Empire’s dominance in the galaxy. The conflict unfolds quickly, characterized by a rapid series of battles primarily in orbit over Voldim and ultimately on the planet’s surface.
 Voldim, led by the warlord Malgoth, initiates a surprise attack on the outer planets of the Rescueland Empire, seeking to expand their territory and influence. However, their military is disorganized, outdated, and lacking the sophisticated strategies employed by Rescueland.
-Rescueland detects the incoming threats early thanks to their enhanced sensors and communication networks. The Rescueland fleet scrambles to defend the colonies, rapidly mobilizing ships integrated with Force Field Gel.
+Rescueland detects the incoming threats early thanks to their enhanced sensors and communication networks. The Rescueland fleet scrambles to the defence of the planets, rapidly mobilizing ships.
 As Voldim's forces invade, they face swift and overwhelming resistance as the Rescueland fleet closes in. Armed with advanced weapons and shield technologies, Rescueland ships absorb incoming fire while retaliating with devastating strikes against Voldim’s clunky ships.
-The Rescueland fighters engage in aerial dogfights against those of Voldim . The agility and advanced tactics of Rescueland forces quickly establish air superiority, neutralizing Voldim’s initial offensive capabilities.
+The Rescueland fighters engage in aerial dogfights against those of Voldim. The agility and advanced tactics of Rescueland forces quickly establish air superiority, neutralizing Voldim’s initial offensive capabilities.
 In a matter of days, Rescuelanders decimate Voldim’s fleet, forcing Malgoth to retreat to his home planet as the remaining forces disband.
 With Voldim’s fleet in disarray, Rescueland prepares to launch a ground offensive aimed at directly targeting the command center on Voldim. The goal is to neutralize Malgoth's ability to orchestrate further resistance.
 Rescueland forces utilize ships to land on Voldim’s surface, commencing a controlled bombardment on key military installations and army bases as they approach the capital city.
