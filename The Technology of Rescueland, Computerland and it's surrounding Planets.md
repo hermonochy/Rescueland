@@ -17,7 +17,7 @@ B = All Bad Planets tech
 L = Lower tech
 
 # Contents
-## Metals
+## [Materials](#materials-1)
 
 [Techanda](#techanda-u-teh-chuhn-dahh)
 ,
@@ -41,7 +41,7 @@ L = Lower tech
 ,
 [Atomon](#atomon-c-ah-tom-on)
 
-## Rescueland Robots
+## [Rescueland Robots](#rescueland-robots-r)
 
 [Robot Personality](#robot-personality)
 ,
@@ -49,7 +49,7 @@ L = Lower tech
 ,
 [Robot Types](#robot-types)
 
-## Engines
+## [Engines](#engines-1)
 
 [Engine Types](#engine-types)
 ,
@@ -59,9 +59,9 @@ L = Lower tech
 ,
 [Atmospheric Bubble](#atmospheric-bubble-r)
 
-## Military
+## [Military](#military-1)
 
-### Defense
+### [Defence](#defence-1)
 
 [Force Field Gel](#force-field-gel-r)
 ,
@@ -79,11 +79,11 @@ L = Lower tech
 ,
 [Darkmaterial, Greymaterial and Lightmaterial](#darkmaterial-greymaterial-and-lightmaterial-u)
 
-### Weaponry
+### [Weaponry](#weaponry-1)
 
 [Guns](#guns-u)
 
-#### Lasers
+#### [Lasers](#lasers-1)
 
 [Basic Lasers](#basic-lasers)
 ,
@@ -93,7 +93,7 @@ L = Lower tech
 ,
 [Cataclysm Beam Projectors](#cataclysm-beam-projectors-l)
 
-##### FCRT Lasers
+##### [FCRT Lasers](#fcrt-lasers-1)
 
 [P-Series](#p-series-laser-r)
 ,
@@ -113,7 +113,7 @@ L = Lower tech
 ,
 [The Mega Flail](#the-mega-flail-ho)
 
-#### Explosives
+#### [Explosives](#explosives-1)
 
 [Hydro Bombs](#hydro-bombs-rhf)
 ,
@@ -131,7 +131,7 @@ L = Lower tech
 ,
 [Electromagnetic Pulse](#electromagnetic-pulse-l)
 
-## Civilian
+## [Civilian](#civilian-1)
 
 [FCRT Suit](#the-fcrt-suit-r)
 ,
@@ -157,7 +157,7 @@ Darkmaterial is a very rare substance, fought for by many. Grey and Lightmateria
 
 #### Darkfighters, Greyfighters and Lightfighters
 
-The most famous use of this substance is to build practically indestructible fighters. The only known way to destroy these ships is to slam them, at almost infinite speed, into a Force Field Gel. This is also how the fighters are made. The material needs to be shaped into a fighter by slamming small Force Field Gel balls into the machine at the necessary speed and precision. This is why the little Force Field Gel that other planets obtain is saved, should they find some Darkmaterial. The process is the most expensive one known in the entire multiverse, which is why there are only a few dozen of them, though they are increasing in number. Therefore, these ships are, in a way, the atomic bombs of the multiverse.
+The most famous use of this substance is to build practically indestructible fighters. There are only  two known ways to destroy these ships. The first, used by most, is to slam them, at almost infinite speed, into a Force Field Gel. However, it is also possible to use [Mutant FFG](#mutant-ffg) as a cutting device. While this method is far easier and cheaper, it is restricted to the only bearers of this rare substance, Rescueland. This is also how the fighters are made. The material needs to be shaped into a fighter by slamming small Force Field Gel balls into the machine at the necessary speed and precision. This is why the little Force Field Gel that other planets obtain is saved, should they find some Darkmaterial. The process is the most expensive one known in the entire multiverse, which is why there are only a few dozen of them, though they are increasing in number. Therefore, these ships are, in a way, the atomic bombs of the multiverse.
 
 ### Techanda (U) Teh-chuhn-dahh
 
@@ -340,7 +340,7 @@ This is a device that allows kinetic energy to be transformed into higher entrop
 
 ### Atmospheric Bubble (R)
 
-This is a highly advanced design which allows atmospheric vehicles to enter space. When activated, it creates a 'bubble' in which the vehicle can travel.
+This is a highly advanced design which allows atmospheric vehicles to enter space. When activated, it creates a 'bubble' in which the vehicle can travel in an artificial atmosphere.
 
 # Military
 
@@ -348,7 +348,7 @@ This is a highly advanced design which allows atmospheric vehicles to enter spac
 
 ### Force Field Gel (R)
 
-The only known defence that is almost completely impenetrable is Force Field Gel. Only two known weaknesses exist: time and Mutant FFG (see below). This is a defence that only Rescueland has, though many have attempted to get some. NOTHING can get in OR out, effectively taking you out of the battle. Thus, many battleships only use this when they are damaged or a retreat is required. Another anomaly about them is that they behave like non-newtonian substances. The faster something hits the forcefield, the more energy is absorbed into the forcefield and not the object inside.
+The only known defence that is almost completely impenetrable is Force Field Gel. Only two known weaknesses exist: Time and [Mutant FFG](#mutant-ffg). This is a defence that only Rescueland has in mass, though many have attempted to aqquire some. NOTHING can get in OR out, effectively taking you out of the battle. Thus, many ships only use this defence when they are damaged, or a retreat is required. Another anomaly about FFG is that they behave in a similar manner to non-newtonian substances: The faster something hits the forcefield, the more energy is absorbed into it and not the object itself.
 
 #### The process of harvesting FFG
 
@@ -356,13 +356,13 @@ The Force Field Gel is harvested from a well on Rescueland. The dimensions of th
 
 #### Activating the FF
 
-Once the Force Field is ready to be activated, it is ejected as a very thin tube. It spreads out until it surrounds the entire ship, where it solidifies and becomes solid, making the object inside impenetrable. The entire process takes about 1 second, but the FF protecting Rescueland takes several minutes to build up.
+Once the Force Field is ready to be activated, it is ejected as a very thin tube. It spreads out until it surrounds the entire ship, where it solidifies, making the object inside impenetrable. The entire process takes about 1 second, but due to its size, the FFG protecting Rescueland takes several minutes to set up.
 
-One limitation is that it needs to be taken down every 10 years. After 50 years, cracks start to appear on the shield and, after 100, the force field cracks apart and dissipates.
+One limitation is that it needs to be taken down every 10 years. After about 50 years, cracks start to appear on the shield and, after 100, the force field cracks apart and dissipates.
 
 #### Mutant FFG
 
-Only a tiny sample of Mutant FFG exists, found onboard an ancient battleship. This gel has a green tinge, rather than an orange one, and can last for 10 times the length of the regular FF. However, the biggest difference is that it destroys, rather than repels, whatever it comes in contact with, including other FFG's. The process of making it is unknown, though scientists suspect it may have to do with the ring that was crushed while that paticlar batch was being made.
+ This variant of FFG has a green tinge, rather than an orange one, and can last for 10 times the length of the regular FF. Only a tiny sample of Mutant FFG exists, found onboard an ancient battleship. However, the biggest difference is that it destroys, rather than repels, whatever it comes in contact with, including other FFG's. The process of making it is unknown, though scientists suspect it may have something to do with the ring that was crushed while the paticlar batch was being made. The discovery also revolutionised the production of darkfighters, which is why, to this day, Rescueland still has the most darkfighters of all.
 
 ### Plasma Force Fields (U)
 
