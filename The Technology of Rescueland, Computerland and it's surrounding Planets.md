@@ -288,6 +288,7 @@ Rescueland Robots are constantly undergoing upgrades and enhancements that can r
 - Super Two's: This is the first design of robot, gifted to the Super Owls by Klesone.
 - FRJ's: The longest-reigning robot type, remaining unchanged until 105 ADOTR.
 - Hulk Super FRJ's: A more powerful version of the FRJ's, specificaly designed for battle against Horsa.
+- UF's: A large and powerful type of robot specificaly tasked to act as body guards.
 - FRT's: A prototype version of the FCRT's.
 - FCRT's: Currently the most modern type of robot are the FCRT's.
 
@@ -305,7 +306,7 @@ Rescueland Robots are categorized into eight major groups, each with different j
 
 ![](images/PilotFCRT.png)
 
-- Spy FCRT's: These FCRT's are disguised as an asteroid with extra cloaking devices, built to spy on enemies.
+- Spy FCRT's: These FCRT's are disguised as an asteroid, equipped with extra cloaking devices and built to spy on enemy locations.
 
 ![](images/SpyFCRT.png)
 
