@@ -1,6 +1,11 @@
 # Rescueland
 
-Rescueland, a.k.a. Recua, is part of the multiverse, as few people know it. Its location cannot be fathomed by common earthlings, as it is located beyond the borders of the known universe. To give an illustration of scale: If earth-known universe corresponds to the content of a tea cup, the earth would be a single electron, and Rescueland corresponds to the cup containing our known world. Rescueland existed before the the cup was filled, after the event commonly known as big bang.
+Rescueland, a.k.a. Recua, is part of the multiverse, as few people know it. Its location cannot be fathomed by common earthlings, as it is located beyond the borders of the known universe, from which conventional technology on planet earth only senses the background radiation. 
+To give an illustration of scale: If the earth-known universe corresponds to the content of a tea cup, the earth would be a single electron, and Rescueland corresponds to the cup containing our known world. Rescueland existed since when the cup was filled, i.e., the event commonly known as big bang.
+
+Rescueland existance begins:5630630 rly (Resculand years) BDOTR (Before the Discovery of the Rings), which is exactly when Big Bang happened.
+Rescueland has evolved for 500000 earth years anno domini, coming up with technology nobody on earth in 2024 AD would remotely think of being possible. 
+
 Computerland, in the analogon of the tea cup model, is another cup-sized system, so far away that even the longest-range ships find it impractical to travel between Rescueland and Computerland. In this scale, imagine the distance between the Computerland and Rescueland cup corresponding the distance between Spain and New Caledonia.
 
 These are the notes and data about Rescueland and Computerland, including the technology, the history and the planets.
