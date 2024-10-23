@@ -2,7 +2,7 @@ This document shows all major events that have occurred since the DOTR (Discover
 
 ## 5630630 BDOTR: Creation of Rescueland
 
-The Big Bang occurs and Rescueland comes to existence, becoming the outer core of our universe. It is believed that the Force Field Gel existed already.
+The Big Bang occured and Rescueland came to existence, becoming the outer core of our universe. It is believed that the Force Field Gel already existed at this time.
 
 ## 0 ADOTR: Discovery of the Rings
 
@@ -52,7 +52,7 @@ Having spent years rebuilding their military might and increasing their resolve,
 Before launching their main attack, a team of elite Rescuelander scouts infiltrated orbit and gathered critical intelligence about Bad Guy Land's defenses. This information revealed vulnerabilities in Bad Guy Land’s outer orbital defenses and key command structures.
 A united fleet, armed with advanced ships equipped with the latest technologies and battle strategies, was assembled. The Rescuelanders prepared for a coordinated assault to retake their planet.
 The Rescuelanders initiated their campaign with a surprise first strike from their newly equipped fleet. They bombarded strategic targets in the orbital defenses of Bad Guy Land, taking advantage of their superior firepower.
-Utilizing the element of surprise and superior tactics learned from previous battles, they deployed a series of well-coordinated strikes on Bad Guy Land ships, effectively isolating and picking them off one by one while avoiding direct confrontations.
+Utilizing the element of surprise and superior experience learned from previous battles, they deployed a series of well-coordinated strikes on Bad Guy Land ships, effectively isolating and picking them off one by one while avoiding direct confrontations.
 Bad Guy Land commanders reacted and attempted to regroup their forces. They counterattacked with their fleet, engaging in fierce dogfights and launching missile strikes. The Rescuelanders held their ground.
 During the battle, Rescueland bombers targeted the strategic command ship controlling Bad Guy Land’s space force. A coordinated assault successfully breached the defenses, allowing a group of Rescueland battleships to finish off the command ship.
 With the command ship destroyed and the enemy forces disorganized, the remaining Bad Guy Land ships began to retreat. The Rescuelanders swiftly capitalized on the opportunity, driving the remaining hostile forces out and reclaiming control over Rescueland.
@@ -71,7 +71,7 @@ Rescueland shifted its focus to Ukakia, which had forged a dangerous alliance wi
 
 ## 34 ADOTR: The Final Battle Against Bad Guy Land
 
-Years of protracted engagement with Bad Guy Land culminate in escalating tensions. Rescueland forces, emboldened by prior victories and increased resources, prepare for a decisive confrontation that aims to end the taint of oppression once and for all. Diplomatic negotiations have failed, and the Rescuelanders recognize that a full-scale assault is the only avenue left to liberate the oppressed and secure lasting peace. Intelligence reports indicate that Bad Guy Land has amassed its forces in the atmosphere, ready to repel a full-scale invasion while attempting to project power into the surrounding star systems.
+Years of protracted engagement with Bad Guy Land culminated in escalating tensions. Rescueland forces, emboldened by prior victories and increased resources, prepared for a decisive confrontation that aims to end the taint of oppression once and for all. Diplomatic negotiations failed, and the Rescuelanders recognized that a full-scale assault was the only avenue left to liberate the oppressed and secure lasting peace. Intelligence reports indicated that Bad Guy Land had amassed its forces in the atmosphere, ready to repel a full-scale invasion while attempting to project power into the surrounding star systems.
 The Rescueland Empire, having formed alliances with neighboring systems oppressed by the regime, assembles an extensive fleet of capital ships, fighter squadrons, and support vessels. This armada includes advanced starships, agile fighters, and specialized destroyers to ensure overwhelming force.
 Rescueland commanders develop a multi-pronged strategy designed to penetrate the planet's atmosphere while incapacitating the emperor’s fleet in orbit. Initial bombardments are meant to weaken planetary defenses and facilitate a ground assault once space superiority is achieved.
 The Rescueland fleet approaches the planet, initiating tactical strikes on Bad Guy Land’s orbital defenses, including laser turrets and missile platforms stationed around the planet. Wave after wave of the Rescuelanders' capital ships unleash barrages of heavy fire aimed at key structures in orbit.
