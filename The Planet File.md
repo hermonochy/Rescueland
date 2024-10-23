@@ -10,9 +10,21 @@ Capital: The capital city of the planet
 
 Leader: The leader, or political system of the planet
 
-Power Status: Every inhabited planet has a number assigned to it, ordering it's military power.
+Power Status: Every inhabited planet has a number from 1 - 6000000000 assigned to it, ordering it's military power.
 
-Tech level: How high the technology is, on a scale of 1-12, or military. 1 means it is stone age level, 12 as high as it can go. Earth is a level 3 planet in this scale.
+Tech level: How high the technology is, on a scale of 1-12, or military.
+01. Stone age
+02. Medival age
+03. Earth, today
+04. Regular transports available around the system
+05. Begin exploring deeper into the nearby systems
+06. Colonies in nearby systems (Star Wars is at this level)
+07. Have technology to leave their multiverse occasionaly
+08. Able to regularly leave the multiverse
+09. Begin to discover more dangerous, system destroying weaponry
+10. 
+11. 
+12. Highest possible level
 
 Population: The number of inhabitants
 
