@@ -12,7 +12,15 @@ Leader: The leader, or political system of the planet
 
 Power Status: Every inhabited planet has a number from 1 - 6000000000 assigned to it, ordering it's military power.
 
-Tech level: How high the technology is, on a scale of 1-12, or military.
+Space Force Size: Total size of army 
+- Interceptors: No. Interceptors
+- Battle Ships: No. Battle Ships
+- Darkfighters: No. Darkfighters (also includes Grey and Light Fighters)
+Note: Some ships are excluded
+
+Ground Force Size: No. of foot soldiers
+
+Tech Level: How high the technology is, on a scale of 1-12, or military.
 01. Stone age
 02. Medival age
 03. Earth, today
@@ -46,6 +54,13 @@ Leader: none (except during war, where Weda can take control)
 
 Power Status: 5999999999/6000000000
 
+Space Force Size: 370 trillion
+- Interceptors: 360 trillion
+- Battle Ships: 4000
+- Darkfighters: 8
+
+Ground Force Size: 423 septillion
+
 Tech Level: military + 12
 
 Population: 8.9798*10^18 
@@ -65,6 +80,13 @@ Capital: Non-existent
 Leader: none
 
 Power Status: 5048725876/6000000000
+
+Space Force Size: 76,000
+- Interceptors: 75,000
+- Battle Ships: 20
+- Darkfighters: 1
+
+Ground Force Size: 3 million
 
 Tech Level: 11
 
@@ -86,6 +108,13 @@ Leader: Monoquia
 
 Power Status: 5097748458/6000000000
 
+Space Force Size: 1,000
+- Interceptors: 1,000
+- Battle Ships: 5
+- Darkfighters: 0
+
+Ground Force Size: 780,000
+
 Tech Level: 5
 
 Population: 7,200 trillion
@@ -105,6 +134,13 @@ Capital: Ralcia
 Leader: Erros
 
 Power Status: 5000132320/6000000000
+
+Space Force Size: 2300
+- Interceptors: 2200
+- Battle Ships: 30
+- Darkfighters: 0
+
+Ground Force Size: 4,000
 
 Tech Level: 6
 
@@ -128,6 +164,13 @@ Leader: none
 
 Power Status:5063245856/6000000000
 
+Space Force Size: 67 million
+- Interceptors: 66 million
+- Battle Ships: 189
+- Darkfighters: 0
+
+Ground Force Size: 213 billion
+
 Tech Level: 8
 
 Population: 34.2 quadrillion
@@ -148,6 +191,13 @@ Leader: Alpic
 
 Power Status: 5908648567/6000000000
 
+Space Force Size: 254 trillion
+- Interceptors: 253 trillion
+- Battle Ships: 2478
+- Darkfighters: 1
+
+Ground Force Size: 732 trillion
+
 Tech Level: 10
 
 Population: 652 quintillion
@@ -167,6 +217,13 @@ Capital: Rrinai
 Leader: Alpic
 
 Power Status: 5803458538/6000000000
+
+Space Force Size: 130
+- Interceptors: 127
+- Battle Ships: 3
+- Darkfighters: 0
+
+Ground Force Size: 1,780
 
 Tech Level: 10
 
@@ -191,6 +248,13 @@ Leader: Eloha
 
 Power Status: 5908648566/6000000000
 
+Space Force Size: 684 billion
+- Interceptors: 682 billion
+- Battle Ships: 897
+- Darkfighters: 2
+
+Ground Force Size: 35 trillion
+
 Tech Level: 9
 
 Population: 45 trillion
@@ -212,6 +276,13 @@ Capital: Filoho
 Leader: Fulah
 
 Power Status: 5908648564/6000000000
+
+Space Force Size: 0
+- Interceptors: 0
+- Battle Ships: 0
+- Darkfighters: 0
+
+Ground Force Size: 724
 
 Tech Level: 8
 
@@ -235,6 +306,13 @@ Leader: Eholo
 
 Power Status: 5908648565/6000000000
 
+Space Force Size: 0
+- Interceptors: 0
+- Battle Ships: 0
+- Darkfighters: 0
+
+Ground Force Size: 783
+
 Tech Level: 10
 
 Population: 17 billion
@@ -256,6 +334,13 @@ Capital: Nezon
 Leader: King Coators
 
 Power Status: 3223200000/6000000000
+
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
 
 Tech Level: 5
 
@@ -279,6 +364,13 @@ Leader: Tsar Protader
 
 Power Status: 3400000000/6000000000
 
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
+
 Tech Level: 6
 
 Population: 2 billion
@@ -300,6 +392,13 @@ Capital: Brir
 Leader: The Unitary Council
 
 Power Status: 2900000000/6000000000
+
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
 
 Tech Level: 5
 
@@ -323,6 +422,13 @@ Leader: None
 
 Power Status: 0000000310/6000000000
 
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
+
 Tech Level: 1
 
 Population: 15 million
@@ -344,6 +450,13 @@ Capital: Mediay
 Leader: Kahn Coars
 
 Power Status: 3600000000/6000000000
+
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
 
 Tech Level: 5
 
@@ -367,6 +480,13 @@ Leader: High Lord Tacer
 
 Power Status: 3100000000/6000000000
 
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
+
 Tech Level: 6
 
 Population: 600 million
@@ -388,6 +508,13 @@ Capital: Lumen City
 Leader: Luncil
 
 Power Status: 3700000000/6000000000
+
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
 
 Tech Level: 7
 
@@ -411,6 +538,13 @@ Leader: Copace
 
 Power Status: 4000000000/6000000000
 
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
+
 Tech Level: 8
 
 Population: 112 billion
@@ -430,6 +564,13 @@ Capital: unknown
 Leader: unknown
 
 Power Status: 8031270958/6000000000
+
+Space Force Size: 1800
+- Interceptors: Aprox 1700
+- Battle Ships: Aprox 86
+- Darkfighters: N/A
+
+Ground Force Size: 7 - 15 billion
 
 Tech Level: unknown
 
@@ -451,6 +592,13 @@ Leader: Thegences
 
 Power Status: 4556732960/6000000000
 
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
+
 Tech Level: 7
 
 Population: 5.2 quadrillion
@@ -470,6 +618,13 @@ Capital: Ironhold
 Leader: Auor
 
 Power Status: 5200000000/6000000000
+
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
 
 Tech Level: 8
 
@@ -491,6 +646,13 @@ Leader: Prime Minister Equats
 
 Power Status: 3000000000/6000000000
 
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
+
 Tech Level: 7
 
 Population: 380 million
@@ -510,6 +672,13 @@ Capital: Tidal City
 Leader: King Counics
 
 Power Status: 3800000000/6000000000
+
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
 
 Tech Level: 6
 
@@ -531,6 +700,13 @@ Leader: Supreme Pyot
 
 Power Status: 4900000000/6000000000
 
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
+
 Tech Level: 9
 
 Population: 800 trillion
@@ -551,6 +727,13 @@ Leader: Ice Council
 
 Power Status: 3200000000/6000000000
 
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
+
 Tech Level: 5
 
 Population: 1.2 trillion
@@ -570,6 +753,13 @@ Capital: Fres City
 Leader: Governer Ecard
 
 Power Status: 3650000000/6000000000
+
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
 
 Tech Level: 6
 
@@ -592,6 +782,13 @@ Capital: The whole planet
 Leader: Revilo
 
 Power Status: 5999853247/6000000000
+
+Space Force Size:
+- Interceptors:
+- Battle Ships:
+- Darkfighters:
+
+Ground Force Size:
 
 Tech Level: 12
 
