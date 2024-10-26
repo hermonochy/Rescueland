@@ -4,6 +4,8 @@ This file will give a brief overview of major planets, ordered by distance to Re
 
 Name: The name of the planet
 
+Flag: 
+
 Pronounced: The pronounciation of the planet name
 
 Capital: The capital city of the planet
@@ -46,6 +48,8 @@ General: General information
 
 Name: Rescueland/Recua
 
+Flag: ![](images/rescueland_flag.png)
+
 Pronounced: resc-ooh-laned/r(with tongue roll)-ekk-ooh-ahh
 
 Capital: Non-existent
@@ -72,6 +76,8 @@ General: This is the first of the three 'superpowers', along with Helucky and Re
 ## Hermonochy
 
 Name: Hermonochy
+
+Flag: ![](images/hermonochy_flag.png)
 
 Pronounced: Her-mono-cheee
 
@@ -100,6 +106,8 @@ General: This is the ice planet which the Rescuelanders hid on during The War fo
 
 Name: Titan
 
+Flag: 
+
 Pronounced: Tie-tai-n
 
 Capital: Equi
@@ -126,6 +134,8 @@ General: Titan has a very dense foliage and is a very strong supporter of Rescue
 ## Ralfialand
 
 Name: Ralfialand
+
+Flag: 
 
 Pronounced: Ralf-eee-ahh-laned
 
@@ -156,6 +166,8 @@ General: The weakest of the 'core' planets and similar in terrain to Pluto.
 
 Name: Tortisland
 
+Flag: 
+
 Pronounced: Tor-tis-laned
 
 Capital: none
@@ -182,6 +194,8 @@ General: This was the first non-core planet to join the empire. The flora, cover
 ## Klesone
 
 Name: Klesone
+
+Flag: 
 
 Pronounced: Kl-eh-sohn-eh
 
@@ -210,6 +224,8 @@ General: This planet is massive and hot, and was on verge of becoming a star. It
 
 Name: Oxo
 
+Flag: 
+
 Pronounced: Ox-ohh
 
 Capital: Rrinai
@@ -236,6 +252,8 @@ General: This is a moon which orbits Klesone, with the same leader. There are re
 ## Helucky
 
 Name: Helucky
+
+Flag: ![](images/helucky_flag.png)
 
 Pronounced: He-luck-ee
 
@@ -266,6 +284,8 @@ General: This planet is the second of the superpowers, and focuses on quantity. 
 
 Name: Filto
 
+Flag: 
+
 Pronounced: Fill-toe
 
 Capital: Filha
@@ -294,6 +314,8 @@ General: While weak in firepower, the interceptors of Filto are incredibly diffi
 ### Filna
 
 Name: Filna
+
+Flag: 
 
 Pronounced: Fill-nah
 
@@ -324,6 +346,8 @@ General: The weakest of the three Fil planets, Filna is defenseless and relies o
 
 Name: Filcho
 
+Flag: 
+
 Pronounced: fill-chow
 
 Capital: Filaga
@@ -352,6 +376,8 @@ General: Filcho focuses on research and exploration with lightly armed research 
 ## Wana
 
 Name: Wana
+
+Flag: 
 
 Pronounced: Wah-nah 
 
@@ -382,6 +408,8 @@ General: A hub for experimental technologies, Wana fosters new inventions that s
 
 Name: Wonto
 
+Flag: 
+
 Pronounced: Won-toe
 
 Capital: Havenford
@@ -410,6 +438,8 @@ General: A small, peaceful planet focused on ecological restoration, Wonto is ri
 ## Fufe
 
 Name: Fufe
+
+Flag: 
 
 Pronounced: Foo-fay
 
@@ -440,6 +470,8 @@ General: A vibrant agricultural planet, Fufe exports food supplies, featuring co
 
 Name: N2
 
+Flag: 
+
 Pronounced: enn-too
 
 Capital: None
@@ -468,6 +500,8 @@ General: The weakest planet in the Rescueland Empire, N2 joined due to threats f
 ## Nelula
 
 Name: Nelula
+
+Flag: 
 
 Pronounced: Neh-loo-lah
 
@@ -498,6 +532,8 @@ General: Nelula serves as the guardian of N2, ensuring no major threats arise ag
 
 Name: Ehana
 
+Flag: 
+
 Pronounced: Ay-hahn-ah
 
 Capital: Oarime
@@ -526,6 +562,8 @@ General: A desert planet that harnesses solar energy, Ehana is largely self-suff
 ## Heloa
 
 Name: Heloa
+
+Flag: 
 
 Pronounced: Heh-lo-ah
 
@@ -556,6 +594,8 @@ General: Known for its deep-space exploration programs, Heloa is home to Lumen U
 
 Name: Keluha
 
+Flag: 
+
 Pronounced: Keh-loo-hah
 
 Capital: Cryre
@@ -582,6 +622,8 @@ General: A planet rich in crystalline resources, Keluha attracts commerce and fo
 ## Recola
 
 Name: Recola
+
+Flag: ![](images/Recola_flag.png)
 
 Pronounced: Re-coal-ahh
 
@@ -611,6 +653,8 @@ General: The final of the 3 'superpowers' ,Rescueland and Helucky being the othe
 
 Name: Morrel
 
+Flag: 
+
 Pronounced: Moh-r (with tongue roll) -ell
 
 Capital: unknown
@@ -637,6 +681,8 @@ General: Not much is known about this planet, but if there exists a civilisation
 ## Nara
 
 Name: Nara
+
+Flag: 
 
 Pronounced: narr-ah
 
@@ -665,6 +711,8 @@ General: Nara is a planet shrouded in dense clouds, most cities being a single, 
 
 Name: Tonque
 
+Flag: 
+
 Pronounced: Ton-keh
 
 Capital: Ironhold
@@ -691,6 +739,8 @@ General: Known for its vast mines, Tonque is a heavily industrialized planet whe
 ## Naha
 
 Name: Naha
+
+Flag: 
 
 Pronounced: nah-hah
 
@@ -719,6 +769,8 @@ General: A visually stunning planet with bioluminescent flora, Naha is one of th
 
 Name: Aquarion
 
+Flag: 
+
 Pronounced: ah-kwah-ree-on
 
 Capital: Tidal City
@@ -745,6 +797,8 @@ General: Primarily covered by oceans. Only 2.3% of the total surface area is lan
 ## Ignis Terra
 
 Name: Ignis Terra
+
+Flag: 
 
 Pronounced: ig-niss ter-ra
 
@@ -773,6 +827,8 @@ General: A volcanic planet with intense geothermal activity, Ignis Terra is char
 
 Name: Glaciera
 
+Flag: 
+
 Pronounced: glas-ee-air-ah
 
 Capital: Frosthaven
@@ -799,6 +855,8 @@ General: A frozen world dominated by ice and snow, Glaciera's inhabitats are mas
 ## Terranova
 
 Name: Terranova
+
+Flag: 
 
 Pronounced: tehr-ra-nov-ah
 
@@ -828,6 +886,8 @@ General: Terranova is one of the greenest planets known, with 90% of the planet 
 ## Computerland
 
 Name: Computerland
+
+Flag: 
 
 Pronounced: Com-poooh-ter-laned
 
