@@ -52,11 +52,11 @@ Capital: Non-existent
 
 Leader: none (except during war, where Weda can take control)
 
-Power Status: 5999999999/6000000000
+Power Status: 5999999998/6000000000
 
 Space Force Size: 370 trillion
-- Interceptors: 360 trillion
-- Battle Ships: 4000
+- Interceptors: 369 trillion
+- Battle Ships: 834,000
 - Darkfighters: 8
 
 Ground Force Size: 423 septillion
@@ -67,7 +67,7 @@ Population: 8.9798*10^18
 
 Atmospere: Nitrogen 90%, Hydrogen 8%, Oxygen 1%
 
-General: The entire planet is sometimes covered in the largest FFG known in history. If an invasion is attempted, they must collect right infront of the FFG until it expires.
+General: This is the first of the three 'superpowers', along with Helucky and Recola. Rescueland specialises in quality of their troops, even if they have the smallest army. The entire planet is sometimes covered in the largest FFG known in history. If an invasion is attempted, they must collect right in front of the FFG until it expires if a successful invasion is to be attempted.
 
 ## Hermonochy
 
@@ -233,6 +233,32 @@ Atmosphere: sodium 80%, potassium 18%
 
 General: This is a moon which orbits Klesone, with the same leader. There are regular shuttles in between the two.
 
+## Helucky
+
+Name: Helucky
+
+Pronounced: He-luck-ee
+
+Capital: Enah
+
+Leader: The Great Computer
+
+Power Status: 5999999999/6000000000
+
+Space Force Size: 765 octillion
+- Interceptors: 764 octillion
+- Battle Ships: 121,000 
+- Darkfighters: 5
+
+Ground Force Size: 37 septillion
+
+Tech Level: 11
+
+Population: 766 octillion
+
+Atmosphere: Oxygen 55%, Nitrogen 30%, Trace gases 15%
+
+General: This planet is the second of the superpowers, and focuses on quantity. They have the largest interceptor army, large enough to take on both the armies at once. The only reasons they have not attacked yet is because they lack enough battleships and fear the wrath of the Rescueland darkfighters.
 
 ## The Fil System
 
@@ -553,6 +579,34 @@ Atmosphere: Oxygen 60%, Argon 20%, Neon 20%
 
 General: A planet rich in crystalline resources, Keluha attracts commerce and focuses on technological advancements in resource management.
 
+## Recola
+
+Name: Recola
+
+Pronounced: Re-coal-ahh
+
+Capital: Gnogo
+
+Leader: Emperor Astan
+
+Power Status: 5999999997/6000000000
+
+Space Force Size: 567 quadrillion
+- Interceptors: 567 quadrillion 
+- Battle Ships: 6780
+- Darkfighters: 3
+
+Ground Force Size: 146 hexillion
+
+Tech Level: 12
+
+Population: 380 hexillion
+
+Atmosphere: Nitrogen 59%, Oxygen 30%, Argon 10%
+
+General: The final of the 3 'superpowers' ,Rescueland and Helucky being the other two. This superpower focuses on speed for it's ships, and specialises in radar and radio manipulation, having been pulling the strings of the Rescueland-Helucky war scince it started.
+
+
 ## Morrel
 
 Name: Morrel
@@ -580,11 +634,11 @@ Atmosphere:
 
 General: Not much is known about this planet, but if there exists a civilisation capable of operating magic, it is Morrel.
 
-## Aetheron
+## Nara
 
-Name: Aetheron
+Name: Nara
 
-Pronounced: ay-th-eer-on
+Pronounced: narr-ah
 
 Capital: The Cloudspire
 
@@ -605,13 +659,13 @@ Population: 5.2 quadrillion
 
 Atmosphere: Oxygen 40%, Argon 30%, Neon 26%
 
-General: Aetheron is a planet shrouded in dense clouds, most cities being a single, colossal tower. It is renowned for its atmospheric processors that harvest energy from storms, the main supply of energy.
+General: Nara is a planet shrouded in dense clouds, most cities being a single, colossal tower. It is renowned for its atmospheric processors that harvest energy from storms, the main supply of energy.
 
-## Metallara
+## Tonque
 
-Name: Metallara
+Name: Tonque
 
-Pronounced: met-al-lar-ah
+Pronounced: Ton-keh
 
 Capital: Ironhold
 
@@ -619,12 +673,12 @@ Leader: Auor
 
 Power Status: 5200000000/6000000000
 
-Space Force Size:
-- Interceptors:
-- Battle Ships:
-- Darkfighters:
+Space Force Size: 213,000
+- Interceptors: 212,000
+- Battle Ships: 6
+- Darkfighters: 0
 
-Ground Force Size:
+Ground Force Size: 319 million
 
 Tech Level: 8
 
@@ -632,13 +686,13 @@ Population: 100 billion
 
 Atmosphere: Carbon Dioxide 70%, Sulfur Dioxide 20%, Methane 10%
 
-General: Known for its vast mines, Metallara is a heavily industrialized planet where robots specialize in metal extraction and manufacturing.
+General: Known for its vast mines, Tonque is a heavily industrialized planet where robots specialize in metal extraction and manufacturing.
 
-## Celestara
+## Naha
 
-Name: Celestara
+Name: Naha
 
-Pronounced: seh-less-tar-ah
+Pronounced: nah-hah
 
 Capital: Starlight Haven
 
@@ -646,12 +700,12 @@ Leader: Prime Minister Equats
 
 Power Status: 3000000000/6000000000
 
-Space Force Size:
-- Interceptors:
-- Battle Ships:
-- Darkfighters:
+Space Force Size: 120
+- Interceptors: 115
+- Battle Ships: 5
+- Darkfighters: 0
 
-Ground Force Size:
+Ground Force Size: 12 million
 
 Tech Level: 7
 
@@ -659,7 +713,7 @@ Population: 380 million
 
 Atmosphere: Nitrogen 50%, Oxygen 36%, Argon 13%
 
-General: A visually stunning planet with bioluminescent flora, Celestara is one of the largest attractions for artists and biologists.
+General: A visually stunning planet with bioluminescent flora, Naha is one of the largest attractions for artists and biologists.
 
 ## Aquarion
 
