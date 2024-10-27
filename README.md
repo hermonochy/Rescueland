@@ -22,3 +22,7 @@ This file describes all major events of Rescueland in detail.
 ## [The Planet File](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md)
 
 This file compiles details about all major planets in the Rescueland Empire.
+
+## [The Ship Classes of the SuperPowers](https://github.com/hermonochy/Rescueland/blob/main/The%20Ship%20Classes%20of%20the%20SuperPowers.md)
+
+This file will reveal the design basics of all major ship classes.
