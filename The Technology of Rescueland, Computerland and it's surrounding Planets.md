@@ -12,6 +12,8 @@ F = Federre tech
 
 Ho = Horsa tech
 
+Re = Recola tech
+
 B = All Bad Planets tech
 
 L = Lower tech
@@ -330,7 +332,7 @@ There are many different types and colours of engine each with different propert
 - 🩷 = fastest engine (H)
 - 🟣️ = hottest engine (H)
 - 🟤️ = cheapest engine (H)
-- ⚫️ = quietest and coldest engine (H)
+- ⚫️ = quietest and coldest engine (Re)
 
 ## General
 
@@ -348,7 +350,7 @@ This is a highly advanced design which allows atmospheric vehicles to enter spac
 
 ### Force Field Gel (R)
 
-The only known defence that is almost completely impenetrable is Force Field Gel. Only two known weaknesses exist: Time and [Mutant FFG](#mutant-ffg). This is a defence that only Rescueland has in mass, though many have attempted to aqquire some. NOTHING can get in OR out, effectively taking you out of the battle. Thus, many ships only use this defence when they are damaged, or a retreat is required. Another anomaly about FFG is that they behave in a similar manner to non-newtonian substances: The faster something hits the forcefield, the more energy is absorbed into it and not the object itself.
+The only known defence that is almost completely impenetrable is Force Field Gel. Only two known weaknesses exist: Time and [Mutant FFG](#mutant-ffg). This is a defence that only Rescueland has in mass, though some have managed to aqquire small quantities of it. NOTHING can get in OR out, effectively taking you out of the battle. Thus, many ships only use this defence when they are damaged, or a retreat is required. Another anomaly about FFG is that they behave in a similar manner to non-newtonian substances: The faster something hits the forcefield, the more energy is absorbed into it and not the object itself.
 
 #### The process of harvesting FFG
 
@@ -374,7 +376,7 @@ These force fields are purely meant to deflect some slit bombs, creating an elec
 
 ### The Verdant Shield Projector (R)
 
-The Verdant Shield Projector is an innovative defensive system designed to protect Resceland until the FFG is activated. This technology generates an energy shield composed of charged particles that can absorb and dissipate kinetic energy, as well as provide a barrier against certain projectile weapons.
+The Verdant Shield Projector is an innovative defensive system designed to protect Rescueland until the FFG is activated. This technology generates an energy shield composed of charged particles that can absorb and dissipate kinetic energy, as well as provide a barrier against certain projectile weapons.
 
 Functionality: The shield can be deployed quickly in the field and adjusts its energy output based on the level of incoming threat. For example, it can absorb the impact of small arms fire and provide cover against explosion shockwaves.
 Strengths: Highly effective against conventional weapons and offers additional environmental protection (e.g., against chemical or biological agents).
@@ -409,11 +411,11 @@ There are 4 main sizes of cannon: A large cannon, a universal cannon, a small ca
 
 #### The large cannon 
 
-This cannon is used for fast-load slit bombs, Large-damage slit bombs and laserdrones.
+This cannon is used for fast-load slit bombs, large-damage slit bombs and laserdrones.
 
 #### The universal cannon
 
-This is the most common cannon, which can launch basic slit bombs, cluster slit bombs, deep-penetration slit bombs, shielded slit bombs, basic lasers, machine guns and rockets.
+This is the most common cannon size, which can launch basic slit bombs, cluster slit bombs, deep-penetration slit bombs, shielded slit bombs, basic lasers, machine guns and rockets.
 
 #### The small cannon
 
@@ -421,7 +423,7 @@ This cannon fits basic lasers, rockets and a single cluster slit bomb.
 
 #### The extra small cannon
 
-This cannon is rarely used, the main usage being the Helucky darkfighters. It can fit only extra-small slit bombs and basic lasers.
+This cannon is rare, mainly used by tiny ships such as the Helucky darkfighters. It can only fit extra-small slit bombs and basic lasers.
 
 ### Ammo
 
@@ -441,22 +443,22 @@ Lasers are one of the most common ammunitions of civilian and military ships. Th
 - 🩷 = fastest shot (H)
 - 🟣️ = hottest (H)
 - 🟤️ = cheapest (H)
-- ⚫️ = stealthiest (H)
+- ⚫️ = stealthiest(almost impossible to detect) (Re)
 
 These lasers can be of different power, ranging from a simple stun shot to planet destroying power. The lasers can also be short range, lashing out of a cannon like lightning. The advantage of this is that it can manoeuvre, so it almost never misses. There are also laserdrones, which are rocket propelled tubes have laser tips.
 
 ##### Beamers (R+H+F)
 
-The second type of laser has three functions: stunning electronics, destroying ships and telekinesis. However, this laser type is limited to 5 km, whereas other weapons have a range of several trillion light years. This makes it impractical in most battles, so it is not very popular. They come in 4 colours of beam: green, red, gold and pink.
+This second type of laser has three functions: stunning , destroying and telekinesis. However, this laser type is difficult to aim and is limited to 5 km, whereas other weapons have a range of several trillion light years. This makes it impractical in most battles, so it is not very popular. They come in 4 colours of beam: green, red, gold and pink.
 
 
 ##### Hyperion Fusion Cannons (C)
 
-These fusion-based weapons convert atomic energy into focused blasts, capable of incredible damage. The cannons can also vary their output intensity, allowing for both wide-area suppression and pinpoint strikes. They have a multi-purpose functionality, enabling tactical versatility and devastating offensive power, perfect for engaging multiple targets or focusing on a single high-value enemy ship. These can be repelled by most shields though, so are not commonly used.
+These fusion-based weapons convert atomic energy into focused blasts. The cannons can also vary their output intensity, allowing for both wide-area suppression and pinpoint strikes. They have a multi-purpose functionality, enabling tactical versatility and devastating offensive power, perfect for engaging multiple targets or focusing on a single high-value enemy ship. These can be repelled by most shields though, so are not commonly used.
 
 ##### Solar Beam Projectors (L)
 
-This weapon is an enormous energy beam that harness the power of a star to discharge concentrated energy onto a target ship, resulting in catastrophic disintegration of hull and systems. Capable of crippling the many ships with a single blast, they are effective across vast distances and are usually fired from a planet.
+This weapon produces an enormous energy beam that harness the power of a star to discharge concentrated energy onto a target ship, resulting in disintegration of hull and systems. Capable of crippling many ships with a single blast, they are effective across vast distances and are usually fired from a planet.
 
 
 ##### FCRT Lasers
@@ -495,7 +497,7 @@ Slit bombs are the most common type of ammo used. They are very basic, simply a 
 
 #### Machine Guns (L)
 
-These are incredibly small, weak projectiles, cheap but useless in space battle.
+These are incredibly small, weak projectiles, cheap but useless in space battle. They are mainly used in battles against 'inferior' races (tech level 6 or under).
 
 #### Tachyon Launchers (L)
 
