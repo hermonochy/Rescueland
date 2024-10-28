@@ -66,9 +66,40 @@ Ship Type: Common Interceptor
 
 Dimensions: 7-7-2 Metres
 
-Range:
+Range: 2 quintillion ly
 
-General:
+General: This is the current Helucky interceptor design, able to be mass produced extremely quickly.
+
+## Dark Fighters
+
+### The Helucky DarkFighter
+
+![](images/Helucky_DF.png)
+
+Ship Type: DarkFighter Interceptor
+
+Dimensions: 7-7-5 Metres
+
+Speed: 45 c
+
+Range: Near Infinite
+
+General: While this design of darkfighter may look like a TIE fighter, the design is, in fact, completely different. The 'wings' on the side are not solar panels but, instead, shields.
+
+### The Helucky DarkFighter Frigade
+
+![](images/Helucky_DF_Frigade.png)
+
+Ship Type: Dark Fighter Frigade
+
+Dimensions: 50-25-7 Metres
+
+Speed: 5 c
+
+Range: Near Infinite
+
+General: This design is the largest ship ever known to be build solely out of dark material.
+
 
 # Recola
 
