@@ -406,10 +406,10 @@ Leader: Tsar Protader
 Power Status: 3400000000/6000000000
 
 Army Size:
-- Interceptors:
-- Battle Ships:
-- Darkfighters:
-- Ground Force Size:
+- Interceptors: 14
+- Battle Ships: 1
+- Darkfighters: 0
+- Ground Force Size: 387
 
 Tech Level: 6
 
@@ -436,10 +436,10 @@ Leader: The Unitary Council
 Power Status: 2900000000/6000000000
 
 Army Size:
-- Interceptors:
-- Battle Ships:
-- Darkfighters:
-- Ground Force Size:
+- Interceptors: 679
+- Battle Ships: 7
+- Darkfighters: 0
+- Ground Force Size: 45 million
 
 Tech Level: 5
 
@@ -496,10 +496,10 @@ Leader: Kahn Coars
 Power Status: 3600000000/6000000000
 
 Army Size:
-- Interceptors:
-- Battle Ships:
-- Darkfighters:
-- Ground Force Size:
+- Interceptors: 2 million
+- Battle Ships: 43
+- Darkfighters: 0
+- Ground Force Size: 29 million
 
 Tech Level: 5
 
@@ -526,10 +526,10 @@ Leader: High Lord Tacer
 Power Status: 3100000000/6000000000
 
 Army Size:
-- Interceptors:
-- Battle Ships:
-- Darkfighters:
-- Ground Force Size:
+- Interceptors: 7430
+- Battle Ships: 87
+- Darkfighters: 0
+- Ground Force Size: 59 million
 
 Tech Level: 6
 
@@ -556,10 +556,10 @@ Leader: Luncil
 Power Status: 3700000000/6000000000
 
 Army Size:
-- Interceptors:
-- Battle Ships:
-- Darkfighters:
-- Ground Force Size:
+- Interceptors: 46,000
+- Battle Ships: 81
+- Darkfighters: 0
+- Ground Force Size: 75 million
 
 Tech Level: 7
 
@@ -586,10 +586,10 @@ Leader: Copace
 Power Status: 4000000000/6000000000
 
 Army Size:
-- Interceptors:
-- Battle Ships:
-- Darkfighters:
-- Ground Force Size:
+- Interceptors: 93,000
+- Battle Ships: 650
+- Darkfighters: 0
+- Ground Force Size: 829 million
 
 Tech Level: 8
 
@@ -625,7 +625,7 @@ Population: 380 hexillion
 
 Atmosphere: Nitrogen 59%, Oxygen 30%, Argon 10%
 
-General: The final of the 3 'superpowers' ,Rescueland and Helucky being the other two. This superpower focuses on speed for it's ships, and specialises in radar and radio manipulation, having been pulling the strings of the Rescueland-Helucky war scince it started.
+General: This is the final of the 3 'superpowers'. This superpower focuses on speed for it's ships, and specialises in radar and radio manipulation, having pulled the strings of the Rescueland-Helucky war scince it started.
 
 
 ## Morrel
@@ -644,7 +644,7 @@ Power Status: 8031270958/6000000000
 
 Army Size:
 - Interceptors: Aprox 1700
-- Battle Ships: Aprox 86
+- Battle Ships: Aprox 80
 - Darkfighters: N/A
 - Ground Force Size: 7 - 15 billion
 
@@ -671,10 +671,11 @@ Leader: Thegences
 Power Status: 4556732960/6000000000
 
 Army Size:
-- Interceptors:
-- Battle Ships:
-- Darkfighters:
-- Ground Force Size:
+
+- Interceptors: 5,000
+- Battle Ships: 32
+- Darkfighters: 0
+- Ground Force Size: 90 million
 
 Tech Level: 7
 
@@ -699,8 +700,9 @@ Leader: Auor
 Power Status: 5200000000/6000000000
 
 Army Size:
+
 - Interceptors: 212,000
-- Battle Ships: 6
+- Battle Ships: 58
 - Darkfighters: 0
 - Ground Force Size: 319 million
 
@@ -727,6 +729,7 @@ Leader: Prime Minister Equats
 Power Status: 3000000000/6000000000
 
 Army Size:
+
 - Interceptors: 115
 - Battle Ships: 5
 - Darkfighters: 0
@@ -755,10 +758,11 @@ Leader: King Counics
 Power Status: 3800000000/6000000000
 
 Army Size:
-- Interceptors:
-- Battle Ships:
-- Darkfighters:
-- Ground Force Size:
+
+- Interceptors: 20
+- Battle Ships: 4
+- Darkfighters: 0
+- Ground Force Size: 100,000
 
 Tech Level: 6
 
@@ -766,7 +770,7 @@ Population: 2,500,000
 
 Atmosphere: Water Vapor 70%, Oxygen 20%, Nitrogen 10%
 
-General: Primarily covered by oceans. Only 2.3% of the total surface area is land and therfore can't support a large population.
+General: Primarily covered by oceans. Only 2.3% of the total surface area is land and therefore can't support a large population.
 
 ## Ignis Terra
 
@@ -783,10 +787,11 @@ Leader: Supreme Pyot
 Power Status: 4900000000/6000000000
 
 Army Size:
-- Interceptors:
-- Battle Ships:
-- Darkfighters:
-- Ground Force Size:
+
+- Interceptors: 300,000
+- Battle Ships: 175
+- Darkfighters: 0
+- Ground Force Size: 5 billion
 
 Tech Level: 9
 
@@ -811,10 +816,11 @@ Leader: Ice Council
 Power Status: 3200000000/6000000000
 
 Army Size:
-- Interceptors:
-- Battle Ships:
-- Darkfighters:
-- Ground Force Size:
+
+- Interceptors: 50
+- Battle Ships: 8
+- Darkfighters: 0
+- Ground Force Size: 1 million
 
 Tech Level: 5
 
@@ -822,7 +828,7 @@ Population: 1.2 trillion
 
 Atmosphere: Oxygen 60%, Methane 25%, Nitrogen 15%
 
-General: A frozen world dominated by ice and snow, Glaciera's inhabitats are masters of thermal technology.
+General: A frozen world dominated by ice and snow, Glaciera's inhabitants are masters of thermal technology.
 
 ## Terranova
 
@@ -834,15 +840,16 @@ Pronounced: tehr-ra-nov-ah
 
 Capital: Fres City
 
-Leader: Governer Ecard
+Leader: Governor Ecard
 
 Power Status: 3650000000/6000000000
 
 Army Size:
-- Interceptors:
-- Battle Ships:
-- Darkfighters:
-- Ground Force Size:
+
+- Interceptors: 150,000
+- Battle Ships: 20
+- Darkfighters: 0
+- Ground Force Size: 1 million
 
 Tech Level: 6
 
