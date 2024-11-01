@@ -11,18 +11,16 @@ Computerland, in the analogon of the tea cup model, is another cup-sized system,
 These are the notes and data about Rescueland and Computerland, including the technology, the history, the planets and the types of ships used.
 
 
-## [The Technology of Rescueland, Computerland and it's surrounding Planets](https://github.com/hermonochy/Rescueland_books/blob/main/The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md)
+[The Technology of Rescueland, Computerland and it's surrounding Planets](https://github.com/hermonochy/Rescueland_books/blob/main/The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md)
+is far superior to the technology on planet earth in century 21.
+Through millenia of basic research, it became possible to control all aspects of matter on every scale, resulting in interesting quecto-materials aggregated into macroscopic hyperstructures. 
+A detailed reference of all technological minutiae is beyond the scope of this script, as no single person or Non-Rescueland robot has sufficient mental capacity or storage to retain it. A coarse overview is sufficiently taxing.
 
-This is a file that explains all the technology and resources of Rescueland and Computerland in depth.
+[The timeline of Rescueland history](https://github.com/hermonochy/Rescueland_books/blob/main/The%20timeline%20of%20Resueland%20history.md)
+reaches back to the Big Bang, including the major events DOTR, the start of the space-age, beginning of intra-multiversal travel, discovery of Bad Guy Land and Computerland, introduction of the Super Twos and the succession of major multiversal conflicts.
 
-## [The timeline of Rescueland history](https://github.com/hermonochy/Rescueland_books/blob/main/The%20timeline%20of%20Resueland%20history.md)
+[The Planet File](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md)
+holds key data on major planets in and around the Rescueland Empire, notably popuation, atmospheric conditions, emblems, geography, military capabilities, political system, multiversal status and general information.
 
-This file describes all major events that occured on Rescueland in detail.
-
-## [The Planet File](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md)
-
-This file compiles details about all major planets in and around the Rescueland Empire.
-
-## [The Ship Classes of the SuperPowers](https://github.com/hermonochy/Rescueland/blob/main/The%20Ship%20Classes%20of%20the%20SuperPowers.md)
-
-This file will reveal the design basics of all major ship classes tht belong to the three superpowers: Rescueland, Helucky and Recola.
+[The Ship Classes of the SuperPowers Rescueland, Helucky and Recola](https://github.com/hermonochy/Rescueland/blob/main/The%20Ship%20Classes%20of%20the%20SuperPowers.md)
+reveals the design basics of all major vehicles patrolling the multiverse.
