@@ -119,7 +119,7 @@ Scientists quickly recognized that Mutant FFG could last ten times longer than i
 Research teams launched investigations into the circumstances surrounding the production of Mutant FFG, particularly focusing on the ancient ring crushed during its accidental creation. The origin of this powerful variant remained enigmatic, raising more questions than answers, while underscoring its potential as a critical asset. 
 To prevent it from falling into the wrong hands, Rescueland decided to keep this destructive variant secret, storing the little gel they obtained in the most secure stronghold known, located on the planet of Filna.
 
-## 65 to 69 ADOTR: War against Mega Bad Guy Land
+## 65 ADOTR: War against Mega Bad Guy Land
 
 Following the final defeat of Bad Guy Land, the Rescueland Empire experienced a period of stability before facing an even more formidable adversary: Mega Bad Guy Land — a planet in the Bad Guy Land system, seeking revenge for their fallen brethren and intent on establishing their dominance in the galaxy. They were determined to eliminate the Rescuelanders, whom they saw as the root of their misfortunes. This gave the Rescuelanders their first opportunity to try out their FFG in a real situation.
 Mega Bad Guy Land initiated their campaign by launching a surprise attack on a Rescueland supply convoy passing near the Shadow Nebula, a sector known for its dark voids and gravitational anomalies. This location provided cover for the attacking fleet. 
@@ -150,7 +150,7 @@ As fleets collided, chaos erupted in space.
 Intrepid Rescueland warriors boarded enemy ships, sowing confusion and causing internal strife. As the tide of battle shifted in their favor, many enemy ships, incapacitated, either surrendered or retreated. 
 The culmination of this battle resulted in the fall of Mega Bad Guy Land’s ability to coordinate future offensives. With their forces crippled and spirits broken, they conceded defeat, ending the war in favor of the Rescuelanders.
 
-## 80-81 ADOTR: War against Ultra Bad Guy Land
+## 80 ADOTR: War against Ultra Bad Guy Land
 
 After the victory over Mega Bad Guy Land, the Rescueland Empire enjoyed a temporary peace. However, by 80 ADOTR, Ultra Bad Guy Land rose as a severe threat, intent on seeking retribution against Rescueland. The conflict quickly escalated, leading to several significant battles primarily fought in orbit over both Rescueland and Ultra Bad Guy Land. 
 
@@ -245,7 +245,7 @@ By 107 ADOTR, the Rescueland military had successfully integrated the new classe
 
 - Centrally Directed Deployments: The unified command allowed Rescueland to deploy its military forces more effectively, rapidly responding to potential threats across the galaxy while maintaining robust defense for key territories. 
 
-- Technological Advancements: Continued investment in R&D further refined each ship class's capabilities. Upgrades to weapons systems, shields, and AI technology ensured the Rescueland military remained at the forefront of galactic warfare. 
+- Technological Advancements: Continued investment in R&D further refined each ship class's capabilities. Upgrades to weapons systems, shields etc ensured the Rescueland military remained at the forefront of galactic warfare. 
 
 - Deterrence Against Future Threats: The restructured military created a formidable deterrent, dissuading potential aggressors from challenging Rescueland’s influence. The successful revolution established confidence within the Empire, fostering unity and purpose among its forces. 
 
