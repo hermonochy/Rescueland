@@ -1,4 +1,4 @@
-This document shows all major events that have occurred since the DOTR (Discovery Of The Rings). As Rescueland has no sun, years do not exist, but a unit time period used on Rescueland is about 888 Earth years. The Rescueland equivalent of AD is ADOTR (After Discovery Of The Rings) and BCE, BDOTR (Before Discovery Of The Rings).
+This document shows all major events that have occurred since the creation of Rescueland. As Rescueland has no sun, years do not exist, but a unit time period used on Rescueland is about 888 Earth years. The Rescueland equivalent of AD is ADOTR (After Discovery Of The Rings) and BCE, BDOTR (Before Discovery Of The Rings).
 
 ## 5630630 BDOTR: Creation of Rescueland
 
