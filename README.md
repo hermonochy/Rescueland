@@ -16,7 +16,7 @@ is far superior to the technology on planet earth in century 21.
 Through millenia of basic research, it became possible to control all aspects of matter on every scale, resulting in interesting quecto-materials aggregated into macroscopic hyperstructures. 
 A detailed reference of all technological minutiae is beyond the scope of this script, as no single person or Non-Rescueland robot has sufficient mental capacity or storage to retain it. A coarse overview is sufficiently taxing.
 
-[The timeline of Rescueland history](https://github.com/hermonochy/Rescueland_books/blob/main/The%20timeline%20of%20Resueland%20history.md)
+[The timeline of Rescueland history](https://github.com/hermonochy/Rescueland/blob/main/The%20Timeline%20of%20Resueland%20History.md)
 reaches back to the Big Bang, including the major events DOTR, the start of the space-age, beginning of intra-multiversal travel, discovery of Bad Guy Land and Computerland, introduction of the Super Twos and the succession of major multiversal conflicts.
 
 [The Planet File](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md)
