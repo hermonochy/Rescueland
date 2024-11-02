@@ -4,17 +4,17 @@ This file will give a brief overview of major planets, ordered by distance to Re
 
 Name: The name of the planet
 
-Flag: 
+Flag:
 
-Pronounced: The pronounciation of the planet name
+Pronounced: The pronunciation of the planet name
 
 Capital: The capital city of the planet
 
 Leader: The leader, or political system of the planet
 
-Power Status: Every inhabited planet has a number from 1 - 6000000000 assigned to it, ordering it's military power.
+Power Status: Every inhabited planet has a number from 1 - 6000000000 assigned to it, ordering its military power.
 
-Army Size: Total size of army 
+Army Size: Total size of army
 - Interceptors: No. Interceptors
 - Battle Ships: No. Battle Ships
 - Darkfighters: No. Darkfighters (also includes Grey and Light Fighters)
@@ -23,21 +23,21 @@ Note: Pocket Destroyers, amongst others, are excluded
 
 Tech Level: How high the technology is, on a scale of 1-12, or military.
 01. Stone age
-02. Medival age
+02. Medieval age
 03. Earth, today
 04. Regular transports available around the system
 05. Begin exploring deeper into the nearby systems
 06. Colonies in nearby systems (Star Wars is at this level)
-07. Have technology to leave their multiverse occasionaly
+07. Have technology to leave their multiverse occasionally
 08. Able to regularly leave the multiverse
 09. Begin to discover more dangerous, system destroying weaponry
-10. 
-11. 
+10.
+11.
 12. Highest possible level
 
 Population: The number of inhabitants
 
-Atmosphere: The main gasses of the atmoshpere
+Atmosphere: The main gasses of the atmosphere
 
 General: General information
 
@@ -65,11 +65,11 @@ Army Size:
 
 Tech Level: military + 12
 
-Population: 8.9798*10^18 
+Population: 8.9798*10^18
 
-Atmospere: Nitrogen 90%, Hydrogen 8%, Oxygen 1%
+Atmosphere: Nitrogen 90%, Hydrogen 8%, Oxygen 1%
 
-General: This is the first of the three 'superpowers', along with Helucky and Recola. Rescueland specialises in quality of their troops, even if they have the smallest army. The entire planet is sometimes covered in the largest FFG known in history. If an invasion is attempted, they must collect right in front of the FFG until it expires if a successful invasion is to be attempted.
+General: This is the first of the three 'superpowers', along with Helucky and Recola. Rescueland specialises in the quality of their troops, even if they have the smallest army. The entire planet is sometimes covered in the largest FFG known in history. If an invasion is attempted, they must collect right in front of the FFG until it expires if a successful invasion is to be attempted.
 
 ## Hermonochy
 
@@ -95,7 +95,7 @@ Tech Level: 11
 
 Population: 5482639 trillion
 
-Atmospere: Hydrogen 86%, Helium 11%, Methane 2%
+Atmosphere: Hydrogen 86%, Helium 11%, Methane 2%
 
 General: This is the ice planet which the Rescuelanders hid on during The War for Rescueland.
 
@@ -103,7 +103,7 @@ General: This is the ice planet which the Rescuelanders hid on during The War fo
 
 Name: Titan
 
-Flag: 
+Flag:
 
 Pronounced: Tie-tai-n
 
@@ -131,9 +131,9 @@ General: Titan has a very dense foliage and is a very strong supporter of Rescue
 
 Name: Ralfialand
 
-Flag: 
+Flag:
 
-Pronounced: Ralf-eee-ahh-laned
+Pronounced: Ralf-eee-ahh-land
 
 Capital: Ralcia
 
@@ -161,7 +161,7 @@ General: The weakest of the 'core' planets and similar in terrain to Pluto.
 
 Name: Tortisland
 
-Flag: 
+Flag:
 
 Pronounced: Tor-tis-laned
 
@@ -181,7 +181,7 @@ Tech Level: 8
 
 Population: 34.2 quadrillion
 
-Atmosphere: 
+Atmosphere:
 
 General: This was the first non-core planet to join the empire. The flora, covering most of this planet, is sentient.
 
@@ -189,7 +189,7 @@ General: This was the first non-core planet to join the empire. The flora, cover
 
 Name: Klesone
 
-Flag: 
+Flag:
 
 Pronounced: Kl-eh-sohn-eh
 
@@ -217,7 +217,7 @@ General: This planet is massive and hot, and was on verge of becoming a star. It
 
 Name: Oxo
 
-Flag: 
+Flag:
 
 Pronounced: Ox-ohh
 
@@ -257,7 +257,7 @@ Power Status: 5999999999/6000000000
 
 Army Size:
 - Interceptors: 764 octillion
-- Battle Ships: 121,000 
+- Battle Ships: 121,000
 - Darkfighters: 5
 - Ground Force Size: 37 septillion
 
@@ -275,7 +275,7 @@ General: This planet is the second of the superpowers, and focuses on quantity. 
 
 Name: Filto
 
-Flag: 
+Flag:
 
 Pronounced: Fill-toe
 
@@ -305,7 +305,7 @@ General: While weak in firepower, the interceptors of Filto are incredibly diffi
 
 Name: Filna
 
-Flag: 
+Flag:
 
 Pronounced: Fill-nah
 
@@ -335,7 +335,7 @@ General: The weakest of the three Fil planets, Filna is defenseless and relies o
 
 Name: Filcho
 
-Flag: 
+Flag:
 
 Pronounced: fill-chow
 
@@ -365,9 +365,9 @@ General: Filcho focuses on research and exploration with lightly armed research 
 
 Name: Wana
 
-Flag: 
+Flag:
 
-Pronounced: Wah-nah 
+Pronounced: Wah-nah
 
 Capital: Nezon
 
@@ -395,7 +395,7 @@ General: A hub for experimental technologies, Wana fosters new inventions that s
 
 Name: Wonto
 
-Flag: 
+Flag:
 
 Pronounced: Won-toe
 
@@ -417,7 +417,7 @@ Population: 2 billion
 
 Atmosphere: Oxygen 45%, Carbon Dioxide 30%, Helium 25%
 
-General: A small, peaceful planet focused on ecological restoration, Wonto is rich in biodiversity and dedicated to preserve life.
+General: A small, peaceful planet focused on ecological restoration, Wonto is rich in biodiversity and dedicated to preserving life.
 
 
 
@@ -425,7 +425,7 @@ General: A small, peaceful planet focused on ecological restoration, Wonto is ri
 
 Name: Fufe
 
-Flag: 
+Flag:
 
 Pronounced: Foo-fay
 
@@ -455,7 +455,7 @@ General: A vibrant agricultural planet, Fufe exports food supplies, featuring co
 
 Name: N2
 
-Flag: 
+Flag:
 
 Pronounced: enn-too
 
@@ -485,7 +485,7 @@ General: The weakest planet in the Rescueland Empire, N2 joined due to threats f
 
 Name: Nelula
 
-Flag: 
+Flag:
 
 Pronounced: Neh-loo-lah
 
@@ -515,7 +515,7 @@ General: Nelula serves as the guardian of N2, ensuring no major threats arise ag
 
 Name: Ehana
 
-Flag: 
+Flag:
 
 Pronounced: Ay-hahn-ah
 
@@ -545,7 +545,7 @@ General: A desert planet that harnesses solar energy, Ehana is largely self-suff
 
 Name: Heloa
 
-Flag: 
+Flag:
 
 Pronounced: Heh-lo-ah
 
@@ -575,7 +575,7 @@ General: Known for its deep-space exploration programs, Heloa is home to Lumen U
 
 Name: Keluha
 
-Flag: 
+Flag:
 
 Pronounced: Keh-loo-hah
 
@@ -614,7 +614,7 @@ Leader: Emperor Astan
 Power Status: 5999999997/6000000000
 
 Army Size:
-- Interceptors: 567 quadrillion 
+- Interceptors: 567 quadrillion
 - Battle Ships: 6780
 - Darkfighters: 3
 - Ground Force Size: 146 hexillion
@@ -625,14 +625,14 @@ Population: 380 hexillion
 
 Atmosphere: Nitrogen 59%, Oxygen 30%, Argon 10%
 
-General: This is the final of the 3 'superpowers'. This superpower focuses on speed for it's ships, and specialises in radar and radio manipulation, having pulled the strings of the Rescueland-Helucky war scince it started.
+General: This is the final of the 3 'superpowers'. This superpower focuses on speed for its ships, and specialises in radar and radio manipulation, having pulled the strings of the Rescueland-Helucky war since it started.
 
 
 ## Morrel
 
 Name: Morrel
 
-Flag: 
+Flag:
 
 Pronounced: Moh-r (with tongue roll) -ell
 
@@ -643,8 +643,8 @@ Leader: unknown
 Power Status: 8031270958/6000000000
 
 Army Size:
-- Interceptors: Aprox 1700
-- Battle Ships: Aprox 80
+- Interceptors: Approx 1700
+- Battle Ships: Approx 80
 - Darkfighters: N/A
 - Ground Force Size: 7 - 15 billion
 
@@ -660,7 +660,7 @@ General: Not much is known about this planet, but if there exists a civilisation
 
 Name: Nara
 
-Flag: 
+Flag:
 
 Pronounced: narr-ah
 
@@ -689,7 +689,7 @@ General: Nara is a planet shrouded in dense clouds, most cities being a single, 
 
 Name: Tonque
 
-Flag: 
+Flag:
 
 Pronounced: Ton-keh
 
@@ -718,7 +718,7 @@ General: Known for its vast mines, Tonque is a heavily industrialized planet whe
 
 Name: Naha
 
-Flag: 
+Flag:
 
 Pronounced: nah-hah
 
@@ -747,7 +747,7 @@ General: A visually stunning planet with bioluminescent flora, Naha is one of th
 
 Name: Aquarion
 
-Flag: 
+Flag:
 
 Pronounced: ah-kwah-ree-on
 
@@ -776,7 +776,7 @@ General: Primarily covered by oceans. Only 2.3% of the total surface area is lan
 
 Name: Ignis Terra
 
-Flag: 
+Flag:
 
 Pronounced: ig-niss ter-ra
 
@@ -805,7 +805,7 @@ General: A volcanic planet with intense geothermal activity, Ignis Terra is char
 
 Name: Glaciera
 
-Flag: 
+Flag:
 
 Pronounced: glas-ee-air-ah
 
@@ -834,7 +834,7 @@ General: A frozen world dominated by ice and snow, Glaciera's inhabitants are ma
 
 Name: Terranova
 
-Flag: 
+Flag:
 
 Pronounced: tehr-ra-nov-ah
 
@@ -865,7 +865,7 @@ General: Terranova is one of the greenest planets known, with 90% of the planet 
 
 Name: Computerland
 
-Flag: 
+Flag:
 
 Pronounced: Com-poooh-ter-laned
 
@@ -885,6 +885,6 @@ Tech Level: 12
 
 Population: N/a
 
-Atmospere: N/a
+Atmosphere: N/a
 
-General: While not technicaly part of the Rescueland Empire, this planet made solely of a Conductium core and sentient electricity has remained a close ally of them scince 14 ADOTR.
+General: While not technically part of the Rescueland Empire, this planet made solely of a Conductium core and sentient electricity has remained a close ally of them since 14 ADOTR.
