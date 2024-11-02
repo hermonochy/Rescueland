@@ -98,7 +98,7 @@ Speed: 5 c
 
 Range: Near Infinite
 
-General: This design is the largest ship ever known to be build solely out of dark material.
+General: This design is the largest ship ever known to be built solely out of dark material.
 
 
 # Recola
