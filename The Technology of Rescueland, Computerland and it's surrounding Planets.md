@@ -155,11 +155,11 @@ L = Lower tech
 
 ### Darkmaterial, Greymaterial and Lightmaterial (U)
 
-Darkmaterial is a very rare substance, fought for by many. Grey and Lightmaterial are chemically identical to Darkmaterial, but have different purposes. 
+Darkmaterial is a very rare substance, fought for by many. It is almost impossible to destroy, only bested by [Force Field Gel](#force-field-gel-r). Grey and Lightmaterial are chemically identical to Darkmaterial, but have different purposes. 
 
 #### Darkfighters, Greyfighters and Lightfighters
 
-The most famous use of this substance is to build practically indestructible fighters. There are only  two known ways to destroy these ships. The first, used by most, is to slam them, at almost infinite speed, into a Force Field Gel. However, it is also possible to use [Mutant FFG](#mutant-ffg) as a cutting device. While this method is far easier and cheaper, it is restricted to the only bearers of this rare substance, Rescueland. This is also how the fighters are made. The material needs to be shaped into a fighter by slamming small Force Field Gel balls into the machine at the necessary speed and precision. This is why the little Force Field Gel that other planets obtain is saved, should they find some Darkmaterial. The process is the most expensive one known in the entire multiverse, which is why there are only a few dozen of them, though they are increasing in number. Therefore, these ships are, in a way, the atomic bombs of the multiverse.
+The most famous use of this substance is to build practically indestructible fighters. There are only two known ways to destroy these ships. The first, used by most, is to slam them, at almost infinite speed, into a Force Field Gel. However, it is also possible to use [Mutant FFG](#mutant-ffg) as a cutting device. While this method is far easier and cheaper, it is restricted to the only bearers of this rare substance, Rescueland. This is also how the fighters are made. The material needs to be shaped into a fighter by slamming small Force Field Gel balls into the machine at the necessary speed and precision. This is why the little Force Field Gel that other planets obtain is saved, should they find some Darkmaterial. The process is the most expensive one known in the entire multiverse, which is why there are only a few dozen of them, though they are increasing in number. Therefore, these ships are, in a way, the atomic bombs of the multiverse.
 
 ### Techanda (U) Teh-chuhn-dahh
 
@@ -343,6 +343,10 @@ This is a device that allows kinetic energy to be transformed into higher entrop
 ### Atmospheric Bubble (R)
 
 This is a highly advanced design which allows atmospheric vehicles to enter space. When activated, it creates a 'bubble' in which the vehicle can travel in an artificial atmosphere.
+
+### Teleporter (R + C)
+
+Rescueland and Computerland, through combined efforts, managed to build a teleportation device. However, it has many problems, so is not used very often: It cannot teleport anything inside an FFG, it is a very painful process, it requires alot of power and you cannot teleport into a place that is completely closed off. 
 
 # Military
 
