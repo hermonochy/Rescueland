@@ -37,7 +37,7 @@ Tech Level: How high the technology is, on a scale of 1-12, or military.
 
 Population: The number of inhabitants
 
-Atmosphere: The main gasses of the atmosphere
+Atmosphere: The main gases of the atmosphere
 
 General: General information
 
@@ -211,7 +211,7 @@ Population: 652 quintillion
 
 Atmosphere: hydrogen 90%, helium 9%, methane 0.7%
 
-General: This planet is massive and hot, and was on verge of becoming a star. It is also one of the most powerful supporters of Rescueland, and it is they who gave the Super Owls the first Super Two's, the most advanced robots developed on Klesone at the time.
+General: This planet is massive and hot, and was on the verge of becoming a star. It is also one of the most powerful supporters of Rescueland, and it is they who gave the Super Owls the first Super Two's, the most advanced robots developed on Klesone at the time.
 
 ## Oxo
 
@@ -327,7 +327,7 @@ Population: 780 billion
 
 Atmosphere: Oxygen 60%, Nitrogen 30%, Methane 10%
 
-General: The weakest of the three Fil planets, Filna is defenseless and relies on Filto for protection. It produces civilian goods for the system.
+General: The weakest of the three Fil planets, Filna is defenceless and relies on Filto for protection. It produces civilian goods for the system.
 
 
 
@@ -357,7 +357,7 @@ Population: 17 billion
 
 Atmosphere: Oxygen 65%, Nitrogen 25%, Trace gases 10%
 
-General: Filcho focuses on research and exploration with lightly armed research vessels for defense against potential threats.
+General: Filcho focuses on research and exploration with lightly armed research vessels for defence against potential threats.
 
 
 
@@ -710,9 +710,9 @@ Tech Level: 8
 
 Population: 100 billion
 
-Atmosphere: Carbon Dioxide 70%, Sulfur Dioxide 20%, Methane 10%
+Atmosphere: Carbon Dioxide 70%, Sulphur Dioxide 20%, Methane 10%
 
-General: Known for its vast mines, Tonque is a heavily industrialized planet where robots specialize in metal extraction and manufacturing.
+General: Known for its vast mines, Tonque is a heavily industrialised planet where robots specialise in metal extraction and manufacturing.
 
 ## Naha
 
@@ -768,7 +768,7 @@ Tech Level: 6
 
 Population: 2,500,000
 
-Atmosphere: Water Vapor 70%, Oxygen 20%, Nitrogen 10%
+Atmosphere: Water Vapour 70%, Oxygen 20%, Nitrogen 10%
 
 General: Primarily covered by oceans. Only 2.3% of the total surface area is land and therefore can't support a large population.
 
@@ -799,7 +799,7 @@ Population: 800 trillion
 
 Atmosphere: Carbon Monoxide 50%, Vaporized Minerals 30%, Oxygen 20%
 
-General: A volcanic planet with intense geothermal activity, Ignis Terra is characterized by its heat-based technologies.
+General: A volcanic planet with intense geothermal activity, Ignis Terra is characterised by its heat-based technologies.
 
 ## Glaciera
 
