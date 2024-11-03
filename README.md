@@ -16,11 +16,11 @@ is far superior to the technology on planet earth in century 21.
 Through millenia of basic research, it became possible to control all aspects of matter on every scale, resulting in interesting quecto-materials aggregated into macroscopic hyperstructures. 
 A detailed reference of all technological minutiae is beyond the scope of this script, as no single person or Non-Rescueland robot has sufficient mental capacity or storage to retain it. A coarse overview is sufficiently taxing.
 
-[The timeline of Rescueland history](https://github.com/hermonochy/Rescueland/blob/main/The%20Timeline%20of%20Resueland%20History.md)
+[The Timeline of Rescueland History](https://github.com/hermonochy/Rescueland/blob/main/The%20Timeline%20of%20Resueland%20History.md)
 reaches back to the Big Bang, including the major events DOTR, the start of the space-age, beginning of intra-multiversal travel, discovery of Bad Guy Land and Computerland, introduction of the Super Twos and the succession of major multiversal conflicts.
 
 [The Planet File](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md)
 holds key data on major planets in and around the Rescueland Empire, notably popuation, atmospheric conditions, emblems, geography, military capabilities, political system, multiversal status and general information.
 
-[The Ship Classes of the SuperPowers Rescueland, Helucky and Recola](https://github.com/hermonochy/Rescueland/blob/main/The%20Ship%20Classes%20of%20the%20SuperPowers.md)
+[The Ship File](https://github.com/hermonochy/Rescueland/blob/main/The%20Ship%20File.md)
 reveals the design basics of all major vehicles patrolling the multiverse.
