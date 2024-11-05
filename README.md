@@ -10,6 +10,7 @@ Rescueland has evolved for 500000 earth years anno domini, coming up with techno
 Computerland, in the analogon of the tea cup model, is another cup-sized system, so far away that even the longest-range ships find it impractical to travel between Rescueland and Computerland regularly. In this scale, imagine the distance between the Computerland and Rescueland cups corresponding to the distance between Spain and New Caledonia.
 
 These are the notes and data about Rescueland and Computerland, including the technology, the history, the planets and the types of ships used.
+Facts and concepts are interdependent to a very high degree. Hence, for a complete understanding, it is likely required to double parse these documents.
 
 
 [The Technology of Rescueland, Computerland and it's surrounding Planets](https://github.com/hermonochy/Rescueland_books/blob/main/The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md)
