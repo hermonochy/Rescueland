@@ -41,9 +41,21 @@ Atmosphere: The main gases of the atmosphere
 
 General: General information
 
+## Factions
+
+There are various factions among the multiverse. These abriviations will signify which one the planet belongs to.
+
+- Rescueland Empire = R
+
+- Rebel 10 = B
+
+- Sepratists = S
+
+- Independent = I
+
 # Core Systems
 
-## Rescueland
+## Rescueland (R)
 
 Name: Rescueland/Recua
 
@@ -71,7 +83,7 @@ Atmosphere: Nitrogen 90%, Hydrogen 8%, Oxygen 1%
 
 General: This is the first of the three 'superpowers', along with Helucky and Recola. Rescueland specialises in the quality of their troops, even if they have the smallest army. The entire planet is sometimes covered in the largest FFG known in history. If an invasion is attempted, they must collect right in front of the FFG until it expires if a successful invasion is to be attempted.
 
-## Hermonochy
+## Hermonochy (R)
 
 Name: Hermonochy
 
@@ -99,7 +111,7 @@ Atmosphere: Hydrogen 86%, Helium 11%, Methane 2%
 
 General: This is the ice planet which the Rescuelanders hid on during The War for Rescueland.
 
-## Titan
+## Titan (R)
 
 Name: Titan
 
@@ -127,7 +139,7 @@ Atmosphere: Oxygen 57%, Nitrogen 33%, Argon 6%, CO2 3%
 
 General: Titan has a very dense foliage and is a very strong supporter of Rescueland. It is about earth size.
 
-## Ralfialand
+## Ralfialand (R)
 
 Name: Ralfialand
 
@@ -157,7 +169,7 @@ General: The weakest of the 'core' planets and similar in terrain to Pluto.
 
 # Same Universe
 
-## Tortisland
+## Tortisland (R)
 
 Name: Tortisland
 
@@ -185,7 +197,7 @@ Atmosphere:
 
 General: This was the first non-core planet to join the empire. The flora, covering most of this planet, is sentient.
 
-## Klesone
+## Klesone (R)
 
 Name: Klesone
 
@@ -213,7 +225,7 @@ Atmosphere: hydrogen 90%, helium 9%, methane 0.7%
 
 General: This planet is massive and hot, and was on the verge of becoming a star. It is also one of the most powerful supporters of Rescueland, and it is they who gave the Super Owls the first Super Two's, the most advanced robots developed on Klesone at the time.
 
-## Oxo
+## Oxo (R)
 
 Name: Oxo
 
@@ -241,7 +253,7 @@ Atmosphere: sodium 80%, potassium 18%
 
 General: This is a moon which orbits Klesone, with the same leader. There are regular shuttles in between the two.
 
-## Helucky
+## Helucky (B)
 
 Name: Helucky
 
@@ -271,7 +283,7 @@ General: This planet is the second of the superpowers, and focuses on quantity. 
 
 ## The Fil System
 
-### Filto
+### Filto (R)
 
 Name: Filto
 
@@ -301,7 +313,7 @@ General: While weak in firepower, the interceptors of Filto are incredibly diffi
 
 
 
-### Filna
+### Filna (R)
 
 Name: Filna
 
@@ -331,7 +343,7 @@ General: The weakest of the three Fil planets, Filna is defenceless and relies o
 
 
 
-### Filcho
+### Filcho (R)
 
 Name: Filcho
 
@@ -361,7 +373,7 @@ General: Filcho focuses on research and exploration with lightly armed research 
 
 
 
-## Wana
+## Wana (R)
 
 Name: Wana
 
@@ -391,7 +403,7 @@ General: A hub for experimental technologies, Wana fosters new inventions that s
 
 
 
-## Wonto
+## Wonto (R)
 
 Name: Wonto
 
@@ -421,7 +433,7 @@ General: A small, peaceful planet focused on ecological restoration, Wonto is ri
 
 
 
-## Fufe
+## Fufe (R)
 
 Name: Fufe
 
@@ -451,7 +463,7 @@ General: A vibrant agricultural planet, Fufe exports food supplies, featuring co
 
 
 
-## N2
+## N2 (R)
 
 Name: N2
 
@@ -481,7 +493,7 @@ General: The weakest planet in the Rescueland Empire, N2 joined due to threats f
 
 
 
-## Nelula
+## Nelula (R)
 
 Name: Nelula
 
@@ -511,7 +523,7 @@ General: Nelula serves as the guardian of N2, ensuring no major threats arise ag
 
 
 
-## Ehana
+## Ehana (I)
 
 Name: Ehana
 
@@ -537,11 +549,11 @@ Population: 600 million
 
 Atmosphere: Hydrogen 40%, Oxygen 30%, Helium 30%
 
-General: A desert planet that harnesses solar energy, Ehana is largely self-sufficient despite its harsh environment.
+General:  A desert planet that harnesses solar energy, Ehana was previously part of the Rescueland Empire but has become the first planet to have willingly left, believing themselves self-sufficient enough to survive alone.
 
 
 
-## Heloa
+## Heloa (R)
 
 Name: Heloa
 
@@ -571,7 +583,7 @@ General: Known for its deep-space exploration programs, Heloa is home to Lumen U
 
 
 
-## Keluha
+## Keluha (R)
 
 Name: Keluha
 
@@ -599,7 +611,7 @@ Atmosphere: Oxygen 60%, Argon 20%, Neon 20%
 
 General: A planet rich in crystalline resources, Keluha attracts commerce and focuses on technological advancements in resource management.
 
-## Recola
+## Recola (S)
 
 Name: Recola
 
@@ -628,7 +640,7 @@ Atmosphere: Nitrogen 59%, Oxygen 30%, Argon 10%
 General: This is the final of the 3 'superpowers'. This superpower focuses on speed for its ships, and specialises in radar and radio manipulation, having pulled the strings of the Rescueland-Helucky war since it started.
 
 
-## Morrel
+## Morrel (I)
 
 Name: Morrel
 
@@ -656,7 +668,7 @@ Atmosphere:
 
 General: Not much is known about this planet, but if there exists a civilisation capable of operating magic, it is Morrel.
 
-## Nara
+## Nara (R)
 
 Name: Nara
 
@@ -685,7 +697,7 @@ Atmosphere: Oxygen 40%, Argon 30%, Neon 26%
 
 General: Nara is a planet shrouded in dense clouds, most cities being a single, colossal tower. It is renowned for its atmospheric processors that harvest energy from storms, the main supply of energy.
 
-## Tonque
+## Tonque (R)
 
 Name: Tonque
 
@@ -714,7 +726,7 @@ Atmosphere: Carbon Dioxide 70%, Sulphur Dioxide 20%, Methane 10%
 
 General: Known for its vast mines, Tonque is a heavily industrialised planet where robots specialise in metal extraction and manufacturing.
 
-## Naha
+## Naha (R)
 
 Name: Naha
 
@@ -743,7 +755,7 @@ Atmosphere: Nitrogen 50%, Oxygen 36%, Argon 13%
 
 General: A visually stunning planet with bioluminescent flora, Naha is one of the largest attractions for artists and biologists.
 
-## Aquarion
+## Aquarion (R) 
 
 Name: Aquarion
 
@@ -772,7 +784,7 @@ Atmosphere: Water Vapour 70%, Oxygen 20%, Nitrogen 10%
 
 General: Primarily covered by oceans. Only 2.3% of the total surface area is land and therefore can't support a large population.
 
-## Ignis Terra
+## Ignis Terra (R)
 
 Name: Ignis Terra
 
@@ -801,7 +813,7 @@ Atmosphere: Carbon Monoxide 50%, Vaporized Minerals 30%, Oxygen 20%
 
 General: A volcanic planet with intense geothermal activity, Ignis Terra is characterised by its heat-based technologies.
 
-## Glaciera
+## Glaciera (R)
 
 Name: Glaciera
 
@@ -830,7 +842,7 @@ Atmosphere: Oxygen 60%, Methane 25%, Nitrogen 15%
 
 General: A frozen world dominated by ice and snow, Glaciera's inhabitants are masters of thermal technology.
 
-## Terranova
+## Terranova (R)
 
 Name: Terranova
 
@@ -861,7 +873,7 @@ General: Terranova is one of the greenest planets known, with 90% of the planet 
 
 # Outside of Universe
 
-## Computerland
+## Computerland (I)
 
 Name: Computerland
 
