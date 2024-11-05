@@ -1,7 +1,8 @@
 # Rescueland
 
-Recua, aka Rescueland, is part of the multiverse, as few people know it. Its location cannot be fathomed by common earthlings, as it is located beyond the borders of the known universe, from which conventional technology on planet earth only senses the background radiation. 
-To give an illustration of scale: If the earth-known universe corresponds to the content of a tea cup, the earth would be a single electron, and Rescueland corresponds to the cup containing our known world. Rescueland existed since when the cup was filled, i.e., the event commonly known as the Big Bang.
+Recua, aka Rescueland, is part of the multiverse, as few people know it. Its location cannot be fathomed by common earthlings, as it is located beyond the borders of the known universe, from which conventional technology on planet earth only senses the background radiation.
+The name 'Rescueland' formed in the process of Recua 'rescuing' civilisations against a phletora of enemies dotted around the multiverses, and has stuck ever scince. 
+To give an illustration of space scale: If the earth-known universe corresponds to the content of a tea cup, the earth would be a single electron, and Rescueland corresponds to the cup containing our known world. Rescueland existed since when the cup was filled, i.e., the event commonly known as the Big Bang.
 
 Rescueland existence begins: 5630630 r.ly (Rescueland years) BDOTR (Before the Discovery of the Rings), which is exactly when the Big Bang happened.
 Rescueland has evolved for 500000 earth years anno domini, coming up with technology nobody on earth in 2024 AD would remotely think of being possible. 
