@@ -27,12 +27,12 @@ Tech Level: How high the technology is, on a scale of 1-12, or military.
 03. Earth, today
 04. Regular transports available around the system
 05. Begin exploring deeper into the nearby systems
-06. Colonies in nearby systems (Star Wars is at this level)
+06. Colonies in nearby systems and begin to venture deeper into their multiverse (Star Wars is at this level)
 07. Have technology to leave their multiverse occasionally
 08. Able to regularly leave the multiverse
 09. Begin to discover more dangerous, system destroying weaponry
-10.
-11.
+10. Ship range exceeds the distance from Recua to Computerland and back
+11. 
 12. Highest possible level
 
 Population: The number of inhabitants

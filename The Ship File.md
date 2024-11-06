@@ -84,7 +84,9 @@ Speed: 45 c
 
 Range: Near Infinite
 
-General: While this design of darkfighter may look like a TIE fighter, the design is, in fact, completely different. The 'wings' on the side are not solar panels but, instead, shields.
+General: This is the main Helucky DarkFighter design. However, it is not paticularly effective due to the fitting of the extra small cannon, which is practicaly harmless.
+#### Disclaimer:
+While this design of darkfighter may look like a TIE fighter, the design is, in fact, completely different. The 'wings' on the side are not solar panels but, instead, shields.
 
 ### The Helucky DarkFighter Frigade
 
