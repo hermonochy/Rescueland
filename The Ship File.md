@@ -6,6 +6,29 @@
 
 ## Interceptors
 
+Ship Type: Common Plamea Interceptor
+
+Dimensions: 20-5-5
+
+Speed: 3 Googolplex c
+
+Range: Near Infinite
+
+General: Rescueland has two main automated interceptor types, this being the first, built of Plamea. It is well equipped in every manner, able to carry out a great variety of tasks.
+
+###
+
+Ship Type: Common Solita Interceptor
+
+Dimensions: 15-10-6 Metres
+
+Speed: 0.7 Googolplex c
+
+Range: 213 septillion ly
+
+General: The design of this interceptor was copied from the Rescueland Lightfighter, in a successful attempt to confuse enemies about lightfighter numbers. This, as well as their superior robustness, has lead to the nickname of 'Lightfighterlings'. However, unlike the plamea interceptor, this model is only equipped for battle.
+
+
 ## Dark, Grey and Light Fighters
 
 ### The Rescueland DarkFighter

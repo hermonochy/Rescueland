@@ -201,7 +201,7 @@ Despite its reactivity, when properly alloyed or coated, pakira can serve functi
 ### Plamea (U) Plam-meha
 
 Plamea is a cost-effective yet brittle material, characterised by a relatively low melting point. Some of its isotopes possess a degree of toughness, but overall, it tends to be less resilient under stress. Notably, Plamea shares similar chemical properties with Darkmaterial.
-Modern interceptors predominantly use Plamea for various structural components, allowing for lightweight designs that are easy to manoeuvre. However, the chemical and physical characteristics of this material necessitate careful design considerations to avoid failures during operation.
+Modern interceptors predominantly use Plamea for their main structure, allowing for lightweight designs that are easy to manoeuvre. However, the chemical and physical characteristics of this material necessitate careful design considerations to avoid failures during operation.
 
 #### Common Uses:
 - Main Frame of Ships: Serves as a major component in interceptor designs, balancing weight and structural requirements.
@@ -220,6 +220,10 @@ This set of characteristics makes Solitme particularly useful for specific milit
 - Surface-to-Surface Slit Bombs: Employed in missile designs that require robust materials for launch and impact.
 - Single Use (SU) Vehicles: Utilised in expendable military vehicles designed for quick operations before disposal.
 - Drones: Incorporated into the construction of drones where lightweight yet durable materials are essential for aerial operations.
+
+### Solita
+
+Solita is similar to Solitme in many ways. However, there are some key differences: while Solitme is resistant to fire, it bends to the will of liquids. However, Solita is liquid-resistant but crumbles if heated. The current interceptor designs use Solita as their main material, able to be built quickly and cheaply.
 
 ### Nyctron (U) Nik-tron
 
@@ -425,7 +429,7 @@ This is the most common cannon size, which can launch basic slit bombs, cluster 
 
 This cannon fits basic lasers, rockets and a single cluster slit bomb.
 
-#### The extra small cannon
+####    
 
 This cannon is rare, mainly used by tiny ships such as the Helucky darkfighters. It can only fit extra-small slit bombs and basic lasers.
 
