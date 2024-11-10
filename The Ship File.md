@@ -18,6 +18,8 @@ General: Rescueland has two main automated interceptor types, this being the fir
 
 ###
 
+![](images/Rescueland_Interceptor.png)
+
 Ship Type: Common Solita Interceptor
 
 Dimensions: 15-10-6 Metres
@@ -92,7 +94,7 @@ General: Once the most successful enemy interceptor design, this model demonstra
 
 ###
 
-![](images/Helcky_Interceptor.png)
+![](images/Helucky_Interceptor.png)
 
 Ship Type: Common Solita Interceptor
 
@@ -134,6 +136,14 @@ General: This frigate represents the largest ship constructed entirely from dark
 
 # Recola
 
+## Battle Ships
+
+## Pocket Destroyers
+
+## Interceptors
+
+![](images/Recola_Interceptor.png)
+
 Ship Type: Common Solita Interceptor
 
 Dimensions: 15-7-5 Metres
@@ -142,10 +152,6 @@ Speed: 32 Googolplex c
 
 Range: 82 quadrillion ly
 
-General: Although the unshielded and vulnerable interceptor is the easiest model to destroy, it compensates for this weakness with incredible speed, making it nearly impossible to hit unless it follows a predictable flight path.
+General: Although the Recola interceptor is unshielded and vulnerable, its extraordinary speed compensates for its weaknesses, making it difficult to target unless it follows a predictable trajectory.
 
-## Battle Ships
 
-## Pocket Destroyers
-
-## Interceptors
