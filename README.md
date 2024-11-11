@@ -1,4 +1,4 @@
-# Rescueland
+# Recua and Computerland
 
 Recua, aka Rescueland, is part of the multiverse, as few people know it. Its location cannot be fathomed by common earthlings, as it is located beyond the borders of the known universe, from which conventional technology on planet earth only senses the background radiation.
 The name 'Rescueland' formed in the process of Recua 'rescuing' civilisations against a phletora of enemies dotted around the multiverses. The name has stuck ever since. 
