@@ -18,8 +18,8 @@ This file will give a brief overview of major planets, ordered by distance to Re
 
 - **Interceptors:** Number of interceptors  
 - **Battle Ships:** Number of battle ships (includes pocket destroyers)  
-- **Darkfighters:** Number of dark fighters (includes grey and light fighters)  
-- **Ground Force Size:** Total number of foot soldiers  
+- **Darkfighters:** Number of dark fighters (includes grey and lightfighters)  
+- **Ground Force Size:** Total number of foot soldiers
 
 *Note: Rarer ship types have been excluded.*  
 
@@ -29,9 +29,9 @@ This file will give a brief overview of major planets, ordered by distance to Re
 3. Present-Day Earth  
 4. Regular transport available within the system  
 5. Initial exploration of nearby systems  
-6. Colonies established in nearby systems, exploring deeper into the multiverse (Star Wars is at this level)  
+6. Colonies established in nearby systems, exploring deeper into their multiverse (Star Wars is at this level)  
 7. Technology to occasionally leave their multiverse  
-8. Capability to regularly exit the multiverse  
+8. Capability to regularly exit their multiverse  
 9. Development of more dangerous, system-destroying weaponry  
 10. Ship range surpasses the distance from Recua to Computerland and back  
 11. Second highest possible level  
@@ -45,7 +45,7 @@ This file will give a brief overview of major planets, ordered by distance to Re
 
 ### Factions  
 
-Various factions exist within the multiverse. The following abbreviations represent the factions to which the planet belongs:  
+Various factions exist within the multiverses. The following abbreviations represent the factions to which the planet belongs:  
 
 - **Rescueland Empire:** R  
 - **Rebel 10:** B  
