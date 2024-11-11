@@ -2,57 +2,55 @@ This file will give a brief overview of major planets, ordered by distance to Re
 
 ## Keys
 
-Name: The name of the planet
+**Name:** The name of the planet  
 
-Flag: The flag of the planet
+**Flag:** The planet's flag  
 
-Pronounced: The pronunciation of the planet name
+**Pronunciation:** How to pronounce the planet's name  
 
-Capital: The capital city of the planet
+**Capital:** The capital city of the planet  
 
-Leader: The leader, or political system of the planet
+**Leader:** The planet's leader or its political system  
 
-Power Status: Every inhabited planet has a number from 1 - 6000000000 assigned to it, ordering its military power.
+**Power Status:** Each inhabited planet is assigned a military power ranking from 1 to 6,000,000,000.  
 
-Army Size: Total size of army
-- Interceptors: No. Interceptors
-- Battle Ships: No. Battle Ships (Includes Pocket Destroyers)
-- Darkfighters: No. Darkfighters (also includes Grey and Light Fighters)
-- Ground Force Size: No. of foot soldiers
+**Army Size:** Total count of military personnel  
 
-  Note: Rarer ship types are excluded
+- **Interceptors:** Number of interceptors  
+- **Battle Ships:** Number of battle ships (includes pocket destroyers)  
+- **Darkfighters:** Number of dark fighters (includes grey and light fighters)  
+- **Ground Force Size:** Total number of foot soldiers  
 
-Tech Level: How high the technology is, on a scale of 1-12, or military.
-01. Stone age
-02. Medieval age
-03. Earth, today
-04. Regular transports available around the system
-05. Begin exploring deeper into the nearby systems
-06. Colonies in nearby systems and begin to venture deeper into their multiverse (Star Wars is at this level)
-07. Have technology to leave their multiverse occasionally
-08. Able to regularly leave the multiverse
-09. Begin to discover more dangerous, system destroying weaponry
-10. Ship range exceeds the distance from Recua to Computerland and back
-11. 
-12. Highest possible level
+*Note: Rarer ship types have been excluded.*  
 
-Population: The number of inhabitants
+**Tech Level:** A measure of technological advancement, rated on a scale of 1 to 12 for military capability:  
+1. Stone Age  
+2. Medieval Age  
+3. Present-Day Earth  
+4. Regular transport available within the system  
+5. Initial exploration of nearby systems  
+6. Colonies established in nearby systems, exploring deeper into the multiverse (Star Wars is at this level)  
+7. Technology to occasionally leave their multiverse  
+8. Capability to regularly exit the multiverse  
+9. Development of more dangerous, system-destroying weaponry  
+10. Ship range surpasses the distance from Recua to Computerland and back  
+11. Second highest possible level  
+12. Maximum tech level achievable  
 
-Atmosphere: The main gases the atmosphere consists of
+**Population:** Total number of inhabitants  
 
-General: General information
+**Atmosphere:** Primary gases in the atmosphere  
 
-## Factions
+**General:** Overview of pertinent information  
 
-There are various factions among the multiverse. These abriviations will signify which faction the planet belongs to.
+### Factions  
 
-- Rescueland Empire = R
+Various factions exist within the multiverse. The following abbreviations represent the factions to which the planet belongs:  
 
-- Rebel 10 = B
-
-- Sepratists = S
-
-- Independent = I
+- **Rescueland Empire:** R  
+- **Rebel 10:** B  
+- **Separatists:** S  
+- **Independent:** I  
 
 # Core Systems
 
