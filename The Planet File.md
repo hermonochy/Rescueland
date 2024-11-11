@@ -4,7 +4,7 @@ This file will give a brief overview of major planets, ordered by distance to Re
 
 Name: The name of the planet
 
-Flag:
+Flag: The flag of the planet
 
 Pronounced: The pronunciation of the planet name
 
@@ -16,10 +16,11 @@ Power Status: Every inhabited planet has a number from 1 - 6000000000 assigned t
 
 Army Size: Total size of army
 - Interceptors: No. Interceptors
-- Battle Ships: No. Battle Ships
+- Battle Ships: No. Battle Ships (Includes Pocket Destroyers)
 - Darkfighters: No. Darkfighters (also includes Grey and Light Fighters)
-Note: Pocket Destroyers, amongst others, are excluded
 - Ground Force Size: No. of foot soldiers
+
+  Note: Rarer ship types are excluded
 
 Tech Level: How high the technology is, on a scale of 1-12, or military.
 01. Stone age
@@ -37,13 +38,13 @@ Tech Level: How high the technology is, on a scale of 1-12, or military.
 
 Population: The number of inhabitants
 
-Atmosphere: The main gases of the atmosphere
+Atmosphere: The main gases the atmosphere consists of
 
 General: General information
 
 ## Factions
 
-There are various factions among the multiverse. These abriviations will signify which one the planet belongs to.
+There are various factions among the multiverse. These abriviations will signify which faction the planet belongs to.
 
 - Rescueland Empire = R
 
