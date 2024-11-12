@@ -383,11 +383,11 @@ One limitation is that it needs to be taken down every 10 years. After about 50 
 
 ### Plasma Force Fields (U)
 
-This is the kind of force field that all other planets use. It is the most effective of all defences (except for the FFG). It creates a blue sheen 1 cm above the surface of the ship. Unlike the FFG, the Plasma Force Field is transmissive to on-board projectiles, but it can only repel a few dozen attacks before it needs to regenerate.
+Plasma Force Fields are the standard type of defense employed by most planets, recognized as one of the most effective protective measures available (second only to the FFG). This force field manifests as a blue sheen that hovers approximately 1 cm above the ship's surface. Unlike the FFG, the Plasma Force Field is transmissive to on-board projectiles, but it can only withstand a limited number of attacks—typically just a few dozen—before it requires regeneration.
 
 ### Magnetic Force Fields (L)
 
-These force fields are purely meant to deflect some slit bombs, creating an electromagnetic field around the ship. However, this does not work on all slit bombs, as some are not magnetic. It also won't deflect a direct shot travelling fast enough, though it may slow it down. Most ships have these shields on during battle, though it is impractical when flying in close formation.
+Magnetic Force Fields are designed specifically to deflect certain types of slit bombs by generating an electromagnetic field around the vessel. However, they are not universally effective, as some slit bombs do not possess magnetic properties. Additionally, these fields may not be able to stop a rapid direct hit, although they can help slow down the projectile. Most ships deploy these shields during combat, but their use becomes impractical when operating in close formation.
 
 ### The Verdant Shield Projector (R)
 
