@@ -4,10 +4,9 @@ Recua, aka Rescueland, is part of the multiverse, as few people know it. Its loc
 The name 'Rescueland' formed in the process of Recua 'rescuing' civilisations against a phletora of hostile invaders dotted around the multiverses. The name has stuck ever since. 
 To give an illustration of space scale: If the earth-known universe corresponds to the content of a tea cup, the earth would be a single electron, and Rescueland corresponds to the cup containing our known world. Rescueland existed since when the cup was filled, i.e., the event commonly known as the Big Bang.
 
-Rescueland existence begins: 5,630,630 r.ly (Rescueland years) BDOTR (Before the Discovery of the Rings), which is exactly when the Big Bang happened.
-Rescueland has evolved for 500,000 earth years anno domini, coming up with technology nobody on earth in 2024 AD would remotely think of being possible. 
+Rescueland existance began 5,630,630 r.ly (Rescueland years) BDOTR (Before the Discovery of the Rings), which is exactly when the Big Bang happened, and has evolved for 500,000 earth years anno domini, coming up with technology nobody on earth in 2024 AD would remotely think of being possible. 
 
-Computerland, in the analogon of the tea cup model, is another cup-sized planet that is allied to Rescueland, so far away that even the longest-range ships find it impractical to travel between them regularly. In this scale, imagine the distance between the Computerland and Rescueland cups corresponding to the distance between Spain and New Caledonia.
+Computerland, in the analogon of the tea cup model, is another cup planet, allied to Rescueland, so far away that even the longest-range ships find it impractical to travel between them regularly. In this scale, imagine the distance between the Computerland and Rescueland cups corresponding to the distance between Spain and New Caledonia.
 
 These are the notes and data about Rescueland and Computerland, including the technology, the history, the planets and the types of ships used.
 Facts and concepts are interdependent to a very high degree. Hence, for a complete understanding, it is likely required to double parse these documents.
@@ -25,4 +24,4 @@ reaches back to the Big Bang, including the major events DOTR, the start of the 
 holds key data on major planets in and around the Rescueland Empire, notably popuation, atmospheric conditions, emblems, geography, military capabilities, political system, multiversal status and general information.
 
 [The Ship File](https://github.com/hermonochy/Rescueland/blob/main/The%20Ship%20File.md)
-reveals the design basics of all major vehicles used by planets of a higher tech level than 10.
+provides insights into the design fundamentals of all major spacecraft utilized by planets with a technology level exceeding 10.
