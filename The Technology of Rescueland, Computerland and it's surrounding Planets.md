@@ -349,11 +349,15 @@ This is a device that allows kinetic energy to be transformed into higher entrop
 
 ### Atmospheric Bubble (R)
 
-This is a highly advanced design which allows atmospheric vehicles to enter space. When activated, it creates a 'bubble' in which the vehicle can travel in an artificial atmosphere.
+The Atmospheric Bubble is a technology that enables atmospheric vehicles to transition into outer space. When activated, a protective "bubble" is created around the vehicle, creating an artificial atmosphere that allows it to traverse the vacuum of space without issues such as the lack of air. This advanced mechanism not only ensures the safety of the crew and passengers but also optimizes the vehicle's performance during interstellar travel.
 
 ### Teleporter (R + C)
 
-Rescueland and Computerland, through combined efforts, managed to build a teleportation device. However, it has many problems, so is not used very often: It cannot teleport anything inside an FFG, it is a very painful process, it requires a lot of power and you cannot teleport into a place that is completely closed off.
+In a remarkable collaboration, Rescueland and Computerland successfully developed a teleportation device, allowing for Instantaneous jumps anywhere. However, this technology comes with numerous challenges that limit its practical use. 
+
+For one, the teleportation process cannot transport objects or individuals within a Force Field Gel, which significantly restricts its applicability in various scenarios, such as jumping into a dangerous environment. Additionally, those who undergo teleportation experience a great deal of pain during the process, making it an undesirable option for many. The device also demands an immense amount of power to operate. Furthermore, it cannot execute a teleportation into a completely enclosed space, which further limits its usability. 
+
+As a result of these limitations, the teleportation device is not often utilized, even though it represents a remarkable technological achievement in the realm of interdimensional travel.
 
 # Military
 
