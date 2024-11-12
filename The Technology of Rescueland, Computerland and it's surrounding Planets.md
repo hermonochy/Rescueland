@@ -153,13 +153,16 @@ L = Lower tech
 
 ## Materials
 
-### Darkmaterial, Greymaterial and Lightmaterial (U)
+### Darkmaterial, Greymaterial, and Lightmaterial (U)
 
-Darkmaterial is a very rare substance, fought for by many. It is almost impossible to destroy, only bested by [Force Field Gel](#force-field-gel-r). Grey and Lightmaterial are chemically identical to Darkmaterial, but have different purposes.
+Darkmaterial is an extremely rare substance that many factions vie for due to its unique properties. It is nearly indestructible, surpassed only by Force Field Gel. Greymaterial and Lightmaterial are chemically identical to Darkmaterial but serve different functions.
+Darkfighters, Greyfighters, and Lightfighters
 
 #### Darkfighters, Greyfighters and Lightfighters
 
-The most famous use of this substance is to build practically indestructible fighters. There are only two known ways to destroy these ships. The first, used by most, is to slam them, at almost infinite speed, into a Force Field Gel. However, it is also possible to use [Mutant FFG](#mutant-ffg) as a cutting device. While this method is far easier and cheaper, it is restricted to the only bearers of this rare substance, Rescueland. This is also how the fighters are made. The material needs to be shaped into a fighter by slamming small Force Field Gel balls into the machine at the necessary speed and precision. This is why the little Force Field Gel that other planets obtain is saved, should they find some Darkmaterial. The process is the most expensive one known in the entire multiverse, which is why there are only a few dozen of them, though they are increasing in number. Therefore, these ships are, in a way, the atomic bombs of the multiverse.
+One of the most notable applications of these materials is the construction of virtually indestructible fighter ships. There are only two known methods for destroying these vessels. The most common method involves propelling them at nearly infinite speed into a field of Force Field Gel. Alternatively, [Mutant FFG](#mutant-ffg) can be employed as a cutting tool; although this method is simpler and more cost-effective, it is restricted to the exclusive users of this rare material, the inhabitants of Rescueland. 
+
+The creation of these fighters requires careful shaping of the material through the process of slamming small Force Field Gel balls into the machinery at the exact speed and precision needed. This is why planets that manage to acquire Force Field Gel tend to conserve it, rather than use it to the protection of their ships. The process of manufacturing these fighters is the most expensive known across the multiverse, which is why only a few dozen exist, although production rates are slowly increasing. Consequently, these ships are considered the equivalent of atomic bombs.
 
 ### Techanda (U) Teh-chuhn-dahh
 
