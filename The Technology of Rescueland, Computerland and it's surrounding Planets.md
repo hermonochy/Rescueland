@@ -83,7 +83,7 @@ L = Lower tech
 
 ### [Weaponry](#weaponry-1)
 
-[Guns](#guns-u)
+[Cannons](#cannons-u)
 
 #### [Lasers](#lasers-1)
 
@@ -413,25 +413,25 @@ DarkArmour is an FCRT defensive layer plated only a few femtometers thick, makin
 
 ## Weaponry
 
-### Guns (U)
+### Cannons (U)
 
-There are 4 main sizes of cannon: A large cannon, a universal cannon, a small cannon and an extra small one.
+Cannons serve as the primary armament on military vessels, enabling the discharge of lasers and projectiles. The barrel can be equipped with a laser generator, a 'catapult' mechanism for launching projectiles, or left unmodified to launch guided slit bombs. Their versatility make the cannons a popular choice. There are four primary sizes of cannons available: large, universal, small, and extra small.
 
-#### The large cannon
+#### The Large Cannon
 
-This cannon is used for fast-load slit bombs, large-damage slit bombs and laserdrones.
+Designed for high-impact operations, this cannon is capable of launching fast-loading slit bombs, large-damage slit bombs, and laser drones.
 
-#### The universal cannon
+#### The Universal Cannon
 
-This is the most common cannon size, which can launch basic slit bombs, cluster slit bombs, deep-penetration slit bombs, shielded slit bombs, basic lasers, machine guns and rockets.
+As the most widely utilized cannon size, the universal cannon can fire a variety of munitions, including basic slit bombs, cluster slit bombs, deep-penetration slit bombs, shielded slit bombs, basic lasers, machine guns, and rockets.
 
-#### The small cannon
+#### The Small Cannon
 
-This cannon fits basic lasers, rockets and a single cluster slit bomb.
+This cannon is compatible with basic lasers, rockets, and a single cluster slit bomb, making it a compact but effective option.
 
-####    
+#### The Extra Small Cannon
 
-This cannon is rare, mainly used by tiny ships such as the Helucky darkfighters. It can only fit extra-small slit bombs and basic lasers.
+This rare cannon is primarily found on smaller vessels, such as the Helucky darkfighters. It is designed to accommodate only extra-small slit bombs and basic lasers.
 
 ### Ammo
 
