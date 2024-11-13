@@ -2,7 +2,7 @@ This document outlines all significant events that have taken place since the es
 
 ## 5630630 BDOTR: Creation of Rescueland
 
-The Big Bang occurred and Rescueland came to existence, becoming the outer core of our universe. It is believed that the Force Field Gel already existed at this time.
+The birth of Rescueland coincided with the phenomenon known as the Big Bang, marking its emergence as the outer core of our universe. It is widely believed that the mysterious Force Field Gel was already in existence at this primordial moment, setting the stage for the unique development of Rescueland and its inhabitants.
 
 ## 0 ADOTR: Discovery of the Rings
 
@@ -18,15 +18,14 @@ Rescueland successfully built and sent a ship with enough range to enter another
 
 ## 8 ADOTR: Discovery of Bad Guy Land
 
-Bad Guy Land was discovered. Initial scouting missions reported alarming developments: enslaved inhabitants, brutal governance, and a culture steeped in warfare. Tensions rose as the looming threat of Bad Guy Land became apparent.
-
+Bad Guy Land was discovered. Initial scouting missions unveiled troubling reports of enslaved inhabitants and a regime characterized by brutality and unrelenting warfare. As the intelligence poured in, an air of tension and urgency enveloped Rescueland, as the impending threat posed by Bad Guy Land became all too evident.
 ## 14 ADOTR: Discovery of Computerland
 
-Rescueland discovered that they were not alone in the fight against Bad Guy Land. Another planet, although very distant, was also battling Bad Guy Land. The first contact was successful, and the two became powerful allies.
+In what would become a significant alliance, Rescueland discovered that it was not alone in its struggle against Bad Guy Land. A distant planet, known as Computerland, was also fiercely resisting the oppressive regime. The successful first contact between these two planets led to the establishment of a powerful alliance, forging a collaborative front against their common enemy.
 
 ## 18 ADOTR: The Super Twos
 
-Klesone gifted Rescueland the first Super Twos, their most advanced design of robot, after the Rescuelanders foiled Bad Guy Land's attempt to invade Klesone. These Super Two's went on to make more advanced robots, who also made more advanced robots, and eventually landed with the FCRT's today.
+The situation reached another turning point when Klesone bestowed upon Rescueland the first Super Twos, the pinnacle of robotic design, after Rescueland successfully thwarted an invasion attempt by Bad Guy Land against Klesone. This gift represented not only advanced technology but also the culmination of Rescueland's commitment to innovation. The Super Twos took it upon themselves to create even more sophisticated robots, further enhancing their capabilities in a continuous cycle of advancement. This technological evolution ultimately laid the groundwork for the FCRT's.
 
 ## 22 ADOTR: The First Battle Against Bad Guy Land
 
