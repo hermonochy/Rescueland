@@ -21,7 +21,7 @@ A detailed reference of all technological minutiae is beyond the scope of this s
 reaches back to the Big Bang, including the major events DOTR, the start of the space-age, beginning of intra-multiversal travel, discovery of new planets, introduction of the Super Twos and the succession of major multiversal conflicts.
 
 [The Planet File](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md)
-holds key data on major planets in and around the Rescueland Empire, notably popuation, atmospheric conditions, emblems, geography, military capabilities, political system, multiversal status and general information.
+holds key data on all major civilizations in and around the Rescueland Empire, notably population, atmospheric conditions, emblems, geography, military capabilities, political systems, multiversal status and general information, arranged by distance to Rescueland. The planet file also introduces the multiversal factions.
 
 [The Ship File](https://github.com/hermonochy/Rescueland/blob/main/The%20Ship%20File.md)
 provides insights into the design fundamentals of all major spacecraft utilized by planets with a technology level exceeding 10.
