@@ -118,8 +118,9 @@
 
 **Range:** Near Infinite
 
-**General:**This is the main design for Helucky’s DarkFighters. However, it lacks effectiveness due to the installation of an undersized cannon, rendering it nearly harmless.
-Disclaimer: Although it may resemble a TIE fighter, this design is fundamentally different. The 'wings' are shields, not solar panels.
+**General:** This is the main design for Helucky’s DarkFighters. However, it lacks effectiveness due to the installation of an undersized cannon, rendering it nearly harmless.
+
+*Disclaimer: Although it may resemble a TIE fighter, this design is fundamentally different. The 'wings' are shields, not solar panels and it is a drone, not piloted.*
 ### The Helucky DarkFighter Frigade
 
 ![](images/Helucky_DF_Frigade.png)
