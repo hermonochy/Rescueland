@@ -154,11 +154,11 @@ Army Size:
 
 **Tech Level:** 11
 
-**Population:** 5482639 trillion
+**Population:** 548 quadrillion
 
 **Atmosphere:** Hydrogen 86%, Helium 11%, Methane 2%
 
-**General:** This is the ice planet which the Rescuelanders hid on during The War for Rescueland.
+**General:** This ice moon of Rescueland is where the Rescuelanders hid on during The War for Rescueland.
 
 ## Titan (R)
 
@@ -230,7 +230,7 @@ Army Size:
 
 **Leader:** none
 
-**Power Status:**5063245856/6000000000
+**Power Status:** 5063245856/6000000000
 
 Army Size:
 - **Interceptors:** 66 million
