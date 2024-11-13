@@ -686,7 +686,7 @@ Army Size:
 
 **Atmosphere:** Nitrogen 59%, Oxygen 30%, Argon 10%
 
-**General:** This is the final of the 3 'superpowers'. This superpower focuses on speed for its ships, and specialises in radar and radio manipulation, having pulled the strings of the Rescueland-Helucky war since it started.
+**General:** This is the final of the 3 'superpowers'. This superpower focuses on speed for its ships, even at the cost of removing several key systems such as shields, and specialises in radar and radio manipulation, having pulled the strings of the Rescueland-Helucky war since it started.
 
 
 ## Morrel (I)
