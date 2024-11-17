@@ -1,3 +1,6 @@
+*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
+
+
 This file presents a brief summary of the major planets, listed according to their distance from Rescueland.
 
 ## Keys

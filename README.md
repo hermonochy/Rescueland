@@ -1,3 +1,5 @@
+*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
+
 # Recua and Computerland
 
 Recua, aka Rescueland, is part of the multiverse, as few people know it. Its location cannot be fathomed by common earthlings, as it is located beyond the borders of the known universe, from which conventional technology on planet Earth only senses the background radiation.
