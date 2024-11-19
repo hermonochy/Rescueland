@@ -21,6 +21,8 @@ A detailed reference of all technological minutiae is beyond the scope of this s
 
 [The Timeline of Rescueland History](https://github.com/hermonochy/Rescueland/blob/main/The%20Timeline%20of%20Resueland%20History.md)
 reaches back to the Big Bang, including the major events DOTR, the start of the space-age, beginning of intra-multiversal travel, discovery of new planets, introduction of the Super Twos and the succession of major multiversal conflicts.
+[The Timeline of Computerland History](https://github.com/hermonochy/Rescueland/blob/main/The%20Timeline%20of%20Computerland%20History.md) 
+shows these events from the view of Computerland.
 
 [The Planet File](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md)
 holds key data on all major civilizations in and around the Rescueland Empire, notably population, atmospheric conditions, emblems, geography, military capabilities, political systems, multiversal status and general information, arranged by distance to Rescueland. The planet file also introduces the multiversal factions.
