@@ -14,18 +14,18 @@ These are the notes and data about Rescueland and Computerland, including the te
 Facts and concepts are interdependent to a very high degree. Hence, for a complete understanding, it is likely required to double parse these documents.
 
 
-[The Technology of Rescueland, Computerland and it's surrounding Planets](https://github.com/hermonochy/Rescueland_books/blob/main/The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md)
+[The Technology of Rescueland, Computerland and it's surrounding Planets](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md)
 is far superior to the technology on planet earth in the 21st century.
 Through millenia of basic research, it became possible to control all aspects of matter on every scale, resulting in interesting quecto-materials aggregated into macroscopic hyperstructures. 
 A detailed reference of all technological minutiae is beyond the scope of this script, as no single person or Non-Rescueland robot has sufficient mental capacity or storage to retain it. A coarse overview is sufficiently taxing.
 
-[The Timeline of Rescueland History](https://github.com/hermonochy/Rescueland/blob/main/The%20Timeline%20of%20Resueland%20History.md)
+[The Timeline of Rescueland History](./The%20Timeline%20of%20Resueland%20History.md)
 reaches back to the Big Bang, including the major events DOTR, the start of the space-age, beginning of intra-multiversal travel, discovery of new planets, introduction of the Super Twos and the succession of major multiversal conflicts.
-[The Timeline of Computerland History](https://github.com/hermonochy/Rescueland/blob/main/The%20Timeline%20of%20Computerland%20History.md) 
+[The Timeline of Computerland History](./The%20Timeline%20of%20Computerland%20History.md) 
 shows these events from the view of Computerland.
 
-[The Planet File](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md)
+[The Planet File](./The%20Planet%20File.md)
 holds key data on all major civilizations in and around the Rescueland Empire, notably population, atmospheric conditions, emblems, geography, military capabilities, political systems, multiversal status and general information, arranged by distance to Rescueland. The planet file also introduces the multiversal factions.
 
-[The Ship File](https://github.com/hermonochy/Rescueland/blob/main/The%20Ship%20File.md)
+[The Ship File](./The%20Ship%20File.md)
 provides insights into the design fundamentals of all major spacecraft utilized by planets with a technology level exceeding 10.

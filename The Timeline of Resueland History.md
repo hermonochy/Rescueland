@@ -4,7 +4,7 @@ This document outlines all significant events that have taken place since the es
 
 ## 5630630 BDOTR: Creation of Rescueland
 
-The birth of Rescueland coincided with the phenomenon known as the Big Bang, marking its emergence as the outer core of our universe. It is widely believed that the mysterious [Force Field Gel](https://github.com/hermonochy/Rescueland/blob/main/The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r) was already in existence at this primordial moment, setting the stage for the unique development of Rescueland and its inhabitants.
+The birth of Rescueland coincided with the phenomenon known as the Big Bang, marking its emergence as the outer core of our universe. It is widely believed that the mysterious [Force Field Gel](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r) was already in existence at this primordial moment, setting the stage for the unique development of Rescueland and its inhabitants.
 
 ## 0 ADOTR: Discovery of the Rings
 
@@ -27,11 +27,11 @@ In what would become a significant alliance, Rescueland discovered that it was n
 
 ## 18 ADOTR: The Super Twos
 
-The situation reached another turning point when Klesone bestowed upon Rescueland the first [Super Twos](https://github.com/hermonochy/Rescueland/blob/main/The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#notable-versions), the pinnacle of robotic design, after Rescueland successfully thwarted an invasion attempt by Bad Guy Land against [Klesone](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md#klesone-r). This gift represented not only advanced technology but also the culmination of Rescueland's commitment to innovation. The Super Twos took it upon themselves to create even more sophisticated robots, further enhancing their capabilities in a continuous cycle of advancement. This technological evolution ultimately laid the groundwork for the FCRT's.
+The situation reached another turning point when Klesone bestowed upon Rescueland the first [Super Twos](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#notable-versions), the pinnacle of robotic design, after Rescueland successfully thwarted an invasion attempt by Bad Guy Land against [Klesone](./The%20Planet%20File.md#klesone-r). This gift represented not only advanced technology but also the culmination of Rescueland's commitment to innovation. The Super Twos took it upon themselves to create even more sophisticated robots, further enhancing their capabilities in a continuous cycle of advancement. This technological evolution ultimately laid the groundwork for the FCRT's.
 
 ## 22 ADOTR: The First Battle Against Bad Guy Land
 
-The Rescuelanders engaged in their first major military confrontation with Bad Guy Land over the planet [N2](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md#n2-r), which fell under their control. Upon learning that Bad Guy Land had overtaken N2 and enslaved its citizens, the Rescuelanders mobilised quickly to liberate the planet. N2 is characterised by dense, tropical vegetation and primitive civilizations, making Bad Guy Land's robotic enforcers particularly vulnerable to computer-targeted weapons.
+The Rescuelanders engaged in their first major military confrontation with Bad Guy Land over the planet [N2](./The%20Planet%20File.md#n2-r), which fell under their control. Upon learning that Bad Guy Land had overtaken N2 and enslaved its citizens, the Rescuelanders mobilised quickly to liberate the planet. N2 is characterised by dense, tropical vegetation and primitive civilizations, making Bad Guy Land's robotic enforcers particularly vulnerable to computer-targeted weapons.
 The Rescuelanders gathered intelligence on Bad Guy Land's operations, noting the extensive use of robotic units and the weak spots in their defences. Armed with this information, they prepared to deploy electromagnetic pulses (EMPs) to disable the robots.
 A specialised team of Rescuelander commandos, equipped with stealth technology, infiltrated N2 to assess enemy positions. They observed routine patrols and devised a plan to maximise the effect of their EMPs.
 A few days later, Rescueland forces descended upon N2. As they approached the surface, they deployed the EMPs, disrupting the robots' systems and causing them to shut down. The Rescuelanders followed up with ground troops, engaging in close combat with the few surviving enforcers of Bad Guy Land. The Rescuelanders successfully liberated the inhabitants of N2.
@@ -47,8 +47,8 @@ As the battle dragged on, the Rescuelanders found their resources stretched thin
 Realising the dire situation, Weda decided to order a retreat. Evacuation corridors were established to facilitate a strategic withdrawal in small packs. Ships were hastily organised, with many civilians and soldiers evacuating under fire.
 The escape was chaotic, with many Rescueland ships sustaining damage as they fled. The enemy’s pursuit was relentless, resulting in high casualties among Rescueland’s personnel. Rescueland was lost to Bad Guy Land, and the victory signalled a shift in momentum, leaving them in a vulnerable state.
 
-In the aftermath of their defeat and retreat, the Rescuelanders regrouped on [Hermonochy](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md#hermonochy-r), a planet with hidden resources ideal for rebuilding their forces. They recognized the need to strategize, train, and unite to counter Bad Guy Land’s growing influence.
-In the ensuing years, Rescueland began to establish new alliances with the neighbouring worlds of [Titan](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md#titan-r) and [Ralfialand](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md#ralfialand-r), pooling resources and technology. These two planets, along with Hermonochy and Rescueland, became known as the core planets. They recruited skilled pilots, engineers, and soldiers, establishing a formidable alliance.
+In the aftermath of their defeat and retreat, the Rescuelanders regrouped on [Hermonochy](./The%20Planet%20File.md#hermonochy-r), a planet with hidden resources ideal for rebuilding their forces. They recognized the need to strategize, train, and unite to counter Bad Guy Land’s growing influence.
+In the ensuing years, Rescueland began to establish new alliances with the neighbouring worlds of [Titan](./The%20Planet%20File.md#titan-r) and [Ralfialand](./The%20Planet%20File.md#ralfialand-r), pooling resources and technology. These two planets, along with Hermonochy and Rescueland, became known as the core planets. They recruited skilled pilots, engineers, and soldiers, establishing a formidable alliance.
 Working tirelessly, Rescuelanders invested in new technologies to enhance their military capabilities. Newer fighter ships, stronger shields, and improved tactics were developed to address the shortcomings of their previous encounter with Bad Guy Land.
 
 Having spent years rebuilding their military might and increasing their resolve, the Rescuelanders were finally ready to launch a counter-offensive to reclaim their home planet against the now lax Bad Guy Landers. They gathered intelligence on Bad Guy Land’s current positions, preparing for an all-out assault.
@@ -62,7 +62,7 @@ With the command ship destroyed and the enemy forces disorganised, the remaining
 
 ## 25 ADOTR: The Formation of the Rescueland Empire
 
-[The Rescueland Empire](https://github.com/hermonochy/Rescueland/blob/main/The%20Planet%20File.md#rescueland-empire) was formed, a union between almost all planets that promised to help one another in times of need.
+[The Rescueland Empire](./The%20Planet%20File.md#rescueland-empire) was formed, a union between almost all planets that promised to help one another in times of need.
 
 ## 26 ADOTR: The Failed Attack
 
