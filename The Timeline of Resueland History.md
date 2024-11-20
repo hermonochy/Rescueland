@@ -4,7 +4,7 @@ This document outlines all significant events that have taken place since the es
 
 ## 5630630 BDOTR: Creation of Rescueland
 
-The birth of Rescueland coincided with the phenomenon known as the Big Bang, marking its emergence as the outer core of our universe. It is widely believed that the mysterious [Force Field Gel](https://github.com/hermonochy/Rescueland/blob/main/The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r) was already in existence at this primordial moment, setting the stage for the unique development of Rescueland and its inhabitants.
+The birth of Rescueland coincided with the phenomenon known as the Big Bang, marking its emergence as the outer core of our universe. It is widely believed that the mysterious [Force Field Gel](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r) was already in existence at this primordial moment, setting the stage for the unique development of Rescueland and its inhabitants.
 
 ## 0 ADOTR: Discovery of the Rings
 
