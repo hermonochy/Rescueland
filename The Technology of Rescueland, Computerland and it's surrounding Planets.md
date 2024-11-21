@@ -97,7 +97,7 @@ L = Lower tech
 ,
 [Solar Beam Projectors](#solar-beam-projectors-l)
 
-##### [FCRT Weapons](#fcrt-weapons)
+##### [FCRT Weapons](#fcrt-weapons-1)
 
 [P-Series](#p-series-laser-r)
 ,
@@ -532,7 +532,7 @@ A highly potent explosive, capable of annihilating a small army. Upon impact, th
 
 ##### Types of Hydro-Bombs
 
-- **Quick-Succession Bombs:** Designed to be fired in rapid sequence; the first weakens the target, the second destroys it, and the third eliminates remaining debris.
+- **Quick-Succession Bombs:** Designed to be fired in rapid sequence; the first knocks out the defenses, the second destroys it, and the third eliminates remaining debris.
 - **Surprise Bombs:** These detonate in a single lethal blast, leaving the enemy no chance to defend.
 - **Mini Bombs:** Small explosives intended for single-target elimination, though their effectiveness is limited due to the cubic scaling of power.
 
@@ -556,6 +556,7 @@ However, they have long since been forgotten as they only work on living organis
 ### Electromagnetic Pulse (L)
 
 The Electromagnetic Pulse (EMP) is a simple but effective piece of technology designed to incapacitate electronic systems and disrupt communication networks. It operates using electromagnetic principles and can range in scale from portable units to large-scale weapons deployed from vehicles or aircraft. The EMP is seen as a non-lethal alternative to traditional explosives, making it a strategic choice in modern warfare and electronic countermeasures.
+
 #### EMP Types:
 
 - Focused EMP Projector: A portable device that emits a targeted burst of electromagnetic energy, designed to disable enemy electronics in a specific area without causing physical destruction to infrastructure. Typically used by special operations units.
