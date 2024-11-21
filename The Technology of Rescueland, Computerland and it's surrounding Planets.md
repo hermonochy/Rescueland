@@ -588,24 +588,24 @@ The FCRT Suit represents a remarkable fusion of advanced materials, cutting-edge
 
 ### Key Features
 
-1.Flight Capability: The main feature of the FCRT Suit is its flight system, which integrates several technologies for safe and agile aerial manoeuvring.
+1. Flight Capability: The main feature of the FCRT Suit is its flight system, which integrates several technologies for safe and agile aerial manoeuvring.
 
-2.Indestructibility: The suit’s structural integrity is achieved through a combination of technologies, providing an almost indestructible suit. The outer layer of the suit incorporates a nano-composite material that utilises carbon nanotubes and graphene, rendering it nearly indestructible against a variety of physical impacts.
+2. Indestructibility: The suit’s structural integrity is achieved through a combination of technologies, providing an almost indestructible suit.
 - Reactive Armour Technology: The suit features integrated reactive armour that activates upon high-velocity impacts or projectiles. Sensors can detect incoming threats and trigger a countermeasure response that absorbs or deflects the impact.
-- Darkmaterial: Should these technologies fail, it also features a layer of Darkmaterial plates underneath, ensuring almost complete safety.
+- Darkmaterial: Should it fail, it also features a layer of Darkmaterial plates underneath, ensuring almost complete safety.
 
-3.Defense and Offense
+3. Defense and Offense
 
 The suit boasts advanced weaponry, including the P-series Laser for precise targeting, capable of latching onto and tracking adversaries with its thin red beam, and the more powerful TL-series Laser, which emits a lethal green beam with enhanced manoeuvrability for rapid engagements. Close combat is augmented by the Laser Hair, extending short laser projections from the suit’s head, functioning as a formidable melee weapon. Additionally, the Granite Laser delivers molten granite to immobilise targets effectively. For defence, the suit incorporates Force Field Gel and Plasma Force Fields.
 
-4.Integrated Communication and Control Systems
+4. Integrated Communication and Control Systems
 
 The helmet of the FCRT Suit is equipped with advanced communication technology for seamless coordination and information sharing.
 Encrypted Communication Channels: Ensures secure communication with teams or command centres, facilitating instant access to real-time data.
 
 5. Health Monitoring Systems
 
-The suit features advanced health monitoring systems that continuously assess the wearer's physiological state.
+The suit features advanced health monitoring systems that continuously assess the wearer's physical state.
 
 - Biometric Sensors: Embedded sensors track vital signs including heart rate, oxygen levels, and stress indicators. The data is analysed continuously to identify potential health risks.
 - Combat Recovery Protocol: In the event of injury, the suit can administer localised therapeutics, such as pain relief or clotting agents, aiding in rapid recovery during engagement.
@@ -614,7 +614,7 @@ The suit features advanced health monitoring systems that continuously assess th
 
 The Exoskeleton Suit enhances user strength and mobility, making everyday tasks easier. It is especially useful for heavy lifting and assisting those with mobility challenges, designed as a weaker, more basic FCRT suit which only enhances strength and precision, carrying no weapons or defence.
 
-## AquaPurifier (L) Ah-kwah-pur-if-eye-er
+## AquaPurifier (L)
 
 The AquaPurifier is an old but reliable water filtration system engineered to deliver clean and safe drinking water. Its sleek, countertop design blends seamlessly into kitchens, and it uses multiple filtration technologies to ensure the highest quality. The AquaPurifier features a luminescent display that indicates water quality and filter status.
 
