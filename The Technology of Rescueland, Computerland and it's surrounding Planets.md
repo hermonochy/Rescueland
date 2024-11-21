@@ -574,13 +574,13 @@ The Electromagnetic Pulse (EMP) is a simple but effective piece of technology de
 
 ### Bunkers
 
-#### Anti-bunker catapult (L)
+#### Anti-Bunker Catapult (L)
 
-The anti-bunker catapult is the most common method to destroy the bunker of the enemy. A massive weight, several km long and super dense, is launched from a catapult (also massive!) onto the bunker, but shortly before impact the entire weight is concentrated into a small area, just a few metres across, and crushes a hole into the bunker. However, the bunker usually collapses from the damage, destroying everything inside. Therefore, it can't always be used.
+The anti-bunker catapult represents the most prevalent strategy for demolishing enemy bunkers. A colossal, ultra-dense projectile, several kilometers long, is launched from an equally massive catapult towards the bunker. Just before it strikes, the weight concentrates into a small area of just a few meters, creating a powerful impact that breaches the bunker. Typically, the damage is so severe that the bunker collapses, obliterating everything inside. This method, however, cannot be employed at all times due to its destructive nature.
 
-#### Anti-bunker drill (R+B)
+#### Anti-Bunker Drill (R+B)
 
-The anti-bunker drill is the method Rescueland uses when they need to capture the bunker. It drills through the ground at incredible speeds, several thousand km/h. However, it is still slower than the anti-bunker catapult, and more expensive, which is why it is not used as often. The hole it drills is 8 metres across. It can drill into the bunker from any direction, except if it is protected by Darkmaterial or FFG.
+In contrast, the anti-bunker drill is the preferred technique for Rescueland when capturing a bunker is the objective. It operates by penetrating the ground at astonishing speeds, reaching several thousand kilometers per hour. Nonetheless, it is slower and more costly compared to the anti-bunker catapult, which limits its frequency of use. The drill creates an 8-meter-wide breach and can approach the bunker from virtually any angle, except when it is shielded by Darkmaterial or FFG.
 
 # Civilian
 
