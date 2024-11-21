@@ -97,7 +97,7 @@ L = Lower tech
 ,
 [Solar Beam Projectors](#solar-beam-projectors-l)
 
-##### [FCRT Lasers](#fcrt-lasers-1)
+##### [FCRT Weapons](#fcrt-weapons)
 
 [P-Series](#p-series-laser-r)
 ,
@@ -478,72 +478,73 @@ These fusion-based weapons convert atomic energy into focused blasts. The cannon
 This weapon produces an enormous energy beam that harnesses the power of a star to discharge concentrated energy onto a target ship, resulting in disintegration of the hull and systems. Capable of crippling many ships with a single blast, they are effective across vast distances and are usually fired from a planet.
 
 
-##### FCRT Lasers
+#### FCRT Weapons
 
-###### P-series Laser (R)
+##### P-series Laser (R)
 
 The P-series were the first steerable laser designs, producing a thin, red beam which can latch onto a target and follow it indefinitely. P-series laser reactions are slow though, so it is possible to avoid impact by putting an object between you and the laser. It is also quite weak, and it would take several shots to take someone down. The newest model is the P-45.
 
-###### TL-series (R)
+##### TL-series (R)
 
 The TL series is similar to the P-series, but it is a larger, green beam. It is also more powerful and faster manoeuvring, but it requires a lot more power, so a regular FCRT can use this for a maximum of 88 seconds worth of beam. The newest model is the TL-34.
 
-###### Laser Hair (R)
+##### Laser Hair (R)
 
-FCRT's have no hair, but can activate short lasers sticking out of their heads,usually during battle. It can be used to ram their target, a bit like a bayonet. Some FCRT's even style it like hair, but they usually don't bother.
+FCRT's have no hair, but can activate short lasers sticking out of their heads, usually during battle. It can be used to ram their target, similar to a bayonet. Some FCRT's even style it like hair, but they usually don't bother.
 
-###### Granite Laser (C)
+##### Granite Laser (C)
 
-The Granite Laser is a weapon designed by Computerland, but is usually used by the FCRT. Though technically not a laser, this weapon acts so much like one that it has been named The Granite Laser. It fires a beam of molten granite at the target, engulfing them. The granite solidifies as soon as it hits, immobilising the target until it is broken free.
+The Granite Laser is a weapon designed by Computerland, but is usually used by the FCRTs. Though technically not a laser, this weapon acts so much like one that it has been named The Granite Laser. It fires a beam of molten granite at the target, engulfing them. The granite solidifies as soon as it hits, immobilising the target until it is broken free.
 
 #### Slit Bombs (U)
 
-Slit bombs are the most common type of ammo used. They are very basic, simply a sharp projectile, reusable until they go blunt. Some are rocket powered, so they are steerable.
+Slit bombs are the most prevalent type of ammunition. They are straightforward in design, consisting of a sharp projectile that can be reused until it becomes dull. Some variants are rocket-powered, allowing for guided trajectories.
 
-##### Slit bomb types
+##### Types of Slit Bombs
 
-- Basic slit bombs: These are simply sharp projectiles
-- Rocket-powered slit bombs: These slit bombs are rocket powered, so can steer and return to the owner after use.
-- Fast-load slit bombs: These are built to be loaded quickly into the cannon, and can be launched within a few milliseconds of one another.
-- Cluster slit bombs: These are smaller slit bombs, so many can be launched at once. Therefore, many targets can be hit at once.
-- Extra-small slit bombs: These are tiny slit bombs, rarely used due to their ineffectiveness. The only current users of this slit bomb are the Helucky Darkfighters.
-- Deep-penetration slit bombs: These are very thin slit bombs, used to penetrate particular deep. They are the main slit bomb type that use eleha.
-- Large-damage slit bombs: These are the opposite of deep-penetration slit bombs, broad and blunt. Due to this, a very powerful cannon is required to launch these.
-- Shielded slit bombs: This slit bomb is single use, with a shield at the front that breaks off shortly before impact. They are also made of eleha.
-- Surface to surface slit bombs: These are slit bombs that are purely rocket powered, launched from one planet to hit another planet. They are made of solitme.
+- **Basic Slit Bombs:** These are simply sharp projectiles.
+- **Rocket-Powered Slit Bombs:** These can navigate and return to the user after being fired.
+- **Fast-Load Slit Bombs:** Designed for rapid loading into cannons, they can be launched within milliseconds of each other.
+- **Cluster Slit Bombs:** Smaller in size, allowing multiple bombs to be launched simultaneously, enabling strikes on several targets at once.
+- **Extra-Small Slit Bombs:** These tiny bombs are infrequently used due to their low effectiveness, with the Helucky Darkfighters being their only current users.
+- **Deep-Penetration Slit Bombs:** Thin bombs engineered for specific deep penetration, primarily utilizing eleha.
+- **Large-Damage Slit Bombs:** Broad and blunt in design, requiring a powerful cannon for launch, they are the opposite of deep-penetration bombs.
+- **Shielded Slit Bombs:** These are single-use bombs featuring a shield that detaches shortly before impact, made from eleha.
+- **Surface-to-Surface Slit Bombs:** Purely rocket-powered, these bombs are launched from one planet to strike another and are constructed from solitme.
 
 #### Machine Guns (L)
 
-These are incredibly small, weak projectiles, cheap but useless in space battle. They are mainly used in battles against 'inferior' races (tech level 6 or under).
+These weapons fire very small, weak projectiles that are inexpensive but ineffective in space combat. They are mainly used in conflicts against "inferior" races (tech level 6 or lower).
 
 #### Tachyon Launchers (L)
 
-These launchers fire projectiles that harness tachyon particles. They were capable of striking targets before they had time to react, but now they are considered slow, so are now rarely used. They can be repelled by FFG's, Darkmaterial and Plasma Force Fields.
+These launchers projectiles utilizing tachyon particles, capable of hitting targets before they can react. However, they are now outdated, seen as slow and rarely employed. They can be countered by FFGs, Darkmaterial, and Plasma Force Fields.
 
 #### The Mega Flail (Ho)
 
-The Mega Flail is a spiked ball which is attached to a ship's belly. When required, it will be launched from a ship's belly and crush or spike whatever is below it. It will then be pulled back with a rope attached to it. The only army that uses this is the Horsa army.
+The Mega Flail consists of a spiked ball attached to the underside of a ship. When needed, it is deployed to crush or impale whatever lies below before being retracted with a rope. This weapon is exclusively used by the Horsa army.
 
 ### Explosives
 
-#### Hydro-bombs (R+H+F)
+#### Hydro-Bombs (R+H+F)
 
-This is a very powerful bomb, capable of taking out a small army. When the bomb hits the surface, it implodes from the pressure. The force causes the shell to break apart, and the explosives inside explode at full force. The shock-wave of the bomb travels outward in a ripple, destroying anything in it's path. They are very expensive however, so use is limited.
+A highly potent explosive, capable of annihilating a small army. Upon impact, the bomb implodes under pressure, rupturing its shell and triggering the internal explosives at full force. The resulting shockwave radiates outward, obliterating everything in its path. However, their high cost limits their usage.
 
-##### Types of hydro-bomb
+##### Types of Hydro-Bombs
 
-- Quick-succession bomb- these are meant to be fired quickly, one after the other. The first is to weaken the target, the second to destroy it and the third to destroy all remaining parts.
-- Surprise bomb- this is a bomb that lets out one lethal shot, giving the enemy no chance to resist.
-- Mini bomb- these are tiny bombs meant to take out a single target. These are not so good though, since the power scales cubically.
+- **Quick-Succession Bombs:** Designed to be fired in rapid sequence; the first weakens the target, the second destroys it, and the third eliminates remaining debris.
+- **Surprise Bombs:** These detonate in a single lethal blast, leaving the enemy no chance to defend.
+- **Mini Bombs:** Small explosives intended for single-target elimination, though their effectiveness is limited due to the cubic scaling of power.
 
 #### Rockets (L)
 
-These are simply explosive slit bombs. They were popular until the Federre war, but overuse has now made them a luxury.
+These are explosive slit bombs that enjoyed popularity prior to the Federre war, but their overuse has rendered them a luxury.
 
 ### Chemicals
-#### Acid thrower (L)
 
-The acid thrower is an ancient weapon last used in the Horsa war. This design is simple. It acts as a water gun firing highly concentrated acid, dissolving what it touches. This weapon is now rarely used, due to the time needed for it to take effect.
+#### Acid Thrower (L)
+
+The acid thrower is an ancient weapon last utilized during the Horsa war. Its design is simple: it functions like a water gun, shooting highly concentrated acid that dissolves whatever it contacts. This weapon is now seldom used, as it requires time to take effect.
 
 ### Sound
 
