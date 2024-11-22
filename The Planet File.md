@@ -1074,7 +1074,7 @@ Army Size:
 
 **Name:** Computerland
 
-**Flag:**
+**Flag:** ![](images/Computerland_flag.png)
 
 **Pronounced:** Com-poooh-ter-laned
 
