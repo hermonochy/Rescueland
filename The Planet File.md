@@ -255,13 +255,13 @@ Army Size:
 
 ## The Bad Guy Land System (B)
 
-The Bad Guy Land system is where the Rebel 10 Faction was originally founded. All planets in this system are now under the control of Rescueland.
+The Bad Guy L9and system is where the Rebel 10 Faction was originally founded. All planets in this system are now under the control of Rescueland.
 
 ### Bad Guy Land (Previously B)
 
 **Name:** Bad Guy Land
 
-**Flag:** 
+**Flag:** ![](images/BadGuyLand_flag.png)
 
 **Pronounced:** Bad Guy Land
 
@@ -291,7 +291,7 @@ The societal structure was highly stratified, with the elite enjoying privileges
 
 **Name:** Mega Bad Guy Land
 
-**Flag:** 
+**Flag:**  ![](images/MegaBadGuyLand_flag.png)
 
 **Pronounced:** Meh-gah Bad Guy Land
 
@@ -319,7 +319,7 @@ Army Size:
 
 **Name:** Ultra Bad Guy Land
 
-**Flag:**
+**Flag:** ![](images/UltraBadGuyland_flag.png)
 
 **Pronounced:** Ul-trah Bad Guy Land
 
@@ -523,7 +523,7 @@ Army Size:
 
 **Name:** Voldim
 
-**Flag:** 
+**Flag:**  ![](images/Voldim_flag.png)
 
 **Pronounced:** Vol-dim
 
@@ -610,7 +610,7 @@ Army Size:
 
 **Name:** Yelthia
 
-**Flag:**
+**Flag:** ![](images/Yelthia_flag.png)
 
 **Pronounced:** Yell-thee-ah
 
@@ -842,7 +842,7 @@ Army Size:
 
 **Name:** Morrel
 
-**Flag:**
+**Flag:** ![](images/Morrel_flag.png)
 
 **Pronounced:** Moh-r (with tongue roll) -ell
 
@@ -870,7 +870,7 @@ Army Size:
 
 **Name:** Nara
 
-**Flag:** 
+**Flag:** ![](images/Nara_flag.png)
 
 **Pronounced:** narr-ah
 
@@ -928,7 +928,7 @@ Army Size:
 
 **Name:** Naha
 
-**Flag:**
+**Flag:** ![](images/Naha_flag.png)
 
 **Pronounced:** nah-hah
 
@@ -1043,7 +1043,7 @@ Army Size:
 
 **Name:** Terranova
 
-**Flag:** 
+**Flag:** ![](images/Terranova_flag.png)
 
 **Pronounced:** tehr-ra-nov-ah
 
