@@ -133,8 +133,10 @@ Army Size:
 
 **Atmosphere:** Nitrogen 90%, Hydrogen 8%, Oxygen 1%
 
-**General:** This is the first of the three 'superpowers', along with Helucky and Recola. Rescueland specialises in the quality of their troops, even if they have the smallest army. The entire planet is sometimes covered in the largest FFG known in history. If an invasion is attempted, they must collect right in front of the FFG until it expires if a successful invasion is to be attempted.
-
+**General:** Rescueland stands out as the first of the three prominent 'superpowers', alongside Helucky and Recola. What makes Rescueland particularly unique is its focus on the quality and training of its military forces, setting it apart even though it possesses the smallest army among the three superpowers. 
+The sheer effectiveness and elite training of Rescueland's troops allow them to compete on equal footing with larger forces. Their emphasis on teamwork and cohesion often leads to a highly disciplined fighting force capable of executing complex maneuvers under pressure.
+Geographically, Rescueland is an extraordinary planet, sometimes enveloped by the largest FFG known in history. In the event of an invasion attempt, the invaders must strategically group and position themselves directly in front of the FFG, waiting for the shield to expire. Invaders must carefully plan their assault, as any miscalculation could result in disastrous consequences.
+Rescueland's infrastructure and alliances also play a significant role in its defense strategy. While they may not have the sheer number of troops that Helucky or Recola boast, their innovative use of technology, along with diplomatic relationships developed over the years, provides them with additional layers of security.
 ## Hermonochy (R)
 
 **Name:** Hermonochy
@@ -161,7 +163,7 @@ Army Size:
 
 **Atmosphere:** Hydrogen 86%, Helium 11%, Methane 2%
 
-**General:** This ice moon of Rescueland is where the Rescuelanders hid on during The War for Rescueland.
+**General:** This ice moon of Rescueland is where the Rescuelanders hid on during The War for Rescueland. The terrain is characterized by towering ice formations and expansive tundras, interspersed with labyrinthine caves and underground networks formed over millennia. These caves were vital for the Rescuelanders; they turned them into makeshift strongholds and supply depots, cleverly camouflaging their operations from enemy forces. 
 
 ## Titan (R)
 
@@ -247,7 +249,7 @@ Army Size:
 
 **Atmosphere:**
 
-**General:** This was the first non-core planet to join the empire. The flora, covering most of this planet, is sentient.
+**General:** Tortisland is the first non-core planet to join the Rescueland Empire. This lush, vibrant planet is primarily covered in dense flora, which plays a unique and vital role in the ecosystem and culture of Tortisland. Unlike any ordinary plant life, the flora on Tortisland exhibits sentience that allows it to communicate and interact with the environment and its inhabitants in extraordinary ways.
 
 ## Klesone (R)
 
@@ -275,7 +277,7 @@ Army Size:
 
 **Atmosphere:** hydrogen 90%, helium 9%, methane 0.7%
 
-**General:** This planet is massive and hot, and was on the verge of becoming a star. It is also one of the most powerful supporters of Rescueland, and it is they who gave the Super Owls the first Super Two's, the most advanced robots developed on Klesone at the time.
+**General:** This planet is massive and hot, and was on the verge of becoming a star. As one of the most powerful supporters of Rescueland, Klesone has played a pivotal role in the empire's technological advancements and military strength. It was here that the Super Two's were developed. 
 
 ## Oxo (R)
 
@@ -303,7 +305,7 @@ Army Size:
 
 **Atmosphere:** sodium 80%, potassium 18%
 
-**General:** This is a moon which orbits Klesone, with the same leader. There are regular shuttles in between the two.
+**General:** Oxo, a prominent moon that orbits the massive planet Klesone, shares a unique connection with its host world, including the leadership that governs both nations. The landscape is characterized by rugged terrains, expansive plains, and a variety of geologic formations that have been shaped by the gravitational forces of Klesone. While Oxo does not experience the extreme temperatures of its parent planet, it has its own set of environmental challenges that its inhabitants have learned to navigate.
 
 ## Helucky (B)
 
@@ -331,7 +333,10 @@ Army Size:
 
 **Atmosphere:** Oxygen 55%, Nitrogen 30%, Trace gases 15%
 
-**General:** This planet is the second of the superpowers, and focuses on quantity. They have the largest interceptor army, large enough to take on both the armies at once. The only reasons they have not attacked yet is because they lack enough battleships and fear the wrath of the Rescueland darkfighters.
+**General:** Helucky is the most powerful superpower, renowned for its sheer quantity of military resources and strategic capabilities. Its vast landscape is dotted with enormous military installations, factories and spaceports, all dedicated to producing one of the largest airborne interceptor armies known in the galaxy.
+The planet’s military doctrine revolves around overwhelming force and relentless waves of interceptors, enabling Helucky to effectively defend itself and project power across its sphere of influence. The sheer size of its interceptor army instills a sense of intimidation among rival powers; Helucky could potentially take on not just one, but both superpowers simultaneously. However, despite this advantage in numbers, Helucky faces significant strategic limitations.
+The primary obstacle hindering Helucky from launching an outright offensive is its insufficient fleet of battleships. Whereas interceptor crafts excel in air-to-air combat and rapid response, battleships are essential for commanding and controlling operations in vast sectors of space and for engaging formidable opponents effectively. The absence of a robust battleship fleet means that Helucky’s interceptors would be vulnerable when faced with sustained attacks. This vulnerability keeps Helucky leaders cautious, as an attack could leave them exposed to counterattacks and retaliatory strikes.
+Moreover, The planet’s leaders are acutely aware of the risks associated with instigating an attack, given the fearsome reputation of Rescueland’s numerous darkfighters.
 
 ## The Fil System
 
@@ -361,7 +366,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 55%, Nitrogen 30%, Trace gases 15%
 
-**General:** While weak in firepower, the interceptors of Filto are incredibly difficult to destroy, only outmatched by darkfighters.
+**General:** While weak in traditional firepower, Filto's interceptors are incredibly difficult to destroy, only outmatched by darkfighters. As the primary military manufacturer for all three Fil planets, Filto equips them with advanced military assets, reinforcing their collective defense.
 
 
 
@@ -391,8 +396,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 60%, Nitrogen 30%, Methane 10%
 
-**General:** The weakest of the three Fil planets, Filna is defenceless and relies on Filto for protection. It produces civilian goods for the system.
-
+**General:** The weakest of the three Fil planets, Filna is defenseless and relies on Filto for protection. It specializes in the production of civilian goods for the system.
 
 
 ### Filcho (R)
@@ -421,8 +425,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 65%, Nitrogen 25%, Trace gases 10%
 
-**General:** Filcho focuses on research and exploration with lightly armed research vessels for defence against potential threats.
-
+**General:** Filcho focuses on research and exploration, maintaining lightly armed research vessels for defense against potential threats. It plays a crucial role in scientific advancements within the system, supplementing the technologies provided by Filto and contributing to the overall stability and progress of the Fil planets.
 
 
 ## Wana (R)
@@ -687,8 +690,7 @@ Army Size:
 
 **Atmosphere:** Nitrogen 59%, Oxygen 30%, Argon 10%
 
-**General:** This is the final of the 3 'superpowers'. This superpower focuses on speed for its ships, even at the cost of removing several key systems such as shields, and specialises in radar and radio manipulation, having pulled the strings of the Rescueland-Helucky war since it started.
-
+**General:** Recola stands as the enigmatic third superpower, emphasizing unparalleled speed in its fleet at the expense of several key systems like shields. This strategic choice enables its ships to outperform rivals in agility and rapid strike capability. Specializing in radar and radio manipulation, Recola has skillfully influenced the outcome of the Rescueland-Helucky war, playing both sides from the shadows. The exact size of Recola's forces and the location of its home planet remain undiscovered by the other two superpowers, which refer to it simply as “The Third Army.” This secrecy grants Recola a significant advantage, allowing it to maneuver strategically without revealing its capabilities or intentions.
 
 ## Morrel (I)
 
@@ -716,7 +718,7 @@ Army Size:
 
 **Atmosphere:**
 
-**General:** Not much is known about this planet, but if there exists a civilisation capable of operating magic, it is Morrel.
+**General:** Morrel is shrouded in mystery, and its civilization is rumored to possess the potential to operate magic, specifics about its army size and capabilities undisclosed. Those who have glimpsed Morrel's defenses suggest that they are enchantments and mystical constructs rather than traditional military units.
 
 ## Nara (R)
 
@@ -832,8 +834,7 @@ Army Size:
 
 **Atmosphere:** Water Vapour 70%, Oxygen 20%, Nitrogen 10%
 
-**General:** Primarily covered by oceans. Only 2.3% of the total surface area is land and therefore can't support a large population.
-
+**General:** Primarily covered by vast oceans, Aquarion consists of only 2.3% landmass, limiting its capacity to support a large population. This small percentage of land is interspersed with coastal settlements and floating cities, where the majority of its inhabitants reside.
 ## Ignis Terra (R)
 
 **Name:** Ignis Terra
@@ -890,7 +891,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 60%, Methane 25%, Nitrogen 15%
 
-**General:** A frozen world dominated by ice and snow, Glaciera's inhabitants are masters of thermal technology.
+**General:** Glaciera is a frozen world characterized by vast glaciers, towering ice formations, and an unyielding blanket of snow. The planet's surface is largely inhospitable due to extreme cold, but pockets of geothermal activity allow for habitable zones. Glaciera's inhabitants are masters of thermal technology, enabling them to thrive in the harsh freeze. They possess advanced techniques for manipulating heat and crafting materials that withstand the cold, allowing them to create intricate cities and machinery that function optimally in low-temperature environments.
 
 ## Terranova (R)
 
