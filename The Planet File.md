@@ -167,7 +167,7 @@ Army Size:
 
 **Name:** Titan
 
-**Flag:**
+**Flag:** ![](images/Titan_flag.png)
 
 **Pronounced:** Tie-tai-n
 
@@ -195,7 +195,7 @@ Army Size:
 
 **Name:** Ralfialand
 
-**Flag:**
+**Flag:**![](images/Ralfialand_flag.png)
 
 **Pronounced:** Ralf-eee-ahh-land
 
@@ -225,7 +225,7 @@ Army Size:
 
 **Name:** Tortisland
 
-**Flag:**
+**Flag:**![](images/Tortisland_flag.png)
 
 **Pronounced:** Tor-tis-laned
 
@@ -253,7 +253,7 @@ Army Size:
 
 **Name:** Klesone
 
-**Flag:**
+**Flag:**![](images/Klesone_flag.png)
 
 **Pronounced:** Kl-eh-sohn-eh
 
@@ -281,7 +281,7 @@ Army Size:
 
 **Name:** Oxo
 
-**Flag:**
+**Flag:**![](images/Oxo_flag.png)
 
 **Pronounced:** Ox-ohh
 
@@ -339,7 +339,7 @@ Army Size:
 
 **Name:** Filto
 
-**Flag:**
+**Flag:**![](images/Filto_flag.png)
 
 **Pronounced:** Fill-toe
 
@@ -369,7 +369,7 @@ Army Size:
 
 **Name:** Filna
 
-**Flag:**
+**Flag:**![](images/Filna_flag.png)
 
 **Pronounced:** Fill-nah
 
@@ -399,7 +399,7 @@ Army Size:
 
 **Name:** Filcho
 
-**Flag:**
+**Flag:**![](images/Filcho_flag.png)
 
 **Pronounced:** fill-chow
 
@@ -429,7 +429,7 @@ Army Size:
 
 **Name:** Wana
 
-**Flag:**
+**Flag:**![](images/Wana_flag.png)
 
 **Pronounced:** Wah-nah
 
@@ -459,7 +459,7 @@ Army Size:
 
 **Name:** Wonto
 
-**Flag:**
+**Flag:**![](images/Wonto_flag.png)
 
 **Pronounced:** Won-toe
 
@@ -489,7 +489,7 @@ Army Size:
 
 **Name:** Fufe
 
-**Flag:**
+**Flag:** ![](images/Fufe_flag.png)
 
 **Pronounced:** Foo-fay
 
@@ -519,7 +519,7 @@ Army Size:
 
 **Name:** N2
 
-**Flag:**
+**Flag:** ![](images/N2_flag.png)
 
 **Pronounced:** enn-too
 
@@ -549,7 +549,7 @@ Army Size:
 
 **Name:** Nelula
 
-**Flag:**
+**Flag:** ![](images/Nelula_flag.png)
 
 **Pronounced:** Neh-loo-lah
 
@@ -579,7 +579,7 @@ Army Size:
 
 **Name:** Ehana
 
-**Flag:**
+**Flag:** ![](images/Ehana_flag.png)
 
 **Pronounced:** Ay-hahn-ah
 
@@ -603,13 +603,11 @@ Army Size:
 
 **General:**  A desert planet that harnesses solar energy, Ehana was previously part of the Rescueland Empire but has become the first planet to have willingly left, believing themselves self-sufficient enough to survive alone.
 
-
-
 ## Heloa (R)
 
 **Name:** Heloa
 
-**Flag:**
+**Flag:** ![](images/Heloa_flag.png)
 
 **Pronounced:** Heh-lo-ah
 
@@ -639,7 +637,7 @@ Army Size:
 
 **Name:** Keluha
 
-**Flag:**
+**Flag:** ![](images/Keluha_flag.png)
 
 **Pronounced:** Keh-loo-hah
 
@@ -724,7 +722,7 @@ Army Size:
 
 **Name:** Nara
 
-**Flag:**
+**Flag:** 
 
 **Pronounced:** narr-ah
 
@@ -753,7 +751,7 @@ Army Size:
 
 **Name:** Tonque
 
-**Flag:**
+**Flag:** ![](images/Tonque_flag.png)
 
 **Pronounced:** Ton-keh
 
@@ -811,7 +809,7 @@ Army Size:
 
 **Name:** Aquarion
 
-**Flag:**
+**Flag:** ![](images/Aquarion_flag.png)
 
 **Pronounced:** ah-kwah-ree-on
 
@@ -840,7 +838,7 @@ Army Size:
 
 **Name:** Ignis Terra
 
-**Flag:**
+**Flag:** ![](images/Ignis_Terra_flag.png)
 
 **Pronounced:** ig-niss ter-ra
 
@@ -869,7 +867,7 @@ Army Size:
 
 **Name:** Glaciera
 
-**Flag:**
+**Flag:**![](images/Glaciera_flag.png)
 
 **Pronounced:** glas-ee-air-ah
 
@@ -898,7 +896,7 @@ Army Size:
 
 **Name:** Terranova
 
-**Flag:**
+**Flag:** 
 
 **Pronounced:** tehr-ra-nov-ah
 
