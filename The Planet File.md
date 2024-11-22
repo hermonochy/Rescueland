@@ -61,7 +61,8 @@ Various factions exist within the multiverses. The following abbreviations repre
 **Current Capital:** Rescueland
 
 Overview:
-The Rescueland Empire presents itself as a cooperative entity dedicated to mutual assistance among planets in the multiverse. Officially a republic, it emphasizes democratic values.
+
+Despite the name, The Rescueland Empire is a cooperative entity dedicated to mutual assistance among planets in the multiverse. Officially a republic, it emphasizes democratic values.
 
 Goals:
 
@@ -74,11 +75,12 @@ To promote peace, stability, and development across the multiverse while serving
 **Current Capital:** Helucky
 
 Overview:
-The Rebel 10 is a faction composed of dissidents and ideologues who believe that the Rescueland Empire's governance is ineffective and paternalistic. They comprise a diverse coalition, including former members of the Rescueland administration, freedom fighters, and planets that feel marginalized.
+
+The Rebel 10 is a faction composed of dissidents and ideologues who believe that the Rescueland Empire's governance is ineffective and paternalistic. They comprise a diverse coalition, including former planetss of the Rescueland Empire, freedom fighters, and planets that feel marginalized.
 
 Goals:
 
-To overthrow the Rescueland leadership, arguing that they can offer better governance and more autonomy to the planets within its jurisdiction.
+To overthrow the Rescueland leadership, arguing that they can offer better governance and stricter regulations to the planets within its jurisdiction.
 To establish a new framework based on direct representation and localized governance.
     
 
@@ -87,6 +89,7 @@ To establish a new framework based on direct representation and localized govern
 **Current Capital:** Recola
 
 Overview:
+
 The Separatists are a shadowy faction harboring a radical ideology focused on dismantling the Rescueland Empire entirely. Their ultimate goal is to plunge the multiverse into chaos, allowing them to establish control over key resources during the ensuing anarchy.
 
 Goals:
@@ -97,13 +100,12 @@ To take advantage of the ensuing chaos to establish their own authoritarian regi
 ### Independent
 
 Overview:
-The Independent faction consists of worlds that have chosen not to align with any of the larger factions, opting instead for complete autonomy. These planets are characterized by their unique cultures and governance systems, which are free from the influence of the Rescueland Empire, Rebel 10, and Separatists.
+
+Not part of any faction.
 
 Goals:
 
-To maintain sovereignty and self-determination, avoiding entanglements with larger factions that could compromise their independence.
-To foster local governance and systems that cater to the specific needs of their populations.
-
+To remain completely neutral to the skirmishes between the factions.
 
 # Core Systems
 
