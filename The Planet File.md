@@ -53,7 +53,7 @@ Various factions exist within the multiverses. The following abbreviations repre
 - **Rescueland Empire:** R  
 - **Rebel 10:** B  
 - **Separatists:** S  
-- **Independent:** I  
+- **Independent:** I
 
 
 ### Rescueland Empire
@@ -253,6 +253,96 @@ Army Size:
 
 **General:** Tortisland is the first non-core planet to join the Rescueland Empire. This lush, vibrant planet is primarily covered in dense flora, which plays a unique and vital role in the ecosystem and culture of Tortisland. Unlike any ordinary plant life, the flora on Tortisland exhibits sentience that allows it to communicate and interact with the environment and its inhabitants in extraordinary ways.
 
+## The Bad Guy Land System (B)
+
+The Bad Guy Land system is where the Rebel 10 Faction was originally founded. All planets in this system are now under the control of Rescueland.
+
+### Bad Guy Land (Previously B)
+
+**Name:** Bad Guy Land
+
+**Flag:** 
+
+**Pronounced:** Bad Guy Land
+
+**Capital:** Del
+
+**Leader:** Under Rescueland Control
+
+**Power Status:** 4999839420/6000000000
+
+Army Size:
+- **Interceptors:** 40 million
+- **Battle Ships:** 300
+- **Darkfighters:** 0
+- **Ground Force:** 438 billion
+
+**Tech Level:** 8
+
+**Population:** 60 trillion
+
+**Atmosphere:** Nitrogen 70%, Oxygen 20%, Sulfur Dioxide 10%
+
+**General:** Before Rescueland asserted control, Bad Guy Land was known for its authoritarian regime, characterized by brutal enforcement tactics and the widespread oppression of its inhabitants. The culture was steeped in militarism, where warfare was viewed as a primary means of maintaining control and asserting dominance over other planets. 
+The population largely consisted of enslaved individuals, living under a constant threat of violence. The overall atmosphere was toxic, contributing to the bleak living conditions for its population.
+The societal structure was highly stratified, with the elite enjoying privileges while the vast majority suffered under the regime's oppressive policies.
+
+### Mega Bad Guy Land (Previously B)
+
+**Name:** Mega Bad Guy Land
+
+**Flag:** 
+
+**Pronounced:** Meh-gah Bad Guy Land
+
+**Capital:** Ilines
+
+**Leader:** Under Rescueland Control
+
+**Power Status:** 4999999990/6000000000
+
+Army Size:
+- **Interceptors:** 50 million
+- **Battle Ships:** 600
+- **Darkfighters:** 5
+- **Ground Force:** 470 million
+
+**Tech Level:** 9
+
+**Population:** 820 million
+
+**Atmosphere:** Nitrogen 60%, Oxygen 30%, Carbon Dioxide 10%
+
+**General:** Mega Bad Guy Land emerged as a significant adversary following the fall of Bad Guy Land, propelled by its desire for vengeance against the Rescueland Empire. With its roots in a culture of militarism and aggression, Mega Bad Guy Land sought to reclaim its standing in the galaxy through direct confrontation. 
+
+### Ultra Bad Guy Land (Previously B)
+
+**Name:** Ultra Bad Guy Land
+
+**Flag:**
+
+**Pronounced:** Ul-trah Bad Guy Land
+
+**Capital:** Dakhem
+
+**Leader:** Ultra Warlord Malgor
+
+**Power Status:** 5475082105/6000000000
+
+Army Size:
+- **Interceptors:** 85 million
+- **Battle Ships:** 800
+- **Darkfighters:** 10
+- **Ground Force:** 15 million
+
+**Tech Level:** 8
+
+**Population:** 150 million
+
+**Atmosphere:** Oxygen 55%, Nitrogen 35%, Methane 10%
+
+**General:** Emerging as a formidable threat following the defeat of Mega Bad Guy Land, Ultra Bad Guy Land is governed by a deeply ingrained hostility toward the Rescueland Empire. Intent on revenge, they initiated a series of retaliatory strikes aimed at destabilizing the Empire while seeking to restore their once-mighty reputation.
+
 ## Klesone (R)
 
 **Name:** Klesone
@@ -429,6 +519,33 @@ Army Size:
 
 **General:** Filcho focuses on research and exploration, maintaining lightly armed research vessels for defense against potential threats. It plays a crucial role in scientific advancements within the system, supplementing the technologies provided by Filto and contributing to the overall stability and progress of the Fil planets.
 
+## Voldim (Previously B)
+
+**Name:** Voldim
+
+**Flag:** 
+
+**Pronounced:** Vol-dim
+
+**Capital:** Gorath
+
+**Leader:** Under Rescueland Control
+
+**Power Status:** 2999999995/6000000000
+
+Army Size:
+- **Interceptors:** 15 million
+- **Battle Ships:** 120
+- **Darkfighters:** 0
+- **Ground Force:** 35 billion
+
+**Tech Level:** 8
+
+**Population:** 50 billion
+
+**Atmosphere:** Oxygen 40%, Nitrogen 50%, Argon 10%
+
+**General:** Voldim is characterized by its rugged landscapes and militaristic culture where aggression has been cultivated as a means of survival. Historically, the planet sought to expand its reach and influence, instigating conflicts with surrounding planets in the Rescueland Empire. Despite its ambitions, Voldim's military capabilities are outdated, having failed to keep pace with technological advancements seen in the Empire. 
 
 ## Wana (R)
 
@@ -489,6 +606,33 @@ Army Size:
 **General:** A small, peaceful planet focused on ecological restoration, Wonto is rich in biodiversity and dedicated to preserving life.
 
 
+## Yelthia (R)
+
+**Name:** Yelthia
+
+**Flag:**
+
+**Pronounced:** Yell-thee-ah
+
+**Capital:** Taruka
+
+**Leader:** Zoltar
+
+**Power Status:** 4400576250/6000000000
+
+Army Size:
+- **Interceptors:** 4.5 million
+- **Battle Ships:** 60
+- **Darkfighters:** 0
+- **Ground Force:** 150 million
+
+**Tech Level:** 8
+
+**Population:** 90 billion
+
+**Atmosphere:** Oxygen 55%, Carbon Dioxide 25%, Methane 20%
+
+**General:** Yelthia is notable for its vast desert landscapes interrupted by immense structures formed from peculiar crystal formations, which serve both as homes and defensive structures. The culture thrives on innovation and adaptability, creating highly mobile military units that navigate through its challenging environment.
 
 ## Fufe (R)
 
