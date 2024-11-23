@@ -76,7 +76,7 @@ To promote peace, stability, and development across the multiverse while serving
 
 Overview:
 
-The Rebel 10 is a faction composed of dissidents and ideologues who believe that the Rescueland Empire's governance is ineffective and paternalistic. They comprise a diverse coalition, including former planetss of the Rescueland Empire, freedom fighters, and planets that feel marginalized.
+The Rebel 10 is a faction composed of dissidents and ideologues who believe that the Rescueland Empire's governance is ineffective and paternalistic. They comprise a diverse coalition, including former planets of the Rescueland Empire, freedom fighters, and planets that feel marginalized.
 
 Goals:
 
@@ -1126,7 +1126,7 @@ Army Size:
 
 **Name:** Wehaya  
 
-**Flag:**  
+**Flag:** ![](images/Wehaya_flag.png)
 
 **Pronounced:** Weh-hah-yah  
 
@@ -1155,7 +1155,7 @@ Army Size:
 
 **Name:** Alish  
 
-**Flag:**  
+**Flag:** ![](images/Alish_flag.png)
 
 **Pronounced:** Ah-lish  
 
@@ -1183,7 +1183,7 @@ Army Size:
 
 **Name:** Loaa  
 
-**Flag:**  
+**Flag:** ![](images/Loaa_flag.png)
 
 **Pronounced:** Loh-ah-ah  
 
@@ -1211,7 +1211,7 @@ Army Size:
 
 **Name:** Yano  
 
-**Flag:**  
+**Flag:** ![](images/Yano_flag.png)
 
 **Pronounced:** Yah-noh  
 
@@ -1239,7 +1239,7 @@ Army Size:
 
 **Name:** Casopi  
 
-**Flag:**  
+**Flag:** ![](images/Casopi_flag.png)
 
 **Pronounced:** Kah-soh-pee  
 
@@ -1296,7 +1296,7 @@ Army Size:
 
 **Name:** Scanal  
 
-**Flag:**  
+**Flag:** ![](images/Scanal_flag.png)
 
 **Pronounced:** Skah-nahl  
 
