@@ -1122,6 +1122,205 @@ Army Size:
 
 # Outside of Universe
 
+## Wehaya (R)
+
+**Name:** Wehaya  
+
+**Flag:**  
+
+**Pronounced:** Weh-hah-yah  
+
+**Capital:** Talaris  
+
+**Leader:** Elorik  
+
+**Power Status:** 2750056120/6000000000  
+
+**Army Size:**  
+- **Interceptors:** 22,000  
+- **Battle Ships:** 75
+- **Darkfighters:** 0 
+- **Ground Force:** 10 trillion  
+
+**Tech Level:** 7  
+
+**Population:** 120 trillion  
+
+**Atmosphere:** Oxygen 58%, Nitrogen 32%, Argon 8%, Trace gases 2%  
+
+**General:** Wehaya is characterized by its expansive forests and vast oceans, with cities built on stilts to accommodate rising sea levels. Its military is somewhat underfunded, but the populace is known for their resourcefulness and resilience. The social structure is divided between those who support the ruling council and a  advocating for greater autonomy and environmental protections.
+
+
+## Alish (R)
+
+**Name:** Alish  
+
+**Flag:**  
+
+**Pronounced:** Ah-lish  
+
+**Capital:** Delvoria  
+
+**Leader:** Celestra  
+
+**Power Status:** 3420100000/6000000000  
+
+**Army Size:**  
+- **Interceptors:** 4 million  
+- **Battle Ships:** 50  
+- **Darkfighters:** 0 
+- **Ground Force:** 9 trillion  
+
+**Tech Level:** 8  
+
+**Population:** 105 trillion  
+
+**Atmosphere:** Oxygen 52%, Nitrogen 28%, Helium 10%, CO2 10%  
+
+**General:** Alish has a diverse terrain that includes mountains, valleys, and bustling urban centers. The government is stable but has faced criticism regarding the lack of political freedoms, and recent movements have emerged pushing for democratic reforms.
+
+## Loaa (R)
+
+**Name:** Loaa  
+
+**Flag:**  
+
+**Pronounced:** Loh-ah-ah  
+
+**Capital:** Windara  
+
+**Leader:** Orvane  
+
+**Power Status:** 3825000000/6000000000  
+
+**Army Size:**  
+- **Interceptors:** 10 million  
+- **Battle Ships:** 65  
+- **Darkfighters:** 0 
+- **Ground Force:** 6 trillion  
+
+**Tech Level:** 7
+
+**Population:** 70 trillion  
+
+**Atmosphere:** Oxygen 60%, Nitrogen 20%, Water vapor 15%, Trace gases 5%  
+
+**General:** Loaa is predominantly a water world with floating cities regularly connected by transport systems. The culture has deep ties to maritime traditions, and the government is often seen as corrupt. A significant portion of the population advocates for reforms and environmental initiatives to protect their aquatic ecosystems.
+
+## Yano (R)
+
+**Name:** Yano  
+
+**Flag:**  
+
+**Pronounced:** Yah-noh  
+
+**Capital:** Threska  
+
+**Leader:** Mordekai  
+
+**Power Status:** 4583917000/6000000000  
+
+**Army Size:**  
+- **Interceptors:** 28 million  
+- **Battle Ships:** 85  
+- **Darkfighters:** 0  
+- **Ground Force:** 2 trillion  
+
+**Tech Level:** 8  
+
+**Population:** 20 trillion  
+
+**Atmosphere:** Oxygen 55%, Nitrogen 30%, Carbon Monoxide 10%, Argon 5%  
+
+**General:** Yano is known for its vast, sprawling landscapes and rich mineral resources. The planet's military is well-funded, and the government employs a strategy of both defense and expansion, seeking to secure alliances with other planets.
+
+## Casopi (R)
+
+**Name:** Casopi  
+
+**Flag:**  
+
+**Pronounced:** Kah-soh-pee  
+
+**Capital:** Verith  
+
+**Leader:** Zanderel  
+
+**Power Status:** 3964780000/6000000000   
+
+**Army Size:**  
+- **Interceptors:** 18,000   
+- **Battle Ships:** 55  
+- **Darkfighters:** 0  
+- **Ground Force:** 11 trillion  
+
+**Tech Level:** 7
+
+**Population:** 140 trillion  
+
+**Atmosphere:** Oxygen 57%, Nitrogen 33%, CO2 8%, Helium 2%  
+
+**General:** Casopi possesses a mix of rugged mountain terrains and fertile valleys. The Casopian military is known for its strategic prowess, navigating the political landscape to avoid open conflict while still maintaining a capable defensive posture. Recent reforms have aimed to integrate technology into daily governance, leading to burgeoning tech sectors.
+
+
+## Senena (I)
+
+**Name:** Senena  
+
+**Flag:**  
+
+**Pronounced:** Se-neh-nah  
+
+**Capital:** Glyndor  
+
+**Leader:** Qerith  
+
+**Power Status:** 3012500000/6000000000  
+
+**Army Size:**  
+- **Interceptors:** 15 million  
+- **Battle Ships:** 40  
+- **Darkfighters:** 0
+- **Ground Force:** 4 trillion  
+
+**Tech Level:** 5  
+
+**Population:** 93 trillion  
+
+**Atmosphere:** Oxygen 62%, Nitrogen 26%, Methane 9%, Argon 3%  
+
+**General:** Senena is a planet marked by wide grasslands and deep forests, home to various unique flora and fauna. While its technological level is lower than neighboring planets, the inhabitants have developed sustainable methods of living. Recent shifts in power have led to increased calls for modernization and inclusivity in governance.
+
+## Scanal (I)
+
+**Name:** Scanal  
+
+**Flag:**  
+
+**Pronounced:** Skah-nahl  
+
+**Capital:** Oscura  
+
+**Leader:** Lurith  
+
+**Power Status:** 2502410400/6000000000  
+
+**Army Size:**  
+- **Interceptors:** 8 million  
+- **Battle Ships:** 30  
+- **Darkfighters:** 0  
+- **Ground Force:** 4 trillion  
+
+**Tech Level:** 6  
+
+**Population:** 621 trillion  
+
+**Atmosphere:** Oxygen 54%, Nitrogen 25%, CO2 15%, Trace gases 6%  
+
+**General:** Scanal is primarily a desert world, with a few lush areas along river valleys. The society here is tribal and has a rich history of tradition and culture. The military is small but fiercely loyal, relying on guerrilla tactics for defense. Recent external conflicts have led to growing concerns over resource depletion and defense strategies.
+
+
 ## Computerland (I)
 
 **Name:** Computerland
