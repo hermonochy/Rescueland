@@ -4,19 +4,19 @@
 
 ## 5630630 BDOTR: The creation of Computerland
 
-Computerland formed roughly the same time as Rescueland, this is not a coinsident as the very nature of the creation of Comuterland would not be allowed in this state of the universe. The Sentient electricity was not sentient at this point. The reason it is sentient remains unknown but it seems to learn and evolve in a manner similar to life, but without the limitation of death.
+Computerland formed roughly the same time as Rescueland, this is not a coincidence as the very nature of the creation of Computerland would not be allowed in this state of the universe. The sentient electricity was not sentient at this point. The reason it is sentient remains unknown but it seems to learn and evolve in a manner similar to life, but without the limitation of death.
 
 ## 3653454 BTOTR: The evolution of sentience
 
-This time is were the sentient electricity of computerland gained it's setience. At this point the hive minded nature of the elecricity was divided into multiple individuals, but still with the option to be a part of the hive mind to donate knowledge, communicate, and learn.
+This time is when the sentient electricity of Computerland gained its setience. At this point the hive minded nature of the elecricity was divided into multiple individuals, but still with the option to be a part of the hive mind to donate knowledge, communicate, and learn.
 
 ## 2950670 BROTR: The understanding of science
 
-At this time the beings of Computerland learnt the nature of the universe, whitch in turn boosted the number of scientific revolution significanty now that they knew the laws that the unverse followed.
+At this time the beings of Computerland learnt the nature of the universe, which in turn boosted the number of scientific discoveries significantly, now that they knew the laws that the universe followed.
 
 ## 0134233 BDOTR: Discovery of the multiverse
 
-After aa long scientific mission to the border of the universe where many high speed colisions where measured at the boarder of existence, they discovered a single particle outside their universe confirming that there are many more realities. Although they did not have the power to break the barrier at this point, they knew that their time would come.
+After a long scientific mission to the edge of their universe where many high speed colisions were measured at the border of existence, they discovered a single particle outside their universe, confirming that there are many more realities. Although they did not have the power to break the barrier at this point, they knew that their time would come.
 
 ## 14 ADOTR: Discovery of Rescueland
 
