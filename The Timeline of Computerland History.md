@@ -4,24 +4,24 @@
 
 ## 5630630 BDOTR: The creation of Computerland
 
-Computerland formed roughly the same time as Rescueland, this is not a coinsident as the very natue of the creation of comuterland would not be allowed in this state of the universe. The Sentient electricity is not sentient at this point, as the reason it is sentient is still a mystery but it seems to learn and evolve like life, but without having to die to make changes.
+Computerland formed roughly the same time as Rescueland, this is not a coinsident as the very nature of the creation of Comuterland would not be allowed in this state of the universe. The Sentient electricity was not sentient at this point. The reason it is sentient remains unknown but it seems to learn and evolve in a manner similar to life, but without the limitation of death.
 
 ## 3653454 BTOTR: The evolution of sentience
 
-This time is were the sentient electricity of computerland gained it's setience. At this point the hive minded nature of the elecricity was divided into multiple individuals, but still with the optiojn to be a part of the hive mind to donate knowledge, communicate, and learn.
+This time is were the sentient electricity of computerland gained it's setience. At this point the hive minded nature of the elecricity was divided into multiple individuals, but still with the option to be a part of the hive mind to donate knowledge, communicate, and learn.
 
 ## 2950670 BROTR: The understanding of science
 
-At this time the beings of computerland learnt the nature of the universe, whitch in turn boosted the number of scientific revolution significanty now that they knew the laws that the unverse followed.
+At this time the beings of Computerland learnt the nature of the universe, whitch in turn boosted the number of scientific revolution significanty now that they knew the laws that the unverse followed.
 
 ## 0134233 BDOTR: Discovery of the multiverse
 
-After aa long scientific mission to the boarder of the universe where many high speed colisions where measured at the boarder of existance, they discovered a single particle outside the universe confirming that there are many more realities. Although they did not have the power to break the barrier at this moment, But they knew that there time would come.
+After aa long scientific mission to the border of the universe where many high speed colisions where measured at the boarder of existence, they discovered a single particle outside their universe confirming that there are many more realities. Although they did not have the power to break the barrier at this point, they knew that their time would come.
 
 ## 14 ADOTR: Discovery of Rescueland
 
 In an important moment for intergalactic relationships, Computerland discovered Rescueland during its early space explorations. The people of Computerland learned about Rescueland’s fight against the tyrants of Bad Guy Land and recognized their shared objective of resisting oppression. This key first contact set the stage for a strong alliance, uniting them to pool their strengths and collaborate cohesively against their mutual adversary.
 
-## 15 ADOTR: The breach of the universal boarded
+## 15 ADOTR: The breach of the universal border
 
-After successful allience with Rescueland they manage to learn and borrow some tech from them to travel between univesres. This allowed Computerland to see the full threat of Bad guy land, whitch they had only known from scout ship in their univesre.
+After the successful alliance with Rescueland, they managed to learn and borrow some tech from them to travel between universes. This allowed Computerland to realise the full threat of Bad Guy land, which they had previously only seen the scout ships of.
