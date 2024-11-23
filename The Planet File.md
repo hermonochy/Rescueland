@@ -430,6 +430,34 @@ The planet’s military doctrine revolves around overwhelming force and relentle
 The primary obstacle hindering Helucky from launching an outright offensive is its insufficient fleet of battleships. Whereas interceptor crafts excel in air-to-air combat and rapid response, battleships are essential for commanding and controlling operations in vast sectors of space and for engaging formidable opponents effectively. The absence of a robust battleship fleet means that Helucky’s interceptors would be vulnerable when faced with sustained attacks. This vulnerability keeps Helucky leaders cautious, as an attack could leave them exposed to counterattacks and retaliatory strikes.
 Moreover, The planet’s leaders are acutely aware of the risks associated with instigating an attack, given the fearsome reputation of Rescueland’s numerous darkfighters.
 
+## Imperium (Previously B)
+
+**Name**: Imperium  
+
+**Flag**: Flag of Imperium  
+
+**Pronounced**: Im-per-ee-um  
+
+**Capital:** Kalthar  
+
+**Leader:** Xarendos  
+
+**Power Status:** 6125487350/6000000000  
+
+Army Size:
+- **Interceptors:** 65 billion
+- **Battle Ships:** 168
+- **Darkfighters:** 0
+- **Ground Force:** 27 trillion
+
+**Tech Level:** 9
+
+**Population:** 45 trillion
+
+**Atmosphere:** Oxygen 55%, Nitrogen 30%, Trace gases 15%
+
+**General:** The terrain of Imperium is predominantly urban, marked by towering arcologies and fortified structures. The landscape includes expansive industrial zones with heavy machinery and a network of subterranean facilities. The climate is generally temperate but affected by artificial weather manipulation to sustain crop production and maintain comfort in densely populated areas.
+
 ## The Fil System
 
 ### Filto (R)
@@ -459,8 +487,6 @@ Army Size:
 **Atmosphere:** Oxygen 55%, Nitrogen 30%, Trace gases 15%
 
 **General:** While weak in traditional firepower, Filto's interceptors are incredibly difficult to destroy, only outmatched by darkfighters. As the primary military manufacturer for all three Fil planets, Filto equips them with advanced military assets, reinforcing their collective defense.
-
-
 
 ### Filna (R)
 
@@ -575,7 +601,33 @@ Army Size:
 
 **General:** A hub for experimental technologies, Wana fosters new inventions that support other planets' advancements.
 
+## Ukakia
 
+Name: Ukakia  
+
+Flag:
+
+Pronounced: ooh-kay-key-ahh  
+
+Capital: Akeris Tower  
+
+Leader: Vardok  
+
+Power Status: 3891024765/6000000000  
+
+Army Size:  
+Interceptors: 32 billion
+Battle Ships: 102
+Darkfighters: 0
+Ground Force: 15 trillion
+
+Tech Level: 8  
+
+Population: 180 trillion  
+
+Atmosphere: Oxygen 60%, Nitrogen 25%, Sulfur Dioxide 10%, Argon 5%  
+
+General: The surface of Ukakia is a mix of sprawling metropolitan areas and rugged terrain, dominated by the towering Akeris Tower, a massive structure serving as both the political heart and defensive stronghold of the planet. With a history of militaristic rule, the populace is gradually awakening to the possibility of a new order, as recent conflicts have instigated significant civil unrest against their oppressive leaders. 
 
 ## Wonto (R)
 
