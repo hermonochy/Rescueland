@@ -29,14 +29,18 @@ In what would become a significant alliance, Rescueland discovered that it was n
 
 The situation reached another turning point when Klesone bestowed upon Rescueland the first [Super Twos](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#notable-versions), the pinnacle of robotic design, after Rescueland successfully thwarted an invasion attempt by Bad Guy Land against [Klesone](./The%20Planet%20File.md#klesone-r). This gift represented not only advanced technology but also the culmination of Rescueland's commitment to innovation. The Super Twos took it upon themselves to create even more sophisticated robots, further enhancing their capabilities in a continuous cycle of advancement. This technological evolution ultimately laid the groundwork for the FCRT's.
 
-## 22 ADOTR: The First Battle Against Bad Guy Land
+## 21 ADOTR: The First Battle Against Bad Guy Land
 
 The Rescuelanders engaged in their first major military confrontation with Bad Guy Land over the planet [N2](./The%20Planet%20File.md#n2-r), which fell under their control. Upon learning that Bad Guy Land had overtaken N2 and enslaved its citizens, the Rescuelanders mobilised quickly to liberate the planet. N2 is characterised by dense, tropical vegetation and primitive civilizations, making Bad Guy Land's robotic enforcers particularly vulnerable to computer-targeted weapons.
 The Rescuelanders gathered intelligence on Bad Guy Land's operations, noting the extensive use of robotic units and the weak spots in their defences. Armed with this information, they prepared to deploy electromagnetic pulses (EMPs) to disable the robots.
 A specialised team of Rescuelander commandos, equipped with stealth technology, infiltrated N2 to assess enemy positions. They observed routine patrols and devised a plan to maximise the effect of their EMPs.
 A few days later, Rescueland forces descended upon N2. As they approached the surface, they deployed the EMPs, disrupting the robots' systems and causing them to shut down. The Rescuelanders followed up with ground troops, engaging in close combat with the few surviving enforcers of Bad Guy Land. The Rescuelanders successfully liberated the inhabitants of N2.
 
-## 23 ADOTR: The War for Rescueland
+## 22 ADOTR: The Founding of the Anti-Bad Guy Land Union
+
+In Year 22 ADOTR, the leaders of Rescueland, Hermonochy, Titan, and Ralfialand convened to establish the Anti-Bad Guy Land Union, creating a collaborative alliance dedicated to mutual assistance and defense against common threats in the multiverse. This pivotal moment laid the groundwork for what would later evolve into the Rescueland Empire.
+
+## 23-24 ADOTR: The War for Rescueland
 
 Following their preliminary victories, Rescueland’s forces were emboldened but unaware of Bad Guy Land’s plans for a coordinated and overwhelming assault. Bad Guy Land sought revenge for previous defeats and had been quietly amassing a formidable fleet.
 The Bad Guy Land fleet, consisting of dreadnoughts and stealth cruisers, stealthily approached Rescueland. Utilising their reconnaissance technology, they pinpointed strategic military and civilian targets across the planet.
@@ -62,7 +66,7 @@ With the command ship destroyed and the enemy forces disorganised, the remaining
 
 ## 25 ADOTR: The Formation of the Rescueland Empire
 
-[The Rescueland Empire](./The%20Planet%20File.md#rescueland-empire) was formed, a union between almost all planets that promised to help one another in times of need.
+The Anti-Bad Guy Land Union (ABGLU) became the foundation for the [The Rescueland Empire](./The%20Planet%20File.md#rescueland-empire), a union between almost all planets that promised to help one another in times of need.
 
 ## 26 ADOTR: The Failed Attack
 
