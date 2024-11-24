@@ -20,14 +20,15 @@ Rescueland successfully built and sent a ship with enough range to enter another
 
 ## 8 ADOTR: Discovery of Bad Guy Land
 
-Bad Guy Land was discovered. Initial scouting missions unveiled troubling reports of enslaved inhabitants and a regime characterized by brutality and unrelenting warfare. As the intelligence poured in, an air of tension and urgency enveloped Rescueland, as the impending threat posed by Bad Guy Land became all too evident.
+[Bad Guy Land](./The%20Planet%20File.md#bad-guy-land-previously-b) was discovered. Initial scouting missions unveiled troubling reports of enslaved inhabitants and a regime characterized by brutality and unrelenting warfare. As the intelligence poured in, an air of tension and urgency enveloped Rescueland, as the impending threat posed by Bad Guy Land became all too evident.
+
 ## 14 ADOTR: Discovery of Computerland
 
-In what would become a significant alliance, Rescueland discovered that it was not alone in its struggle against Bad Guy Land. A distant planet, known as Computerland, was also fiercely resisting the oppressive regime. The successful first contact between these two planets led to the establishment of a powerful alliance, forging a collaborative front against their common enemy.
+In what would become a significant alliance, Rescueland discovered that it was not alone in its struggle against Bad Guy Land. A distant planet, known as [Computerland](./main/The%20Planet%20File.md#computerland-i), was also fiercely resisting the oppressive regime. The successful first contact between these two planets led to the establishment of a powerful alliance, forging a collaborative front against their common enemy.
 
 ## 18 ADOTR: The Super Twos
 
-The situation reached another turning point when Klesone bestowed upon Rescueland the first [Super Twos](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#notable-versions), the pinnacle of robotic design, after Rescueland successfully thwarted an invasion attempt by Bad Guy Land against [Klesone](./The%20Planet%20File.md#klesone-r). This gift represented not only advanced technology but also the culmination of Rescueland's commitment to innovation. The Super Twos took it upon themselves to create even more sophisticated robots, further enhancing their capabilities in a continuous cycle of advancement. This technological evolution ultimately laid the groundwork for the FCRT's.
+The situation reached another turning point when [Klesone](./main/The%20Planet%20File.md#klesone-r) bestowed upon Rescueland the first [Super Twos](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#notable-versions), the pinnacle of robotic design, after Rescueland successfully thwarted an invasion attempt by Bad Guy Land against Klesone. This gift represented not only advanced technology but also the culmination of Rescueland's commitment to innovation. The Super Twos took it upon themselves to create even more sophisticated robots, further enhancing their capabilities in a continuous cycle of advancement. This technological evolution ultimately laid the groundwork for the [FCRT's](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#rescueland-robots-r).
 
 ## 21 ADOTR: The First Battle Against Bad Guy Land
 
@@ -66,7 +67,7 @@ With the command ship destroyed and the enemy forces disorganised, the remaining
 
 ## 25 ADOTR: The Formation of the Rescueland Empire
 
-The Anti-Bad Guy Land Union (ABGLU) officialy became [The Rescueland Empire](./The%20Planet%20File.md#rescueland-empire), a union between almost all planets that promised to help one another in times of need.
+[The Rescueland Empire](./The%20Planet%20File.md#rescueland-empire) was formed, a union between almost all planets that promised to help one another in times of need.
 
 ## 26 ADOTR: The Failed Attack
 
