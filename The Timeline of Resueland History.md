@@ -66,7 +66,7 @@ With the command ship destroyed and the enemy forces disorganised, the remaining
 
 ## 25 ADOTR: The Formation of the Rescueland Empire
 
-The Anti-Bad Guy Land Union (ABGLU) became the foundation for the [The Rescueland Empire](./The%20Planet%20File.md#rescueland-empire), a union between almost all planets that promised to help one another in times of need.
+The Anti-Bad Guy Land Union (ABGLU) officialy became [The Rescueland Empire](./The%20Planet%20File.md#rescueland-empire), a union between almost all planets that promised to help one another in times of need.
 
 ## 26 ADOTR: The Failed Attack
 
