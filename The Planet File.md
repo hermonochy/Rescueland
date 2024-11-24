@@ -119,7 +119,7 @@ To remain completely neutral to the skirmishes between the factions.
 
 **Capital:** Non-existent
 
-**Leader:** none (except during war, where Weda can take control)
+**Leader:** none (However, during war, Weda has command of the armies.)
 
 **Power Status:** 5999999998/6000000000
 
@@ -129,7 +129,7 @@ Army Size:
 - **Darkfighters:** 8
 - **Ground Force:** 423 septillion
 
-**Tech Level:** military + 12
+**Tech Level:** 12
 
 **Population:** 8.9798*10^18
 
@@ -162,7 +162,7 @@ Army Size:
 
 **Tech Level:** 11
 
-**Population:** 548 quadrillion
+**Population:** 548 trillion
 
 **Atmosphere:** Hydrogen 86%, Helium 11%, Methane 2%
 
@@ -305,7 +305,7 @@ The societal structure was highly stratified, with the elite enjoying privileges
 Army Size:
 - **Interceptors:** 50 million
 - **Battle Ships:** 600
-- **Darkfighters:** 5
+- **Darkfighters:** 0
 - **Ground Force:** 470 million
 
 **Tech Level:** 9
@@ -333,7 +333,7 @@ Army Size:
 Army Size:
 - **Interceptors:** 85 million
 - **Battle Ships:** 800
-- **Darkfighters:** 10
+- **Darkfighters:** 0
 - **Ground Force:** 15 million
 
 **Tech Level:** 8
