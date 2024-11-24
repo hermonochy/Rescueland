@@ -138,7 +138,8 @@ Army Size:
 **General:** Rescueland stands out as the first of the three prominent 'superpowers', alongside Helucky and Recola. What makes Rescueland particularly unique is its focus on the quality and training of its military forces, setting it apart even though it possesses the smallest army among the three superpowers. 
 The sheer effectiveness and elite training of Rescueland's troops allow them to compete on equal footing with larger forces. Their emphasis on teamwork and cohesion often leads to a highly disciplined fighting force capable of executing complex maneuvers under pressure.
 Geographically, Rescueland is an extraordinary planet, sometimes enveloped by the largest FFG known in history. In the event of an invasion attempt, the invaders must strategically group and position themselves directly in front of the FFG, waiting for the shield to expire. Invaders must carefully plan their assault, as any miscalculation could result in disastrous consequences.
-Rescueland's infrastructure and alliances also play a significant role in its defense strategy. While they may not have the sheer number of troops that Helucky or Recola boast, their innovative use of technology, along with diplomatic relationships developed over the years, provides them with additional layers of security.
+Rescueland's infrastructure and alliances also play a significant role in its defense strategy. While they may not have the sheer number of troops that Helucky or Recola boast, their innovative use of technology, along with diplomatic relationships developed over the years, provides them with additional layers of security. For the few organic beings living on Rescueland, the local cuisine includes a variety of plant-based dishes, using both native and imported ingredients. While not a dominant religion, some express devotion to the Super Owls, holding ceremonies to invoke their blessings for protection and guidance by these seemingly supernatural beings.
+
 ## Hermonochy (R)
 
 **Name:** Hermonochy
@@ -251,7 +252,7 @@ Army Size:
 
 **Atmosphere:**
 
-**General:** Tortisland is the first non-core planet to join the Rescueland Empire. This lush, vibrant planet is primarily covered in dense flora, which plays a unique and vital role in the ecosystem and culture of Tortisland. Unlike any ordinary plant life, the flora on Tortisland exhibits sentience that allows it to communicate and interact with the environment and its inhabitants in extraordinary ways.
+**General:** Tortisland is the first non-core planet to join the Rescueland Empire. This lush, vibrant planet is primarily covered in dense flora, which plays a unique and vital role in the ecosystem and culture of Tortisland. Unlike any ordinary plant life, the flora on Tortisland exhibits sentience that allows it to communicate and interact with the environment and its inhabitants in extraordinary ways.Their diet incorporates a variety of fruits and vegetables unique to Tortisland. Beliefs are heavily intertwined with nature; their spirituality emphasizes the connectivity between all living beings and the importance of balance.
 
 ## The Bad Guy Land System (B)
 
@@ -742,7 +743,9 @@ Army Size:
 
 **Atmosphere:** Nitrogen 70%, Oxygen 25%, Argon 4%
 
-**General:** The weakest planet in the Rescueland Empire, N2 joined due to threats from Bad Guy Land. There is no set leader, as the entire planet is split up into tribes on average about a thousand strong. They are still in the Stone Age, soon to enter the Bronze Age.
+**General:** N2 is the weakest planet in the Rescueland Empire, having joined under duress due to threats from Bad Guy Land. The population is divided into numerous tribes, each averaging about a thousand inhabitants, and they are still in the Stone Age, on the cusp of entering the Bronze Age.   
+Life on N2 revolves around basic agriculture, foraging, and rudimentary hunting techniques, with communities primarily focused on survival. The tribes maintain a decentralized structure, with no formal leadership, relying instead on elder councils for guidance in communal matters.   
+The inhabitants have developed a belief system that venerates the concept of Rescueland as a pantheon of divine forces that govern their existence and protect them from external threats. Each tribe worships the ideals of Rescueland, viewing them as benevolent deities that saved them from the threat of Bad Guy Land. The tribes refer to the ideals of Rescueland as "The Protectors." Oral traditions are rich with tales of legendary figures representing the ideals of Rescueland. These stories serve to inspire the youth and instill a sense of purpose as they learn about courage and resilience through the narratives of their "gods."
 
 
 
@@ -766,14 +769,13 @@ Army Size:
 - **Darkfighters:** 0
 - **Ground Force:** 29 million
 
-**Tech Level:** 5
+**Tech Level:** 7
 
 **Population:** 1.5 billion
 
 **Atmosphere:** Oxygen 55%, Nitrogen 30%, Carbon Dioxide 15%
 
-**General:** Nelula serves as the guardian of N2, ensuring no major threats arise against its smaller neighbor.
-
+**General:** Nelula serves as the guardian of N2, ensuring no major threats arise against its smaller neighbor.The people of Nelula hold a steadfast belief in the concept of guardianship. They consider themselves protectors of weaker worlds, which translates into their governance and military strategy.
 
 
 ## Ehana (I)
@@ -802,7 +804,7 @@ Army Size:
 
 **Atmosphere:** Hydrogen 40%, Oxygen 30%, Helium 30%
 
-**General:**  A desert planet that harnesses solar energy, Ehana was previously part of the Rescueland Empire but has become the first planet to have willingly left, believing themselves self-sufficient enough to survive alone.
+**General:**  Ehana is a desert planet that harnesses the power of solar energy, using advanced technology to optimize their resources effectively. Once part of the Rescueland Empire, Ehana has made history by becoming the first planet to willingly leave the empire, under the belief that they are self-sufficient enough to thrive independently. High Lord Tacer leads with a vision of autonomy and sustainability.
 
 ## Heloa (R)
 
@@ -1205,7 +1207,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 60%, Nitrogen 20%, Water vapor 15%, Trace gases 5%  
 
-**General:** Loaa is predominantly a water world with floating cities regularly connected by transport systems. The culture has deep ties to maritime traditions, and the government is often seen as corrupt. A significant portion of the population advocates for reforms and environmental initiatives to protect their aquatic ecosystems.
+**General:** Loaa is predominantly a water world with floating cities regularly connected by transport systems. The culture has deep ties to maritime traditions, and the government is often seen as corrupt. A significant portion of the population advocates for reforms and environmental initiatives to protect their aquatic ecosystems. Many inhabitants practice a form of sea worship, honoring the ocean as a life-giving force and conducting rituals to ensure safe and bountiful harvests.
 
 ## Yano (R)
 
@@ -1233,7 +1235,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 55%, Nitrogen 30%, Carbon Monoxide 10%, Argon 5%  
 
-**General:** Yano is known for its vast, sprawling landscapes and rich mineral resources. The planet's military is well-funded, and the government employs a strategy of both defense and expansion, seeking to secure alliances with other planets.
+**General:** Yano is known for its vast, sprawling landscapes and rich mineral resources. The planet's military is well-funded, and the government employs a strategy of both defense and expansion, seeking to secure alliances with other planets.Yano's cuisine features hearty dishes centered around locally sourced grains and meats, often seasoned with native herbs. The populace is generally secular, but some communities hold communal ceremonies to honor the land's spirits
 
 ## Casopi (R)
 
@@ -1290,7 +1292,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 62%, Nitrogen 26%, Methane 9%, Argon 3%  
 
-**General:** Senena is a planet marked by wide grasslands and deep forests, home to various unique flora and fauna. While its technological level is lower than neighboring planets, the inhabitants have developed sustainable methods of living. Recent shifts in power have led to increased calls for modernization and inclusivity in governance.
+**General:** Senena is a planet marked by wide grasslands and deep forests, home to various unique flora and fauna. While its technological level is lower than neighboring planets, the inhabitants have developed sustainable methods of living. Recent shifts in power have led to increased calls for modernization and inclusivity in governance.The society embraces a belief system which acknowledges the interdependence of all living things and the cyclical nature of life. Festivals celebrating seasonal changes and harvests enable the community to come together, reinforcing cooperation and appreciation for the land.
 
 ## Scanal (I)
 
@@ -1312,13 +1314,13 @@ Army Size:
 - **Darkfighters:** 0  
 - **Ground Force:** 4 trillion  
 
-**Tech Level:** 6  
+**Tech Level:** 5 
 
 **Population:** 621 trillion  
 
 **Atmosphere:** Oxygen 54%, Nitrogen 25%, CO2 15%, Trace gases 6%  
 
-**General:** Scanal is primarily a desert world, with a few lush areas along river valleys. The society here is tribal and has a rich history of tradition and culture. The military is small but fiercely loyal, relying on guerrilla tactics for defense. Recent external conflicts have led to growing concerns over resource depletion and defense strategies.
+**General:** Scanal is primarily a desert world, with a few lush areas along river valleys. The society here is tribal and has a rich history of tradition and culture. The military is small but fiercely loyal, relying on guerrilla tactics for defense. Recent external conflicts have led to growing concerns over resource depletion and defense strategies. The societal structure is based around the "Legacy of the Ancestors," emphasizing the knowledge and traditions passed down through generations. Rather than worship, this philosophy involves honoring and implementing lessons learned from previous generations.
 
 
 ## Computerland (I)
