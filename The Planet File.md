@@ -743,7 +743,9 @@ Army Size:
 
 **Atmosphere:** Nitrogen 70%, Oxygen 25%, Argon 4%
 
-**General:** The weakest planet in the Rescueland Empire, N2 joined due to threats from Bad Guy Land. There is no set leader, as the entire planet is split up into tribes on average about a thousand strong. They are still in the Stone Age, soon to enter the Bronze Age.
+**General:** N2 is the weakest planet in the Rescueland Empire, having joined under duress due to threats from Bad Guy Land. The population is divided into numerous tribes, each averaging about a thousand inhabitants, and they are still in the Stone Age, on the cusp of entering the Bronze Age.   
+Life on N2 revolves around basic agriculture, foraging, and rudimentary hunting techniques, with communities primarily focused on survival. The tribes maintain a decentralized structure, with no formal leadership, relying instead on elder councils for guidance in communal matters.   
+The inhabitants have developed a belief system that venerates the concept of Rescueland as a pantheon of divine forces that govern their existence and protect them from external threats. Each tribe worships the ideals of Rescueland, viewing them as benevolent deities that saved them from the threat of Bad Guy Land. The tribes refer to the ideals of Rescueland as "The Protectors." Oral traditions are rich with tales of legendary figures representing the ideals of Rescueland. These stories serve to inspire the youth and instill a sense of purpose as they learn about courage and resilience through the narratives of their "gods."
 
 
 
@@ -767,14 +769,13 @@ Army Size:
 - **Darkfighters:** 0
 - **Ground Force:** 29 million
 
-**Tech Level:** 5
+**Tech Level:** 7
 
 **Population:** 1.5 billion
 
 **Atmosphere:** Oxygen 55%, Nitrogen 30%, Carbon Dioxide 15%
 
-**General:** Nelula serves as the guardian of N2, ensuring no major threats arise against its smaller neighbor.
-
+**General:** Nelula serves as the guardian of N2, ensuring no major threats arise against its smaller neighbor.The people of Nelula hold a steadfast belief in the concept of guardianship. They consider themselves protectors of weaker worlds, which translates into their governance and military strategy.
 
 
 ## Ehana (I)
@@ -803,7 +804,7 @@ Army Size:
 
 **Atmosphere:** Hydrogen 40%, Oxygen 30%, Helium 30%
 
-**General:**  A desert planet that harnesses solar energy, Ehana was previously part of the Rescueland Empire but has become the first planet to have willingly left, believing themselves self-sufficient enough to survive alone.
+**General:**  Ehana is a desert planet that harnesses the power of solar energy, using advanced technology to optimize their resources effectively. Once part of the Rescueland Empire, Ehana has made history by becoming the first planet to willingly leave the empire, under the belief that they are self-sufficient enough to thrive independently. High Lord Tacer leads with a vision of autonomy and sustainability.
 
 ## Heloa (R)
 
