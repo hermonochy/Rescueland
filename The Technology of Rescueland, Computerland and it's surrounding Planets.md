@@ -270,16 +270,17 @@ Quorite is an ultra-durable and low-density metal recognized for its unique resi
 - Military Gear: Employed in armour systems and protective wear.
 
 ### Conductium \(C\) con-duct-ee-umm
-Conductium is what the Center of Computerland is made of. It has a 100% electrical transfer efficiency and is roughly as dense as hydrogen, even though the atom is 300 times bigger than francium. The conductuim atom has 24 protons and 2000 neutrons but only 1 electron. This is the reason it is good at keeping electrons. To extract the electron, you need a special isotope of conductium. The bonds conductium makes are almost indestructible and because of this harvesting and moulding the material is incredibly expensive. This has the upside of only melting at the same temperature as dark material, although this is a bad idea as the neutron structure will deform. The uses of conductium include:
 
-- High accuracy electrical transfer.
+Conductium constitutes the primary material of the Center of Computerland. It boasts an electrical transfer efficiency of 100% and has a density comparable to that of hydrogen, despite its atom being 300 times larger than francium. The conductium atom contains 24 protons and 2000 neutrons, yet has only 1 electron, which contributes to its ability to retain electrons. To extract the electron, a specific isotope of conductium is required. The bonds formed by conductium are nearly indestructible, making the harvesting and shaping of this material exceptionally costly. A notable consequence of this is that it melts at the same temperature as darkmaterial, although this is inadvisable since the neutron structure may deform. Conductium has several applications, including:
+
+- High-accuracy electrical transfer.
 - \(uinfinity_t\)-1 speed electron cannons.
-- Cross planet power transfer.
-- Quantum research \(the atom size helps with research\).
+- Cross-planet power transfer.
+- Quantum research \(its atomic size facilitates research\).
 
-### Atomon \(C\) ah-tom-on
-Atomon is a very small atom, roughly the size of hydrogen but has the upside of being very thin, small, and strong for electrical insulation. The reason Atomon is so strong is because it forms when an extremely high voltage flows through pure hydrogen \(mandatory no explosions occur\) for around 1,000,000 years and two hydrogen atoms half merge and lose one electron. This means whenever electricity tries to pass through, it will work because of the spare electron spot. However, due to the half merged state when two electrons try to pass through in a short span of the time \(high power electricity\) it will try to accept two electrons and then reject them immediately and not allow any current to flow. The most common use case for this is very reliable and reusable high power fuses.
+### Atomon (C) ah-tom-on
 
+Atomon is an extremely small atom, roughly the size of hydrogen, but it is advantageous due to its thinness, compactness, and strength as an electrical insulator. Atomon's strength is attributed to its formation process, which occurs when an exceptionally high voltage flows through pure hydrogen  \(mandatory no explosions occur\) for about 1,000,000 years, leading to the partial merging of two hydrogen atoms and the loss of one electron. This allows electricity to flow since there is a vacant electron spot. However, in its half-merged state, when two electrons attempt to pass through simultaneously (as in the case of high-power electricity), Atomon tries to accept both but then immediately rejects them, preventing any current from flowing. The most common application for Atomon is as a reliable and reusable high-power fuse.
    	 
 # Rescueland Robots (R)
 
