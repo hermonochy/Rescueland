@@ -38,7 +38,7 @@ This file presents a brief summary of the major planets, listed according to the
 9. Development of more dangerous, system-destroying weaponry  
 10. Ship range surpasses the distance from Recua to Computerland and back  
 11. Second highest possible level  
-12. Maximum tech level achievable  
+12. Transdimensional exploratory capabilities 
 
 **Population:** Total number of inhabitants  
 
