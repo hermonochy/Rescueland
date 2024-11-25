@@ -2,6 +2,35 @@
 
 This document outlines all significant events that have taken place since the establishment of Rescueland. Since Rescueland lacks a sun, it does not have a traditional year system; instead, a time unit equivalent to approximately 888 Earth years is utilized. The Rescueland equivalent of AD is referred to as ADOTR (After Discovery of the Rings), while BCE is denoted as BDOTR (Before Discovery of the Rings).
 
+- [5630630 BDOTR: Creation of Rescueland](#5630630-bdotr-creation-of-rescueland)
+- [0 ADOTR: Discovery of the Rings](#0-adotr-discovery-of-the-rings)
+- [2 ADOTR: The Launch of the First Spaceship](#2-adotr-the-launch-of-the-first-spaceship)
+- [4 ADOTR: The First Successful Entry of Another Multiverse](#4-adotr-the-first-successful-entry-of-another-multiverse)
+- [8 ADOTR: Discovery of Bad Guy Land](#8-adotr-discovery-of-bad-guy-land)
+- [14 ADOTR: Discovery of Computerland](#14-adotr-discovery-of-computerland)
+- [18 ADOTR: The Super Twos](#18-adotr-the-super-twos)
+- [21 ADOTR: The First Battle Against Bad Guy Land](#21-adotr-the-first-battle-against-bad-guy-land)
+- [22 ADOTR: The Founding of the Anti-Bad Guy Land Union](#22-adotr-the-founding-of-the-anti-bad-guy-land-union)
+- [23-24 ADOTR: The War for Rescueland](#23-24-adotr-the-war-for-rescueland)
+- [25 ADOTR: The Formation of the Rescueland Empire](#25-adotr-the-formation-of-the-rescueland-empire)
+- [26 ADOTR: The Failed Attack](#26-adotr-the-failed-attack)
+- [27 ADOTR: The Defeat of Ukakia](#27-adotr-the-defeat-of-ukakia)
+- [34 ADOTR: The Final Battle Against Bad Guy Land](#34-adotr-the-final-battle-against-bad-guy-land)
+- [35 ADOTR: The Siege of Imperium](#35-adotr-the-siege-of-imperium)
+- [38 ADOTR: Discovery of the Force Field Gel](#38-adotr-discovery-of-the-force-field-gel)
+- [58 ADOTR: Discovery of Mutant Force Field Gel](#58-adotr-discovery-of-mutant-force-field-gel)
+- [65 ADOTR: War against Mega Bad Guy Land](#65-adotr-war-against-mega-bad-guy-land)
+- [80 ADOTR: War against Ultra Bad Guy Land](#80-adotr-war-against-ultra-bad-guy-land)
+- [90 ADOTR: War against Voldim](#90-adotr-war-against-voldim)
+- [104 ADOTR: War against Mega Mega Mega Mega Mega Mega Mega Mega Mega Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Bad Guy Land](#104-adotr-war-against-mega-mega-mega-mega-mega-mega-mega-mega-mega-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-bad-guy-land)
+- [106 ADOTR: The Revolution of the Army](#106-adotr-the-revolution-of-the-army)
+  - [New Ship Classes](#new-ship-classes)
+  - [The Impact on Rescueland’s Military](#the-impact-on-rescuelands-military)
+- [105 - 508 ADOTR: The Golden Age](#105---508-adotr-the-golden-age)
+- [508 ADOTR: War against Horsa](#508-adotr-war-against-horsa)
+- [510 ADOTR: The War Against Federre](#510-adotr-the-war-against-federre)
+
+
 ## 5630630 BDOTR: Creation of Rescueland
 
 The birth of Rescueland coincided with the phenomenon known as the Big Bang, marking its emergence as the outer core of our universe. It is widely believed that the mysterious [Force Field Gel](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r) was already in existence at this primordial moment, setting the stage for the unique development of Rescueland and its inhabitants.
