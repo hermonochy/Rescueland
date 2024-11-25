@@ -15,7 +15,7 @@ This file presents a brief summary of the major planets, listed according to the
 
 **Leader:** The planet's leader or its political system  
 
-**Power Status:** Each inhabited planet is assigned a military power ranking from 1 to 6,000,000,000.  
+**Power Status:** Each inhabited planet is assigned a military power ranking from 1 to 6,000,000,000. This may not align with the army size, as some ships are more powerful than others.  
 
 **Army Size:** Total count of military personnel  
 
