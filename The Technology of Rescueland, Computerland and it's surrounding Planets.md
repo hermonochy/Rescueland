@@ -1,6 +1,4 @@
-﻿*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
-
-# Keys
+﻿﻿*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
 
 U = Universal
 
@@ -20,136 +18,113 @@ B = All Bad Planets tech
 
 L = Lower tech
 
-# Contents
-## [Materials](#materials-1)
+## Contents
 
-[Techanda](#techanda-u-teh-chuhn-dahh)
-,
-[Eleha](#eleha-r-ellieeh-hah)
-,
-[Pakira](#pakira-u-pack-ear-ahh)
-,
-[Plamea](#plamea-u-plam-meha)
-,
-[Solitme](#solitme-u-sol-eet-meh)
-,
-[Nyctron](#nyctron-u-nik-tron)
-,
-[Krython](#krython-u-kree-thon)
-,
-[Vermithium](#vermithium-r-ver-mih-thi-um)
-,
-[Quorite](#quorite-u-kwor-ite)
-,
-[Conductium](#conductium-c-con-duct-ee-umm)
-,
-[Atomon](#atomon-c-ah-tom-on)
+- [General](#general)
+  - [Materials](#materials)
+    - [Darkmaterial, Greymaterial, and Lightmaterial (U)](#darkmaterial-greymaterial-and-lightmaterial-u)
+      - [Darkfighters, Greyfighters and Lightfighters](#darkfighters-greyfighters-and-lightfighters)
+    - [Techanda (U) Teh-chuhn-dahh](#techanda-u-teh-chuhn-dahh)
+      - [Common Uses:](#common-uses)
+    - [Eleha (R) Ellieeh-hah](#eleha-r-ellieeh-hah)
+      - [Common Uses:](#common-uses-1)
+    - [Pakira (U) Pack-ear-ahh](#pakira-u-pack-ear-ahh)
+      - [Common Uses:](#common-uses-2)
+    - [Plamea (U) Plam-meha](#plamea-u-plam-meha)
+      - [Common Uses:](#common-uses-3)
+    - [Solitme (U) Sol-eet-meh](#solitme-u-sol-eet-meh)
+      - [Common Uses:](#common-uses-4)
+    - [Solita](#solita)
+    - [Nyctn (U) Nik-tin](#nyctn-u-nik-tin)
+      - [Common Uses:](#common-uses-5)
+    - [Krython (U) Kree-thon](#krython-u-kree-thon)
+      - [Common Uses:](#common-uses-6)
+    - [Vermithium (R) Ver-mih-thi-um](#vermithium-r-ver-mih-thi-um)
+      - [Common Uses:](#common-uses-7)
+    - [Quorite (U) Kwor-ite](#quorite-u-kwor-ite)
+      - [Common Uses:](#common-uses-8)
+    - [Conductium (C) con-duct-ee-umm](#conductium-c-con-duct-ee-umm)
+    - [Atomon (C) ah-tom-on](#atomon-c-ah-tom-on)
+- [Rescueland Robots (R)](#rescueland-robots-r)
+  - [Robot Personality](#robot-personality)
+  - [Robot Versions](#robot-versions)
+    - [Notable Versions:](#notable-versions)
+  - [Robot Types](#robot-types)
+    - [Types in order of population](#types-in-order-of-population)
+- [Ships and their Systems](#ships-and-their-systems)
+  - [Engines](#engines)
+    - [Engine Types](#engine-types)
+    - [Engine Colours](#engine-colours)
+  - [General](#general-1)
+    - [Energy Scoop (R)](#energy-scoop-r)
+    - [Atmospheric Bubble (R)](#atmospheric-bubble-r)
+    - [Teleporter (R + C)](#teleporter-r--c)
+- [Military](#military)
+  - [Defence](#defence)
+    - [Force Field Gel (R)](#force-field-gel-r)
+      - [The process of harvesting FFG](#the-process-of-harvesting-ffg)
+      - [Activating the FF](#activating-the-ff)
+      - [Mutant FFG](#mutant-ffg)
+    - [Plasma Force Fields (U)](#plasma-force-fields-u)
+    - [Magnetic Force Fields (L)](#magnetic-force-fields-l)
+    - [The Verdant Shield Projector (R)](#the-verdant-shield-projector-r)
+    - [Energy Absorption Shields (R)](#energy-absorption-shields-r)
+    - [Holo-Decoy Defense System (R)](#holo-decoy-defense-system-r)
+      - [Holo-Decoy types:](#holo-decoy-types)
+    - [FCRT DarkArmour (R)](#fcrt-darkarmour-r)
+  - [Weaponry](#weaponry)
+    - [Cannons (U)](#cannons-u)
+      - [The Large Cannon](#the-large-cannon)
+      - [The Universal Cannon](#the-universal-cannon)
+      - [The Small Cannon](#the-small-cannon)
+      - [The Extra Small Cannon](#the-extra-small-cannon)
+    - [Ammo](#ammo)
+      - [Lasers](#lasers)
+        - [Basic Lasers](#basic-lasers)
+        - [Beamers (R+H+F)](#beamers-rhf)
+        - [Hyperion Fusion Cannons (C)](#hyperion-fusion-cannons-c)
+        - [Solar Beam Projectors (L)](#solar-beam-projectors-l)
+      - [FCRT Weapons](#fcrt-weapons)
+        - [P-series Laser (R)](#p-series-laser-r)
+        - [TL-series (R)](#tl-series-r)
+        - [Laser Hair (R)](#laser-hair-r)
+        - [Granite Laser (C)](#granite-laser-c)
+      - [Slit Bombs (U)](#slit-bombs-u)
+        - [Types of Slit Bombs](#types-of-slit-bombs)
+      - [Machine Guns (L)](#machine-guns-l)
+      - [Tachyon Launchers (L)](#tachyon-launchers-l)
+      - [The Mega Flail (Ho)](#the-mega-flail-ho)
+    - [Explosives](#explosives)
+      - [Hydro-Bombs (R+H+F)](#hydro-bombs-rhf)
+        - [Types of Hydro-Bombs](#types-of-hydro-bombs)
+      - [Rockets (L)](#rockets-l)
+    - [Chemicals](#chemicals)
+      - [Acid Thrower (L)](#acid-thrower-l)
+    - [Sound](#sound)
+      - [Sonic Blasters (L)](#sonic-blasters-l)
+    - [Electromagnetic Pulse (L)](#electromagnetic-pulse-l)
+      - [EMP Types:](#emp-types)
+    - [Bunkers](#bunkers)
+      - [Anti-Bunker Catapult (L)](#anti-bunker-catapult-l)
+      - [Anti-Bunker Drill (R+B)](#anti-bunker-drill-rb)
+- [Civilian](#civilian)
+  - [The FCRT Suit (R)](#the-fcrt-suit-r)
+    - [Key Features](#key-features)
+  - [Exoskeleton Suit (L)](#exoskeleton-suit-l)
+  - [AquaPurifier (L)](#aquapurifier-l)
+    - [Features:](#features)
+    - [Common Uses:](#common-uses-9)
+  - [Atmosphere Regulator (L)](#atmosphere-regulator-l)
+    - [Features:](#features-1)
+    - [Common Uses:](#common-uses-10)
+  - [LightSphere (L)](#lightsphere-l)
+    - [Features:](#features-2)
+    - [Common Uses:](#common-uses-11)
+  - [ClimatePod (L)](#climatepod-l)
+    - [Features:](#features-3)
+    - [Common Uses:](#common-uses-12)
+  - [Urban Transport Pod (L)](#urban-transport-pod-l)
 
-## [Rescueland Robots](#rescueland-robots-r)
-
-[Robot Personality](#robot-personality)
-,
-[Robot Versions](#robot-versions)
-,
-[Robot Types](#robot-types)
-
-## [Engines](#engines-1)
-
-[Engine Types](#engine-types)
-,
-[Engine Colours](#engine-colours)
-,
-[Energy Scoop](#energy-scoop-r)
-,
-[Atmospheric Bubble](#atmospheric-bubble-r)
-
-## [Military](#military-1)
-
-### [Defence](#defence-1)
-
-[Force Field Gel](#force-field-gel-r)
-,
-[Plasma Force Fields](#plasma-force-fields-u)
-,
-[Magnetic Force Fields](#magnetic-force-fields-l)
-,
-[The Verdant Shield Projector](#the-verdant-shield-projector-r)
-,
-[Energy Absorption Shields](#energy-absorption-shields-r)
-,
-[Holo-Decoy Defense System](#holo-decoy-defense-system-r)
-,
-[FCRT DarkArmour](#fcrt-darkarmour-r)
-,
-[Darkmaterial, Greymaterial and Lightmaterial](#darkmaterial-greymaterial-and-lightmaterial-u)
-
-### [Weaponry](#weaponry-1)
-
-[Cannons](#cannons-u)
-
-#### [Lasers](#lasers-1)
-
-[Basic Lasers](#basic-lasers)
-,
-[Beamers](#beamers-rhf)
-,
-[Hyperion Fusion Cannons](#hyperion-fusion-cannons-c)
-,
-[Solar Beam Projectors](#solar-beam-projectors-l)
-
-##### [FCRT Weapons](#fcrt-weapons-1)
-
-[P-Series](#p-series-laser-r)
-,
-[TL-Series](#tl-series-r)
-,
-[Laser Hair](#laser-hair-r)
-,
-[Granite Laser](#granite-laser-c)
-
-#### Projectiles
-
-[Slit Bombs](#slit-bombs-u)
-,
-[Machine Guns](#machine-guns-l)
-,
-[Tachyon Launchers](#tachyon-launchers-l)
-,
-[The Mega Flail](#the-mega-flail-ho)
-
-#### [Explosives](#explosives-1)
-
-[Hydro Bombs](#hydro-bombs-rhf)
-,
-[Rockets](#rockets-l)
-
-#### Other
-
-[Anti-bunker Catapult](#anti-bunker-catapult-l)
-,
-[Anti-bunker Drill](#anti-bunker-drill-rb)
-,
-[Acid Thrower](#acid-thrower-l)
-,
-[Sonic Blasters](#sonic-blasters-l)
-,
-[Electromagnetic Pulse](#electromagnetic-pulse-l)
-
-## [Civilian](#civilian-1)
-
-[FCRT Suit](#the-fcrt-suit-r)
-,
-[Exoskeleton Suit](#exoskeleton-suit-l)
-,
-[AquaPurifier](#aquapurifier-l-ah-kwah-pur-if-eye-er)
-,
-[Atmosphere Regulator](#atmosphere-regulator-l)
-,
-[LightSphere](#lightsphere-l)
-,
-[ClimatePod](#climatepod-l)
-,
-[Urban Transport Pod](#urban-transport-pod-l)
 
 # General
 
@@ -230,9 +205,9 @@ This set of characteristics makes Solitme particularly useful for specific milit
 
 Solita is similar to Solitme in many ways. However, there are some key differences: while Solitme is resistant to fire, it bends to the will of liquids. However, Solita is liquid-resistant but crumbles if heated. The current interceptor designs use Solita as their main material, able to be built quickly and cheaply.
 
-### Nyctron (U) Nik-tron
+### Nyctn (U) Nik-tin
 
-Nyctron is a unique alloy known for its lightweight properties and inherent flexibility. It has a dark, almost shadowy hue, making it visually distinct. This metal is slightly luminescent and has a unique property of absorbing ambient light, which can be useful in various applications, particularly in stealth technology. Nyctron holds its own in terms of resistance to environmental stresses, but it is less durable than other metals when faced with blunt force trauma.
+Nyctn is a unique alloy known for its lightweight properties and inherent flexibility. It has a dark, almost shadowy hue, making it visually distinct. This metal is slightly luminescent and has a unique property of absorbing ambient light, which can be useful in various applications, particularly in stealth technology. Nyctron holds its own in terms of resistance to environmental stresses, but it is less durable than other metals when faced with blunt force trauma.
 
 #### Common Uses:
 
@@ -270,16 +245,17 @@ Quorite is an ultra-durable and low-density metal recognized for its unique resi
 - Military Gear: Employed in armour systems and protective wear.
 
 ### Conductium \(C\) con-duct-ee-umm
-Conductium is what the Center of Computerland is made of. It has a 100% electrical transfer efficiency and is roughly as dense as hydrogen, even though the atom is 300 times bigger than francium. The conductuim atom has 24 protons and 2000 neutrons but only 1 electron. This is the reason it is good at keeping electrons. To extract the electron, you need a special isotope of conductium. The bonds conductium makes are almost indestructible and because of this harvesting and moulding the material is incredibly expensive. This has the upside of only melting at the same temperature as dark material, although this is a bad idea as the neutron structure will deform. The uses of conductium include:
 
-- High accuracy electrical transfer.
+Conductium constitutes the primary material of the Center of Computerland. It boasts an electrical transfer efficiency of 100% and has a density comparable to that of hydrogen, despite its atom being 300 times larger than francium. The conductium atom contains 24 protons and 2000 neutrons, yet has only 1 electron, which contributes to its ability to retain electrons. To extract the electron, a specific isotope of conductium is required. The bonds formed by conductium are nearly indestructible, making the harvesting and shaping of this material exceptionally costly. A notable consequence of this is that it melts at the same temperature as darkmaterial, although this is inadvisable since the neutron structure may deform. Conductium has several applications, including:
+
+- High-accuracy electrical transfer.
 - \(uinfinity_t\)-1 speed electron cannons.
-- Cross planet power transfer.
-- Quantum research \(the atom size helps with research\).
+- Cross-planet power transfer.
+- Quantum research \(its atomic size facilitates research\).
 
-### Atomon \(C\) ah-tom-on
-Atomon is a very small atom, roughly the size of hydrogen but has the upside of being very thin, small, and strong for electrical insulation. The reason Atomon is so strong is because it forms when an extremely high voltage flows through pure hydrogen \(mandatory no explosions occur\) for around 1,000,000 years and two hydrogen atoms half merge and lose one electron. This means whenever electricity tries to pass through, it will work because of the spare electron spot. However, due to the half merged state when two electrons try to pass through in a short span of the time \(high power electricity\) it will try to accept two electrons and then reject them immediately and not allow any current to flow. The most common use case for this is very reliable and reusable high power fuses.
+### Atomon (C) ah-tom-on
 
+Atomon is an extremely small atom, roughly the size of hydrogen, but it is advantageous due to its thinness, compactness, and strength as an electrical insulator. Atomon's strength is attributed to its formation process, which occurs when an exceptionally high voltage flows through pure hydrogen  \(mandatory no explosions occur\) for about 1,000,000 years, leading to the partial merging of two hydrogen atoms and the loss of one electron. This allows electricity to flow since there is a vacant electron spot. However, in its half-merged state, when two electrons attempt to pass through simultaneously (as in the case of high-power electricity), Atomon tries to accept both but then immediately rejects them, preventing any current from flowing. The most common application for Atomon is as a reliable and reusable high-power fuse.
    	 
 # Rescueland Robots (R)
 
@@ -367,7 +343,7 @@ As a result of these limitations, the teleportation device is not often utilized
 
 ### Force Field Gel (R)
 
-The only known defence that is almost completely impenetrable is Force Field Gel. Only two known weaknesses exist: Time and [Mutant FFG](#mutant-ffg). This is a defence that only Rescueland has in mass, though some have managed to aqquire small quantities of it. NOTHING can get in OR out, effectively taking you out of the battle. Thus, many ships only use this defence when they are damaged, or a retreat is required. Another anomaly about FFG is that they behave in a similar manner to non-newtonian substances: The faster something hits the forcefield, the more energy is absorbed into it and not the object itself.
+The only known defence that is almost completely impenetrable is Force Field Gel. Only two known weaknesses exist: Time and [Mutant FFG](#mutant-ffg). This is a defence that only Rescueland has in mass, though some have managed to aqquire small quantities of it. ***Nothing*** can get in ***or*** out, effectively taking you out of the battle. Thus, many ships only use this defence when they are damaged, or a retreat is required. Another anomaly about FFG is that they behave in a similar manner to non-newtonian substances: The faster something hits the forcefield, the more energy is absorbed into it and not the object itself.
 
 #### The process of harvesting FFG
 

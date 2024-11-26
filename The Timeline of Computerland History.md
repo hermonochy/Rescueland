@@ -20,8 +20,8 @@ Through an extensive scientific expedition to the boundaries of their universe, 
 
 ## 14 ADOTR: Discovery of Rescueland
 
-In an important moment for intergalactic relationships, Computerland discovered Rescueland during its early space explorations. The people of Computerland learned about Rescueland’s fight against the tyrants of [Bad Guy Land](./The%20Planet%20File.md#bad-guy-land-previously-b)) and recognized their shared objective of resisting oppression. This key first contact set the stage for a strong alliance, uniting them to pool their strengths and collaborate cohesively against their mutual adversary.
+In an important moment for intergalactic relationships, Computerland discovered Rescueland during its early space explorations. The people of Computerland learned about Rescueland’s fight against the tyrants of [Bad Guy Land](./The%20Planet%20File.md#bad-guy-land-previously-b) and recognized their shared objective of resisting oppression. This key first contact set the stage for a strong alliance, uniting them to pool their strengths and collaborate cohesively against their mutual adversary.
 
-## 15 ADOTR: The breach of the universal border
+## 15 ADOTR: The Breach of the Universal Border
 
 After the successful alliance with Rescueland, they managed to learn and borrow some tech from them to travel between universes. With this new technology, Computerland fully comprehended the extent of the danger posed by Bad Guy Land, which they had hitherto only glimpsed through the occasional scout ship.
