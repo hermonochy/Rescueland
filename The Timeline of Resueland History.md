@@ -24,8 +24,6 @@ This document outlines all significant events that have taken place since the es
 - [90 ADOTR: War against Voldim](#90-adotr-war-against-voldim)
 - [104 ADOTR: War against Mega Mega Mega Mega Mega Mega Mega Mega Mega Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Bad Guy Land](#104-adotr-war-against-mega-mega-mega-mega-mega-mega-mega-mega-mega-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-bad-guy-land)
 - [106 ADOTR: The Revolution of the Army](#106-adotr-the-revolution-of-the-army)
-  - [New Ship Classes](#new-ship-classes)
-  - [The Impact on Rescueland’s Military](#the-impact-on-rescuelands-military)
 - [105 - 508 ADOTR: The Golden Age](#105---508-adotr-the-golden-age)
 - [508 ADOTR: War against Horsa](#508-adotr-war-against-horsa)
 - [510 ADOTR: The War Against Federre](#510-adotr-the-war-against-federre)
@@ -62,20 +60,20 @@ The situation reached another turning point when [Klesone](./main/The%20Planet%2
 ## 21 ADOTR: The First Battle Against Bad Guy Land
 
 The Rescuelanders engaged in their first major military confrontation with Bad Guy Land over the planet [N2](./The%20Planet%20File.md#n2-r), which fell under their control. Upon learning that Bad Guy Land had overtaken N2 and enslaved its citizens, the Rescuelanders mobilised quickly to liberate the planet. N2 is characterised by dense, tropical vegetation and primitive civilizations, making Bad Guy Land's robotic enforcers particularly vulnerable to computer-targeted weapons.
-The Rescuelanders gathered intelligence on Bad Guy Land's operations, noting the extensive use of robotic units and the weak spots in their defences. Armed with this information, they prepared to deploy electromagnetic pulses (EMPs) to disable the robots.
+The Rescuelanders gathered intelligence on Bad Guy Land's operations, noting the extensive use of robotic units and the weak spots in their defences. Armed with this information, they prepared to deploy [EMPs](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#electromagnetic-pulse-l) to disable the robots.
 A specialised team of Rescuelander commandos, equipped with stealth technology, infiltrated N2 to assess enemy positions. They observed routine patrols and devised a plan to maximise the effect of their EMPs.
 A few days later, Rescueland forces descended upon N2. As they approached the surface, they deployed the EMPs, disrupting the robots' systems and causing them to shut down. The Rescuelanders followed up with ground troops, engaging in close combat with the few surviving enforcers of Bad Guy Land. The Rescuelanders successfully liberated the inhabitants of N2.
 
 ## 22 ADOTR: The Founding of the Anti-Bad Guy Land Union
 
-In Year 22 ADOTR, the leaders of Rescueland, Hermonochy, Titan, and Ralfialand convened to establish the Anti-Bad Guy Land Union, creating a collaborative alliance dedicated to mutual assistance and defense against common threats in the multiverse. This pivotal moment laid the groundwork for what would later evolve into the Rescueland Empire.
+In Year 22 ADOTR, the leaders of the [Core Planets](./The%20Planet%20File.md#core-systems) convened to establish the Anti-Bad Guy Land Union, creating a collaborative alliance dedicated to mutual assistance and defense against common threats in the multiverse. This pivotal moment laid the groundwork for what would later evolve into the Rescueland Empire.
 
 ## 23-24 ADOTR: The War for Rescueland
 
 Following their preliminary victories, Rescueland’s forces were emboldened but unaware of Bad Guy Land’s plans for a coordinated and overwhelming assault. Bad Guy Land sought revenge for previous defeats and had been quietly amassing a formidable fleet.
-The Bad Guy Land fleet, consisting of dreadnoughts and stealth cruisers, stealthily approached Rescueland. Utilising their reconnaissance technology, they pinpointed strategic military and civilian targets across the planet.
-In the dead of night, the Bad Guy Land fleet launched a surprise attack from orbit. They unleashed barrages of missiles and energy blasts targeting Rescueland’s planetary defences and infrastructure. The initial strike crippled communication systems and caused chaos, as ground forces were taken by surprise.
-As the attack unfolded, Rescuelanders scrambled to mobilise their orbital defence systems and called in reinforcements from regional installations. Spaceborne fighters were launched, and attempted to rally a cohesive defense commence under immense pressure.
+As the Bad Guy Land fleet stealthily approached Rescueland, they pinpointed strategic military and civilian targets across the planet.
+In the dead of night, the Bad Guy Land fleet launched a surprise attack from orbit. They unleashed barrages of [rockets](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#rockets-l) and [hydro bombs](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#hydro-bombs-rhf) targeting Rescueland’s planetary defences and infrastructure. The initial strike crippled communication systems and caused chaos, as ground forces were taken by surprise.
+As the attack unfolded, Rescuelanders scrambled to mobilise their defence systems and called in reinforcements from afar. Spaceborne fighters were launched, and attempted to rally a cohesive defense commence under immense pressure.
 Defence ships engaged in desperate dogfights with Bad Guy Land’s ships. The Rescuelanders employed evasive manoeuvres and tactical formations, but the overwhelming force of the Bad Guy Land fleet proved impossible to overcome. Initial small-scale victories gave way to intense losses as key ships were destroyed.
 As the battle dragged on, the Rescuelanders found their resources stretched thin. Key installations began to fall, and morale declined under the relentless assault.
 Realising the dire situation, Weda decided to order a retreat. Evacuation corridors were established to facilitate a strategic withdrawal in small packs. Ships were hastily organised, with many civilians and soldiers evacuating under fire.
@@ -86,13 +84,13 @@ In the ensuing years, Rescueland began to establish new alliances with the neigh
 Working tirelessly, Rescuelanders invested in new technologies to enhance their military capabilities. Newer fighter ships, stronger shields, and improved tactics were developed to address the shortcomings of their previous encounter with Bad Guy Land.
 
 Having spent years rebuilding their military might and increasing their resolve, the Rescuelanders were finally ready to launch a counter-offensive to reclaim their home planet against the now lax Bad Guy Landers. They gathered intelligence on Bad Guy Land’s current positions, preparing for an all-out assault.
-Before launching their main attack, a team of elite Rescuelander scouts infiltrated orbit and gathered critical intelligence about Bad Guy Land's defences. This information revealed vulnerabilities in Bad Guy Land’s outer orbital defences and key command structures.
+Before launching their main attack, a team of scouts infiltrated orbit and gathered critical intelligence about Bad Guy Land's defences. This information revealed vulnerabilities in Bad Guy Land’s outer orbital defences and key command structures.
 A united fleet, armed with advanced ships equipped with the latest technologies and battle strategies, was assembled. The Rescuelanders prepared for a coordinated assault to retake their planet.
-The Rescuelanders initiated their campaign with a surprise first strike from their newly equipped fleet. They bombarded strategic targets in the orbital defences of Bad Guy Land, taking advantage of their superior firepower.
+The Rescuelanders initiated their campaign with a surprise first strike from their newly equipped fleet. They bombarded Bad Guy Land orbital defences relentlessly, taking advantage of their superior firepower.
 Utilising the element of surprise and superior experience learned from previous battles, they deployed a series of well-coordinated strikes on Bad Guy Land ships, effectively isolating and picking them off one by one while avoiding direct confrontations.
 Bad Guy Land commanders reacted and attempted to regroup their forces. They counterattacked with their fleet, engaging in fierce dogfights and launching missile strikes. The Rescuelanders held their ground.
 During the battle, Rescueland bombers targeted the strategic command ship controlling Bad Guy Land’s space force. A coordinated assault successfully breached the defences, allowing a group of Rescueland battleships to finish off the command ship.
-With the command ship destroyed and the enemy forces disorganised, the remaining Bad Guy Land ships began to retreat. The Rescuelanders swiftly capitalised on the opportunity, driving the remaining hostile forces out and reclaiming control over Rescueland.
+With the command ship destroyed and the enemy forces disorganised, the remaining Bad Guy Land ships began to retreat. The Rescuelanders swiftly capitalised on the opportunity, driving the remaining hostile forces out and reclaiming control over their home planet.
 
 ## 25 ADOTR: The Formation of the Rescueland Empire
 
