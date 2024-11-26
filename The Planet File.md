@@ -37,8 +37,8 @@ This file presents a brief summary of the major planets, listed according to the
 8. Capability to regularly exit their multiverse  
 9. Development of more dangerous, system-destroying weaponry  
 10. Ship range surpasses the distance from Recua to Computerland and back  
-11. Second highest possible level  
-12. Maximum tech level achievable  
+11. Efficient bi-directional conversion of energy and matter
+15. Transdimensional exploratory capabilities 
 
 **Population:** Total number of inhabitants  
 
