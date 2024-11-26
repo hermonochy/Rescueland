@@ -24,8 +24,6 @@ This document outlines all significant events that have taken place since the es
 - [90 ADOTR: War against Voldim](#90-adotr-war-against-voldim)
 - [104 ADOTR: War against Mega Mega Mega Mega Mega Mega Mega Mega Mega Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Bad Guy Land](#104-adotr-war-against-mega-mega-mega-mega-mega-mega-mega-mega-mega-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-bad-guy-land)
 - [106 ADOTR: The Revolution of the Army](#106-adotr-the-revolution-of-the-army)
-  - [New Ship Classes](#new-ship-classes)
-  - [The Impact on Rescueland’s Military](#the-impact-on-rescuelands-military)
 - [105 - 508 ADOTR: The Golden Age](#105---508-adotr-the-golden-age)
 - [508 ADOTR: War against Horsa](#508-adotr-war-against-horsa)
 - [510 ADOTR: The War Against Federre](#510-adotr-the-war-against-federre)

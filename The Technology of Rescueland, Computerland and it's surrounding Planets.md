@@ -1,4 +1,4 @@
-﻿﻿*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
+﻿*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
 
 U = Universal
 
@@ -22,58 +22,43 @@ L = Lower tech
 
 - [General](#general)
   - [Materials](#materials)
-    - [Darkmaterial, Greymaterial, and Lightmaterial (U)](#darkmaterial-greymaterial-and-lightmaterial-u)
-      - [Darkfighters, Greyfighters and Lightfighters](#darkfighters-greyfighters-and-lightfighters)
-    - [Techanda (U) Teh-chuhn-dahh](#techanda-u-teh-chuhn-dahh)
-      - [Common Uses:](#common-uses)
-    - [Eleha (R) Ellieeh-hah](#eleha-r-ellieeh-hah)
-      - [Common Uses:](#common-uses-1)
-    - [Pakira (U) Pack-ear-ahh](#pakira-u-pack-ear-ahh)
-      - [Common Uses:](#common-uses-2)
-    - [Plamea (U) Plam-meha](#plamea-u-plam-meha)
-      - [Common Uses:](#common-uses-3)
-    - [Solitme (U) Sol-eet-meh](#solitme-u-sol-eet-meh)
-      - [Common Uses:](#common-uses-4)
+    - [Darkmaterial, Greymaterial, and Lightmaterial](#darkmaterial-greymaterial-and-lightmaterial-u)
+    - [Techanda](#techanda-u-teh-chuhn-dahh)
+    - [Eleha](#eleha-r-ellieeh-hah)
+    - [Pakira](#pakira-u-pack-ear-ahh)
+    - [Plamea](#plamea-u-plam-meha)
+    - [Solitme](#solitme-u-sol-eet-meh)
     - [Solita](#solita)
-    - [Nyctn (U) Nik-tin](#nyctn-u-nik-tin)
-      - [Common Uses:](#common-uses-5)
-    - [Krython (U) Kree-thon](#krython-u-kree-thon)
-      - [Common Uses:](#common-uses-6)
-    - [Vermithium (R) Ver-mih-thi-um](#vermithium-r-ver-mih-thi-um)
-      - [Common Uses:](#common-uses-7)
-    - [Quorite (U) Kwor-ite](#quorite-u-kwor-ite)
-      - [Common Uses:](#common-uses-8)
-    - [Conductium (C) con-duct-ee-umm](#conductium-c-con-duct-ee-umm)
-    - [Atomon (C) ah-tom-on](#atomon-c-ah-tom-on)
-- [Rescueland Robots (R)](#rescueland-robots-r)
+    - [Nyctn](#nyctn-u-nik-tin)
+    - [Krython](#krython-u-kree-thon)
+    - [Vermithium](#vermithium-r-ver-mih-thi-um)
+    - [Quorite](#quorite-u-kwor-ite)
+    - [Conductium](#conductium-c-con-duct-ee-umm)
+    - [Atomon](#atomon-c-ah-tom-on)
+- [Rescueland Robots](#rescueland-robots-r)
   - [Robot Personality](#robot-personality)
   - [Robot Versions](#robot-versions)
-    - [Notable Versions:](#notable-versions)
   - [Robot Types](#robot-types)
-    - [Types in order of population](#types-in-order-of-population)
 - [Ships and their Systems](#ships-and-their-systems)
   - [Engines](#engines)
     - [Engine Types](#engine-types)
     - [Engine Colours](#engine-colours)
   - [General](#general-1)
-    - [Energy Scoop (R)](#energy-scoop-r)
-    - [Atmospheric Bubble (R)](#atmospheric-bubble-r)
-    - [Teleporter (R + C)](#teleporter-r--c)
+    - [Energy Scoop](#energy-scoop-r)
+    - [Atmospheric Bubble](#atmospheric-bubble-r)
+    - [Teleporter](#teleporter-r--c)
 - [Military](#military)
   - [Defence](#defence)
-    - [Force Field Gel (R)](#force-field-gel-r)
-      - [The process of harvesting FFG](#the-process-of-harvesting-ffg)
-      - [Activating the FF](#activating-the-ff)
-      - [Mutant FFG](#mutant-ffg)
-    - [Plasma Force Fields (U)](#plasma-force-fields-u)
-    - [Magnetic Force Fields (L)](#magnetic-force-fields-l)
-    - [The Verdant Shield Projector (R)](#the-verdant-shield-projector-r)
-    - [Energy Absorption Shields (R)](#energy-absorption-shields-r)
-    - [Holo-Decoy Defense System (R)](#holo-decoy-defense-system-r)
-      - [Holo-Decoy types:](#holo-decoy-types)
-    - [FCRT DarkArmour (R)](#fcrt-darkarmour-r)
+    - [Force Field Gel](#force-field-gel-r)
+    - [Mutant FFG](#mutant-ffg)
+    - [Plasma Force Fields](#plasma-force-fields-u)
+    - [Magnetic Force Fields](#magnetic-force-fields-l)
+    - [The Verdant Shield Projector](#the-verdant-shield-projector-r)
+    - [Energy Absorption Shields](#energy-absorption-shields-r)
+    - [Holo-Decoy Defense System](#holo-decoy-defense-system-r)
+    - [FCRT DarkArmour](#fcrt-darkarmour-r)
   - [Weaponry](#weaponry)
-    - [Cannons (U)](#cannons-u)
+    - [Cannons](#cannons-u)
       - [The Large Cannon](#the-large-cannon)
       - [The Universal Cannon](#the-universal-cannon)
       - [The Small Cannon](#the-small-cannon)
@@ -81,49 +66,37 @@ L = Lower tech
     - [Ammo](#ammo)
       - [Lasers](#lasers)
         - [Basic Lasers](#basic-lasers)
-        - [Beamers (R+H+F)](#beamers-rhf)
-        - [Hyperion Fusion Cannons (C)](#hyperion-fusion-cannons-c)
-        - [Solar Beam Projectors (L)](#solar-beam-projectors-l)
+        - [Beamers](#beamers-rhf)
+        - [Hyperion Fusion Cannons](#hyperion-fusion-cannons-c)
+        - [Solar Beam Projectors](#solar-beam-projectors-l)
       - [FCRT Weapons](#fcrt-weapons)
-        - [P-series Laser (R)](#p-series-laser-r)
-        - [TL-series (R)](#tl-series-r)
-        - [Laser Hair (R)](#laser-hair-r)
+        - [P-series Laser](#p-series-laser-r)
+        - [TL-series](#tl-series-r)
+        - [Laser Hair](#laser-hair-r)
         - [Granite Laser (C)](#granite-laser-c)
-      - [Slit Bombs (U)](#slit-bombs-u)
-        - [Types of Slit Bombs](#types-of-slit-bombs)
-      - [Machine Guns (L)](#machine-guns-l)
-      - [Tachyon Launchers (L)](#tachyon-launchers-l)
-      - [The Mega Flail (Ho)](#the-mega-flail-ho)
-    - [Explosives](#explosives)
-      - [Hydro-Bombs (R+H+F)](#hydro-bombs-rhf)
-        - [Types of Hydro-Bombs](#types-of-hydro-bombs)
-      - [Rockets (L)](#rockets-l)
-    - [Chemicals](#chemicals)
-      - [Acid Thrower (L)](#acid-thrower-l)
-    - [Sound](#sound)
-      - [Sonic Blasters (L)](#sonic-blasters-l)
-    - [Electromagnetic Pulse (L)](#electromagnetic-pulse-l)
-      - [EMP Types:](#emp-types)
-    - [Bunkers](#bunkers)
-      - [Anti-Bunker Catapult (L)](#anti-bunker-catapult-l)
-      - [Anti-Bunker Drill (R+B)](#anti-bunker-drill-rb)
+      - [Slit Bombs](#slit-bombs-u)
+      - [Machine Guns](#machine-guns-l)
+      - [Tachyon Launchers](#tachyon-launchers-l)
+      - [The Mega Flail](#the-mega-flail-ho)
+  - [Explosives](#explosives)
+      - [Hydro-Bombs](#hydro-bombs-rhf)
+      - [Rockets](#rockets-l)
+  - [Chemical Weaponry](#chemical-weaponry)
+      - [Acid Thrower](#acid-thrower-l)
+  - [Sonic Weaponry](#sonic-weaponry)
+      - [Sonic Blasters](#sonic-blasters-l)
+  - [Electromagnetic Pulse](#electromagnetic-pulse-l)
+  - [Anti Bunker Weaponry](#anti-bunker-weaponry)
+      - [Anti-Bunker Catapult](#anti-bunker-catapult-l)
+      - [Anti-Bunker Drill](#anti-bunker-drill-rb)
 - [Civilian](#civilian)
-  - [The FCRT Suit (R)](#the-fcrt-suit-r)
-    - [Key Features](#key-features)
-  - [Exoskeleton Suit (L)](#exoskeleton-suit-l)
-  - [AquaPurifier (L)](#aquapurifier-l)
-    - [Features:](#features)
-    - [Common Uses:](#common-uses-9)
-  - [Atmosphere Regulator (L)](#atmosphere-regulator-l)
-    - [Features:](#features-1)
-    - [Common Uses:](#common-uses-10)
-  - [LightSphere (L)](#lightsphere-l)
-    - [Features:](#features-2)
-    - [Common Uses:](#common-uses-11)
-  - [ClimatePod (L)](#climatepod-l)
-    - [Features:](#features-3)
-    - [Common Uses:](#common-uses-12)
-  - [Urban Transport Pod (L)](#urban-transport-pod-l)
+  - [The FCRT Suit](#the-fcrt-suit-r)
+  - [Exoskeleton Suit](#exoskeleton-suit-l)
+  - [AquaPurifier](#aquapurifier-l)
+  - [Atmosphere Regulator](#atmosphere-regulator-l)
+  - [LightSphere](#lightsphere-l)
+  - [ClimatePod](#climatepod-l)
+  - [Urban Transport Pod](#urban-transport-pod-l)
 
 
 # General
@@ -496,44 +469,44 @@ These weapons fire very small, weak projectiles that are inexpensive but ineffec
 
 These launchers projectiles utilizing tachyon particles, capable of hitting targets before they can react. However, they are now outdated, seen as slow and rarely employed. They can be countered by FFGs, Darkmaterial, and Plasma Force Fields.
 
-#### The Mega Flail (Ho)
+### The Mega Flail (Ho)
 
 The Mega Flail consists of a spiked ball attached to the underside of a ship. When needed, it is deployed to crush or impale whatever lies below before being retracted with a rope. This weapon is exclusively used by the Horsa army.
 
-### Explosives
+## Explosives
 
-#### Hydro-Bombs (R+H+F)
+### Hydro-Bombs (R+H+F)
 
 A highly potent explosive, capable of annihilating a small army. Upon impact, the bomb implodes under pressure, rupturing its shell and triggering the internal explosives at full force. The resulting shockwave radiates outward, obliterating everything in its path. However, their high cost limits their usage.
 
-##### Types of Hydro-Bombs
+#### Types of Hydro-Bombs
 
 - **Quick-Succession Bombs:** Designed to be fired in rapid sequence; the first knocks out the defenses, the second destroys it, and the third eliminates remaining debris.
 - **Surprise Bombs:** These detonate in a single lethal blast, leaving the enemy no chance to defend.
 - **Mini Bombs:** Small explosives intended for single-target elimination, though their effectiveness is limited due to the cubic scaling of power.
 
-#### Rockets (L)
+### Rockets (L)
 
 These are explosive slit bombs that enjoyed popularity prior to the Federre war, but their overuse has rendered them a luxury.
 
-### Chemicals
+## Chemical Weaponry
 
-#### Acid Thrower (L)
+### Acid Thrower (L)
 
 The acid thrower is an ancient weapon last utilized during the Horsa war. Its design is simple: it functions like a water gun, shooting highly concentrated acid that dissolves whatever it contacts. This weapon is now seldom used, as it requires time to take effect.
 
-### Sound
+## Sonic Weaponry
 
-#### Sonic Blasters (L)
+### Sonic Blasters (L)
 
 Utilising sound-wave propagation, Sonic Blasters deliver concussive blasts capable of damaging internal organs and shattering structures without traditional explosive means.
 However, they have long since been forgotten as they only work on living organisms and only in an atmosphere.
 
-### Electromagnetic Pulse (L)
+## Electromagnetic Pulse (L)
 
 The Electromagnetic Pulse (EMP) is a simple but effective piece of technology designed to incapacitate electronic systems and disrupt communication networks. It operates using electromagnetic principles and can range in scale from portable units to large-scale weapons deployed from vehicles or aircraft. The EMP is seen as a non-lethal alternative to traditional explosives, making it a strategic choice in modern warfare and electronic countermeasures.
 
-#### EMP Types:
+### EMP Types:
 
 - Focused EMP Projector: A portable device that emits a targeted burst of electromagnetic energy, designed to disable enemy electronics in a specific area without causing physical destruction to infrastructure. Typically used by special operations units.
 
@@ -548,13 +521,13 @@ The Electromagnetic Pulse (EMP) is a simple but effective piece of technology de
 - Cybernetic EMP Field: A system designed to create a localised EMP field around a specific area, protecting it from electronic surveillance and attacks. Often integrated into military installations or VIP protection protocols, it can shield sensitive equipment and personnel from electronic threats.
 
 
-### Bunkers
+## Anti-Bunker Weaponry
 
-#### Anti-Bunker Catapult (L)
+### Anti-Bunker Catapult (L)
 
 The anti-bunker catapult represents the most prevalent strategy for demolishing enemy bunkers. A colossal, ultra-dense projectile, several kilometers long, is launched from an equally massive catapult towards the bunker. Just before it strikes, the weight concentrates into a small area of just a few meters, creating a powerful impact that breaches the bunker. Typically, the damage is so severe that the bunker collapses, obliterating everything inside. This method, however, cannot be employed at all times due to its destructive nature.
 
-#### Anti-Bunker Drill (R+B)
+### Anti-Bunker Drill (R+B)
 
 In contrast, the anti-bunker drill is the preferred technique for Rescueland when capturing a bunker is the objective. It operates by penetrating the ground at astonishing speeds, reaching several thousand kilometers per hour. Nonetheless, it is slower and more costly compared to the anti-bunker catapult, which limits its frequency of use. The drill creates an 8-meter-wide breach and can approach the bunker from virtually any angle, except when it is shielded by Darkmaterial or FFG.
 

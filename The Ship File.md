@@ -16,13 +16,13 @@
 
 **Range:** Near Infinite
 
-**General:** Rescueland has two main automated interceptor types, this being the first, built of [Plamea](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#plamea-u-plam-meha). It is well equipped in every manner, able to carry out a great variety of tasks.
+**General:** Rescueland has two main automated interceptor types, this being the first, built of Plamea. It is well equipped in every manner, able to carry out a great variety of tasks.
 
 ###
 
 ![](images/Rescueland_Interceptor.png)
 
-**Ship Type:** Common [Solita](./main/The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#solita) Interceptor
+**Ship Type:** Common Solita Interceptor
 
 **Dimensions:** 15-10-6 Metres
 
@@ -46,7 +46,7 @@
 
 **Range:** Near Infinite
 
-**General:** This is the main design of [darkfighter](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#darkfighters-greyfighters-and-lightfighters) Rescueland uses, possessing a large cannon capacity while maintaining a sleek profile, allowing it to ram into enemy ships effectively.
+**General:** This is the main design of darkfighter Rescueland uses, possessing a large cannon capacity while maintaining a sleek profile, allowing it to ram into enemy ships effectively.
 
 ### The Rescueland GreyFighter
 
