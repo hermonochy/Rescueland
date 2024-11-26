@@ -21,7 +21,7 @@ This file presents a brief summary of the major planets, listed according to the
 
 - **Interceptors:** Number of interceptors  
 - **Battle Ships:** Number of battle ships (includes pocket destroyers)  
-- **Darkfighters:** Number of dark fighters (includes grey and lightfighters)  
+- [**Darkfighters:**](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#darkfighters-greyfighters-and-lightfighters) Number of dark fighters (includes grey and lightfighters)  
 - **Ground Force:** Total number of foot soldiers
 
 *Note: Rarer ship types have been excluded.*  
@@ -38,7 +38,7 @@ This file presents a brief summary of the major planets, listed according to the
 9. Development of more dangerous, system-destroying weaponry  
 10. Ship range surpasses the distance from Recua to Computerland and back  
 11. Efficient bi-directional conversion of energy and matter
-15. Transdimensional exploratory capabilities 
+12. Transdimensional exploratory capabilities 
 
 **Population:** Total number of inhabitants  
 
@@ -170,7 +170,7 @@ To remain completely neutral to the skirmishes between the factions.
 
 **Capital:** Non-existent
 
-**Leader:** none (However, during war, Weda has command of the armies.)
+**Leader:** none (However, during war, Commander of War Weda has command of the armies.)
 
 **Power Status:** 5999999998/6000000000
 
@@ -188,8 +188,8 @@ Army Size:
 
 **General:** Rescueland stands out as the first of the three prominent 'superpowers', alongside Helucky and Recola. What makes Rescueland particularly unique is its focus on the quality and training of its military forces, setting it apart even though it possesses the smallest army among the three superpowers. 
 The sheer effectiveness and elite training of Rescueland's troops allow them to compete on equal footing with larger forces. Their emphasis on teamwork and cohesion often leads to a highly disciplined fighting force capable of executing complex maneuvers under pressure.
-Geographically, Rescueland is an extraordinary planet, sometimes enveloped by the largest FFG known in history. In the event of an invasion attempt, the invaders must strategically group and position themselves directly in front of the FFG, waiting for the shield to expire. Invaders must carefully plan their assault, as any miscalculation could result in disastrous consequences.
-Rescueland's infrastructure and alliances also play a significant role in its defense strategy. While they may not have the sheer number of troops that Helucky or Recola boast, their innovative use of technology, along with diplomatic relationships developed over the years, provides them with additional layers of security. For the few organic beings living on Rescueland, the local cuisine includes a variety of plant-based dishes, using both native and imported ingredients. While not a dominant religion, some express devotion to the Super Owls, holding ceremonies to invoke their blessings for protection and guidance by these seemingly supernatural beings. Rescueland robots coexist in a vibrant society where FCRT children go to school, live in houses, and experience a lifecycle reminiscent of living organisms due to the effects of Rescueland Gas. This integration creates a unique blend of culture and community, leading to educational systems and social structures akin to those of organic life.
+Geographically, Rescueland is an extraordinary planet, sometimes enveloped by the largest [FFG](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r) known in history. In the event of an invasion attempt, the invaders must strategically group and position themselves directly in front of the FFG, waiting for the shield to expire. Invaders must carefully plan their assault, as any miscalculation could result in disastrous consequences.
+Rescueland's infrastructure and alliances also play a significant role in its defense strategy. While they may not have the sheer number of troops that Helucky or Recola boast, their innovative use of technology, along with diplomatic relationships developed over the years, provides them with additional layers of security. For the few organic beings living on Rescueland, the local cuisine includes a variety of plant-based dishes, using both native and imported ingredients. While not a dominant religion, some express devotion to the [Super Owls](./The%20Timeline%20of%20Resueland%20History.md#0-adotr-discovery-of-the-rings), holding ceremonies to invoke their blessings for protection and guidance by these seemingly supernatural beings. [Rescueland robots](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#rescueland-robots-r) coexist in a vibrant society where FCRT children go to school, live in houses, and experience a lifecycle reminiscent of living organisms due to the effects of Rescueland Gas. This integration creates a unique blend of culture and community, leading to educational systems and social structures akin to those of organic life.
 
 ### Hermonochy (R)
 
@@ -217,7 +217,7 @@ Army Size:
 
 **Atmosphere:** Hydrogen 86%, Helium 11%, Methane 2%
 
-**General:** This ice moon of Rescueland is where the Rescuelanders hid on during The War for Rescueland. The terrain is characterized by towering ice formations and expansive tundras, interspersed with labyrinthine caves and underground networks formed over millennia. These caves were vital for the Rescuelanders; they turned them into makeshift strongholds and supply depots, cleverly camouflaging their operations from enemy forces. 
+**General:** This ice moon of Rescueland is where the Rescuelanders hid on during [The War for Rescueland](./The%20Timeline%20of%20Resueland%20History.md#23-24-adotr-the-war-for-rescueland). The terrain is characterized by towering ice formations and expansive tundras, interspersed with labyrinthine caves and underground networks formed over millennia. These caves were vital for the Rescuelanders; they turned them into makeshift strongholds and supply depots, cleverly camouflaging their operations from enemy forces. 
 
 ### Titan (R)
 
@@ -307,7 +307,7 @@ Army Size:
 
 ## The Bad Guy Land System (B)
 
-The Bad Guy L9and system is where the Rebel 10 Faction was originally founded. All planets in this system are now under the control of Rescueland.
+The Bad Guy Land system is where the Rebel 10 Faction was originally founded. All planets in this system are now under the control of Rescueland.
 
 ### Bad Guy Land (Previously B)
 
@@ -421,7 +421,7 @@ Army Size:
 
 **Atmosphere:** hydrogen 90%, helium 9%, methane 0.7%
 
-**General:** This planet is massive and hot, and was on the verge of becoming a star. As one of the most powerful supporters of Rescueland, Klesone has played a pivotal role in the empire's technological advancements and military strength. It was here that the Super Two's were developed. 
+**General:** This planet is massive and hot, and was on the verge of becoming a star. As one of the most powerful supporters of Rescueland, Klesone has played a pivotal role in the empire's technological advancements and military strength. It was here that the [Super Two's](./The%20Timeline%20of%20Resueland%20History.md#18-adotr-the-super-twos) were developed. 
 
 ### Oxo (R)
 
@@ -477,10 +477,10 @@ Army Size:
 
 **Atmosphere:** Oxygen 55%, Nitrogen 30%, Trace gases 15%
 
-**General:** Helucky is the most powerful superpower, renowned for its sheer quantity of military resources and strategic capabilities. Its vast landscape is dotted with enormous military installations, factories and spaceports, all dedicated to producing one of the largest airborne interceptor armies known in the galaxy.
+**General:** Helucky is the most powerful superpower, renowned for its sheer quantity of military resources and strategic capabilities. Its vast landscape is dotted with enormous military installations, factories and spaceports, all dedicated to producing one of the largest spaceborne interceptor armies known in the galaxy.
 The planet’s military doctrine revolves around overwhelming force and relentless waves of interceptors, enabling Helucky to effectively defend itself and project power across its sphere of influence. The sheer size of its interceptor army instills a sense of intimidation among rival powers; Helucky could potentially take on not just one, but both superpowers simultaneously. However, despite this advantage in numbers, Helucky faces significant strategic limitations.
 The primary obstacle hindering Helucky from launching an outright offensive is its insufficient fleet of battleships. Whereas interceptor crafts excel in air-to-air combat and rapid response, battleships are essential for commanding and controlling operations in vast sectors of space and for engaging formidable opponents effectively. The absence of a robust battleship fleet means that Helucky’s interceptors would be vulnerable when faced with sustained attacks. This vulnerability keeps Helucky leaders cautious, as an attack could leave them exposed to counterattacks and retaliatory strikes.
-Moreover, The planet’s leaders are acutely aware of the risks associated with instigating an attack, given the fearsome reputation of Rescueland’s numerous darkfighters.
+Moreover, the planet’s leaders are acutely aware of the risks associated with instigating an attack, given the fearsome reputation of Rescueland’s numerous [darkfighters](./The%20Ship%20File.md#dark-grey-and-light-fighters).
 
 ### Imperium (Previously B)
 
@@ -794,7 +794,7 @@ Army Size:
 
 **Atmosphere:** Nitrogen 70%, Oxygen 25%, Argon 4%
 
-**General:** N2 is the weakest planet in the Rescueland Empire, having joined under duress due to threats from Bad Guy Land. The population is divided into numerous tribes, each averaging about a thousand inhabitants, and they are still in the Stone Age, on the cusp of entering the Bronze Age.   
+**General:** N2 is the weakest planet in the Rescueland Empire, having joined under duress due to [threats from Bad Guy Land](./The%20Timeline%20of%20Resueland%20History.md#21-adotr-the-first-battle-against-bad-guy-land). The population is divided into numerous tribes, each averaging about a thousand inhabitants, and they are still in the Stone Age, on the cusp of entering the Bronze Age.   
 Life on N2 revolves around basic agriculture, foraging, and rudimentary hunting techniques, with communities primarily focused on survival. The tribes maintain a decentralized structure, with no formal leadership, relying instead on elder councils for guidance in communal matters.   
 The inhabitants have developed a belief system that venerates the concept of Rescueland as a pantheon of divine forces that govern their existence and protect them from external threats. Each tribe worships the ideals of Rescueland, viewing them as benevolent deities that saved them from the threat of Bad Guy Land. The tribes refer to the ideals of Rescueland as "The Protectors." Oral traditions are rich with tales of legendary figures representing the ideals of Rescueland. These stories serve to inspire the youth and instill a sense of purpose as they learn about courage and resilience through the narratives of their "gods."
 
@@ -1400,4 +1400,4 @@ Army Size:
 
 **Atmosphere:** N/a
 
-**General:** While not technically part of the Rescueland Empire, this planet made solely of a Conductium core and sentient electricity has remained a close ally of them since 14 ADOTR.
+**General:** While not technically part of the Rescueland Empire, this planet made solely of a Conductium core and sentient electricity has remained a close ally of them since [14 ADOTR](./The%20Timeline%20of%20Computerland%20History.md#14-adotr-discovery-of-rescueland).
