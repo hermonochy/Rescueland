@@ -1,4 +1,4 @@
-﻿*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
+*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
 
 U = Universal
 
@@ -105,8 +105,7 @@ L = Lower tech
 
 ### Darkmaterial, Greymaterial, and Lightmaterial (U)
 
-Darkmaterial is an extremely rare substance that many factions vie for due to its unique properties. It is nearly indestructible, surpassed only by Force Field Gel. Greymaterial and Lightmaterial are chemically identical to Darkmaterial but serve different functions.
-Darkfighters, Greyfighters, and Lightfighters
+Darkmaterial is an extremely rare substance that many planets vie for due to its unique properties. It is nearly indestructible, surpassed only by [Force Field Gel](#force-field-gel-r). Greymaterial and Lightmaterial are chemically identical to Darkmaterial but serve different functions.
 
 #### Darkfighters, Greyfighters and Lightfighters
 
@@ -116,13 +115,13 @@ The creation of these fighters requires careful shaping of the material through 
 
 ### Techanda (U) Teh-chuhn-dahh
 
-Techanda is a versatile and durable material known for its cost-effectiveness in construction and manufacturing. Its dull, muted colors range from peach to brown, giving it an unassuming appearance. Despite being a strong material, Techanda is not an efficient conductor of heat or electricity, making it less suitable for applications requiring high thermal or electrical performance. This alloy typically forms in fibrous structures, allowing it to be moulded and manipulated easily; however, it can split under certain stress conditions, due to its layered composition.
+Techanda is a versatile and durable material known for its cost-effectiveness in construction and manufacturing. Its dull, muted colours range from peach to brown, giving it an unassuming appearance. Despite being a strong material, Techanda is not an efficient conductor of heat or electricity, making it less suitable for applications requiring high thermal or electrical performance. This alloy typically forms in fibrous structures, allowing it to be moulded and manipulated easily; however, it can split under certain stress conditions, due to its layered composition.
 
 Several isotopes of Techanda exist, but only a few are regularly employed for practical applications, each engineered to balance toughness and cost. Notably, it does not rust like traditional metals but tends to weaken when subjected to prolonged exposure to water or humidity, making it important to consider environmental factors in its usage.
 
 #### Common Uses:
 - Ship Supports: Used as structural elements in ship design due to its strength-to-weight ratio.
-- Slit Bombs: Employed as the main material for slit bombs.
+- [Slit Bombs](#slit-bombs-u): Employed as the main material for slit bombs.
 - Bases: Forms the foundational frameworks for research bases.
 - Antennae: Used in the construction of various communications and sensor antennae.
 
@@ -245,7 +244,7 @@ Rescueland Robots are constantly undergoing upgrades and enhancements that can r
 
 ### Notable Versions:
 
-- Super Two's: This is the first design of robot, gifted to the Super Owls by Klesone.
+- Super Two's: This is the first design of robot, [gifted to the Super Owls](./The%20Timeline%20of%20Resueland%20History.md#18-adotr-the-super-twos) by [Klesone](./The%20Planet%20File.md#klesone-r).
 - FRJ's: The longest-reigning robot type, remaining unchanged until 105 ADOTR.
 - Hulk Super FRJ's: A more powerful version of the FRJ's, specifically designed for battle against Horsa.
 - UF's: A large and powerful type of robot specifically tasked to act as bodyguards.
@@ -626,3 +625,4 @@ The ClimatePod is a temperature control device that intuitively adjusts the indo
 ## Urban Transport Pod (L)
 
 The Urban Transport Pod serves as an efficient and compact personal transport vehicle, specifically designed for urban environments. With a sleek and ergonomic design, this pod offers a safe and comfortable ride with advanced navigation systems that allow for seamless routing through city traffic. It can go underwater, on the ground or fly.
+
