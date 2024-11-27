@@ -218,7 +218,7 @@ Quorite is an ultra-durable and low-density metal recognized for its unique resi
 
 ### Conductium \(C\) con-duct-ee-umm
 
-Conductium constitutes the primary material of the Center of Computerland. It boasts an electrical transfer efficiency of 100% and has a density comparable to that of hydrogen, despite its atom being 300 times larger than francium. The conductium atom contains 24 protons and 2000 neutrons, yet has only 1 electron, which contributes to its ability to retain electrons. To extract the electron, a specific isotope of conductium is required. The bonds formed by conductium are nearly indestructible, making the harvesting and shaping of this material exceptionally costly. A notable consequence of this is that it melts at the same temperature as darkmaterial, although this is inadvisable since the neutron structure may deform. Conductium has several applications, including:
+Conductium constitutes the primary material of the Center of [Computerland](./The%20Planet%20File.md#computerland-i). It boasts an electrical transfer efficiency of 100% and has a density comparable to that of hydrogen, despite its atom being 300 times larger than francium. The conductium atom contains 24 protons and 2000 neutrons, yet has only 1 electron, which contributes to its ability to retain electrons. To extract the electron, a specific isotope of conductium is required. The bonds formed by conductium are nearly indestructible, making the harvesting and shaping of this material exceptionally costly. A notable consequence of this is that it melts at the same temperature as darkmaterial, although this is inadvisable since the neutron structure may deform. Conductium has several applications, including:
 
 - High-accuracy electrical transfer.
 - \(uinfinity_t\)-1 speed electron cannons.
@@ -227,7 +227,7 @@ Conductium constitutes the primary material of the Center of Computerland. It bo
 
 ### Atomon (C) ah-tom-on
 
-Atomon is an extremely small atom, roughly the size of hydrogen, but it is advantageous due to its thinness, compactness, and strength as an electrical insulator. Atomon's strength is attributed to its formation process, which occurs when an exceptionally high voltage flows through pure hydrogen  \(mandatory no explosions occur\) for about 1,000,000 years, leading to the partial merging of two hydrogen atoms and the loss of one electron. This allows electricity to flow since there is a vacant electron spot. However, in its half-merged state, when two electrons attempt to pass through simultaneously (as in the case of high-power electricity), Atomon tries to accept both but then immediately rejects them, preventing any current from flowing. The most common application for Atomon is as a reliable and reusable high-power fuse.
+Atomon is an extremely small atom, roughly the size of hydrogen, but it is advantageous due to its thinness, compactness, and strength as an electrical insulator. Atomon's strength is attributed to its formation process, which occurs when an exceptionally high voltage flows through pure hydrogen \(mandatory no explosions occur\) for about 1,000,000 years, leading to the partial merging of two hydrogen atoms and the loss of one electron. This allows electricity to flow since there is a vacant electron spot. However, in its half-merged state, when two electrons attempt to pass through simultaneously (as in the case of high-power electricity), Atomon tries to accept both but then immediately rejects them, preventing any current from flowing. The most common application for Atomon is as a reliable and reusable high-power fuse.
    	 
 # Rescueland Robots (R)
 
@@ -303,11 +303,11 @@ The Atmospheric Bubble is a technology that enables atmospheric vehicles to tran
 
 ### Teleporter (R + C)
 
-In a remarkable collaboration, Rescueland and Computerland successfully developed a teleportation device, allowing for Instantaneous jumps anywhere. However, this technology comes with numerous challenges that limit its practical use. 
+In a remarkable collaboration, Rescueland and Computerland successfully developed a teleportation device, allowing for instantaneous jumps anywhere. However, this technology comes with numerous challenges that limit its practical use. 
 
 For one, the teleportation process cannot transport objects or individuals within a Force Field Gel, which significantly restricts its applicability in various scenarios, such as jumping into a dangerous environment. Additionally, those who undergo teleportation experience a great deal of pain during the process, making it an undesirable option for many. The device also demands an immense amount of power to operate. Furthermore, it cannot execute a teleportation into a completely enclosed space, which further limits its usability. 
 
-As a result of these limitations, the teleportation device is not often utilized, even though it represents a remarkable technological achievement in the realm of interdimensional travel.
+As a result of these limitations, the teleportation device is not often utilized, even though it represents a remarkable technological achievement in the realm of travel.
 
 # Military
 
@@ -323,13 +323,13 @@ The Force Field Gel is harvested from a well on Rescueland. The dimensions of th
 
 #### Activating the FF
 
-Once the Force Field is ready to be activated, it is ejected as a very thin tube. It spreads out until it surrounds the entire ship, where it solidifies, making the object inside impenetrable. The entire process takes about 1 second, but due to its size, the FFG protecting Rescueland takes several minutes to set up.
+Once the Force Field is ready to be activated, it is ejected as a very thin tube. It spreads out until it surrounds the entire ship, where it solidifies, making the object inside impenetrable. The entire process takes about 1 second for an average battleship, but due to its size, the FFG protecting Rescueland takes several minutes to set up.
 
-One limitation is that it needs to be taken down every 10 years. After about 50 years, cracks start to appear on the shield and, after 100, the force field cracks apart and dissipates.
+One limitation is that it needs to be taken down every 10 years. After about 50 years, cracks start to appear on the shield and, after 100, the force field cracks apart and disintegrates.
 
 #### Mutant FFG
 
- This variant of FFG has a green tinge, rather than an orange one, and can last for 10 times the length of the regular FF. Only a tiny sample of Mutant FFG exists, found onboard an ancient battleship. However, the biggest difference is that it destroys, rather than repels, whatever it comes in contact with, including other FFG's. The process of making it is unknown, though scientists suspect it may have something to do with the ring that was crushed while the particular batch was being made. The discovery also revolutionised the production of darkfighters, which is why, to this day, Rescueland still has the most darkfighters of all.
+ This variant of FFG has a green tinge, rather than an orange one, and can last for 10 times the length of the regular FF. Only a tiny sample of Mutant FFG exists, found onboard an ancient battleship. However, the biggest difference is that it destroys, rather than repels, whatever it comes in contact with, including other FFG's. The process of making it is unknown, though scientists suspect it may have something to do with The Ring that was crushed while the particular batch was being made. The discovery also revolutionised the production of darkfighters, which is why, to this day, Rescueland still has the most darkfighters of all.
 
 ### Plasma Force Fields (U)
 
@@ -351,8 +351,6 @@ Weaknesses: The shield has limited duration and can be drained by sustained atta
 This shield absorbs and converts incoming energy attacks into usable power for the ship’s systems. Essentially, it can turn enemy fire into a source of energy for the vessel.
 It is widely used, as it enhances ship durability while providing additional power for weapons and systems, creating a feedback loop of sustainability in battle. It does not repel projectiles though, so an additional shield is needed.
 
-
-
 ### Holo-Decoy Defense System (R)
 Holo-Decoy systems utilise advanced holographic technology to create realistic illusions of the ship, confusing targeting algorithms and shielding enemy weapons. However, advanced radars are not fooled, so it can only be used for a few seconds at a time.
 #### Holo-Decoy types:
@@ -372,7 +370,7 @@ DarkArmour is an FCRT defensive layer plated only a few femtometers thick, makin
 
 ### Cannons (U)
 
-Cannons serve as the primary armament on military vessels, enabling the discharge of lasers and projectiles. The barrel can be equipped with a laser generator, a 'catapult' mechanism for launching projectiles, or left unmodified to launch guided slit bombs. Their versatility make the cannons a popular choice. There are four primary sizes of cannons available: large, universal, small, and extra small.
+Cannons serve as the primary armament on military vessels, enabling the discharge of lasers and projectiles. The barrel can be equipped with a laser generator, a 'catapult' mechanism for launching projectiles, or left unmodified to launch rocket-powered slit bombs. Their versatility make the cannons a popular choice. There are four primary sizes of cannons available: large, universal, small, and extra small.
 
 #### The Large Cannon
 
@@ -380,7 +378,7 @@ Designed for high-impact operations, this cannon is capable of launching fast-lo
 
 #### The Universal Cannon
 
-As the most widely utilized cannon size, the universal cannon can fire a variety of munitions, including basic slit bombs, cluster slit bombs, deep-penetration slit bombs, shielded slit bombs, basic lasers, machine guns, and rockets.
+As the most widely utilized cannon size, the universal cannon can fire a variety of munitions, including basic slit bombs, 40 cluster slit bombs, deep-penetration slit bombs, shielded slit bombs, basic lasers, machine guns, and rockets.
 
 #### The Small Cannon
 
@@ -394,7 +392,7 @@ This rare cannon is primarily found on smaller vessels, such as the Helucky dark
 
 #### Lasers
 
-Lasers are one of the most common ammunition of civilian and military ships. These lasers are different to normal lasers, as they travel at 10 g. plex times the speed of light. Unlike slit bombs, they are regeneratable.
+Lasers are one of the most common ammunition of civilian and military ships. These lasers are different to normal lasers, as they travel at 100 g. plex times the speed of light. Unlike slit bombs, they are regeneratable.
 
 ##### Basic Lasers
 
@@ -402,19 +400,19 @@ Lasers are one of the most common ammunition of civilian and military ships. The
 - 🔴️ = most powerful (R)
 - 🟡️ = most accurate (R)
 - 🔵️ = fastest firing (R)
-- ⚪️ = purest(least energy wasted) (R)
+- ⚪️ = purest (least energy wasted) (R)
 - 🟠️ = most common (U)
 
 - 🩷 = fastest shot (H)
 - 🟣️ = hottest (H)
 - 🟤️ = cheapest (H)
-- ⚫️ = stealthiest(almost impossible to detect) (Re)
+- ⚫️ = stealthiest (almost impossible to detect visually) (Re)
 
 These lasers can be of different power, ranging from a simple stun shot to planet destroying power. The lasers can also be short range, lashing out of a cannon like lightning. The advantage of this is that it can manoeuvre, so it almost never misses. There are also laserdrones, which are rocket propelled tubes that have laser tips.
 
 ##### Beamers (R+H+F)
 
-This second type of laser has three functions: stunning , destroying and telekinesis. However, this laser type is difficult to aim and is limited to 5 km, whereas other weapons have a range of several trillion light years. This makes it impractical in most battles, so it is not very popular. They come in 4 colours of beam: green, red, gold and pink.
+This second type of laser has three functions: stunning, destroying and telekinesis. However, this laser type is difficult to aim and is limited to 5 km, whereas other weapons have a range of several trillion light years. This makes it impractical in most battles, so it is not very popular. They come in 4 colours of beam: green, red, gold and pink.
 
 
 ##### Hyperion Fusion Cannons (C)
@@ -425,7 +423,6 @@ These fusion-based weapons convert atomic energy into focused blasts. The cannon
 
 This weapon produces an enormous energy beam that harnesses the power of a star to discharge concentrated energy onto a target ship, resulting in disintegration of the hull and systems. Capable of crippling many ships with a single blast, they are effective across vast distances and are usually fired from a planet.
 
-
 #### FCRT Weapons
 
 ##### P-series Laser (R)
@@ -434,7 +431,7 @@ The P-series were the first steerable laser designs, producing a thin, red beam 
 
 ##### TL-series (R)
 
-The TL series is similar to the P-series, but it is a larger, green beam. It is also more powerful and faster manoeuvring, but it requires a lot more power, so a regular FCRT can use this for a maximum of 88 seconds worth of beam. The newest model is the TL-34.
+The TL series is similar to the P-series, but it is a larger, green beam. It is also more powerful and faster manoeuvring, but it requires a lot more power, so a regular FCRT can use this for a maximum of 88 seconds. The newest model is the TL-34.
 
 ##### Laser Hair (R)
 
@@ -442,7 +439,7 @@ FCRT's have no hair, but can activate short lasers sticking out of their heads, 
 
 ##### Granite Laser (C)
 
-The Granite Laser is a weapon designed by Computerland, but is usually used by the FCRTs. Though technically not a laser, this weapon acts so much like one that it has been named The Granite Laser. It fires a beam of molten granite at the target, engulfing them. The granite solidifies as soon as it hits, immobilising the target until it is broken free.
+The Granite Laser is a weapon designed by [Computerland](./The%20Planet%20File.md#computerland-i), but is usually used by the FCRTs. Though technically not a laser, this weapon acts so much like one that it has been named The Granite Laser. It fires a beam of molten granite at the target, engulfing them. The granite solidifies as soon as it hits, immobilising the target until it is broken free.
 
 #### Slit Bombs (U)
 
@@ -596,10 +593,10 @@ The Atmosphere Regulator is a residential climate control appliance meticulously
 
 ## LightSphere (L)
 
-The LightSphere is an innovative illumination device designed to provide customizable lighting solutions for homes. This appliance has a futuristic, spherical shape that houses numerous LEDs capable of producing a wide spectrum of colors and intensities.
+The LightSphere is an illumination device designed to provide customizable lighting solutions for homes. This appliance has a spherical shape that houses numerous LEDs capable of producing a wide spectrum of colours and intensities.
 
 ### Features:
-- Color Customization: Users can choose from millions of colors or set schedules for light changes according to the time of day and mood, enhancing the ambiance of any room.
+- Colour Customization: Users can choose from millions of colours or set schedules for light changes according to the time of day and mood, enhancing the ambiance of any room.
 - Energy Efficiency: Utilising energy-saving LED technology, the LightSphere offers long-lasting illumination while maintaining a low power consumption rate.
 - Remote Control System: The user-friendly interface enables control via an FCRT suit or through voice command, allowing for remote operation from anywhere in the house.
 - Mood Settings: Pre-programmed mood settings adapt the lighting to various activities, such as reading, relaxation, or entertaining, transforming the atmosphere instantaneously.
@@ -625,4 +622,3 @@ The ClimatePod is a temperature control device that intuitively adjusts the indo
 ## Urban Transport Pod (L)
 
 The Urban Transport Pod serves as an efficient and compact personal transport vehicle, specifically designed for urban environments. With a sleek and ergonomic design, this pod offers a safe and comfortable ride with advanced navigation systems that allow for seamless routing through city traffic. It can go underwater, on the ground or fly.
-
