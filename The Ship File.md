@@ -30,7 +30,7 @@
 
 **Range:** 213 septillion ly
 
-**General:** Based on the Rescueland Lightfighter, this interceptor was designed to create confusion regarding the actual number of lightfighters. Its enhanced durability has earned it the nickname "Lightfighterlings." Unlike the Plamea Interceptor, this model is tailored specifically for combat roles.
+**General:** Based on the Rescueland [Lightfighter](#the-rescueland-lightfighter), this interceptor was designed to create confusion regarding the actual number of lightfighters. Its enhanced durability has earned it the nickname "Lightfighterlings." Unlike the Plamea Interceptor, this model is tailored specifically for combat roles.
 
 ## Dark, Grey and Light Fighters
 
