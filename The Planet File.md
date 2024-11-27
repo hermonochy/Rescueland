@@ -160,6 +160,8 @@ To remain completely neutral to the skirmishes between the factions.
 
 # Core Systems
 
+## The Rescueland System
+
 ### Rescueland (R)
 
 **Name:** Rescueland/Recua
@@ -191,7 +193,7 @@ The sheer effectiveness and elite training of Rescueland's troops allow them to 
 Geographically, Rescueland is an extraordinary planet, sometimes enveloped by the largest [FFG](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r) known in history. In the event of an invasion attempt, the invaders must strategically group and position themselves directly in front of the FFG, waiting for the shield to expire. Invaders must carefully plan their assault, as any miscalculation could result in disastrous consequences.
 Rescueland's infrastructure and alliances also play a significant role in its defense strategy. While they may not have the sheer number of troops that Helucky or Recola boast, their innovative use of technology, along with diplomatic relationships developed over the years, provides them with additional layers of security. For the few organic beings living on Rescueland, the local cuisine includes a variety of plant-based dishes, using both native and imported ingredients. While not a dominant religion, some express devotion to the [Super Owls](./The%20Timeline%20of%20Resueland%20History.md#0-adotr-discovery-of-the-rings), holding ceremonies to invoke their blessings for protection and guidance by these seemingly supernatural beings. [Rescueland robots](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#rescueland-robots-r) coexist in a vibrant society where FCRT children go to school, live in houses, and experience a lifecycle reminiscent of living organisms due to the effects of Rescueland Gas. This integration creates a unique blend of culture and community, leading to educational systems and social structures akin to those of organic life.
 
-### Hermonochy (R)
+#### Hermonochy (R)
 
 **Name:** Hermonochy
 
@@ -276,6 +278,8 @@ Army Size:
 **General:** The weakest of the 'core' planets and similar in terrain to Pluto.
 
 # Same Universe
+
+## Telor System
 
 ### Tortisland (R)
 
@@ -395,6 +399,8 @@ Army Size:
 
 **General:** Emerging as a formidable threat following the defeat of Mega Bad Guy Land, Ultra Bad Guy Land is governed by a deeply ingrained hostility toward the Rescueland Empire. Intent on revenge, they initiated a series of retaliatory strikes aimed at destabilizing the Empire while seeking to restore their once-mighty reputation.
 
+## Klesone System
+
 ### Klesone (R)
 
 **Name:** Klesone
@@ -423,7 +429,7 @@ Army Size:
 
 **General:** This planet is massive and hot, and was on the verge of becoming a star. As one of the most powerful supporters of Rescueland, Klesone has played a pivotal role in the empire's technological advancements and military strength. It was here that the [Super Two's](./The%20Timeline%20of%20Resueland%20History.md#18-adotr-the-super-twos) were developed. 
 
-### Oxo (R)
+#### Oxo (R)
 
 **Name:** Oxo
 
@@ -450,6 +456,8 @@ Army Size:
 **Atmosphere:** sodium 80%, potassium 18%
 
 **General:** Oxo, a prominent moon that orbits the massive planet Klesone, shares a unique connection with its host world, including the leadership that governs both nations. The landscape is characterized by rugged terrains, expansive plains, and a variety of geologic formations that have been shaped by the gravitational forces of Klesone. While Oxo does not experience the extreme temperatures of its parent planet, it has its own set of environmental challenges that its inhabitants have learned to navigate.
+
+## Helucky System
 
 ### Helucky (B)
 
@@ -597,6 +605,8 @@ Army Size:
 
 **General:** Filcho focuses on research and exploration, maintaining lightly armed research vessels for defense against potential threats. It plays a crucial role in scientific advancements within the system, supplementing the technologies provided by Filto and contributing to the overall stability and progress of the Fil planets.
 
+## G2320 System
+
 ### Voldim (Previously B)
 
 **Name:** Voldim
@@ -624,6 +634,8 @@ Army Size:
 **Atmosphere:** Oxygen 40%, Nitrogen 50%, Argon 10%
 
 **General:** Voldim is characterized by its rugged landscapes and militaristic culture where aggression has been cultivated as a means of survival. Historically, the planet sought to expand its reach and influence, instigating conflicts with surrounding planets in the Rescueland Empire. Despite its ambitions, Voldim's military capabilities are outdated, having failed to keep pace with technological advancements seen in the Empire. 
+
+## Udas System
 
 ### Wana (R)
 
@@ -709,6 +721,7 @@ Army Size:
 
 **General:** A small, peaceful planet focused on ecological restoration, Wonto is rich in biodiversity and dedicated to preserving life.
 
+## Rihe System
 
 ### Yelthia (R)
 
@@ -738,6 +751,8 @@ Army Size:
 
 **General:** Yelthia is notable for its vast desert landscapes interrupted by immense structures formed from peculiar crystal formations, which serve both as homes and defensive structures. The culture thrives on innovation and adaptability, creating highly mobile military units that navigate through its challenging environment.
 
+## Fadet System
+
 ### Fufe (R)
 
 **Name:** Fufe
@@ -766,7 +781,7 @@ Army Size:
 
 **General:** A vibrant agricultural planet, Fufe exports food supplies, featuring colorful crops and unique flora.
 
-
+## Hana System
 
 ### N2 (R)
 
@@ -885,8 +900,6 @@ Army Size:
 
 **General:** Known for its deep-space exploration programs, Heloa is home to Lumen University, a prestigious institution.
 
-
-
 ### Keluha (R)
 
 **Name:** Keluha
@@ -915,6 +928,8 @@ Army Size:
 
 **General:** A planet rich in crystalline resources, Keluha attracts commerce and focuses on technological advancements in resource management.
 
+## Recola System
+
 ### Recola (S)
 
 **Name:** Recola
@@ -942,6 +957,8 @@ Army Size:
 **Atmosphere:** Nitrogen 59%, Oxygen 30%, Argon 10%
 
 **General:** Recola stands as the enigmatic third superpower, emphasizing unparalleled speed in its fleet at the expense of several key systems like shields. This strategic choice enables its ships to outperform rivals in agility and rapid strike capability. Specializing in radar and radio manipulation, Recola has skillfully influenced the outcome of the Rescueland-Helucky war, playing both sides from the shadows. The exact size of Recola's forces and the location of its home planet remain undiscovered by the other two superpowers, which refer to it simply as “The Third Army.” This secrecy grants Recola a significant advantage, allowing it to maneuver strategically without revealing its capabilities or intentions.
+
+## Mewfa System
 
 ### Morrel (I)
 
@@ -1058,6 +1075,8 @@ Army Size:
 
 **General:** A visually stunning planet with bioluminescent flora, Naha is one of the largest attractions for artists and biologists.
 
+## Nad System
+
 ### Aquarion (R) 
 
 **Name:** Aquarion
@@ -1086,6 +1105,9 @@ Army Size:
 **Atmosphere:** Water Vapour 70%, Oxygen 20%, Nitrogen 10%
 
 **General:** Primarily covered by vast oceans, Aquarion consists of only 2.3% landmass, limiting its capacity to support a large population. This small percentage of land is interspersed with coastal settlements and floating cities, where the majority of its inhabitants reside.
+
+## Egla System
+
 ### Ignis Terra (R)
 
 **Name:** Ignis Terra
@@ -1175,6 +1197,8 @@ Army Size:
 
 # Outside of Universe
 
+## Prima System
+
 ### Wehaya (R)
 
 **Name:** Wehaya  
@@ -1202,7 +1226,6 @@ Army Size:
 **Atmosphere:** Oxygen 58%, Nitrogen 32%, Argon 8%, Trace gases 2%  
 
 **General:** Wehaya is characterized by its expansive forests and vast oceans, with cities built on stilts to accommodate rising sea levels. Its military is somewhat underfunded, but the populace is known for their resourcefulness and resilience. The social structure is divided between those who support the ruling council and a  advocating for greater autonomy and environmental protections.
-
 
 ### Alish (R)
 
@@ -1373,6 +1396,7 @@ Army Size:
 
 **General:** Scanal is primarily a desert world, with a few lush areas along river valleys. The society here is tribal and has a rich history of tradition and culture. The military is small but fiercely loyal, relying on guerrilla tactics for defense. Recent external conflicts have led to growing concerns over resource depletion and defense strategies. The societal structure is based around the "Legacy of the Ancestors," emphasizing the knowledge and traditions passed down through generations. Rather than worship, this philosophy involves honoring and implementing lessons learned from previous generations.
 
+## Computerland System
 
 ### Computerland (I)
 
