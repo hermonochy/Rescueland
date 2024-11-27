@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 ﻿*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
-=======
-*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
->>>>>>> 9-add-links-to-the-files
+ 
 
 U = Universal
 
