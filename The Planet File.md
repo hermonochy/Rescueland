@@ -751,6 +751,37 @@ Army Size:
 
 **General:** Yelthia is notable for its vast desert landscapes interrupted by immense structures formed from peculiar crystal formations, which serve both as homes and defensive structures. The culture thrives on innovation and adaptability, creating highly mobile military units that navigate through its challenging environment.
 
+## Recola System
+
+### Recola (S)
+
+**Name:** Recola
+
+**Flag:** ![](images/Recola_flag.png)
+
+**Pronounced:** Re-coal-ahh
+
+**Capital:** Gnogo
+
+**Leader:** Emperor Astan
+
+**Power Status:** 5999999997/6000000000
+
+Army Size:
+- **Interceptors:** 567 quadrillion
+- **Battle Ships:** 6780
+- **Darkfighters:** 3
+- **Ground Force:** 146 hexillion
+
+**Tech Level:** 12
+
+**Population:** 380 hexillion
+
+**Atmosphere:** Nitrogen 59%, Oxygen 30%, Argon 10%
+
+**General:** Recola stands as the enigmatic third superpower, emphasizing unparalleled speed in its fleet at the expense of several key systems like shields. This strategic choice enables its ships to outperform rivals in agility and rapid strike capability. Specializing in radar and radio manipulation, Recola has skillfully influenced the outcome of the Rescueland-Helucky war, playing both sides from the shadows. The exact size of Recola's forces and the location of its home planet remain undiscovered by the other two superpowers, which refer to it simply as “The Third Army.” This secrecy grants Recola a significant advantage, allowing it to maneuver strategically without revealing its capabilities or intentions.
+
+
 ## Fadet System
 
 ### Fufe (R)
@@ -912,7 +943,7 @@ Army Size:
 
 **Leader:** Copace
 
-**Power Status:** 4000000000/6000000000
+**Power Status:** 4074491000/6000000000
 
 Army Size:
 - **Interceptors:** 93,000
@@ -926,37 +957,8 @@ Army Size:
 
 **Atmosphere:** Oxygen 60%, Argon 20%, Neon 20%
 
-**General:** A planet rich in crystalline resources, Keluha attracts commerce and focuses on technological advancements in resource management.
+**General:** Keluha is a planet abundant in crystalline resources that draw commercial interests, while also prioritizing technological advancements in resource management. Located strategically within a remote mountain range is a Helucky stronghold, which is well-suited for launching offensive operations against neighboring systems. This base, currently under the precarious control of Recola, occupies a critical position that enables it to strike at key planets before Rescueland has the chance to mobilize its defenses. The ongoing conflict between Helucky and Recola for control of this base carries significant implications for the regional balance of power. Despite facing heavy casualties, Recola remains resolute in its efforts to maintain its position, knowing that losing Keluha could lead to a dramatic shift in their fortunes.
 
-## Recola System
-
-### Recola (S)
-
-**Name:** Recola
-
-**Flag:** ![](images/Recola_flag.png)
-
-**Pronounced:** Re-coal-ahh
-
-**Capital:** Gnogo
-
-**Leader:** Emperor Astan
-
-**Power Status:** 5999999997/6000000000
-
-Army Size:
-- **Interceptors:** 567 quadrillion
-- **Battle Ships:** 6780
-- **Darkfighters:** 3
-- **Ground Force:** 146 hexillion
-
-**Tech Level:** 12
-
-**Population:** 380 hexillion
-
-**Atmosphere:** Nitrogen 59%, Oxygen 30%, Argon 10%
-
-**General:** Recola stands as the enigmatic third superpower, emphasizing unparalleled speed in its fleet at the expense of several key systems like shields. This strategic choice enables its ships to outperform rivals in agility and rapid strike capability. Specializing in radar and radio manipulation, Recola has skillfully influenced the outcome of the Rescueland-Helucky war, playing both sides from the shadows. The exact size of Recola's forces and the location of its home planet remain undiscovered by the other two superpowers, which refer to it simply as “The Third Army.” This secrecy grants Recola a significant advantage, allowing it to maneuver strategically without revealing its capabilities or intentions.
 
 ## Mewfa System
 
