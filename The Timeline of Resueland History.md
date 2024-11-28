@@ -27,6 +27,8 @@ This document outlines all significant events that have taken place since the es
 - [105 - 508 ADOTR: The Golden Age](#105---508-adotr-the-golden-age)
 - [508 ADOTR: War against Horsa](#508-adotr-war-against-horsa)
 - [510 ADOTR: The War Against Federre](#510-adotr-the-war-against-federre)
+- [550 ADOTR: Battle for the Helucky Base (ongoing)](#550-adotr-battle-for-the-helucky-base-ongoing)
+
 
 
 ## 5630630 BDOTR: Creation of Rescueland
@@ -326,3 +328,15 @@ In the pivotal battle over Federre, Rescueland interspersed their fleets, includ
 Federre, ironically underestimating the intelligence advancements of Rescueland, found its forces in disarray as they faced waves of Rescueland ships reinforced with rapid-response squadrons. The Rescueland fleet engaged in aerial dogfights, utilising superior speed and quality to cripple Federre formations.
 As the battle intensified, Rescueland deployed [Hydro-Bombs](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#hydro-bombs-rhf) to finish off most of the remaining fighters, further causing chaos among Federre ranks.
 Finally, in a coordinated strike, specialised ships deployed FFG to absorb incoming projectiles while breaching the heavily fortified Federre command ship. Forcing their way onto the flagship led to a brutal ground engagement; Rescueland forces claimed victory over the planet and dismantled Federre's hierarchical control.
+
+## 550 ADOTR: Battle for the Helucky Base (ongoing)
+
+Following years of skirmishes and power struggles in the region, Helucky constructed a massive strategic base on the crystalline-rich planet Keluha. Known as the Helucky stronghold, the base was designed to secure their interests and launch offensives against neighboring systems, particularly against Klesone and the Fil System. For a while, the Helucky forces dominated the base, leveraging their overwhelming numbers with 7 trillion interceptors and 3 septillion ground troops. 
+However, as tensions rose between Helucky and Recola, the latter, with its powerful fleet, sought to destabilize Helucky's hold on Keluha. Employing their advanced tech level, Recola initiated a stealthy blockade, cutting off all communications to the Helucky base. This effectively wore down the Helucky troops, who, isolated and unable to receive reinforcements or crucial information, grew fatigued over time. Sensing their opportunity about a (earth) year later, Recola launched a surprise strike against the base, overwhelming Helucky forces who were too exhausted to mount an effective defense. Just as it seemed Helucky was on the verge of losing the base completely, the Rescueland Empire intervened, mobilizing their fleet to assist Helucky. 
+However, the victory was short-lived. In a shocking turn of events, Helucky, feeling emboldened by their regained stronghold, betrayed their newfound allies. Turning their weaponry against the Rescuelanders, Helucky launched an unexpected assault, forcing Rescueland forces to retreat under heavy fire.
+In the aftermath, tensions escalated between Recola and Helucky, leading to what came to be known as the Ice War, characterized by the use of super dense snowballs from the recent snowfall across Keluha. After regrouping, Recola struck back with relentless offensives.
+Throughout the battle, the Helucky base sustained heavy damage, with snow and rubble piling mercilessly on top of fighters and troops. Making the most of this chaotic environment, Recola strategically employed their interceptors, which began to slowly pick off Helucky units buried under the accumulating snow. As the walls of the base completely collapsed, Recola seized the opportunity to dismantle the remaining Helucky defenses and, after intense combat, regained full control of the base.
+In the aftermath, Recola labored to rebuild the walls, but the rebuilding efforts proved hasty; snow had gotten into the construction materials that caused the residue to freeze and later melt, leading to a weakened structure that was susceptible to further damage.
+Deciding against a full-scale invasion due to a heightened paranoia over a potential joint strike from Rescueland and Recola, Helucky instead deployed a small and cautious force to observe the situation at the base. This small contingent of observers kept a vigilant watch on Recola's movements, careful not to provoke an all-out conflict that could threaten Helucky itself.
+
+
