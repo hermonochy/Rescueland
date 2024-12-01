@@ -29,7 +29,7 @@ L = Lower tech
     - [Pakira](#pakira-u-pack-ear-ahh)
     - [Plamea](#plamea-u-plam-meha)
     - [Solitme](#solitme-u-sol-eet-meh)
-    - [Solita](#solita)
+    - [Solita](#solita-u-sol-eet-ahh)
     - [Nyctn](#nyctn-u-nik-tin)
     - [Krython](#krython-u-kree-thon)
     - [Vermithium](#vermithium-r-ver-mih-thi-um)
@@ -174,7 +174,7 @@ This set of characteristics makes Solitme particularly useful for specific milit
 - Single Use (SU) Vehicles: Utilised in expendable military vehicles designed for quick operations before disposal.
 - Drones: Incorporated into the construction of drones where lightweight yet durable materials are essential for aerial operations.
 
-### Solita
+### Solita (U) Sol-eet-ahh
 
 Solita is similar to Solitme in many ways. However, there are some key differences: while Solitme is resistant to fire, it bends to the will of liquids. However, Solita is liquid-resistant but crumbles if heated. The current interceptor designs use Solita as their main material, able to be built quickly and cheaply.
 
@@ -232,11 +232,11 @@ Atomon is an extremely small atom, roughly the size of hydrogen, but it is advan
    	 
 # Rescueland Robots (R)
 
-Aside from Super Owls, the main civilians of Rescueland are Rescueland robots, such as FCRT's.
+Aside from Super Owls, the main civilians of Rescueland are Rescueland robots, such as FCRT's (Fast Clever Rescue Transformers).
 
 ## Robot Personality
 
-Rescueland Robots are designed with a unique personality that sets them apart from normal robots. This is a result of an innovative gas injected every hundred years, known informally as "Rescueland Gas." This gas, though unknown why, causes the robots to have emotions, thoughts and imaginations. As a result, these robots become more than machines; they exhibit the characteristics of living beings.
+Rescueland Robots are designed with a unique personality that sets them apart from normal robots. This is a result of an mystical gas injected every hundred years, known informally as "Rescueland Gas." This gas, though unknown why, causes the robots to have emotions, thoughts and imaginations. As a result, these robots become more than machines; they exhibit the characteristics of living beings.
 The emotional spectrum of a Rescueland Robot is as complex as a living one, allowing them to engage meaningfully with the world around them. In the event of gas having been entirely consumed, behaviour reverts to that of a conventional robot. Each robot has a distinct personality that remains unchanged after replenishing the consumed gas.
 
 ## Robot Versions
@@ -247,9 +247,9 @@ Rescueland Robots are constantly undergoing upgrades and enhancements that can r
 
 - Super Two's: This is the first design of robot, [gifted to the Super Owls](./The%20Timeline%20of%20Resueland%20History.md#18-adotr-the-super-twos) by [Klesone](./The%20Planet%20File.md#klesone-r).
 - FRJ's: The longest-reigning robot type, remaining unchanged until 105 ADOTR.
-- Hulk Super FRJ's: A more powerful version of the FRJ's, specifically designed for battle against Horsa.
+- Hulk Super FRJ's: A more powerful version of the FRJ's, specifically designed for battle against [Horsa()].
 - UF's: A large and powerful type of robot specifically tasked to act as bodyguards.
-- FRT's: A prototype version of the FCRT's.
+- FRT's (Fast Rescue Transformers): A prototype version of the FCRT's.
 - FCRT's: Currently the most modern type of robot are the FCRT's.
 
 ## Robot Types
@@ -316,13 +316,13 @@ As a result of these limitations, the teleportation device is not often utilized
 
 ### Force Field Gel (R)
 
-The only known defence that is almost completely impenetrable is Force Field Gel. Only two known weaknesses exist: Time and [Mutant FFG](#mutant-ffg). This is a defence that only Rescueland has in mass, though some have managed to aqquire small quantities of it. ***Nothing*** can get in ***or*** out, effectively taking you out of the battle. Thus, many ships only use this defence when they are damaged, or a retreat is required. Another anomaly about FFG is that they behave in a similar manner to non-newtonian substances: The faster something hits the forcefield, the more energy is absorbed into it and not the object itself.
+The only known defence that is almost completely impenetrable is Force Field Gel. Only two known weaknesses exist: Time and [Mutant FFG](#mutant-ffg). This is a defence that only Rescueland has in mass, though some have managed to acquire small quantities of it. ***Nothing*** can get in ***or*** out, effectively taking you out of the battle. Thus, many ships only use this defence when they are damaged, or a retreat is required. Another anomaly about FFG is that they behave in a similar manner to non-Newtonian substances: The faster something hits the force field, the more energy is absorbed into it and not the object itself.
 
 #### The process of harvesting FFG
 
 The Force Field Gel is harvested from a well on Rescueland. The dimensions of the well are 1m-1m-5km to the exact planck. It is directly under the main runway of Rescueland, a trick which has protected the location of the well since it was discovered. When the gel is consumed, the well always refills itself over the period of a Rescueland day. The provenance of the matter is unknown. The gel also doesn't seem to be made of atoms, no matter how closely studied.
 
-#### Activating the FF
+#### Activating the FFG
 
 Once the Force Field is ready to be activated, it is ejected as a very thin tube. It spreads out until it surrounds the entire ship, where it solidifies, making the object inside impenetrable. The entire process takes about 1 second, but due to its size, the FFG protecting Rescueland takes several minutes to set up.
 
@@ -330,7 +330,7 @@ One limitation is that it needs to be taken down every 10 years. After about 50 
 
 #### Mutant FFG
 
- This variant of FFG has a green tinge, rather than an orange one, and can last for 10 times the length of the regular FF. Only a tiny sample of Mutant FFG exists, found onboard an ancient battleship. However, the biggest difference is that it destroys, rather than repels, whatever it comes in contact with, including other FFG's. The process of making it is unknown, though scientists suspect it may have something to do with the ring that was crushed while the particular batch was being made. The discovery also revolutionised the production of darkfighters, which is why, to this day, Rescueland still has the most darkfighters of all.
+ This variant of FFG has a green tinge, rather than an orange one, and can last for 10 times the length of the regular FFG. Only a tiny sample of Mutant FFG exists, found onboard an ancient battleship. However, the biggest difference is that it destroys, rather than repels, whatever it comes in contact with, including other FFG's. The process of making it is unknown, though scientists suspect it may have something to do with the Ring that was crushed while the particular batch was being made. The discovery also revolutionised the production of darkfighters, which is why, to this day, Rescueland still has the most darkfighters of all.
 
 ### Plasma Force Fields (U)
 
