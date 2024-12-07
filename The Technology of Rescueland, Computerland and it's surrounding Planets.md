@@ -164,7 +164,7 @@ Modern interceptors predominantly use Plamea for their main structure, allowing 
 
 ### Solitme (U) Sol-eet-meh
 
-Solitme is known for its exceptional hardness, making it a reliable choice for applications requiring durability. However, despite its robustness, Solitme is prone to erosion, particularly when exposed to harsh environments. While it is entirely resistant to high temperatures and fire, it reacts negatively with liquids, leading to eventual dissolution if not managed properly. For applications in harsh environments, solitme is preferably coated with nyctron trisulphate.
+Solitme is known for its exceptional hardness, making it a reliable choice for applications requiring durability. However, despite its robustness, Solitme is prone to erosion, particularly when exposed to harsh environments. While it is highly resistant to high temperatures and fire, able to withstand septillions of degrees, it reacts negatively with liquids, leading to eventual dissolution if not managed properly. For applications in harsh environments, solitme is preferably coated with nyctron trisulphate.
 
 This set of characteristics makes Solitme particularly useful for specific military applications.
 
@@ -247,7 +247,7 @@ Rescueland Robots are constantly undergoing upgrades and enhancements that can r
 
 - Super Two's: This is the first design of robot, [gifted to the Super Owls](./The%20Timeline%20of%20Resueland%20History.md#18-adotr-the-super-twos) by [Klesone](./The%20Planet%20File.md#klesone-r).
 - FRJ's: The longest-reigning robot type, remaining unchanged until 105 ADOTR.
-- Hulk Super FRJ's: A more powerful version of the FRJ's, specifically designed for battle against [Horsa()].
+- Hulk Super FRJ's: A more powerful version of the FRJ's, specifically designed for battle against Horsa.
 - UF's: A large and powerful type of robot specifically tasked to act as bodyguards.
 - FRT's (Fast Rescue Transformers): A prototype version of the FCRT's.
 - FCRT's: Currently the most modern type of robot are the FCRT's.
@@ -311,6 +311,10 @@ For one, the teleportation process cannot transport objects or individuals withi
 As a result of these limitations, the teleportation device is not often utilized, even though it represents a remarkable technological achievement in the realm of interdimensional travel.
 
 # Military
+
+The military of Rescueland functions with two primary roles: as a defensive force and as a deterrent. Its military strength is fundamentally based on the ability to defend the realm from external threats while also possessing the capability to engage offensively when necessary. With ongoing technological advancements, there is a consistent development of military equipment that aligns with evolving warfare needs.
+
+In Rescueland, access to military technology is regulated, creating a systematic approach to balancing defense and potential aggression. While advanced weapons and defensive systems are generally restricted to military use, basic weaponry and defense tools are available to civilians, contingent upon proper registration and justification. This framework is designed to prevent misuse while providing citizens with adequate means for self-defense. Consequently, the military structure in the Rescueland Empire remains effective and responsive to the demands of contemporary warfare.
 
 ## Defence
 
