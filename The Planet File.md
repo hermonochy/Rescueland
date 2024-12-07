@@ -510,7 +510,7 @@ Moreover, the planet’s leaders are acutely aware of the risks associated with 
 
 **Name**: Imperium  
 
-**Flag**: Flag of Imperium  
+**Flag**:
 
 **Pronounced**: Im-per-ee-um  
 
@@ -518,7 +518,7 @@ Moreover, the planet’s leaders are acutely aware of the risks associated with 
 
 **Leader:** Xarendos  
 
-**Power Status:** 6125487350/6000000000  
+**Power Status:** 5125487350/6000000000  
 
 Army Size:
 - **Interceptors:** 65 billion
@@ -990,7 +990,7 @@ Army Size:
 
 **Leader:** unknown
 
-**Power Status:** 8031270958/6000000000
+**Power Status:** 5031270958/6000000000
 
 Army Size:
 - **Interceptors:** Approx 1700
