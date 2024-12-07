@@ -1431,10 +1431,10 @@ Army Size:
 **Power Status:** 5999853247/6000000000
 
 Army Size:
-- **Interceptors:**
-- **Battle Ships:**
-- **Darkfighters:**
-- **Ground Force:**
+- **Interceptors:** 50 trillion
+- **Battle Ships:** 114,192
+- **Darkfighters:** 0
+- **Ground Force:** 200 trillion
 
 **Tech Level:** 12
 
