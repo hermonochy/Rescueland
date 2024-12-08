@@ -127,11 +127,11 @@ Various factions exist within the multiverses. The following abbreviations repre
 
 **Current Capital:** Rescueland
 
-Overview:
+**Overview:**
 
 Despite the name, The Rescueland Empire is a cooperative entity dedicated to mutual assistance among planets in the multiverse. Officially a republic, it emphasizes democratic values.
 
-Goals:
+**Goals:**
 
 To unify diverse planets under a system of collaboration and support during times of crisis.
 To promote peace, stability, and development across the multiverse while serving as a mediator in disputes.
@@ -141,36 +141,36 @@ To promote peace, stability, and development across the multiverse while serving
 
 **Current Capital:** Helucky
 
-Overview:
+**Overview:**
 
-The Rebel 10 is a faction composed of dissidents and ideologues who believe that the Rescueland Empire's governance is ineffective and paternalistic. They comprise a diverse coalition, including former planets of the Rescueland Empire, freedom fighters, and planets that feel marginalized.
+The Rebel 10 is a faction composed of dissidents and ideologues who believe that the Rescueland Empire's governance is too relaxed and paternalistic. They comprise a diverse coalition, including former planets of the Rescueland Empire and planets that feel marginalized.
 
-Goals:
+**Goals:**
 
 To overthrow the Rescueland leadership, arguing that they can offer better governance and stricter regulations to the planets within its jurisdiction.
-To establish a new framework based on direct representation and localized governance.
+To establish a new framework based on direct control and dictatorship.
     
 
 ### Separatists
 
 **Current Capital:** Recola
 
-Overview:
+**Overview:**
 
 The Separatists are a shadowy faction harboring a radical ideology focused on dismantling the Rescueland Empire entirely. Their ultimate goal is to plunge the multiverse into chaos, allowing them to establish control over key resources during the ensuing anarchy.
 
-Goals:
+**Goals:**
 
 To eradicate the Rescueland influence and disrupt communications, leaving planets disoriented and vulnerable.
 To take advantage of the ensuing chaos to establish their own authoritarian regime.
 
 ### Independent
 
-Overview:
+**Overview:**
 
 Not part of any faction.
 
-Goals:
+**Goals:**
 
 To remain completely neutral to the skirmishes between the factions.
 
