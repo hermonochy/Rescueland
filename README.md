@@ -10,9 +10,11 @@ Rescueland existance began 5,630,630 r.ly (Rescueland years) BDOTR (Before the D
 
 Computerland, in the analogon of the tea cup model, is another cup planet, allied to Rescueland, so far away that even the longest-range ships find it impractical to travel between them regularly. In this scale, imagine the distance between the Computerland and Rescueland cups corresponding to the distance between Spain and New Caledonia.
 
+
+## Fact Files
+
 These are the notes and data about Rescueland and Computerland, including the technology, the history, the planets and the types of ships used.
 Facts and concepts are interdependent to a very high degree. Hence, for a complete understanding, it is likely required to double parse these documents.
-
 
 [The Technology of Rescueland, Computerland and it's surrounding Planets](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md)
 is far superior to the technology on planet earth in the 21st century.
@@ -29,3 +31,9 @@ provides insights into the design fundamentals of all major spacecraft utilized 
 reaches back to the Big Bang, including the major events DOTR, the start of the space-age, beginning of intra-multiversal travel, discovery of new planets, introduction of the Super Twos and the succession of major multiversal conflicts.
 [The Timeline of Computerland History](./The%20Timeline%20of%20Computerland%20History.md) 
 shows these events from the view of Computerland.
+
+## Short Stories
+
+For being able to follow the short stories linked in this paragraph, it is essential to be intimately familiar with the Timeline of Rescueland History (see above).
+
+- [The Beginning of The War for Rescueland](./Short_Stories/The%20Beginning%20of%20The%20War%20for%20Rescueland.md) recounts the start of the first major war that took place on Rescueland, from the perspective of the first FRJ having noticed the military events that would lead to the conquering of Rescueland. 
