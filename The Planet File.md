@@ -510,7 +510,7 @@ Moreover, the planet’s leaders are acutely aware of the risks associated with 
 
 **Name**: Imperium  
 
-**Flag**:
+**Flag**: ![](images/Imperium_flag.png)
 
 **Pronounced**: Im-per-ee-um  
 
@@ -1362,7 +1362,7 @@ Army Size:
 
 **Name:** Senena  
 
-**Flag:**  
+**Flag:**  ![](images/Senena_flag.png)
 
 **Pronounced:** Se-neh-nah  
 
