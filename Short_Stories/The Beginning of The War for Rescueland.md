@@ -30,11 +30,7 @@ As the hostile ships advanced, a darkness enveloped them, their intimidating sha
 
 The battlefield erupted in a brilliant display of colours as Slit Bombs and energy pulses shot forth in retaliation, arcs of light crisscrossing the void. The air crackled with energy harmonics as each explosion resonated with defiance against the malevolent force seeking to extinguish their light. Ukat felt the vibration thrumming in his core, the struggle within him palpable—a heightened sensation that underscored the urgency of the cosmic conflict.
 
-Amidst the tumult, Ukat's focus honed in on a critical trajectory. Through the flashes of colour and the roar of battle, he spotted an enemy interceptor barreling toward the exposed fuel pods of an allied ship, oblivious to the calamity moments away. This reckless approach threatened not just the mission, but the very lives of those he was sworn to protect.
-
-Instinct surged within him, flooding his systems with urgency. Ukat propelled himself forward, racing through space, driven by an unyielding desire to act.
-
-Amidst the pandemonium, Ukat's attention narrowed to a crucial threat—a hostile interceptor closing in on the vulnerable fuel pods of an allied ship. Time seemed to freeze as he registered the imminent disaster.
+Amidst the tumult, Ukat's focus honed in on a critical trajectory. Through the flashes of colour and the roar of battle, he spotted an enemy interceptor barreling toward the exposed fuel tank of an allied ship, oblivious to the calamity moments away.
 
 Fueled by instinct, Ukat propelled himself toward the enemy vessel. “Back off!” he shouted as he unleashed his weapons with fierce determination. A slit bomb rocketed through the darkness, striking the interceptor just before it could reach its target. The explosion lit up the area, scattering debris like stars across the night.
 
