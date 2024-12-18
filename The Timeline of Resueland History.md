@@ -27,8 +27,8 @@ This document outlines all significant events that have taken place since the es
 - [105 - 508 ADOTR: The Golden Age](#105---508-adotr-the-golden-age)
 - [508 ADOTR: War against Horsa](#508-adotr-war-against-horsa)
 - [510 ADOTR: The War Against Federre](#510-adotr-the-war-against-federre)
-- [550 ADOTR: Battle for the Helucky Base (ongoing)](#550-adotr-battle-for-the-helucky-base-ongoing)
-
+- [550 ADOTR: Battle for the Helucky Base](#550-adotr-battle-for-the-helucky-base)
+- [551 ADOTR: The Return of Helucky](#551-adotr-the-return-of-helucky)
 
 
 ## 5630630 BDOTR: Creation of Rescueland
@@ -329,7 +329,7 @@ Federre, ironically underestimating the intelligence advancements of Rescueland,
 As the battle intensified, Rescueland deployed [Hydro-Bombs](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#hydro-bombs-rhf) to finish off most of the remaining fighters, further causing chaos among Federre ranks.
 Finally, in a coordinated strike, specialised ships deployed FFG to absorb incoming projectiles while breaching the heavily fortified Federre command ship. Forcing their way onto the flagship led to a brutal ground engagement; Rescueland forces claimed victory over the planet and dismantled Federre's hierarchical control.
 
-## 550 ADOTR: Battle for the Helucky Base (ongoing)
+## 550 ADOTR: Battle for the Helucky Base
 
 Following years of skirmishes and power struggles in the region, Helucky constructed a massive strategic base on the crystalline-rich planet Keluha. Known as the Helucky stronghold, the base was designed to secure their interests and launch offensives against neighboring systems, particularly against Klesone and the Fil System. For a while, the Helucky forces dominated the base, leveraging their overwhelming numbers with 7 trillion interceptors and 3 septillion ground troops. 
 However, as tensions rose between Helucky and Recola, the latter, with its powerful fleet, sought to destabilize Helucky's hold on Keluha. Employing their advanced tech level, Recola initiated a stealthy blockade, cutting off all communications to the Helucky base. This effectively wore down the Helucky troops, who, isolated and unable to receive reinforcements or crucial information, grew fatigued over time. Sensing their opportunity about a (earth) year later, Recola launched a surprise strike against the base, overwhelming Helucky forces who were too exhausted to mount an effective defense. Just as it seemed Helucky was on the verge of losing the base completely, the Rescueland Empire intervened, mobilizing their fleet to assist Helucky. 
@@ -340,4 +340,13 @@ Throughout the battle, the Helucky base sustained heavy damage, with snow and ru
 In the aftermath, Recola labored to rebuild the walls, but the rebuilding efforts proved hasty; snow had gotten into the construction materials that caused the residue to freeze and later melt, leading to a weakened structure that was susceptible to further damage.
 Deciding against a full-scale invasion due to a heightened paranoia over a potential joint strike from Rescueland and Recola, Helucky instead deployed a small and cautious force to observe the situation at the base. This small contingent of observers kept a vigilant watch on Recola's movements, careful not to provoke an all-out conflict that could threaten Helucky itself.
 
+## 551 ADOTR: The Return of Helucky
 
+With reconnaissance reports confirming Recola's continued establishment and fortification of the base, Helucky shifted their strategy. The observers were joined by a force of 30 quadrillion interceptors. Determined to reassert themselves and reclaim what was rightfully theirs, Helucky galvanized their units, readying them for a resurgence of their military might.
+The Helucky forces advanced, targeting the outer defense, an auxiliary base situated outside the main stronghold. They approached with a calculated intensity, leveraging their overwhelming numbers and advanced technologies, intent on overwhelming the defenders before they could mount an effective counteroffensive. 
+The initial assaults were swift and decisive. The overwhelming force caught Recola off guard; small detachments of defenders scurried in distress as Helucky’s interceptors attacked in waves. Coordinated strikes crippled the outer defenses, and eventually Helucky succeeded in taking control of the auxiliary base. The atmosphere was charged with exhilaration as victory seemed inevitable, and the Helucky commanders prepared the final push into the enemy territory.
+However, just when it appeared that Helucky was firmly positioned to reclaim the primary base, Recola executed a rapid and strategic response. Communication systems that Helucky had believed to be incapacitated sprang to life as Recola called in reinforcements from their home planet. These reinforcements surged forward at a chilling pace, quickly surrounding the outer base that Helucky had taken. 
+Caught off guard, Helucky faced a sudden two-front war, a nightmarish scenario that they had hoped to avoid. With troops now firmly entrenched into the base, Helucky's commanders scrambled to adapt to the unfolding crisis. Their dwindling supply lines began to falter as they fought valiantly against relentless waves of Recola interceptors that converged upon them from multiple angles.
+The battle was fierce and chaotic. Helucky forces struggled against the determined onslaught, their earlier confidence eroding amidst the mounting casualties and resource depletion. They fought back with desperation, utilizing every strategy and tactic in their playbook, but they could sense that they were being gradually worn down by the relentless pressure exerted by Recola.
+As the conflict progressed, Helucky’s ability to replenish their forces diminished rapidly, and strategic errors compounded their difficulties. Soon enough, the Helucky defenses began to crack under the strain of continuous Recola assaults.
+Ultimately, after an intense battle, Helucky's surviving forces managed to break out from the encirclement. However, the escape came at a significant cost; they emerged battered and diminished, the once-mighty force now reduced to just 2 trillion interceptors. Shaken and defeated, this surviving cadre retreated to regroup and reassess their future strategies.
