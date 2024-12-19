@@ -2,6 +2,14 @@
 
 This document outlines all significant events that have taken place since the establishment of Rescueland. Since Rescueland lacks a sun, it does not have a traditional year system; instead, a time unit equivalent to approximately 888 Earth years is utilized. The Rescueland equivalent of AD is referred to as ADOTR (After Discovery of the Rings), while BCE is denoted as BDOTR (Before Discovery of the Rings).
 
+## Keys
+
+- 1 Earth year ≈ 0.001126 Rescueland years
+- 1 Earth month ≈ 0.01252 Rescueland months (time it takes Hermonochy to orbit Rescueland)
+- 1 Earth day ≈ 0.823 Rescueland days
+  
+## Contents
+
 - [5630630 BDOTR: Creation of Rescueland](#5630630-bdotr-creation-of-rescueland)
 - [0 ADOTR: Discovery of the Rings](#0-adotr-discovery-of-the-rings)
 - [2 ADOTR: The Launch of the First Spaceship](#2-adotr-the-launch-of-the-first-spaceship)
