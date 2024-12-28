@@ -8,6 +8,8 @@
 
 ## Interceptors
 
+### Common Plamea Interceptor
+
 **Ship Type:** Common Plamea Interceptor
 
 **Dimensions:** 20-5-5
@@ -18,11 +20,11 @@
 
 **General:** Rescueland has two main automated interceptor types, this being the first, built of Plamea. It is well equipped in every manner, able to carry out a great variety of tasks.
 
-###
+### Lightfighterling
 
 ![](images/Rescueland_Interceptor.png)
 
-**Ship Type:** Common Solita Interceptor
+**Ship Type:** Common Solita Interceptor (Nicknamed Lightfighterlings)
 
 **Dimensions:** 15-10-6 Metres
 

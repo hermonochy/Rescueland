@@ -182,7 +182,7 @@ To remain completely neutral to the skirmishes between the factions.
 
 **Name:** Rescueland/Recua
 
-**Flag:** ![](images/rescueland_flag.png)
+**Flag:** ![](images/Rescueland_flag.png)
 
 **Pronounced:** resc-ooh-laned/r(with tongue roll)-ekk-ooh-ah
 
@@ -190,7 +190,7 @@ To remain completely neutral to the skirmishes between the factions.
 
 **Leader:** none (However, during war, Commander of War Weda has command of the armies.)
 
-**Power Status:** 5999999998/6000000000
+**Power Status:** 5999999997/6000000000
 
 Army Size:
 - **Interceptors:** 369 trillion
@@ -213,7 +213,7 @@ Rescueland's infrastructure and alliances also play a significant role in its de
 
 **Name:** Hermonochy
 
-**Flag:** ![](images/hermonochy_flag.png)
+**Flag:** ![](images/Hermonochy_flag.png)
 
 **Pronounced:** Her-mono-cheee
 
@@ -479,7 +479,7 @@ Army Size:
 
 **Name:** Helucky
 
-**Flag:** ![](images/helucky_flag.png)
+**Flag:** ![](images/Helucky_flag.png)
 
 **Pronounced:** He-luck-ee
 
@@ -781,7 +781,7 @@ Army Size:
 
 **Leader:** Emperor Astan
 
-**Power Status:** 5999999997/6000000000
+**Power Status:** 5999999998/6000000000
 
 Army Size:
 - **Interceptors:** 567 quadrillion
