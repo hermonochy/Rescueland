@@ -860,8 +860,6 @@ Army Size:
 Life on N2 revolves around basic agriculture, foraging, and rudimentary hunting techniques, with communities primarily focused on survival. The tribes maintain a decentralized structure, with no formal leadership, relying instead on elder councils for guidance in communal matters.   
 The inhabitants have developed a belief system that venerates the concept of Rescueland as a pantheon of divine forces that govern their existence and protect them from external threats. Each tribe worships the ideals of Rescueland, viewing them as benevolent deities that saved them from the threat of Bad Guy Land. The tribes refer to the ideals of Rescueland as "The Protectors." Oral traditions are rich with tales of legendary figures representing the ideals of Rescueland. These stories serve to inspire the youth and instill a sense of purpose as they learn about courage and resilience through the narratives of their "gods."
 
-
-
 ### Nelula (R)
 
 **Name:** Nelula
@@ -973,7 +971,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 60%, Argon 20%, Neon 20%
 
-**General:** Keluha is a planet abundant in crystalline resources that draw commercial interests, while also prioritizing technological advancements in resource management. Located strategically within a remote mountain range is a Helucky stronghold, which is well-suited for launching offensive operations against neighboring systems. This base, currently under the precarious control of Recola, occupies a critical position that enables it to strike at key planets before Rescueland has the chance to mobilize its defenses. The ongoing conflict between Helucky and Recola for control of this base carries significant implications for the regional balance of power. Despite facing heavy casualties, Recola remains resolute in its efforts to maintain its position, knowing that losing Keluha could lead to a dramatic shift in their fortunes.
+**General:** Keluha is a planet abundant in crystalline resources that draw commercial interests, while also prioritizing technological advancements in resource management. Located strategically within a remote mountain range is a Helucky stronghold, which is well-suited for launching offensive operations against neighboring systems. This base, recently reconquered from the precarious control of Recola, occupies a critical position that enables it to strike at key planets before Rescueland has the chance to mobilize its defenses. The ongoing conflict between Helucky and Recola for control of this base carries significant implications for the regional balance of power. Despite facing heavy casualties, Recola remains resolute in its efforts to maintain its position, knowing that losing Keluha could lead to a dramatic shift in their fortunes.
 
 
 ## Mewfa System
