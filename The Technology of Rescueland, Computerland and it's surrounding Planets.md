@@ -529,7 +529,7 @@ The Electromagnetic Pulse (EMP) is a simple but effective piece of technology de
 
 ### Anti-Bunker Catapult (L)
 
-The anti-bunker catapult represents the most prevalent strategy for demolishing enemy bunkers. A colossal, ultra-dense projectile, several kilometers long, is launched from an equally massive catapult towards the bunker. Just before it strikes, the weight concentrates into a small area of just a few meters, creating a powerful impact that breaches the bunker. Typically, the damage is so severe that the bunker collapses, obliterating everything inside. This method, however, cannot be employed at all times due to its destructive nature.
+The anti-bunker catapult embodies the foremost strategy for dismantling enemy fortifications. This formidable weapon fires ultra-dense projectiles, reaching several kilometers in length, toward the target. Unlike a traditional catapult, this cannon can launch both massive rocks to smash against stone walls and devastating energy blasts to penetrate force fields. As the projectile hurtles through the air, it focuses its substantial weight into a small impact area just before striking, resulting in an immense force capable of breaching even the strongest defenses. The damage inflicted is typically catastrophic, often leading to the complete collapse of the bunker and annihilating everything within.
 
 ### Anti-Bunker Drill (R+B)
 

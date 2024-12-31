@@ -4,13 +4,20 @@ This document outlines all significant events that have taken place since the es
 
 ## Keys
 
+### Time
+
 - 1 Earth year ≈ 0.001126 Rescueland years
 - 1 Earth month ≈ 0.01252 Rescueland months (time it takes Hermonochy to orbit Rescueland)
 - 1 Earth day ≈ 0.0823 Rescueland days
 
----
+### Military Structure
 
-- 1 Battalion = 1 trillion ships 
+- 1 Squadron = 100 ships
+- 1 Platoon = 1,000 ships
+- 1 Company = 100,000 ships
+- 1 Battalion = 1,000,000 ships
+- 1 Brigade = 1,000,000,000 ships
+- 1 Division = 1,000,000,000,000 ships
   
 ## Contents
 
@@ -211,7 +218,7 @@ Ultra Bad Guy Land sought to regain the upper hand by showcasing new tactics, em
 Rescueland coordinated a focused assault on the flagship of the invading fleet. A combined force of Rescueland ships converged on it, allowing for a concerted effort to breach its defences using advanced targeting systems enhanced by FFG technology.
 The Rescuelanders ultimately repelled the attack, having decisively damaged or destroyed several key enemy ships. The battle strengthened their resolve, yet served as a stark reminder of the threat posed by Ultra Bad Guy Land, prompting further preparations for continued conflict.
 
-Following the failed assault on Rescueland, Ultra Bad Guy Land prepared for a large-scale retaliatory strike, gathering their remaining fleet to bring the fight directly to Rescueland’s vital strategic location - [Titan](./The%20Planet%20File.md#titan-r), a planet near Rescueland.
+Following the failed assault on Rescueland, Ultra Bad Guy Land prepared for a large-scale retaliatory strike, gathering their remaining fleet to bring the fight directly to Rescueland’s vital strategic location - [Titan](./The%20Planet%20File.md#titan-r), a [Core Planet](#22-adotr-the-founding-of-the-anti-bad-guy-land-union).
 Recognizing Titan's significance for natural resources, the Rescueland military fortified its defences in anticipation of a massive attack. Advanced FFG installations were set up along strategic points to create barriers against incoming enemy forces.
 Ultra Bad Guy Land took the initiative, launching a multi-pronged attack aimed at stretching Rescueland defenders thin. They deployed smaller, agile ships to provoke and mislead the Rescuelanders while their heavy hitters lay in wait.
 Initial attacks overwhelmed some of the outer defences. However, Rescueland's focus on FFG technology paid off as the shield countered the initial onslaught.
@@ -344,7 +351,7 @@ Finally, in a coordinated strike, specialised ships deployed FFG to absorb incom
 
 ## 550 ADOTR: Battle for the Helucky Base
 
-Following years of skirmishes and power struggles in the region, Helucky constructed a massive strategic base on the crystalline-rich planet Keluha. Known as the Helucky stronghold, the base was designed to secure their interests and launch offensives against neighboring systems, particularly against Klesone and the Fil System. For a while, the Helucky forces dominated the base, leveraging their overwhelming numbers with 7 trillion interceptors and 3 septillion ground troops. 
+Following years of skirmishes and power struggles in the region, Helucky constructed a massive strategic base on the crystalline-rich planet Keluha. Known as the Helucky stronghold, the base was designed to secure their interests and launch offensives against neighboring systems, particularly against Klesone and the Fil System. For a while, the Helucky forces dominated the base, leveraging their overwhelming numbers with 7 divisions of interceptors and 3 septillion ground troops. 
 However, as tensions rose between Helucky and Recola, the latter, with its powerful fleet, sought to destabilize Helucky's hold on Keluha. Employing their advanced tech level, Recola initiated a stealthy blockade, cutting off all communications to the Helucky base. This effectively wore down the Helucky troops, who, isolated and unable to receive reinforcements or crucial information, grew fatigued over time. Sensing their opportunity about a (earth) year later, Recola launched a surprise strike against the base, overwhelming Helucky forces who were too exhausted to mount an effective defense. Just as it seemed Helucky was on the verge of losing the base completely, the Rescueland Empire intervened, mobilizing their fleet to assist Helucky. 
 However, the gratitude was short-lived. In a shocking turn of events, Helucky betrayed the Rescuelanders. After allowing Rescueland forces to take a foothold in their base, the Helucky troops, motivated by the presence of their own ambitions, turned on the Rescuelanders. Without warning, they initiated a barrage of fire on the Rescueland forces, who had come to aid them. This betrayal stemmed from the fact that Rescueland also had a base on Keluha- as requested by the native population -which jeopardized Helucky's plans to dominate the surrounding systems. The presence of Rescueland limited the effectiveness of Helucky’s own base and threatened their long-term strategy of expansion.
 As the dust settled from the chaos, Rescueland troops were forced to retreat, evacuating Keluhean citizens to Rescueland. Helucky had seized control of the base once again, although the cost of their betrayal incurred significant enmity from their former allies.
@@ -367,10 +374,10 @@ Ultimately, after an intense battle, Helucky's surviving forces managed to break
 ## 553 ADOTR: The Third Battle of The Keluha Bases
 
 Following the chaotic struggles for dominance on Keluha, a strategic plan took shape within Helucky military command. Two crucial bases - one a Rescueland base and the other Helucky - had fallen under Recola's control, and Helucky sought to exploit Recola’s vulnerabilities. A well-crafted plan was set in motion to draw Recola's troops away from the Helucky base.
-Mobilizing an impressive 21 battalions - 21 trillion ships - the Helucky forces launched a coordinated assault on the Rescueland base currently under Recola control. The intent of this decoy attack was to overwhelm the Rescueland base, disrupting Recola's defenses and diverting their attention and resources from the Helucky stronghold.
-Despite Helucky's numerical superiority, Recola’s forces were well-prepared and responded with determined resistance. As Helucky’s offensive capabilities clashed with Recola’s defensive strategies, they began to encounter significant challenges. Heavy losses were inflicted on the decoy front, where Recola’s counterattacks decimated portions of Helucky's advancing battalions.
-Recognizing the opportunity, Recola quickly mobilized their defending forces. While they were prepared, they faced unexpected resilience from the Helucky offensive. The clash escalated into a brutal battle, causing significant losses for Recola as they struggled to contain the Helucky surge. To bolster their defenses, 5 battalions were dispatched from the captured Helucky base to reinforce the Rescueland position.
-Meanwhile, Helucky’s main army - an impressive 430 battalions - took advantage of the turmoil at the Rescueland base to initiate a coordinated assault aimed directly at their captured Helucky base. This maneuver allowed them to capitalize on Recola's diverted attention and reduced strength, executing a timely strike to reclaim their territory. Reports indicated that Helucky battalions engaged at the Rescueland base could retreat and regroup, joining the main Helucky army.
+Mobilizing an impressive 21 divisions - 21 trillion ships - the Helucky forces launched a coordinated assault on the Rescueland base currently under Recola control. The intent of this decoy attack was to overwhelm the Rescueland base, disrupting Recola's defenses and diverting their attention and resources from the Helucky stronghold.
+Despite Helucky's numerical superiority, Recola’s forces were well-prepared and responded with determined resistance. As Helucky’s offensive capabilities clashed with Recola’s defensive strategies, they began to encounter significant challenges. Heavy losses were inflicted on the decoy front, where Recola’s counterattacks decimated portions of Helucky's advancing divisions.
+Recognizing the opportunity, Recola quickly mobilized their defending forces. While they were prepared, they faced unexpected resilience from the Helucky offensive. The clash escalated into a brutal battle, causing significant losses for Recola as they struggled to contain the Helucky surge. To bolster their defenses, 5 divisions were dispatched from the captured Helucky base to reinforce the Rescueland position.
+Meanwhile, Helucky’s main army - an impressive 430 divisions - took advantage of the turmoil at the Rescueland base to initiate a coordinated assault aimed directly at their captured Helucky base. This maneuver allowed them to capitalize on Recola's diverted attention and reduced strength, executing a timely strike to reclaim their territory. Reports indicated that Helucky divisions engaged at the Rescueland base could retreat and regroup, joining the main Helucky army.
 With a reinvigorated and unified front, the Helucky troops surged forward, targeting Recola’s outer defenses. The combined strength of Helucky forces, now bolstered by those who had broken through from the initial assault, posed a considerable threat. They pressed their advantage decisively, and the coordinated assault became relentless. Facing heavy attrition and setbacks, Recola began to retreat in disarray, having lost nearly half their troops. This retreat allowed the Helucky forces to seize the outer defenses once securely held by Recola.
 
 ---
@@ -385,14 +392,14 @@ As the dust settled, the Rescueland forces emerged triumphant, reclaiming their 
 
 ---
 
-In response to the growing threat and the potential loss of the Helucky base, Recola quickly mobilized 150 battalions of reinforcements. These battalions were rushed to the battlefield, aiming to flank the Helucky forces and strike from behind. Suddenly, the situation escalated into a two-front war, with the Helucky troops once more caught between the two Recola forces, facing a dual onslaught that pushed them into a defensive posture.
+In response to the growing threat and the potential loss of the Helucky base, Recola quickly mobilized 150 divisions of reinforcements. These divisions were rushed to the battlefield, aiming to flank the Helucky forces and strike from behind. Suddenly, the situation escalated into a two-front war, with the Helucky troops once more caught between the two Recola forces, facing a dual onslaught that pushed them into a defensive posture.
 Initially, the Recola reinforcements performed admirably. Their sudden appearance on the battlefield caused significant disruption, pushing the Helucky forces back and forcing them into a hasty retreat. Recola troops surged forward, but as the battle raged on, their numbers began to dwindle under the relentless barrage of Helucky firepower and the devastating impact of the massive [anti-bunker catapults](./The%20Technology%20of%20Rescueland,%20Computerland%20and%20it's%20surrounding%20Planets.md#anti-bunker-catapult-l) stationed in the outer defenses. 
 Despite their early successes, the Recola forces found themselves increasingly overwhelmed. The Helucky troops, in their fortified positions, began to regain their footing. The once-hopeful reinforcements, which had been a beacon of promise for the Recolas trapped in the base, faced mounting pressure and began to crumble under the weight of the Helucky counter-offensive.
-The Recola reinforcements, once poised to change the tide of battle, ultimately succumbed as they became isolated and discovered the grim reality of coordinated assaults from the Helucky troops. Their efforts were not in vain, however; they managed to inflict serious losses on the Helucky army, reducing their numbers from 600 battalions to only 280.
+The new arrivals found themselves isolated and facing the grim reality of coordinated assaults from the Helucky troops. Despite their valiant efforts, they were unable to hold their ground and eventually succumbed to the enemy's superior numbers. Their efforts were not in vain, however; they managed to inflict heavy losses on the Helucky forces, destroying more than double their own number. For every division of Recola troops that fell, they took down at least two divisions of the Helucky army, leaving it diminished from 600 divisions to just 280.
 
 ---
 
 Months passed as the Helucky forces besieged the Recola-held base. The siege wore on, with relentless assaults pounding Recola’s defenses day and night. The once-grand structures of the base became battered and weakened, the walls crumbling under the continuous pressure of the Helucky cannons. The air was filled with the sounds of destruction, and the chaos of battle engulfed the area. Resupply routes were cut off, forcing Recola to rely on dwindling resources, and morale among the occupying forces plummeted as hope for reinforcements faded.
 Finally, as the siege conditions reached a critical point - both the walls of the main base and the outer defenses were on the verge of collapse - the Helucky leadership devised a bold plan for a final assault: a massive blitzkrieg strike aimed at overwhelming the Recola defenders in one decisive blow. On the chosen day, the Helucky forces surged forward with unparalleled ferocity, deploying every available battalion in a coordinated strike.
 The blitzkrieg unleashed devastating firepower upon the beleaguered Recola defenders, who were caught off guard and unable to mount a cohesive defense. Explosions rocked the base as artillery rained down on strategic points, breaching what remained of the crumbling walls. With the Recola positions compromised, the Helucky infantry charged into the fray, overwhelming the remnants of Recola’s once-formidable defenses.
-In a matter of hours, the Helucky base was reclaimed. Recola’s forces, unable to withstand the ferocity of the Helucky blitzkrieg, were annihilated. However, in the end, the 168 Recola battalions managed to eliminate the Helucky forces, which had dwindled from their original count of 700 to just 14. 
+In a matter of hours, the Helucky base was reclaimed. Recola’s forces, unable to withstand the ferocity of the Helucky blitzkrieg, were annihilated. However, in the end, the 168 Recola divisions managed to eliminate the Helucky forces, which had dwindled from their original count of 700 trillion to just 14 trillion.
