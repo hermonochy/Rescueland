@@ -49,12 +49,16 @@ This document outlines all significant events that have taken place since the es
 
 ### Military Structure
 
-- 1 Squadron = 100 ships
-- 1 Platoon = 1,000 ships
-- 1 Company = 100,000 ships
-- 1 Battalion = 1,000,000 ships
-- 1 Brigade = 1,000,000,000 ships
-- 1 Division = 1,000,000,000,000 ships
+The military structure of Rescueland varies in several aspects, but this table aims to provide a simple overview of the command hierarchy.
+
+|Name|Size|Commander|
+|----|----|---------|
+|Division|1,000,000,000,000 Ships|General|
+|Brigade|1,000,000,000 Ships|Major|
+|Battalion|1,000,000 Ships|Colonel|
+|Company|100,000 Ships|Captain|
+|Platoon|1,000 Ships|Lieutenant|
+|Squadron|100 Ships|Squad Leader|
   
 
 ## 5630630 BDOTR: Creation of Rescueland
