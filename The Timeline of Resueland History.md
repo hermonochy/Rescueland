@@ -2,6 +2,43 @@
 
 This document outlines all significant events that have taken place since the establishment of Rescueland. Since Rescueland lacks a sun, it does not have a traditional year system; instead, a time unit equivalent to approximately 888 Earth years is utilized. The Rescueland equivalent of AD is referred to as ADOTR (After Discovery of the Rings), while BCE is denoted as BDOTR (Before Discovery of the Rings).
 
+
+## Contents
+
+- [Keys](#keys)
+  - [Time](#time)
+  - [Military Structure](#military-structure)
+- [5630630 BDOTR: Creation of Rescueland](#5630630-bdotr-creation-of-rescueland)
+- [0 ADOTR: Discovery of the Rings](#0-adotr-discovery-of-the-rings)
+- [2 ADOTR: The Launch of the First Spaceship](#2-adotr-the-launch-of-the-first-spaceship)
+- [4 ADOTR: The First Successful Entry of Another Multiverse](#4-adotr-the-first-successful-entry-of-another-multiverse)
+- [8 ADOTR: Discovery of Bad Guy Land](#8-adotr-discovery-of-bad-guy-land)
+- [14 ADOTR: Discovery of Computerland](#14-adotr-discovery-of-computerland)
+- [18 ADOTR: The Super Twos](#18-adotr-the-super-twos)
+- [21 ADOTR: The First Battle Against Bad Guy Land](#21-adotr-the-first-battle-against-bad-guy-land)
+- [22 ADOTR: The Founding of the Anti-Bad Guy Land Union](#22-adotr-the-founding-of-the-anti-bad-guy-land-union)
+- [23-24 ADOTR: The War for Rescueland](#23-24-adotr-the-war-for-rescueland)
+- [25 ADOTR: The Formation of the Rescueland Empire](#25-adotr-the-formation-of-the-rescueland-empire)
+- [26 ADOTR: The Failed Attack](#26-adotr-the-failed-attack)
+- [27 ADOTR: The Defeat of Ukakia](#27-adotr-the-defeat-of-ukakia)
+- [34 ADOTR: The Final Battle Against Bad Guy Land](#34-adotr-the-final-battle-against-bad-guy-land)
+- [35 ADOTR: The Siege of Imperium](#35-adotr-the-siege-of-imperium)
+- [38 ADOTR: Discovery of the Force Field Gel](#38-adotr-discovery-of-the-force-field-gel)
+- [38 - 40 ADOTR: The Dispute Over FFG](#38---40-adotr-the-dispute-over-ffg)
+- [58 ADOTR: Discovery of Mutant Force Field Gel](#58-adotr-discovery-of-mutant-force-field-gel)
+- [65 ADOTR: War against Mega Bad Guy Land](#65-adotr-war-against-mega-bad-guy-land)
+- [80 ADOTR: War against Ultra Bad Guy Land](#80-adotr-war-against-ultra-bad-guy-land)
+- [90 ADOTR: War against Voldim](#90-adotr-war-against-voldim)
+- [104 ADOTR: War against Mega Mega Mega Mega Mega Mega Mega Mega Mega Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Bad Guy Land](#104-adotr-war-against-mega-mega-mega-mega-mega-mega-mega-mega-mega-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-bad-guy-land)
+- [106 ADOTR: The Revolution of the Army](#106-adotr-the-revolution-of-the-army)
+- [105 - 508 ADOTR: The Golden Age](#105---508-adotr-the-golden-age)
+- [508 ADOTR: War against Horsa](#508-adotr-war-against-horsa)
+- [510 ADOTR: The War Against Federre](#510-adotr-the-war-against-federre)
+- [550 ADOTR: Battle for the Helucky Base](#550-adotr-battle-for-the-helucky-base)
+- [551 ADOTR: The Return of Helucky](#551-adotr-the-return-of-helucky)
+- [553 ADOTR: The Third Battle of The Keluha Bases](#553-adotr-the-third-battle-of-the-keluha-bases)
+
+
 ## Keys
 
 ### Time
@@ -19,37 +56,6 @@ This document outlines all significant events that have taken place since the es
 - 1 Brigade = 1,000,000,000 ships
 - 1 Division = 1,000,000,000,000 ships
   
-## Contents
-
-- [5630630 BDOTR: Creation of Rescueland](#5630630-bdotr-creation-of-rescueland)
-- [0 ADOTR: Discovery of the Rings](#0-adotr-discovery-of-the-rings)
-- [2 ADOTR: The Launch of the First Spaceship](#2-adotr-the-launch-of-the-first-spaceship)
-- [4 ADOTR: The First Successful Entry of Another Multiverse](#4-adotr-the-first-successful-entry-of-another-multiverse)
-- [8 ADOTR: Discovery of Bad Guy Land](#8-adotr-discovery-of-bad-guy-land)
-- [14 ADOTR: Discovery of Computerland](#14-adotr-discovery-of-computerland)
-- [18 ADOTR: The Super Twos](#18-adotr-the-super-twos)
-- [21 ADOTR: The First Battle Against Bad Guy Land](#21-adotr-the-first-battle-against-bad-guy-land)
-- [22 ADOTR: The Founding of the Anti-Bad Guy Land Union](#22-adotr-the-founding-of-the-anti-bad-guy-land-union)
-- [23-24 ADOTR: The War for Rescueland](#23-24-adotr-the-war-for-rescueland)
-- [25 ADOTR: The Formation of the Rescueland Empire](#25-adotr-the-formation-of-the-rescueland-empire)
-- [26 ADOTR: The Failed Attack](#26-adotr-the-failed-attack)
-- [27 ADOTR: The Defeat of Ukakia](#27-adotr-the-defeat-of-ukakia)
-- [34 ADOTR: The Final Battle Against Bad Guy Land](#34-adotr-the-final-battle-against-bad-guy-land)
-- [35 ADOTR: The Siege of Imperium](#35-adotr-the-siege-of-imperium)
-- [38 ADOTR: Discovery of the Force Field Gel](#38-adotr-discovery-of-the-force-field-gel)
-- [58 ADOTR: Discovery of Mutant Force Field Gel](#58-adotr-discovery-of-mutant-force-field-gel)
-- [65 ADOTR: War against Mega Bad Guy Land](#65-adotr-war-against-mega-bad-guy-land)
-- [80 ADOTR: War against Ultra Bad Guy Land](#80-adotr-war-against-ultra-bad-guy-land)
-- [90 ADOTR: War against Voldim](#90-adotr-war-against-voldim)
-- [104 ADOTR: War against Mega Mega Mega Mega Mega Mega Mega Mega Mega Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Bad Guy Land](#104-adotr-war-against-mega-mega-mega-mega-mega-mega-mega-mega-mega-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-bad-guy-land)
-- [106 ADOTR: The Revolution of the Army](#106-adotr-the-revolution-of-the-army)
-- [105 - 508 ADOTR: The Golden Age](#105---508-adotr-the-golden-age)
-- [508 ADOTR: War against Horsa](#508-adotr-war-against-horsa)
-- [510 ADOTR: The War Against Federre](#510-adotr-the-war-against-federre)
-- [550 ADOTR: Battle for the Helucky Base](#550-adotr-battle-for-the-helucky-base)
-- [551 ADOTR: The Return of Helucky](#551-adotr-the-return-of-helucky)
-- [553 ADOTR: The Third Battle of The Keluha Bases](#553-adotr-the-third-battle-of-the-keluha-bases)
-
 
 ## 5630630 BDOTR: Creation of Rescueland
 
@@ -61,7 +67,7 @@ The Rings were discovered by the Super Owls, who gained consciousness and a rang
 
 ## 2 ADOTR: The Launch of the First Spaceship
 
-Rescueland successfully launched its first spaceship, intended for scientific exploration of the multiverse beyond its home planet.
+Rescueland successfully launched its first spaceship, intended for scientific exploration of the multiverse beyond its home planet. In the lead-up to the launch, a mock mission was conducted to test the vessel's systems, during which a critical malfunction nearly derailed the launch. The crisis led to emergency meetings among engineers and leaders that resulted in innovative safety protocols.
 
 ## 4 ADOTR: The First Successful Entry of Another Multiverse
 
@@ -84,7 +90,11 @@ The situation reached another turning point when [Klesone](./The%20Planet%20File
 The Rescuelanders engaged in their first major military confrontation with Bad Guy Land over the planet [N2](./The%20Planet%20File.md#n2-r), which fell under their control. Upon learning that Bad Guy Land had overtaken N2 and enslaved its citizens, the Rescuelanders mobilised quickly to liberate the planet. N2 is characterised by dense, tropical vegetation and primitive civilizations, making Bad Guy Land's robotic enforcers particularly vulnerable to computer-targeted weapons.
 The Rescuelanders gathered intelligence on Bad Guy Land's operations, noting the extensive use of robotic units and the weak spots in their defences. Armed with this information, they prepared to deploy [EMPs](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#electromagnetic-pulse-l) to disable the robots.
 A specialised team of Rescuelander commandos, equipped with stealth technology, infiltrated N2 to assess enemy positions. They observed routine patrols and devised a plan to maximise the effect of their EMPs.
-A few days later, Rescueland forces descended upon N2. As they approached the surface, they deployed the EMPs, disrupting the robots' systems and causing them to shut down. The Rescuelanders followed up with ground troops, engaging in close combat with the few surviving enforcers of Bad Guy Land. The Rescuelanders successfully liberated the inhabitants of N2.
+A few days later, Rescueland forces descended upon N2. As they approached the surface, they deployed the EMPs, disrupting the robots' systems and causing them to shut down. The Rescuelanders followed up with ground troops, engaging in close combat with the few surviving enforcers of Bad Guy Land. The Rescuelanders successfully liberated the inhabitants of N2. 
+
+---
+
+In the aftermath of the successful operation on N2, small factions within the liberated populations began squabbling over control and governance. Rescueland’s forces stepped in to mediate, leading to minor skirmishes as various groups rallied for power. Ultimately, the Rescuelanders fostered peace talks, but not without a few clashes that resulted in injuries to both sides.
 
 ## 22 ADOTR: The Founding of the Anti-Bad Guy Land Union
 
@@ -166,6 +176,10 @@ With knowledge of FFG in hand, Rescueland's military leadership swiftly develope
 With training and experiments underway, Rescuelanders developed comprehensive strategies for employing the FFG. Most Rescueland ships were now equipped with FFG.
 News of Rescueland's advancements in defence technology, FFG, reached neighbouring factions and former adversaries. Diplomatic conversations had to navigate concerns and collaborations concerning the newly unveiled power, reshaping the political landscape as alliances were tested and fortified.
 The discovery and harnessing of Force Field Gel became a defining moment in Rescueland's evolution into a formidable interstellar power. With innovative technology at their disposal, Rescueland not only enhanced its military might but also solidified its position as a leader in defensive capabilities. The implications of FFG extended beyond mere warfare, influencing strategies, alliances, and the very future of intergalactic relations as Rescueland stepped confidently into a new era of exploration and expansion. For a more detailed overview click [here](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r).
+
+## 38 - 40 ADOTR: The Dispute Over FFG
+
+In the midst of the technological advancements brought about by FFG, disputes arose around the sharing of new technologies between Rescueland and their allies, leading to a minor conflict with the planets feeling slighted. Tensions rose in the form of sabotaged equipment and covert operations, but diplomatic interventions kept the situation from escalating into open warfare.
 
 ## 58 ADOTR: Discovery of Mutant Force Field Gel
 
@@ -272,8 +286,6 @@ In a dramatic turn of events, Weda captured Warlord Tyanus, marking the end of t
 In the aftermath of the monumental victory against Mega*9 Ultra*9 Bad Guy Land, the Rescueland Empire recognized the need for a radical transformation within its military structure. As the Empire expanded its influence across the galaxy, the vast number of ships and personnel required a more organised, effective, and flexible system to adapt to future conflicts. From 106 to 107 ADOTR, a revolution in military strategy took shape, focusing on ship classes and the integration of new technologies, enabling the Empire to maintain peace in its vast territories and prepare for emerging threats.
 
 The previous conflict had exposed both strengths and weaknesses within Rescueland's military capabilities. Although the Empire boasted trillions of ships and a fierce fighting spirit, the disparate fleet formations and outdated classifications led to inefficiencies in command and combat effectiveness. To address these issues, military strategists called for a comprehensive overhaul focusing on categorization, efficiency, and specialisation.
-
-### New Ship Classes
 
 Three primary classes of ships were introduced: Interceptors, Battleships, and Pocket Destroyers. They were designed to be effective, while still being cheap to build. They would now have default weaponry and engines, to be mass produced rather than being built individually.
 
