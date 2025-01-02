@@ -36,6 +36,11 @@ reaches back to the Big Bang, including the major events DOTR, the start of the 
 [The Timeline of Computerland History](./The%20Timeline%20of%20Computerland%20History.md) 
 shows these events from the view of Computerland.
 
+[The File of Famous Commanders](./The%20File%20of%20Famous%20Commanders.md)
+details the biographies and achievements of the most notable leaders on the superpowers, highlighting their contributions to the planet.
+
+## Short Stories
+
 ## Short Stories
 
 For being able to follow the short stories linked in this paragraph, it is essential to be intimately familiar with the Timeline of Rescueland History (see above).
