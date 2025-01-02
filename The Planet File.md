@@ -16,14 +16,14 @@ This file presents a brief summary of the major planets, listed according to the
 
 **Leader:** The planet's leader or its political system  
 
-**Power Status:** Each inhabited planet is assigned a military power ranking from 1 to 6,000,000,000. This may not align with the army size, as some ships are more powerful than others.  
+**Power Status:** Each inhabited planet is assigned a military power ranking from 1 to 6,000,000,000. This may not align with the army size, as some ships are more advanced than others.  
 
 **Army Size:** Total count of military personnel  
 
 - **Interceptors:** Number of interceptors  
 - **Battle Ships:** Number of battle ships (includes pocket destroyers)  
 - [**Darkfighters:**](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#darkfighters-greyfighters-and-lightfighters) Number of dark fighters (includes grey and lightfighters)  
-- **Ground Force:** Total number of foot soldiers
+- **Ground Force:** Number of foot soldiers
 
 *Note: Rarer ship types have been excluded.*  
 
@@ -46,6 +46,16 @@ This file presents a brief summary of the major planets, listed according to the
 **Atmosphere:** Primary gases in the atmosphere  
 
 **General:** Overview of pertinent information  
+
+---
+
+Different celestial bodies will have different heading sizes: 
+
+## System
+
+### Planet
+
+#### Satelite
 
 ## Contents
 
@@ -116,12 +126,19 @@ This file presents a brief summary of the major planets, listed according to the
 
 ## Factions  
 
-Various factions exist within the multiverses. The following abbreviations represent the factions to which the planet belongs:  
+Various factions exist within the multiverses. The folloewing abbreviations represent the factions to which the planet's loyalties lie:  
 
 - **Rescueland Empire:** R  
 - **Rebel 10:** B  
 - **Separatists:** S  
 - **Independent:** I
+
+|Name|Abbreviation|
+|-----------|--------|
+|Rescueland Empire|R|
+|Rebel 10|B|
+|Seperatists|S|
+|Independent|I|
 
 
 ### Rescueland Empire
@@ -130,7 +147,7 @@ Various factions exist within the multiverses. The following abbreviations repre
 
 **Overview:**
 
-Despite the name, The Rescueland Empire is a cooperative entity dedicated to mutual assistance among planets in the multiverse. Officially a republic, it emphasizes democratic values.
+Despite the name, The Rescueland Empire not an empire but a cooperative entity dedicated to mutual assistance among planets in the multiverse. Officially a republic, it emphasizes democratic values. During war however, Weda, Commander of War, is able to take control. While others can give ideas, it is him who decides the final outcome. 
 
 **Goals:**
 
@@ -162,7 +179,7 @@ The Separatists are a shadowy faction harboring a radical ideology focused on di
 
 **Goals:**
 
-To eradicate the Rescueland influence and disrupt communications, leaving planets disoriented and vulnerable.
+To eradicate the Rescueland and Helucky influence and disrupt communications, leaving planets disoriented and vulnerable.
 To take advantage of the ensuing chaos to establish their own authoritarian regime.
 
 ### Independent
@@ -189,7 +206,7 @@ To remain completely neutral to the skirmishes between the factions.
 
 **Capital:** Non-existent
 
-**Leader:** none (However, during war, Commander of War Weda has command of the armies.)
+**Leader:** none
 
 **Power Status:** 5999999997/6000000000
 
