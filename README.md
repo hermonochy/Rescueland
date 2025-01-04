@@ -41,8 +41,6 @@ details the biographies and achievements of the most notable leaders on the supe
 
 ## Short Stories
 
-## Short Stories
-
 For being able to follow the short stories linked in this paragraph, it is essential to be intimately familiar with the Timeline of Rescueland History (see above).
 
 - [The Beginning of The War for Rescueland](./Short_Stories/The%20Beginning%20of%20The%20War%20for%20Rescueland.md) recounts the start of the first major war that took place on Rescueland, from the perspective of the first FRJ having noticed the military events that would lead to the conquering of Rescueland. 
