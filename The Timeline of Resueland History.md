@@ -24,20 +24,43 @@ This document outlines all significant events that have taken place since the es
 - [34 ADOTR: The Final Battle Against Bad Guy Land](#34-adotr-the-final-battle-against-bad-guy-land)
 - [35 ADOTR: The Siege of Imperium](#35-adotr-the-siege-of-imperium)
 - [38 ADOTR: Discovery of the Force Field Gel](#38-adotr-discovery-of-the-force-field-gel)
-- [38 - 40 ADOTR: The Dispute Over FFG](#38---40-adotr-the-dispute-over-ffg)
+- [38-40 ADOTR: The Dispute Over FFG](#38-40-adotr-the-dispute-over-ffg)
 - [58 ADOTR: Discovery of Mutant Force Field Gel](#58-adotr-discovery-of-mutant-force-field-gel)
 - [65 ADOTR: War against Mega Bad Guy Land](#65-adotr-war-against-mega-bad-guy-land)
 - [80 ADOTR: War against Ultra Bad Guy Land](#80-adotr-war-against-ultra-bad-guy-land)
 - [90 ADOTR: War against Voldim](#90-adotr-war-against-voldim)
 - [104 ADOTR: War against Mega Mega Mega Mega Mega Mega Mega Mega Mega Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Bad Guy Land](#104-adotr-war-against-mega-mega-mega-mega-mega-mega-mega-mega-mega-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-bad-guy-land)
 - [106 ADOTR: The Revolution of the Army](#106-adotr-the-revolution-of-the-army)
-- [105 - 508 ADOTR: The Golden Age](#105---508-adotr-the-golden-age)
+- [105-508 ADOTR: The Golden Age](#105--508-adotr-the-golden-age)
 - [508 ADOTR: War against Horsa](#508-adotr-war-against-horsa)
 - [510 ADOTR: The War Against Federre](#510-adotr-the-war-against-federre)
 - [550 ADOTR: Battle for the Helucky Base](#550-adotr-battle-for-the-helucky-base)
 - [551 ADOTR: The Return of Helucky](#551-adotr-the-return-of-helucky)
 - [553 ADOTR: The Third Battle of The Keluha Bases](#553-adotr-the-third-battle-of-the-keluha-bases)
+- [555 ADOTR: The Second Ice War](#555-adotr-the-second-ice-war)
 
+
+## Keys
+
+### Time
+
+- 1 Earth year ≈ 0.001126 Rescueland years
+- 1 Earth month ≈ 0.01252 Rescueland months (time it takes Hermonochy to orbit Rescueland)
+- 1 Earth day ≈ 0.0823 Rescueland days
+
+### Military Structure
+
+The military structure of Rescueland varies in several aspects, but this table aims to provide a simple overview of the command hierarchy.
+
+|Name|Size|Commander|
+|----|----|---------|
+|Division|1,000,000,000,000 Ships|General|
+|Brigade|1,000,000,000 Ships|Major|
+|Battalion|1,000,000 Ships|Colonel|
+|Company|100,000 Ships|Captain|
+|Platoon|1,000 Ships|Lieutenant|
+|Squadron|100 Ships|Squad Leader|
+  
 
 ## Keys
 
@@ -115,9 +138,13 @@ As the battle dragged on, the Rescuelanders found their resources stretched thin
 Realising the dire situation, Weda decided to order a retreat. Evacuation corridors were established to facilitate a strategic withdrawal in small packs. Ships were hastily organised, with many civilians and soldiers evacuating under fire.
 The escape was chaotic, with many Rescueland ships sustaining damage as they fled. The enemy’s pursuit was relentless, resulting in high casualties among Rescueland’s personnel. Rescueland was lost to Bad Guy Land, and the victory signalled a shift in momentum, leaving them in a vulnerable state.
 
+---
+
 In the aftermath of their defeat and retreat, the Rescuelanders regrouped on [Hermonochy](./The%20Planet%20File.md#hermonochy-r), a planet with hidden resources ideal for rebuilding their forces. They recognized the need to strategize, train, and unite to counter Bad Guy Land’s growing influence.
 In the ensuing years, Rescueland began to pool resources with the other [Core Planets](./The%20Planet%20File.md#core-systems). They recruited skilled pilots, engineers, and soldiers, establishing a formidable alliance.
 Working tirelessly, Rescuelanders invested in new technologies to enhance their military capabilities. Newer fighter ships, stronger shields, and improved tactics were developed to address the shortcomings of their previous encounter with Bad Guy Land.
+
+---
 
 Having spent years rebuilding their military might and increasing their resolve, the Rescuelanders were finally ready to launch a counter-offensive to reclaim their home planet against the now lax Bad Guy Landers. They gathered intelligence on Bad Guy Land’s current positions, preparing for an all-out assault.
 Before launching their main attack, a team of scouts infiltrated orbit and gathered critical intelligence about Bad Guy Land's defences. This information revealed vulnerabilities in Bad Guy Land’s outer orbital defences and key command structures.
@@ -181,7 +208,7 @@ With training and experiments underway, Rescuelanders developed comprehensive st
 News of Rescueland's advancements in defence technology, FFG, reached neighbouring factions and former adversaries. Diplomatic conversations had to navigate concerns and collaborations concerning the newly unveiled power, reshaping the political landscape as alliances were tested and fortified.
 The discovery and harnessing of Force Field Gel became a defining moment in Rescueland's evolution into a formidable interstellar power. With innovative technology at their disposal, Rescueland not only enhanced its military might but also solidified its position as a leader in defensive capabilities. The implications of FFG extended beyond mere warfare, influencing strategies, alliances, and the very future of intergalactic relations as Rescueland stepped confidently into a new era of exploration and expansion. For a more detailed overview click [here](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r).
 
-## 38 - 40 ADOTR: The Dispute Over FFG
+## 38-40 ADOTR: The Dispute Over FFG
 
 In the midst of the technological advancements brought about by FFG, disputes arose around the sharing of new technologies between Rescueland and their allies, leading to a minor conflict with the planets feeling slighted. Tensions rose in the form of sabotaged equipment and covert operations, but diplomatic interventions kept the situation from escalating into open warfare.
 
@@ -201,6 +228,8 @@ Rescueland's fleet arrived, deploying tactical drones to distract the enemy whil
 The battle intensified as Rescueland forces engaged in close quarters combat with the enemy. The FFGs absorbed blasts from the enemy, rendering their ships nearly invulnerable. Bad Guy ships found their efforts thwarted - incoming projectiles were simply reflected without causing damage.
 After several hours of fierce fighting, the enemy forces were overwhelmed by the tactical prowess and defences of the Rescuelanders. Surviving enemy ships scattered, and the Rescuelanders secured the supply routes, but the battle served as a stark reminder of the relentless threat posed by Mega Bad Guy Land.
 
+---
+
 Next, Mega Bad Guy Land decided to attack the [Fil System](./The%20Planet%20File.md#the-fil-system). The Fil System gave Mega Bad Guy Land a significant advantage in space travel. The Rescuelanders recognized the need to secure this vital territory to keep their navigation routes secure.
 The Rescuelanders carefully planned their attack, utilising scouts to survey the defences around The Fil System. Knowing that Mega Bad Guy Land had heavily fortified the area, they decided to launch a multi-pronged assault during high visibility to minimise surprise attacks by the enemy.
 As the Rescueland fleet approached, they activated their FFGs, enveloping their ships in shimmering, almost luminescent shields. With FFGs up, they advanced into the system amidst a barrage of [lasers](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#lasers) and [slit bombs](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#slit-bombs-u) from orbiting defences.
@@ -214,6 +243,8 @@ As bombardments softened the defences, the Rescuelanders prepared specialised sh
 Once inside, battling elite soldiers, the Rescuelanders engaged in close-quarters combat, employing advanced weaponry and FFG-based tactics to both defend their positions and push deeper into the heart of the fortress.
 The battle culminated in a showdown in the command centre, where Rescuelanders confronted the enemy commander. Using varied tactics that capitalised on the chaos, they ultimately secured control over the fortress, dismantling Bad Guy Land’s operational centre in one fell swoop.
 The siege resulted in a resounding victory for Rescueland. The capture of this stronghold disrupted Mega Bad Guy Land's command structure and drastically shifted the war's balance in favour of the Rescuelanders.
+
+---
 
 After several decisive victories, the Rescueland Empire prepared for the ultimate confrontation at the heart of Mega Bad Guy Land. News of an impending grand coalition forced them to act before their foes could unite effectively.
 As the battle began, the Rescuelanders faced an unprecedented alliance of planets, with unity bolstered by desperation. They understood that Mega Bad Guy Land was rallying all their remaining ships for a decisive confrontation.
@@ -236,12 +267,16 @@ Ultra Bad Guy Land sought to regain the upper hand by showcasing new tactics, em
 Rescueland coordinated a focused assault on the flagship of the invading fleet. A combined force of Rescueland ships converged on it, allowing for a concerted effort to breach its defences using advanced targeting systems enhanced by FFG technology.
 The Rescuelanders ultimately repelled the attack, having decisively damaged or destroyed several key enemy ships. The battle strengthened their resolve, yet served as a stark reminder of the threat posed by Ultra Bad Guy Land, prompting further preparations for continued conflict.
 
+---
+
 Following the failed assault on Rescueland, Ultra Bad Guy Land prepared for a large-scale retaliatory strike, gathering their remaining fleet to bring the fight directly to Rescueland’s vital strategic location - [Titan](./The%20Planet%20File.md#titan-r), a [Core Planet](#22-adotr-the-founding-of-the-anti-bad-guy-land-union).
 Recognizing Titan's significance for natural resources, the Rescueland military fortified its defences in anticipation of a massive attack. Advanced FFG installations were set up along strategic points to create barriers against incoming enemy forces.
 Ultra Bad Guy Land took the initiative, launching a multi-pronged attack aimed at stretching Rescueland defenders thin. They deployed smaller, agile ships to provoke and mislead the Rescuelanders while their heavy hitters lay in wait.
 Initial attacks overwhelmed some of the outer defences. However, Rescueland's focus on FFG technology paid off as the shield countered the initial onslaught.
 Just as Ultra Bad Guy forces thought to gain ground, Rescuelanders deployed a surprise lockdown on Titan. Using small, agile craft encased in FFG, they stormed around the planet to disable enemy ships and launch precision strikes across the battlefield.
 At the end of this highly contested battle, the Rescuelanders secured Titan. They inflicted heavy losses on Ultra Bad Guy Land's fleet while sustaining minimal damage, showcasing superior coordination and technology.
+
+---
 
 Emboldened by their successes in defending Rescueland, the Rescueland Empire launched a bold offensive into the very heart of Ultra Bad Guy Land.
 Learning from previous engagements, Rescueland military strategists prepared an extensive assault plan aimed at neutralising Ultra Bad Guy defences. The fleet readied both conventional and surprise tactics.
@@ -275,6 +310,8 @@ Rescueland’s defense force, under the Commander of War, Weda, immediately spra
 As the conflict escalated, the biggest engagement in history took place in orbit over Rescueland.
 Over a period of several months, a series of battles ensued, culminating in epic engagements marked by intricate positioning of fleets. Rescueland commanders segmented their forces into specialised divisions, countering the overwhelming numbers with superior tactics.
 As battles raged on, the Rescueland fleets utilised sabotage strategies, deploying small, stealthy units to infiltrate enemy supply lines. This crippled Mega*9 Ultra*9 Bad Guy Land’s ability to replenish its forces, gradually tipping the balance. Before long, the enemy was forced to retreat.
+
+---
 
 Realising the prolonged battle in orbit was unsustainable, Weda ordered a titanic offensive to take the fight to the enemy planet.
 Rescueland assembled the largest invasion fleet ever known in the Rescueland Empire, numbering several trillion ships. The fleet transported millions of ground troops ready to descend upon Mega*9 Ultra*9 Bad Guy Land.
@@ -321,7 +358,7 @@ By 107 ADOTR, the Rescueland military had successfully integrated the new classe
 
 The success of the revolution of the armies fundamentally altered the course of Rescueland’s military history. With the introduction of Interceptors, Battleships, and Pocket Destroyers, alongside a commitment to organisational excellence, the Empire stood fortified against any future threats. The revolution marked a new era of military prowess, poised to defend the Empire's interests across the galaxy and maintain peace and order in an ever-evolving universe.
 
-## 105 - 508 ADOTR: The Golden Age
+## 105-508 ADOTR: The Golden Age
 
 Mega*9 Ultra*9 Bad Guy Land's destruction struck fear into any other resistance, and the Rescueland Empire experienced a very long era of peace, allowing technology to advance massively.
 
@@ -356,6 +393,9 @@ In the wake of the victory over Horsa, the Rescueland Empire enjoyed another bri
 Initially, Weda underestimated the military capabilities of Federre, believing their advances in technology and military restructuring would afford them another easy victory. Federre’s military included fleets outfitted with advanced cloaking technology, modern weaponry designed to bypass most defences, and their elite Eagle Fighters - at the time considered some of the most formidable fighters in the galaxy. Their forces outnumbered Rescueland's at the outset, comprising over a trillion technologically enhanced ships.
 As tensions escalated, a series of skirmishes erupted near strategic trade routes. Utilising covert operations, Federre forces ambushed Rescueland supply lines, leading to significant logistical disruptions. Caught off-guard, Rescueland suffered heavy losses in these early engagements, and their initial counter-attacks were met with overwhelming force.
 The situation became dire when Federre launched a surprise offensive against the Rescueland flagship, the Perigrine, during an attempt at negotiation. The Federre fleet, led by agile Eagle Fighters, compromised the Rescueland fleet’s defences before destroying critical support vessels, forcing Rescueland forces into a defensive position with several ships captured or destroyed in the chaos.
+
+---
+
 Recognizing the threat Federre posed, Weda re-evaluated their strategy. They focused on reconnaissance and intelligence-gathering to fully understand Federre’s new found tactics and technological advancements. The development of specialised countermeasures became paramount, leading to the creation of new technology explicitly designed to counter cloaking technologies and the threat posed by the Eagle Fighters.
 With these new devices, Rescueland engineers developed a sensor array capable of detecting Federre vessels during their invisibility phases. Simultaneously, they began retrofitting older ships with improved weapon systems, replacing [Solitme](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#solitme-u-sol-eet-meh) slit bombs with [Techanda](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#techanda-u-teh-chuhn-dahh).
 With adequate reinforcements and major strategic upgrades in technology, Rescueland finally prepared for a large-scale counteroffensive. Spurred by a renewed sense of determination, the Rescueland forces launched an assault aimed at key Federre strongholds, culminating in an all-or-nothing battle above the planet.
@@ -369,9 +409,15 @@ Finally, in a coordinated strike, specialised ships deployed FFG to absorb incom
 
 Following years of skirmishes and power struggles in the region, Helucky constructed a massive strategic base on the crystalline-rich planet Keluha. Known as the Helucky stronghold, the base was designed to secure their interests and launch offensives against neighboring systems, particularly against Klesone and the Fil System. For a while, the Helucky forces dominated the base, leveraging their overwhelming numbers with 7 divisions of interceptors and 3 septillion ground troops. 
 However, as tensions rose between Helucky and Recola, the latter, with its powerful fleet, sought to destabilize Helucky's hold on Keluha. Employing their advanced tech level, Recola initiated a stealthy blockade, cutting off all communications to the Helucky base. This effectively wore down the Helucky troops, who, isolated and unable to receive reinforcements or crucial information, grew fatigued over time. Sensing their opportunity about a (earth) year later, Recola launched a surprise strike against the base, overwhelming Helucky forces who were too exhausted to mount an effective defense. Just as it seemed Helucky was on the verge of losing the base completely, the Rescueland Empire intervened, mobilizing their fleet to assist Helucky. 
+
+---
+
 However, the gratitude was short-lived. In a shocking turn of events, Helucky betrayed the Rescuelanders. After allowing Rescueland forces to take a foothold in their base, the Helucky troops, motivated by the presence of their own ambitions, turned on the Rescuelanders. Without warning, they initiated a barrage of fire on the Rescueland forces, who had come to aid them. This betrayal stemmed from the fact that Rescueland also had a base on Keluha- as requested by the native population -which jeopardized Helucky's plans to dominate the surrounding systems. The presence of Rescueland limited the effectiveness of Helucky’s own base and threatened their long-term strategy of expansion.
 As the dust settled from the chaos, Rescueland troops were forced to retreat, evacuating Keluhean citizens to Rescueland. Helucky had seized control of the base once again, although the cost of their betrayal incurred significant enmity from their former allies.
-In the aftermath, tensions escalated between Recola and Helucky, leading to what came to be known as the Ice War, characterized by the use of super dense snowballs from the recent snowfall across Keluha. After regrouping, Recola struck back with relentless offensives.
+
+---
+
+In the aftermath, tensions escalated again between Recola and Helucky, leading to what came to be known as the Ice War, characterized by the use of super dense snowballs from the recent snowfall across Keluha. After regrouping, Recola struck back with relentless offensives.
 Throughout the battle, the Helucky base sustained heavy damage, with snow and rubble piling mercilessly on top of fighters and troops. Making the most of this chaotic environment, Recola strategically employed their interceptors, which began to slowly pick off Helucky units buried under the accumulating snow. As the walls of the base completely collapsed, Recola seized the opportunity to dismantle the remaining Helucky defenses and, after intense combat, regained full control of the base.
 In the aftermath, Recola labored to rebuild the walls, but the rebuilding efforts proved hasty; snow had gotten into the construction materials that caused the residue to freeze and later melt, leading to a weakened structure that was susceptible to further damage.
 Deciding against a full-scale invasion due to a heightened paranoia over a potential joint strike from Rescueland and Recola, Helucky instead deployed a small and cautious force of 60 scouts to observe the situation at the base. This small contingent of observers kept a vigilant watch on Recola's movements, careful not to provoke an all-out conflict that could threaten Helucky itself.
@@ -419,3 +465,17 @@ Months passed as the Helucky forces besieged the Recola-held base. The siege wor
 Finally, as the siege conditions reached a critical point - both the walls of the main base and the outer defenses were on the verge of collapse - the Helucky leadership devised a bold plan for a final assault: a massive blitzkrieg strike aimed at overwhelming the Recola defenders in one decisive blow. On the chosen day, the Helucky forces surged forward with unparalleled ferocity, deploying every available battalion in a coordinated strike.
 The blitzkrieg unleashed devastating firepower upon the beleaguered Recola defenders, who were caught off guard and unable to mount a cohesive defense. Explosions rocked the base as artillery rained down on strategic points, breaching what remained of the crumbling walls. With the Recola positions compromised, the Helucky infantry charged into the fray, overwhelming the remnants of Recola’s once-formidable defenses.
 In a matter of hours, the Helucky base was reclaimed. Recola’s forces, unable to withstand the ferocity of the Helucky blitzkrieg, were annihilated. However, in the end, the 168 Recola divisions managed to eliminate the Helucky forces, which had dwindled from their original count of 700 trillion to just 14 trillion.
+
+## 555 ADOTR: The Second Ice War
+
+As Keluha was cloaked in an impenetrable veil of snow, the Recola forces decided to launch an assault on the Helucky base, sending 24 divisions into the fray. Originally, the Recolas had intended to play a waiting game, biding their time to execute their [master plan](https://github.com/hermonochy/Rescueland/discussions/61). However, the heavy snowfall created an unexpected advantage, prompting a sudden change in strategy. 
+
+As the Recola troops advanced through the swirling snowflakes, they launched their surprise attack on the outer defenses of Helucky. The winter storm served as both a cloak and a weapon, allowing them to approach undetected. With their radio signal blocked, the Recolas overwhelmed the unsuspecting Helucky troops, who were largely unprepared for an onslaught of this magnitude during a snowstorm. The attack was brutal, and the sound of impacts echoed through the icy air as snowbursts from fallen defenses obscured visibility. 
+
+The Helucky outer defense ships found themselves quickly buried under the weight of snow and debris, incapacitated and struggling to dig themselves out. Despite their best efforts, the slick and dense snow made the task a battle unto itself. Seizing the opportunity, Recola pushed forward, bombarding the entombed ships with volleys of projectiles coated in ice, further complicating their rescue efforts.
+
+As some of the outer defense ships managed to unearth themselves, a sense of urgency took hold. They regrouped, a mix of battered but determined vessels, and made a frantic break for the main base, their sensors alerting them to the imminent danger. However, they faced perilous conditions, navigating through swirling snowflakes and treacherous terrain, all while dodging incoming attacks from the Recola forces. 
+
+The journey to sound the alarm was perilous, and the losses were significant. Many of the ships were overwhelmed by the ferocity of the Recola onslaught, consumed by the power of snowballs that could crush steel and ice under their weight. In the end, only two platoons’ worth of ships managed to reach the main base, their hulls battered but resilient. 
+
+Once the alert was sounded within the Helucky base, both sides prepared for what would soon become a relentless barrage of super-dense snowballs. For weeks, the battle morphed into a surreal exchange, as both sides hurled enormous, ice-encased projectiles at one another, with the snowstorm adding an elemental chaos to the conflict. Massive snowballs soared through the air, colliding with structures and troops, causing chaos and destruction as the winter hideouts turned into battlegrounds. Each snowfall brought new opportunities and challenges, setting the stage for a battle defined by the weight of snow and the desperation of war.
