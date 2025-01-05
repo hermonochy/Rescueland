@@ -37,12 +37,13 @@ reaches back to the Big Bang, including the major events DOTR, the start of the 
 shows these events from the view of Computerland.
 
 [The File of Famous Commanders](./The%20File%20of%20Famous%20Commanders.md)
-details the biographies and achievements of the most notable leaders on the superpowers, highlighting their contributions to the planet.
-
-## Short Stories
+details the biographies and achievements of the most notable leaders on the superpowers, highlighting their contributions to the faction.
 
 ## Short Stories
 
 For being able to follow the short stories linked in this paragraph, it is essential to be intimately familiar with the Timeline of Rescueland History (see above).
 
-- [The Beginning of The War for Rescueland](./Short_Stories/The%20Beginning%20of%20The%20War%20for%20Rescueland.md) recounts the start of the first major war that took place on Rescueland, from the perspective of the first FRJ having noticed the military events that would lead to the conquering of Rescueland. 
+- [The Beginning of The War for Rescueland](./Short_Stories/The%20Beginning%20of%20The%20War%20for%20Rescueland.md) recounts the start of the first major war that took place on Rescueland, from the perspective of the first FRJ having noticed the military events that would lead to the conquering of Rescueland.
+
+- [The Last Stand](./Short_Stories/The%20Last%20Stand.md) is an episode told by R-6B, a Recola interceptor in command of defending the Keluha base under Helucky attack.
+
