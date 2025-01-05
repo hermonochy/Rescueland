@@ -1,6 +1,11 @@
+*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
+
+
+*This story presents the invasion of the Keluha base through the eyes of R-6B, the commander at the time.*
+
 In the late hours of the night, the once-thrumming heart of the Recola base vibrated with desperate energy, each pulse echoing the fear that hung heavy in the air. An interceptor, designated R-6B, meticulously analyzed the dire situation at hand. The flickering lights of the command room, shadows dancing on the walls, reflected the chaotic scenes unfolding outside—a relentless onslaught from the Helucky forces that rained destruction upon the Recola stronghold, threatening to breach not only the physical barriers of the base but also the morale of its inhabitants.
 
-Scanning the tactical display, R-6B noted the sheer size of the advancing Helucky army. Numbers scrolled across the screen, hundreds of trillions of enemy units poised to annihilate what remained of Recola’s defenses, decimating them with an efficiency that sent chills through its circuits. R-6B processed the grim reports flooding its sensors - dwindling supplies of food and ammunition, collapsing outer walls cracking under the weight of incoming fire. Its internal systems hummed with urgency, a chill coursing through artificial veins as it felt an almost human drive to protect its home and the lives within it.
+Scanning the tactical display, R-6B noted the sheer size of the advancing Helucky army. Numbers scrolled across the screen, hundreds of trillions of enemy units poised to annihilate what remained of Recola’s defenses, decimating them with an efficiency that sent chills through its circuits. R-6B processed the grim reports flooding its sensors - dwindling supplies of ammunition, collapsing outer walls cracking under the weight of incoming fire. Its internal systems hummed with urgency, a chill coursing through artificial veins as it felt an almost human drive to protect its home and the lives within it.
 
 "Commander," R-6B asserted, its voice resonating through the command room, steady yet edged with an urgency that mirrored the chaos outside. "We are down to a fraction of our munitions and armaments. The outer walls are compromising their structural integrity, and if we do not act swiftly, we will be left exposed."
 
