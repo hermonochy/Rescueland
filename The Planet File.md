@@ -1,7 +1,8 @@
 *SPDX-License-Identifier: CC-BY-NC-SA-4.0*
 
 
-This file presents a brief summary of the major planets, listed according to their distance from Rescueland.
+This file presents a brief summary of the major planets, listed according to their distance from Rescueland. Note that it does not encompass every planet, as doing so would exceed the processing capabilities of all the computers on Earth.
+
 
 ## Keys
 
@@ -15,14 +16,14 @@ This file presents a brief summary of the major planets, listed according to the
 
 **Leader:** The planet's leader or its political system  
 
-**Power Status:** Each inhabited planet is assigned a military power ranking from 1 to 6,000,000,000. This may not align with the army size, as some ships are more powerful than others.  
+**Power Status:** Each inhabited planet is assigned a military power ranking from 1 to 6,000,000,000. This may not align with the army size, as some ships are more advanced than others.  
 
 **Army Size:** Total count of military personnel  
 
 - **Interceptors:** Number of interceptors  
 - **Battle Ships:** Number of battle ships (includes pocket destroyers)  
 - [**Darkfighters:**](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#darkfighters-greyfighters-and-lightfighters) Number of dark fighters (includes grey and lightfighters)  
-- **Ground Force:** Total number of foot soldiers
+- **Ground Force:** Number of foot soldiers
 
 *Note: Rarer ship types have been excluded.*  
 
@@ -45,6 +46,16 @@ This file presents a brief summary of the major planets, listed according to the
 **Atmosphere:** Primary gases in the atmosphere  
 
 **General:** Overview of pertinent information  
+
+---
+
+Different celestial bodies will have different heading sizes: 
+
+## System
+
+### Planet
+
+#### Satelite
 
 ## Contents
 
@@ -115,12 +126,19 @@ This file presents a brief summary of the major planets, listed according to the
 
 ## Factions  
 
-Various factions exist within the multiverses. The following abbreviations represent the factions to which the planet belongs:  
+Various factions exist within the multiverses. The folloewing abbreviations represent the factions to which the planet's loyalties lie:  
 
 - **Rescueland Empire:** R  
 - **Rebel 10:** B  
 - **Separatists:** S  
 - **Independent:** I
+
+|Name|Abbreviation|
+|-----------|--------|
+|Rescueland Empire|R|
+|Rebel 10|B|
+|Seperatists|S|
+|Independent|I|
 
 
 ### Rescueland Empire
@@ -129,7 +147,7 @@ Various factions exist within the multiverses. The following abbreviations repre
 
 **Overview:**
 
-Despite the name, The Rescueland Empire is a cooperative entity dedicated to mutual assistance among planets in the multiverse. Officially a republic, it emphasizes democratic values.
+Despite the name, The Rescueland Empire not an empire but a cooperative entity dedicated to mutual assistance among planets in the multiverse. Officially a republic, it emphasizes democratic values. During war however, Weda, Commander of War, is able to take control. While others can give ideas, it is him who decides the final outcome. 
 
 **Goals:**
 
@@ -161,7 +179,7 @@ The Separatists are a shadowy faction harboring a radical ideology focused on di
 
 **Goals:**
 
-To eradicate the Rescueland influence and disrupt communications, leaving planets disoriented and vulnerable.
+To eradicate the Rescueland and Helucky influence and disrupt communications, leaving planets disoriented and vulnerable.
 To take advantage of the ensuing chaos to establish their own authoritarian regime.
 
 ### Independent
@@ -188,7 +206,7 @@ To remain completely neutral to the skirmishes between the factions.
 
 **Capital:** Non-existent
 
-**Leader:** none (However, during war, Commander of War Weda has command of the armies.)
+**Leader:** none
 
 **Power Status:** 5999999997/6000000000
 
@@ -860,8 +878,6 @@ Army Size:
 Life on N2 revolves around basic agriculture, foraging, and rudimentary hunting techniques, with communities primarily focused on survival. The tribes maintain a decentralized structure, with no formal leadership, relying instead on elder councils for guidance in communal matters.   
 The inhabitants have developed a belief system that venerates the concept of Rescueland as a pantheon of divine forces that govern their existence and protect them from external threats. Each tribe worships the ideals of Rescueland, viewing them as benevolent deities that saved them from the threat of Bad Guy Land. The tribes refer to the ideals of Rescueland as "The Protectors." Oral traditions are rich with tales of legendary figures representing the ideals of Rescueland. These stories serve to inspire the youth and instill a sense of purpose as they learn about courage and resilience through the narratives of their "gods."
 
-
-
 ### Nelula (R)
 
 **Name:** Nelula
@@ -973,7 +989,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 60%, Argon 20%, Neon 20%
 
-**General:** Keluha is a planet abundant in crystalline resources that draw commercial interests, while also prioritizing technological advancements in resource management. Located strategically within a remote mountain range is a Helucky stronghold, which is well-suited for launching offensive operations against neighboring systems. This base, currently under the precarious control of Recola, occupies a critical position that enables it to strike at key planets before Rescueland has the chance to mobilize its defenses. The ongoing conflict between Helucky and Recola for control of this base carries significant implications for the regional balance of power. Despite facing heavy casualties, Recola remains resolute in its efforts to maintain its position, knowing that losing Keluha could lead to a dramatic shift in their fortunes.
+**General:** Keluha is a planet abundant in crystalline resources that draw commercial interests, while also prioritizing technological advancements in resource management. Located strategically within a remote mountain range is a Helucky stronghold, which is well-suited for launching offensive operations against neighboring systems. This base, recently reconquered from the precarious control of Recola, occupies a critical position that enables it to strike at key planets before Rescueland has the chance to mobilize its defenses. The ongoing conflict between Helucky and Recola for control of this base carries significant implications for the regional balance of power. Despite facing heavy casualties, Recola remains resolute in its efforts to maintain its position, knowing that losing Keluha could lead to a dramatic shift in their fortunes.
 
 
 ## Mewfa System

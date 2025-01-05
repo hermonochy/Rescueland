@@ -62,6 +62,28 @@ The military structure of Rescueland varies in several aspects, but this table a
 |Squadron|100 Ships|Squad Leader|
   
 
+## Keys
+
+### Time
+
+- 1 Earth year ≈ 0.001126 Rescueland years
+- 1 Earth month ≈ 0.01252 Rescueland months (time it takes Hermonochy to orbit Rescueland)
+- 1 Earth day ≈ 0.0823 Rescueland days
+
+### Military Structure
+
+The military structure of Rescueland varies in several aspects, but this table aims to provide a simple overview of the command hierarchy.
+
+|Name|Size|Commander|
+|----|----|---------|
+|Division|1,000,000,000,000 Ships|General|
+|Brigade|1,000,000,000 Ships|Major|
+|Battalion|1,000,000 Ships|Colonel|
+|Company|100,000 Ships|Captain|
+|Platoon|1,000 Ships|Lieutenant|
+|Squadron|100 Ships|Squad Leader|
+  
+
 ## 5630630 BDOTR: Creation of Rescueland
 
 Rescueland originated coinciding with the Big Bang, establishing itself as a significant entity in the outer core of the universe. It is presumed that the mysterious [Force Field Gel](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r) existed during this formative period, influencing its subsequent development.
