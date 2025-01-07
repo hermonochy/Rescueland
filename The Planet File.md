@@ -3,10 +3,25 @@
 
 This file presents a brief summary of the major planets, listed according to their distance from Rescueland. Note that it does not encompass every planet, as doing so would exceed the processing capabilities of all the computers on Earth.
 
+## Past Planet Files
+
+There are several versions of the planet file available, each from a different time period. This particular version is the most up to date. Below is a list of the other versions:
+
+- [25 ADOTR](./The%20Planet%20File_25.md)
+
 
 ## Keys
 
-**Name:** The name of the planet  
+
+## System
+
+### Planet
+
+#### Satelite (Moon)
+
+---
+
+**Name:** The name of the planet 
 
 **Flag:** The planet's flag  
 
@@ -21,13 +36,13 @@ This file presents a brief summary of the major planets, listed according to the
 **Army Size:** Total count of military personnel  
 
 - **Interceptors:** Number of interceptors  
-- **Battle Ships:** Number of battle ships (includes pocket destroyers)  
+- **Battle Ships:** Number of battle ships (*includes pocket destroyers*)  
 - [**Darkfighters:**](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#darkfighters-greyfighters-and-lightfighters) Number of dark fighters (includes grey and lightfighters)  
 - **Ground Force:** Number of foot soldiers
 
-*Note: Rarer ship types have been excluded.*  
+*Note: Rarer types of ship have been excluded.*  
 
-**Tech Level:** A measure of technological advancement, rated on a scale of 1 to 12 for military capability:  
+**Tech Level:** A measure of technological advancement, rated on a scale of 1 to 12 for technological capability:  
 1. Stone Age  
 2. Medieval Age  
 3. Present-Day Earth  
@@ -47,15 +62,6 @@ This file presents a brief summary of the major planets, listed according to the
 
 **General:** Overview of pertinent information  
 
----
-
-Different celestial bodies will have different heading sizes: 
-
-## System
-
-### Planet
-
-#### Satelite
 
 ## Contents
 
@@ -69,21 +75,21 @@ Different celestial bodies will have different heading sizes:
   - [Telor System](#telor-system)
     - [Tortisland (R)](#tortisland-r)
   - [The Bad Guy Land System (B)](#the-bad-guy-land-system-b)
-    - [Bad Guy Land (Previously B)](#bad-guy-land-previously-b)
-    - [Mega Bad Guy Land (Previously B)](#mega-bad-guy-land-previously-b)
-    - [Ultra Bad Guy Land (Previously B)](#ultra-bad-guy-land-previously-b)
+    - [Bad Guy Land (B)](#bad-guy-land-b)
+    - [Mega Bad Guy Land (B)](#mega-bad-guy-land-b)
+    - [Ultra Bad Guy Land (B)](#ultra-bad-guy-land-b)
   - [Klesone System](#klesone-system)
     - [Klesone (R)](#klesone-r)
       - [Oxo (R)](#oxo-r)
   - [Helucky System](#helucky-system)
     - [Helucky (B)](#helucky-b)
-    - [Imperium (Previously B)](#imperium-previously-b)
+    - [Imperium (B)](#imperium-b)
   - [The Fil System](#the-fil-system)
     - [Filto (R)](#filto-r)
     - [Filna (R)](#filna-r)
     - [Filcho (R)](#filcho-r)
   - [G2320 System](#g2320-system)
-    - [Voldim (Previously B)](#voldim-previously-b)
+    - [Voldim (B)](#voldim-b)
   - [Udas System](#udas-system)
     - [Wana (R)](#wana-r)
     - [Ukakia](#ukakia)
@@ -126,12 +132,7 @@ Different celestial bodies will have different heading sizes:
 
 ## Factions  
 
-Various factions exist within the multiverses. The folloewing abbreviations represent the factions to which the planet's loyalties lie:  
-
-- **Rescueland Empire:** R  
-- **Rebel 10:** B  
-- **Separatists:** S  
-- **Independent:** I
+Various factions exist within the multiverses. The following abbreviations represent the factions to which the planet's loyalties lie:  
 
 |Name|Abbreviation|
 |-----------|--------|
@@ -214,11 +215,11 @@ Army Size:
 - **Interceptors:** 369 trillion
 - **Battle Ships:** 834,000
 - **Darkfighters:** 8
-- **Ground Force:** 423 septillion
+- **Ground Force:** 165 septillion
 
 **Tech Level:** 12
 
-**Population:** 8.9798*10^18
+**Population:** 8.9798*10^15
 
 **Atmosphere:** Nitrogen 90%, Hydrogen 8%, Oxygen 1%
 
@@ -347,7 +348,7 @@ Army Size:
 
 The Bad Guy Land system is where the Rebel 10 Faction was originally founded. All planets in this system are now under the control of Rescueland.
 
-### Bad Guy Land (Previously B)
+### Bad Guy Land (B)
 
 **Name:** Bad Guy Land
 
@@ -377,7 +378,7 @@ Army Size:
 The population largely consisted of enslaved individuals, living under a constant threat of violence. The overall atmosphere was toxic, contributing to the bleak living conditions for its population.
 The societal structure was highly stratified, with the elite enjoying privileges while the vast majority suffered under the regime's oppressive policies.
 
-### Mega Bad Guy Land (Previously B)
+### Mega Bad Guy Land (B)
 
 **Name:** Mega Bad Guy Land
 
@@ -405,7 +406,7 @@ Army Size:
 
 **General:** Mega Bad Guy Land emerged as a significant adversary following the fall of Bad Guy Land, propelled by its desire for vengeance against the Rescueland Empire. With its roots in a culture of militarism and aggression, Mega Bad Guy Land sought to reclaim its standing in the galaxy through direct confrontation. 
 
-### Ultra Bad Guy Land (Previously B)
+### Ultra Bad Guy Land (B)
 
 **Name:** Ultra Bad Guy Land
 
@@ -524,7 +525,7 @@ The planet’s military doctrine revolves around overwhelming force and relentle
 The primary obstacle hindering Helucky from launching an outright offensive is its insufficient fleet of battleships. Whereas interceptor crafts excel in air-to-air combat and rapid response, battleships are essential for commanding and controlling operations in vast sectors of space and for engaging formidable opponents effectively. The absence of a robust battleship fleet means that Helucky’s interceptors would be vulnerable when faced with sustained attacks. This vulnerability keeps Helucky leaders cautious, as an attack could leave them exposed to counterattacks and retaliatory strikes.
 Moreover, the planet’s leaders are acutely aware of the risks associated with instigating an attack, given the fearsome reputation of Rescueland’s numerous [darkfighters](./The%20Ship%20File.md#dark-grey-and-light-fighters).
 
-### Imperium (Previously B)
+### Imperium (B)
 
 **Name**: Imperium  
 
@@ -637,11 +638,11 @@ Army Size:
 
 **Atmosphere:** Oxygen 65%, Nitrogen 25%, Trace gases 10%
 
-**General:** Filcho focuses on research and exploration, maintaining lightly armed research vessels for defense against potential threats. It plays a crucial role in scientific advancements within the system, supplementing the technologies provided by Filto and contributing to the overall stability and progress of the Fil planets.
+**General:** Filcho focuses on research and exploration, maintaining lightly armed and heavily shielded research vessels for defense against potential threats. It plays a crucial role in scientific advancements within the system, supplementing the technologies provided by Filto and contributing to the overall stability and progress of the Fil planets.
 
 ## G2320 System
 
-### Voldim (Previously B)
+### Voldim (B)
 
 **Name:** Voldim
 
@@ -661,7 +662,7 @@ Army Size:
 - **Darkfighters:** 0
 - **Ground Force:** 35 billion
 
-**Tech Level:** 8
+**Tech Level:** 7
 
 **Population:** 50 billion
 
@@ -828,7 +829,7 @@ Army Size:
 
 **Capital:** Brir
 
-**Leader:** The Unitary Council
+**Leader:** The Council
 
 **Power Status:** 2900000000/6000000000
 
@@ -844,7 +845,7 @@ Army Size:
 
 **Atmosphere:** Nitrogen 50%, Oxygen 35%, Argon 15%
 
-**General:** A vibrant agricultural planet, Fufe exports food supplies, featuring colorful crops and unique flora.
+**General:** A vibrant agricultural planet, Fufe exports food supplies, featuring colourful crops and unique flora.
 
 ## Hana System
 
@@ -933,7 +934,7 @@ Army Size:
 
 **Atmosphere:** Hydrogen 40%, Oxygen 30%, Helium 30%
 
-**General:**  Ehana is a desert planet that harnesses the power of solar energy, using advanced technology to optimize their resources effectively. Once part of the Rescueland Empire, Ehana has made history by becoming the first planet to willingly leave the empire, under the belief that they are self-sufficient enough to thrive independently. High Lord Tacer leads with a vision of autonomy and sustainability.
+**General:**  Ehana is a desert planet that harnesses the power of solar energy, using advanced technology to optimize their resources effectively. Once part of the Rescueland Empire, Ehana has made history by becoming the first planet to willingly leave the empire, under the belief that they are self-sufficient enough to thrive independently. High Lord Tacer leads with a vision of autonomy and sustainability, convinced that the Rescueland empire would collapse and they would be dragged down with it.
 
 ### Heloa (R)
 
@@ -989,8 +990,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 60%, Argon 20%, Neon 20%
 
-**General:** Keluha is a planet abundant in crystalline resources that draw commercial interests, while also prioritizing technological advancements in resource management. Located strategically within a remote mountain range is a Helucky stronghold, which is well-suited for launching offensive operations against neighboring systems. This base, recently reconquered from the precarious control of Recola, occupies a critical position that enables it to strike at key planets before Rescueland has the chance to mobilize its defenses. The ongoing conflict between Helucky and Recola for control of this base carries significant implications for the regional balance of power. Despite facing heavy casualties, Recola remains resolute in its efforts to maintain its position, knowing that losing Keluha could lead to a dramatic shift in their fortunes.
-
+**General:** Keluha is a planet abundant in crystalline resources that draw commercial interests, while also prioritizing technological advancements in resource management. Located strategically within a remote mountain range is a Helucky stronghold, which is well-suited for launching offensive operations against neighboring systems. This base, recently reconquered from the precarious control of Recola, occupies a critical position that enables it to strike at key planets before Rescueland has the chance to mobilize its defenses. The ongoing conflict between Helucky and Recola for control of this base carries significant implications for the regional balance of power. Despite facing heavy casualties, Recola remains resolute in its efforts to regain its position, knowing that losing Keluha permanently would disrupt their sinister plan.
 
 ## Mewfa System
 
