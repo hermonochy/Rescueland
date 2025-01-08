@@ -143,6 +143,8 @@ Various factions exist within the multiverses. The folloewing abbreviations repr
 
 ### Rescueland Empire
 
+**Flag:** ![](images/RescuelandEmpire_flag.png)
+
 **Current Capital:** Rescueland
 
 **Overview:**
@@ -157,6 +159,8 @@ To promote peace, stability, and development across the multiverse while serving
 
 ### Rebel 10
 
+**Flag:** ![](images/Rebel10_flag.png)
+
 **Current Capital:** Helucky
 
 **Overview:**
@@ -170,6 +174,8 @@ To establish a new framework based on direct control and dictatorship.
     
 
 ### Separatists
+
+**Flag:** ![](images/Seperatist_flag.png)
 
 **Current Capital:** Recola
 
