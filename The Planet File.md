@@ -220,11 +220,11 @@ Army Size:
 - **Interceptors:** 369 trillion
 - **Battle Ships:** 834,000
 - **Darkfighters:** 8
-- **Ground Force:** 423 septillion
+- **Ground Force:** 423 octillion
 
 **Tech Level:** 12
 
-**Population:** 8.9798*10^18
+**Population:** 8.9798*10^38
 
 **Atmosphere:** Nitrogen 90%, Hydrogen 8%, Oxygen 1%
 
@@ -521,7 +521,7 @@ Army Size:
 
 **Tech Level:** 11
 
-**Population:** 766 octillion
+**Population:** 766 septillion
 
 **Atmosphere:** Oxygen 55%, Nitrogen 30%, Trace gases 15%
 
