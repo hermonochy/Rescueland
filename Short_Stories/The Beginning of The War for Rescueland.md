@@ -1,4 +1,4 @@
-*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
+***SPDX-License-Identifier:*** *CC-BY-NC-SA-4.0*
 
 
 *This story presents the beginning of the invasion from Bad Guy Land through the eyes of Ukat, an FRJ tasked with reconnaissance at the time.*

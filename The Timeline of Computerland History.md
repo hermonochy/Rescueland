@@ -1,4 +1,4 @@
-*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
+***SPDX-License-Identifier:*** *CC-BY-NC-SA-4.0*
 
 [Computerland](./The%20Planet%20File.md#computerland-i) is an extraordinary planet composed of a [Conductium](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#conductium-c-con-duct-ee-umm) core and sentient electricity, characterized by its unique technological advancement and cooperative relations with the [Rescueland Empire](./The%20Planet%20File.md#rescueland-empire). However, it's history is relatively uneventful compared to that of [Rescueland](./The%20Timeline%20of%20Resueland%20History.md). This timeline highlights the significant events that shaped Computerland since its establishment and its evolution as a close ally of Rescueland.
 

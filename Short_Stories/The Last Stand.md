@@ -1,4 +1,4 @@
-*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
+***SPDX-License-Identifier:*** *CC-BY-NC-SA-4.0*
 
 
 *This story presents the invasion of the Keluha base through the eyes of R-6B, the commander at the time.*

@@ -1,4 +1,4 @@
-*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
+***SPDX-License-Identifier:*** *CC-BY-NC-SA-4.0*
 
 This document outlines all significant events that have taken place since the establishment of Rescueland. Since Rescueland lacks a sun, it does not have a traditional year system; instead, a time unit equivalent to approximately 888 Earth years is utilized. The Rescueland equivalent of AD is referred to as ADOTR (After Discovery of the Rings), while BCE is denoted as BDOTR (Before Discovery of the Rings).
 
@@ -9,9 +9,6 @@ This document outlines all significant events that have taken place since the es
 - [Keys](#keys)
   - [Time](#time)
   - [Military Structure](#military-structure)
-- [Keys](#keys-1)
-  - [Time](#time-1)
-  - [Military Structure](#military-structure-1)
 - [5630630 BDOTR: Creation of Rescueland](#5630630-bdotr-creation-of-rescueland)
 - [0 ADOTR: Discovery of the Rings](#0-adotr-discovery-of-the-rings)
 - [2 ADOTR: The Launch of the First Spaceship](#2-adotr-the-launch-of-the-first-spaceship)
@@ -40,33 +37,11 @@ This document outlines all significant events that have taken place since the es
 - [510 ADOTR: The War Against Federre](#510-adotr-the-war-against-federre)
 - [511 ADOTR: The Discovery of Helucky](#511-adotr-the-discovery-of-helucky)
 - [515 ADOTR: The Second War for Rescueland and The Battle of Helucky](#515-adotr-the-second-war-for-rescueland)
-- [518 ADOTR: The Discovery of Recola](#the-discovery-of-recola)
+- [518 ADOTR: The Discovery of Recola](#518-adotr-the-discovery-of-recola)
 - [550 ADOTR: Battle for the Helucky Base](#550-adotr-battle-for-the-helucky-base)
 - [551 ADOTR: The Return of Helucky](#551-adotr-the-return-of-helucky)
 - [553 ADOTR: The Third Battle of The Keluha Bases](#553-adotr-the-third-battle-of-the-keluha-bases)
 - [555 ADOTR: The Second Ice War](#555-adotr-the-second-ice-war)
-
-
-## Keys
-
-### Time
-
-- 1 Earth year ≈ 0.001126 Rescueland years
-- 1 Earth month ≈ 0.01252 Rescueland months (time it takes Hermonochy to orbit Rescueland)
-- 1 Earth day ≈ 0.0823 Rescueland days
-
-### Military Structure
-
-The military structure of Rescueland varies in several aspects, but this table aims to provide a simple overview of the command hierarchy.
-
-|Name|Size|Commander|
-|----|----|---------|
-|Division|1,000,000,000,000 Ships|General|
-|Brigade|1,000,000,000 Ships|Major|
-|Battalion|1,000,000 Ships|Colonel|
-|Company|100,000 Ships|Captain|
-|Platoon|1,000 Ships|Lieutenant|
-|Squadron|100 Ships|Squad Leader|
   
 
 ## Keys
@@ -89,7 +64,8 @@ The military structure of Rescueland varies in several aspects, but this table a
 |Company|100,000 Ships|Captain|
 |Platoon|1,000 Ships|Lieutenant|
 |Squadron|100 Ships|Squad Leader|
-|Flight|25 Ships|Flight Leader|  
+|Flight|25 Ships|Flight Leader| 
+|Unit|1 Ship|Pilot| 
 
 ## 5630630 BDOTR: Creation of Rescueland
 
@@ -520,7 +496,7 @@ Ultimately, after an intense battle, Helucky's surviving forces managed to break
 |---------|----------------|----------------|--------------|------------------|------------------|
 | Recola | 12 Divisions (Rescueland base) + 168 Divisions (Helucky base)| 330 Divisions | 0 Divisions | 330 Divisions | 30 Helucky Battalions |
 | Helucky | 21 Divisions (Rescueland base) + 430 Divisions (Helucky base) | 750 Divisions | 14 Divisions | 730 Divisions | 0 |
-| Rescueland | 1 Flight | 1 Flight | 20 Ships | 5 Ships | 0 |
+| Rescueland | 1 Flight | 1 Flight | 20 Units | 5 Units | 0 |
 
 Following the chaotic struggles for dominance on Keluha, a strategic plan took shape within Helucky military command. Two crucial bases - one a Rescueland base and the other Helucky - had fallen under Recola's control, and Helucky sought to exploit Recola’s vulnerabilities. A well-crafted plan was set in motion to draw Recola's troops away from the Helucky base.
 Mobilizing an impressive 21 divisions - 21 trillion ships - the Helucky forces launched a coordinated assault on the Rescueland base currently under Recola control. The intent of this decoy attack was to overwhelm the Rescueland base, disrupting Recola's defenses and diverting their attention and resources from the Helucky stronghold.
