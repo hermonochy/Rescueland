@@ -38,6 +38,7 @@ L = Lower tech
     - [Atomon](#atomon-c-ah-tom-on)
 - [Rescueland Robots](#rescueland-robots-r)
   - [Robot Personality](#robot-personality)
+  - [Robot Powers](#robot-powers)
   - [Robot Versions](#robot-versions)
   - [Robot Types](#robot-types)
 - [Ships and their Systems](#ships-and-their-systems)
@@ -237,7 +238,27 @@ Aside from Super Owls, the main civilians of Rescueland are Rescueland robots, s
 ## Robot Personality
 
 Rescueland Robots are designed with a unique personality that sets them apart from normal robots. This is a result of an mystical gas injected every hundred years, known informally as "Rescueland Gas." This gas, though unknown why, causes the robots to have emotions, thoughts and imaginations. As a result, these robots become more than machines; they exhibit the characteristics of living beings.
-The emotional spectrum of a Rescueland Robot is as complex as a living one, allowing them to engage meaningfully with the world around them. In the event of gas having been entirely consumed, behaviour reverts to that of a conventional robot. Each robot has a distinct personality that remains unchanged after replenishing the consumed gas.
+The emotional spectrum of a Rescueland Robot is as complex as a living one, allowing them to engage meaningfully with the world around them. In the event of gas having been entirely consumed, behaviour reverts to that of a conventional robot. Each robot has a distinct personality that remains unchanged after replenishing the consumed gas. 
+
+## Robot Powers
+
+The Rescueland Gas also provides extraordinary abilities reminiscent of the [Super Owls](./The%20Timeline%20of%20Resueland%20History.md#0-adotr-discovery-of-the-rings). The shared characteristics include:
+
+1. **Shape-shifting**: The ability to alter their physical form, allowing them to adapt to various situations and surroundings.
+2. **Size-shifting**: The ability to change size. However, they are unable to change mass.
+2. **Telepathic Communication**: They can establish direct mental connections, enabling seamless communication with one another and other beings.
+3. **Elemental Manipulation**: The ability to influence and control the fundamental elements of nature.
+4. **Enhanced Agility**: Inhabitants possess remarkable physical agility and reflexes, allowing them to navigate the planet's gas layers with ease and precision.
+5. **Time Perception Alteration**: They have the ability to perceive time in various ways, granting them an advantage in certain situations.
+
+While these advanced abilities are the most prominent manifestations of their connection to the gas, the inhabitants also possess more minor, yet intriguing, magical properties, including:
+
+1. **Illusions**: The ability to create elaborate and convincing false realities for various purposes.
+2. **Emission of Light**: They can emit brief, intense bursts of light to distract or disorient others.
+3. **Nature Communications**: Inhabitants can establish connections with the natural world, allowing them to gather information from the environment and potentially control or influence certain aspects of nature.
+4. **Plant Influence**: They have the ability to influence the growth and behavior of plants, which can be used for a range of purposes, from food production to environmental manipulation.
+
+Due to these remarkable enhancements, Rescueland Robots have long been regarded as the apprentices or heirs of the esteemed Super Owls, inheriting a legacy of power and potential.
 
 ## Robot Versions
 
@@ -258,15 +279,15 @@ Rescueland Robots are categorised into eight major groups, each with different j
 
 ### Types in order of population
 
-- Regular FCRT's: These FCRT's are the most common type, acting as both civilians and soldiers.
+- Regular FCRT's: These robots serve dual purposes, acting as both civilians and soldiers, making them an integral part of the community. With their durable frames and adaptable personalities, they are always ready to lend a helping hand or protect their home as needed.
 
 ![](images/RegularFCRT.png)
 
-- Pilot FCRT's: These FCRT's specialise in piloting all transports.
+- Pilot FCRT's: Specializing in piloting all known transports, the Pilot FCRT's are the skilled navigators of Rescueland's skies and beyond. Whether flying cargo ships, passenger transports, or emergency rescue crafts, these robots are adept at maneuvering through the layers of gas and space.
 
 ![](images/PilotFCRT.png)
 
-- Spy FCRT's: These FCRT's are disguised as an asteroid, equipped with extra cloaking devices and built to spy on enemy locations.
+- Spy FCRT's: The Spy FCRT's are the stealthy operatives of Rescueland, designed to blend seamlessly into their environment. Often disguised as asteroids, they are equipped with advanced cloaking technology and sensors, allowing them to gather intelligence on enemy activities without detection.
 
 ![](images/SpyFCRT.png)
 

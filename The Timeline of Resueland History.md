@@ -73,7 +73,7 @@ Rescueland originated coinciding with the Big Bang, establishing itself as a sig
 
 ## 0 ADOTR: Discovery of the Rings
 
-The Rings were discovered by the Super Owls, who gained consciousness and a range of abilities, including space flight, shapeshifting, sizeshifting, etc.
+The Rings were discovered by the Super Owls, who gained consciousness and a range of abilities, including shape-shifting, size-shifting, mass-shifting, space flight, telepathic communication, elemental manipulation, physics manipulation, enhanced agility and time perception alteration. Some minor magical properties include the ability to create illusions, emit bursts of light for distraction, communicate with nature,and influence growth.
 
 ## 2 ADOTR: The Launch of the First Spaceship
 
