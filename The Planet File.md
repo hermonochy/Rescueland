@@ -69,21 +69,21 @@ Different celestial bodies will have different heading sizes:
   - [Telor System](#telor-system)
     - [Tortisland (R)](#tortisland-r)
   - [The Bad Guy Land System (B)](#the-bad-guy-land-system-b)
-    - [Bad Guy Land (Previously B)](#bad-guy-land-previously-b)
-    - [Mega Bad Guy Land (Previously B)](#mega-bad-guy-land-previously-b)
-    - [Ultra Bad Guy Land (Previously B)](#ultra-bad-guy-land-previously-b)
+    - [Bad Guy Land (B)](#bad-guy-land-b)
+    - [Mega Bad Guy Land (B)](#mega-bad-guy-land-b)
+    - [Ultra Bad Guy Land (B)](#ultra-bad-guy-land-b)
   - [Klesone System](#klesone-system)
     - [Klesone (R)](#klesone-r)
       - [Oxo (R)](#oxo-r)
   - [Helucky System](#helucky-system)
     - [Helucky (B)](#helucky-b)
-    - [Imperium (Previously B)](#imperium-previously-b)
+    - [Imperium (B)](#imperium-b)
   - [The Fil System](#the-fil-system)
     - [Filto (R)](#filto-r)
     - [Filna (R)](#filna-r)
     - [Filcho (R)](#filcho-r)
   - [G2320 System](#g2320-system)
-    - [Voldim (Previously B)](#voldim-previously-b)
+    - [Voldim (B)](#voldim-b)
   - [Udas System](#udas-system)
     - [Wana (R)](#wana-r)
     - [Ukakia](#ukakia)
@@ -122,16 +122,18 @@ Different celestial bodies will have different heading sizes:
     - [Scanal (I)](#scanal-i)
   - [Computerland System](#computerland-system)
     - [Computerland (I)](#computerland-i)
+  - [Dara System](#dara-system)
+    - [Zhalam (R)](#zhalam-r)
+    - [Yurash (R)](#yurash-r)
+  - [Talu System](#talu-system)
+    - [Jequai (R)](#jequai-r)
+    - [Muru (I)](#muru-i)
+    - [Fala (R)](#fala-r)
 
 
 ## Factions  
 
-Various factions exist within the multiverses. The folloewing abbreviations represent the factions to which the planet's loyalties lie:  
-
-- **Rescueland Empire:** R  
-- **Rebel 10:** B  
-- **Separatists:** S  
-- **Independent:** I
+Various factions exist within the multiverses. The following abbreviations represent the factions to which the planet's loyalties lie:  
 
 |Name|Abbreviation|
 |-----------|--------|
@@ -149,7 +151,7 @@ Various factions exist within the multiverses. The folloewing abbreviations repr
 
 **Overview:**
 
-Despite the name, The Rescueland Empire not an empire but a cooperative entity dedicated to mutual assistance among planets in the multiverse. Officially a republic, it emphasizes democratic values. During war however, Weda, Commander of War, is able to take control. While others can give ideas, it is him who decides the final outcome. 
+Despite the name, The Rescueland Empire is not an empire but a cooperative entity dedicated to mutual assistance among planets in the multiverse. Officially a republic, it emphasizes democratic values. During war however, Weda, Commander of War, is able to take control. While others can give ideas, it is him who decides the final outcome. 
 
 **Goals:**
 
@@ -181,7 +183,7 @@ To establish a new framework based on direct control and dictatorship.
 
 **Overview:**
 
-The Separatists are a shadowy faction harboring a radical ideology focused on dismantling the Rescueland Empire entirely. Their ultimate goal is to plunge the multiverse into chaos, allowing them to establish control over key resources during the ensuing anarchy.
+The Separatists are a shadowy faction harboring a radical ideology focused on dismantling the Rescueland Empire entirely. Their ultimate goal is to plunge the multiverse into chaos, allowing them to establish control over key resources with little restistance during the ensuing anarchy.
 
 **Goals:**
 
@@ -230,8 +232,10 @@ Army Size:
 
 **General:** Rescueland stands out as the first of the three prominent 'superpowers', alongside Helucky and Recola. What makes Rescueland particularly unique is its focus on the quality and training of its military forces, setting it apart even though it possesses the smallest army among the three superpowers. 
 The sheer effectiveness and elite training of Rescueland's troops allow them to compete on equal footing with larger forces. Their emphasis on teamwork and cohesion often leads to a highly disciplined fighting force capable of executing complex maneuvers under pressure.
-Geographically, Rescueland is an extraordinary planet, sometimes enveloped by the largest [FFG](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r) known in history. In the event of an invasion attempt, the invaders must strategically group and position themselves directly in front of the FFG, waiting for the shield to expire. Invaders must carefully plan their assault, as any miscalculation could result in disastrous consequences.
-Rescueland's infrastructure and alliances also play a significant role in its defense strategy. While they may not have the sheer number of troops that Helucky or Recola boast, their innovative use of technology, along with diplomatic relationships developed over the years, provides them with additional layers of security. For the few organic beings living on Rescueland, the local cuisine includes a variety of plant-based dishes, using both native and imported ingredients. While not a dominant religion, some express devotion to the [Super Owls](./The%20Timeline%20of%20Resueland%20History.md#0-adotr-discovery-of-the-rings), holding ceremonies to invoke their blessings for protection and guidance by these seemingly supernatural beings. [Rescueland robots](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#rescueland-robots-r) coexist in a vibrant society where FCRT children go to school, live in houses, and experience a lifecycle reminiscent of living organisms due to the effects of Rescueland Gas. This integration creates a unique blend of culture and community, leading to educational systems and social structures akin to those of organic life.
+Geographically, Rescueland is an extraordinary planet, sometimes enveloped by the largest [FFG](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r) known in history. In the event of an invasion attempt, the invaders must strategically group and position themselves directly in front of the FFG, waiting for the shield to expire. Invaders must carefully plan their assault, as any miscalculation could result in disastrous consequences. Also, as the population is spread thin across hundreds of floating platforms, it is a colossal task to conquer all of Rescueland. 
+Rescueland's infrastructure and alliances also play a significant role in its defense strategy. While they may not have the sheer number of troops that Helucky or Recola boast, their innovative use of technology, along with diplomatic relationships developed over the years, provides them with additional layers of security. 
+
+For the few organic beings living on Rescueland, the local cuisine includes a variety of plant-based dishes, using both native and imported ingredients, primarily shipped in from [Fufe](#fufe-r). While not a dominant religion, some express devotion to the [Super Owls](./The%20Timeline%20of%20Resueland%20History.md#0-adotr-discovery-of-the-rings), holding ceremonies to invoke their blessings for protection and guidance by these seemingly supernatural beings. [Rescueland robots](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#rescueland-robots-r) coexist in a vibrant society where FCRT children go to school, live in houses, and experience a lifecycle reminiscent of living organisms due to the effects of Rescueland Gas. This integration creates a unique blend of culture and community, leading to educational systems and social structures akin to those of organic life.
 
 #### Hermonochy (R)
 
@@ -353,7 +357,7 @@ Army Size:
 
 The Bad Guy Land system is where the Rebel 10 Faction was originally founded. All planets in this system are now under the control of Rescueland.
 
-### Bad Guy Land (Previously B)
+### Bad Guy Land (B)
 
 **Name:** Bad Guy Land
 
@@ -383,7 +387,7 @@ Army Size:
 The population largely consisted of enslaved individuals, living under a constant threat of violence. The overall atmosphere was toxic, contributing to the bleak living conditions for its population.
 The societal structure was highly stratified, with the elite enjoying privileges while the vast majority suffered under the regime's oppressive policies.
 
-### Mega Bad Guy Land (Previously B)
+### Mega Bad Guy Land (B)
 
 **Name:** Mega Bad Guy Land
 
@@ -411,7 +415,7 @@ Army Size:
 
 **General:** Mega Bad Guy Land emerged as a significant adversary following the fall of Bad Guy Land, propelled by its desire for vengeance against the Rescueland Empire. With its roots in a culture of militarism and aggression, Mega Bad Guy Land sought to reclaim its standing in the galaxy through direct confrontation. 
 
-### Ultra Bad Guy Land (Previously B)
+### Ultra Bad Guy Land (B)
 
 **Name:** Ultra Bad Guy Land
 
@@ -530,7 +534,7 @@ The planet’s military doctrine revolves around overwhelming force and relentle
 The primary obstacle hindering Helucky from launching an outright offensive is its insufficient fleet of battleships. Whereas interceptor crafts excel in air-to-air combat and rapid response, battleships are essential for commanding and controlling operations in vast sectors of space and for engaging formidable opponents effectively. The absence of a robust battleship fleet means that Helucky’s interceptors would be vulnerable when faced with sustained attacks. This vulnerability keeps Helucky leaders cautious, as an attack could leave them exposed to counterattacks and retaliatory strikes.
 Moreover, the planet’s leaders are acutely aware of the risks associated with instigating an attack, given the fearsome reputation of Rescueland’s numerous [darkfighters](./The%20Ship%20File.md#dark-grey-and-light-fighters).
 
-### Imperium (Previously B)
+### Imperium (B)
 
 **Name**: Imperium  
 
@@ -560,6 +564,8 @@ Army Size:
 
 ## The Fil System
 
+The three inhabited planets in the Fil system operate in a cooperative trio, each with a unique role. Filto specializes in military production and defense, ensuring the safety and security of the system. Filna is dedicated to civilian needs, producing essential goods and services for everyday life. Meanwhile, Filcho focuses on scientific discoveries, driving technological advancements that propel the entire system forward. Together, they create a balanced and collaborative environment that fosters growth and stability across the Fil system.
+
 ### Filto (R)
 
 **Name:** Filto
@@ -572,7 +578,7 @@ Army Size:
 
 **Leader:** Eloha
 
-**Power Status:** 5908648566/6000000000
+**Power Status:** 5918648566/6000000000
 
 Army Size:
 - **Interceptors:** 682 billion
@@ -586,7 +592,8 @@ Army Size:
 
 **Atmosphere:** Oxygen 55%, Nitrogen 30%, Trace gases 15%
 
-**General:** While weak in traditional firepower, Filto's interceptors are incredibly difficult to destroy, only outmatched by darkfighters. As the primary military manufacturer for all three Fil planets, Filto equips them with advanced military assets, reinforcing their collective defense.
+**General:** While weak in traditional firepower, Filto's interceptors are incredibly difficult to destroy, only outmatched by darkfighters. As the primary military manufacturer for all three Fil planets, Filto equips them with advanced military assets, reinforcing their collective defense. Rescueland has a concealed cache of weaponry hidden on this planet, intended for use only in emergencies. This stockpile also includes the small sample of [mutant FFG](./The%20Timeline%20of%20Resueland%20History.md#58-adotr-discovery-of-mutant-force-field-gel) that Rescueland has.
+
 
 ### Filna (R)
 
@@ -600,7 +607,7 @@ Army Size:
 
 **Leader:** Fulah
 
-**Power Status:** 5908648564/6000000000
+**Power Status:** 0508648564/6000000000
 
 Army Size:
 - **Interceptors:** 0
@@ -610,7 +617,7 @@ Army Size:
 
 **Tech Level:** 8
 
-**Population:** 780 billion
+**Population:** 780 trillion
 
 **Atmosphere:** Oxygen 60%, Nitrogen 30%, Methane 10%
 
@@ -643,11 +650,11 @@ Army Size:
 
 **Atmosphere:** Oxygen 65%, Nitrogen 25%, Trace gases 10%
 
-**General:** Filcho focuses on research and exploration, maintaining lightly armed research vessels for defense against potential threats. It plays a crucial role in scientific advancements within the system, supplementing the technologies provided by Filto and contributing to the overall stability and progress of the Fil planets.
+**General:** Filcho focuses on research and exploration, maintaining lightly armed and heavily armoured research vessels for defense against potential threats. It plays a crucial role in scientific advancements within the system, supplementing the technologies provided by Filto and contributing to the overall stability and progress of the Fil planets.
 
 ## G2320 System
 
-### Voldim (Previously B)
+### Voldim (B)
 
 **Name:** Voldim
 
@@ -819,7 +826,7 @@ Army Size:
 
 **Atmosphere:** Nitrogen 59%, Oxygen 30%, Argon 10%
 
-**General:** Recola stands as the enigmatic third superpower, emphasizing unparalleled speed in its fleet at the expense of several key systems like shields. This strategic choice enables its ships to outperform rivals in agility and rapid strike capability. To ensure the utmost secrecy, their forces are operating under stringent directives: they must be destroyed, rather than captured. This means that in the event of an impending defeat or encirclement by enemy forces, soldiers are expected to fight to death, going so far as to neutralize themselves rather than risk being captured and interrogated.  Specializing in radar and radio manipulation, Recola has skillfully influenced the outcome of the Rescueland-Helucky war, playing both sides from the shadows. The exact size of Recola's forces and the location of its home planet remain undiscovered by the other two superpowers, which refer to it simply as “The Third Army.” This secrecy grants Recola a significant advantage, allowing it to maneuver strategically without revealing its capabilities or intentions.
+**General:** [Only recently discovered](./The%20Timeline%20of%20Resueland%20History.md#518-adotr-the-discovery-of-recola), Recola stands as the enigmatic third superpower, emphasizing unparalleled speed in its fleet at the expense of several key systems like shields. This strategic choice enables its ships to outperform rivals in agility and rapid strike capability. To ensure the utmost secrecy, their forces are operating under stringent directives: they must be destroyed, rather than captured. This means that in the event of an impending defeat or encirclement by enemy forces, soldiers are expected to fight to death, going so far as to neutralize themselves rather than risk being captured and interrogated. Specializing in radar and radio manipulation, Recola has skillfully influenced the outcome of the Rescueland-Helucky war, playing both sides from the shadows. The exact size of Recola's forces and the location of its home planet remain undiscovered by the other two superpowers, which refer to it simply as “The Third Army.” This secrecy grants Recola a significant advantage, allowing it to maneuver strategically without revealing its capabilities or intentions.
 
 
 ## Fadet System
@@ -850,7 +857,7 @@ Army Size:
 
 **Atmosphere:** Nitrogen 50%, Oxygen 35%, Argon 15%
 
-**General:** A vibrant agricultural planet, Fufe exports food supplies, featuring colorful crops and unique flora.
+**General:** A vibrant agricultural planet, Fufe exports food supplies enmass, featuring colorful crops and unique flora.
 
 ## Hana System
 
@@ -880,7 +887,7 @@ Army Size:
 
 **Atmosphere:** Nitrogen 70%, Oxygen 25%, Argon 4%
 
-**General:** N2 is the weakest planet in the Rescueland Empire, having joined under duress due to [threats from Bad Guy Land](./The%20Timeline%20of%20Resueland%20History.md#21-adotr-the-first-battle-against-bad-guy-land). The population is divided into numerous tribes, each averaging about a thousand inhabitants, and they are still in the Stone Age, on the cusp of entering the Bronze Age.   
+**General:** N2 is the weakest planet in the Rescueland Empire, having joined under duress due to [threats from Bad Guy Land](./The%20Timeline%20of%20Resueland%20History.md#21-adotr-the-first-battle-against-bad-guy-land). The population is divided into many tribes, each averaging about a thousand inhabitants, still in the Stone Age, on the cusp of entering the Bronze Age.   
 Life on N2 revolves around basic agriculture, foraging, and rudimentary hunting techniques, with communities primarily focused on survival. The tribes maintain a decentralized structure, with no formal leadership, relying instead on elder councils for guidance in communal matters.   
 The inhabitants have developed a belief system that venerates the concept of Rescueland as a pantheon of divine forces that govern their existence and protect them from external threats. Each tribe worships the ideals of Rescueland, viewing them as benevolent deities that saved them from the threat of Bad Guy Land. The tribes refer to the ideals of Rescueland as "The Protectors." Oral traditions are rich with tales of legendary figures representing the ideals of Rescueland. These stories serve to inspire the youth and instill a sense of purpose as they learn about courage and resilience through the narratives of their "gods."
 
@@ -1379,7 +1386,6 @@ Army Size:
 
 **General:** Casopi possesses a mix of rugged mountain terrains and fertile valleys. The Casopian military is known for its strategic prowess, navigating the political landscape to avoid open conflict while still maintaining a capable defensive posture. Recent reforms have aimed to integrate technology into daily governance, leading to burgeoning tech sectors.
 
-
 ### Senena (I)
 
 **Name:** Senena  
@@ -1464,4 +1470,148 @@ Army Size:
 
 **Atmosphere:** N/a
 
-**General:** While not technically part of the Rescueland Empire, this planet made solely of a Conductium core and sentient electricity has remained a close ally of them since [14 ADOTR](./The%20Timeline%20of%20Computerland%20History.md#14-adotr-discovery-of-rescueland).
+**General:** Computerland is not merely a planet; it is a living, breathing entity of technology and communication, a beacon of progress in the cosmos that relentlessly pushes the boundaries of what is possible. While not technically part of the Rescueland Empire, this planet made solely of a Conductium core and the sentient electricity has remained a close ally of them since [14 ADOTR](./The%20Timeline%20of%20Computerland%20History.md#14-adotr-discovery-of-rescueland). Computerland thrives on the integration of advanced technology and artificial intelligence, making it a hub for innovation in the galaxy.
+
+## Dara System
+
+### Zhalam (R)
+
+**Name:** Zhalam
+
+**Flag:** ![](images/Zhalam_flag.png)
+
+**Pronounced:** zha-la-hmn
+
+**Capital:** Uvorin
+
+**Leader:** Varnak
+
+**Power Status:** 2508702472/6000000000
+
+Army Size:
+- **Interceptors:** 150,000
+- **Battle Ships:** 20
+- **Darkfighters:** 0
+- **Ground Force:** 45 million
+
+**Tech Level:** 6
+
+**Population:** 300 billion
+
+**Atmosphere:** Phosphorus 20%, Oxygen 50%, Water Vapor 30%
+
+**General:** Zhalam is a vibrant world known for its unique phosphorus-based flora and fauna. Its society revolves around agriculture and trade, with a deep spiritual connection to their ecological environment. The capital, Uvorin, is famous for its colourful markets and thriving artisan culture. 
+
+### Yurash (R)
+
+**Name:** Yurash
+
+**Flag:** ![](images/Yurash_flag.png)
+
+**Pronounced:** yoo-rah-sh
+
+**Capital:** Nalot
+
+**Leader:** Gromthar
+
+**Power Status:** 1052759436/6000000000
+
+Army Size:
+- **Interceptors:** 126
+- **Battle Ships:** 2
+- **Darkfighters:** 0
+- **Ground Force:** 5 million
+
+**Tech Level:** 5
+
+**Population:** 50 million
+
+**Atmosphere:** Argon 10%, Nitrogen 70%, Carbon Dioxide 20%
+
+**General:** Yurash is a remote mining world that once flourished but now faces significant challenges due to resource depletion. Its inhabitants are resourceful, finding ways to adapt, but their technological advancements are limited. 
+
+## Talu System
+
+### Jequai (R)
+
+**Name:** Jequai
+
+**Flag:** ![](images/Jequai_flag.png)
+
+**Pronounced:** jeh-kai
+
+**Capital:** Nataz
+
+**Leader:** Xiltra
+
+**Power Status:** 4200000000/6000000000
+
+Army Size:
+- **Interceptors:** 300,000
+- **Battle Ships:** 40
+- **Darkfighters:** 5
+- **Ground Force:** 52 million
+
+**Tech Level:** 6
+
+**Population:** 600 million
+
+**Atmosphere:** Helium 30%, Oxygen 40%, Nitrogen 30%
+
+**General:** Jequai is known for its stunning mineral landscapes and rich geothermal resources. The capital, Nataz, is a hub for scientific research and innovation, attracting scholars from across many multiverses.
+
+### Muru (I)
+
+**Name:** Muru
+
+**Flag:** ![](images/Muru_flag.png)
+
+**Pronounced:** moo-roo
+
+**Capital:** Brekku
+
+**Leader:** Kanzo
+
+**Power Status:** 5639824657/6000000000
+
+Army Size:
+- **Interceptors:** 600,000
+- **Battle Ships:** 120
+- **Darkfighters:** 10
+- **Ground Force:** 80 million
+
+**Tech Level:** 9
+
+**Population:** 900 million
+
+**Atmosphere:** Oxygen 55%, Hydrogen 25%, Nitrogen 20%
+
+**General:** Muru is a technologically advanced planet that specializes in renewable energy sources and sustainable living. With a focus on cooperation and innovation, its leadership under Kanzo prioritizes interplanetary relations and environmental stewardship.
+
+### Fala (R)
+
+**Name:** Fala
+
+**Flag:** ![](images/Fala_flag.png)
+
+**Pronounced:** fah-lah
+
+**Capital:** Alumi
+
+**Leader:** Baviyo
+
+**Power Status:** 3700096785/6000000000
+
+Army Size:
+- **Interceptors:** 85,000
+- **Battle Ships:** 55
+- **Darkfighters:** 0
+- **Ground Force:** 40 million
+
+**Tech Level:** 4
+
+**Population:** 200 million
+
+**Atmosphere:** Oxygen 45%, Nitrogen 55%
+
+**General:** Fala is a humid jungle planet, rich in biodiversity and natural resources. The capital, Alumi, is noted for its elaborate tree-top cities, and its inhabitants maintain a strong connection to their surrounding nature, emphasizing harmony with the environment in their culture.

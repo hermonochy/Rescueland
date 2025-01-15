@@ -200,7 +200,7 @@ In the midst of the technological advancements brought about by FFG, disputes ar
 While researching the origins of FFG, another significant breakthrough occurred: the discovery of a small supply of [Mutant Force Field Gel](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#mutant-ffg) aboard an ancient battleship wreck, previously thought lost to the annals of time. This rare gel boasted a distinct green hue, indicating its substantial differences from the standard orange variety.
 Scientists quickly recognized that Mutant FFG could last ten times longer than its "regular" counterpart. They conducted tests that showed its destructive potential: rather than merely repelling projectiles, it instead vaporised anything that passed through it.
 Research teams launched investigations into the circumstances surrounding the production of Mutant FFG, particularly focusing on the ancient ring crushed during its accidental creation. The origin of this powerful variant remained enigmatic, raising more questions than answers, while underscoring its potential as a critical asset.
-To prevent it from falling into the wrong hands, Rescueland decided to keep this destructive variant secret, storing the little gel they obtained in the most secure stronghold known, located on the planet of Filna.
+To prevent it from falling into the wrong hands, Rescueland decided to keep this destructive variant secret, storing the little gel they obtained in the most secure stronghold known, located on the planet of [Filto](./The%20Planet%20File.md#filto-r).
 
 ## 65 ADOTR: War against Mega Bad Guy Land
 
