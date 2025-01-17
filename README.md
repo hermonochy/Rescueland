@@ -14,29 +14,29 @@ Computerland, in the analogon of the tea cup model, is another cup planet, allie
 ## Fact Files
 
 These are the notes and data about Rescueland and Computerland, including the technology, the history, the planets and the types of ships used.
-Facts and concepts are interdependent to a very high degree. Hence, for a complete understanding, it is likely required to double parse these documents.
+Facts and concepts are interdependent to a very high degree. Hence, for a complete understanding, it is likely required to double parse these documents. For ease, they have been listed in the suggested reading order.
 
-[The Technology of Rescueland, Computerland and it's surrounding Planets](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md)
+- [The Technology of Rescueland, Computerland and it's surrounding Planets](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md)
 is far superior to the technology on planet earth in the 21st century.
 Through millenia of basic research, it became possible to control all aspects of matter on every scale, resulting in interesting quecto-materials aggregated into macroscopic hyperstructures. 
 A detailed reference of all technological minutiae is beyond the scope of this script, as no single person or Non-Rescueland robot has sufficient mental capacity or storage to retain it. A coarse overview is sufficiently taxing.
 
-[The Flora and Fauna of Rescueland](./The%20Flora%20and%20Fauna%20of%20Rescueland.md)
+- [The Flora and Fauna of Rescueland](./The%20Flora%20and%20Fauna%20of%20Rescueland.md)
 forms a unique and well balanced ecosystem in the multiverse. Strict protection is enforced by a special forces division of FCRTs. 
 This ecosystem with its diverse genetic pool is acrucial basis for continued technological development, without which all artificial life would go into irreversible decline. Certainly, visitors from other planets find the aesthtics of creatures with hyperspectral bioluminecense fascinating in itself. Famed throughout the multiverse, afflent visitors are attracted from as far as Computerland.
 
-[The Planet File](./The%20Planet%20File.md)
+- [The Planet File](./The%20Planet%20File.md)
 holds key data on all major civilizations in and around the Rescueland Empire, notably population, atmospheric conditions, emblems, geography, military capabilities, political systems, multiversal status and general information, arranged by distance to Rescueland. The planet file also introduces the multiversal factions.
 
-[The Ship File](./The%20Ship%20File.md)
+- [The Ship File](./The%20Ship%20File.md)
 provides insights into the design fundamentals of all major spacecraft utilized by planets with a technology level exceeding 10.
 
-[The Timeline of Rescueland History](./The%20Timeline%20of%20Resueland%20History.md)
+- [The Timeline of Rescueland History](./The%20Timeline%20of%20Resueland%20History.md)
 reaches back to the Big Bang, including the major events DOTR, the start of the space-age, beginning of intra-multiversal travel, discovery of new planets, introduction of the Super Twos and the succession of major multiversal conflicts.
 [The Timeline of Computerland History](./The%20Timeline%20of%20Computerland%20History.md) 
 shows these events from the view of Computerland.
 
-[The File of Famous Commanders](./The%20File%20of%20Famous%20Commanders.md)
+- [The File of Famous Commanders](./The%20File%20of%20Famous%20Commanders.md)
 details the biographies and achievements of the most notable leaders on the superpowers, highlighting their contributions to the faction.
 
 ## Short Stories
