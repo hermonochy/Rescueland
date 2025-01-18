@@ -136,7 +136,7 @@ Different celestial bodies will have different heading sizes:
 Various factions exist within the multiverses. The following abbreviations represent the factions to which the planet's loyalties lie:  
 
 |Name|Abbreviation|
-|-----------|--------|
+|-----------|:--------:|
 |Rescueland Empire|R|
 |Rebel 10|B|
 |Seperatists|S|

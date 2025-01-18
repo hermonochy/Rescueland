@@ -96,7 +96,7 @@
 
 **General:** Once the most successful enemy interceptor design, this model demonstrates a versatility almost comparable to Rescueland vessels, despite having relatively underpowered engines.
 
-###
+---
 
 ![](images/Helucky_Interceptor.png)
 
@@ -106,7 +106,7 @@
 
 **Range:** 2 quintillion ly
 
-**General:** This contemporary Helucky interceptor design allows for rapid mass production, streamlining defensive and offensive capabilities.
+**General:** This contemporary Helucky interceptor design allows for rapid mass production, streamlining both defensive and offensive capabilities. Featuring a compact and cost-effective cannon, the interceptor can be likened to a pistol in terms of versatility and efficiency. Its small size not only makes it easy to produce and deploy but also enables seamless integration with various spacecraft, enhancing overall performance and agility while allowing for swifter reactions in combat situations.
 
 ## Dark Fighters
 
@@ -125,6 +125,7 @@
 **General:** This is the main design for Helucky’s DarkFighters. However, it lacks effectiveness due to the installation of an undersized cannon, rendering it nearly harmless.
 
 *Disclaimer: Although it may resemble a TIE fighter, this design is fundamentally different. The 'wings' are shields, not solar panels and it is a drone, not piloted.*
+
 ### The Helucky DarkFighter Frigade
 
 ![](images/Helucky_DF_Frigade.png)
@@ -157,6 +158,4 @@
 
 **Range:** 82 quadrillion ly
 
-**General:** Although the Recola interceptor is unshielded and vulnerable, its extraordinary speed compensates for its weaknesses, making it difficult to target unless it follows a predictable trajectory.
-
-
+**General:** Although the Recola interceptor is unshielded and thus vulnerable to enemy fire, its extraordinary speed compensates for its weaknesses, allowing it to evade detection and making it difficult to target unless it follows a predictable trajectory. Unlike the Helucky Interceptor, the long, thin tube of a cannon is designed to function as a sniper weapon, granting it unparalleled range and precision, enabling operators to take out key enemy targets from a distance while minimizing their exposure to retaliation.
