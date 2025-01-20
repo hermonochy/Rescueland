@@ -1,4 +1,4 @@
-*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
+***SPDX-License-Identifier:*** *CC-BY-NC-SA-4.0*
 
 
 This file presents a brief summary of the major planets, listed according to their distance from Rescueland. Note that it does not encompass every planet, as doing so would exceed the processing capabilities of all the computers on Earth.
@@ -158,7 +158,7 @@ Various factions exist within the multiverses. The following abbreviations repre
 **Flag:** ![](images/Seperatist_flag.png)
 
 **Current Capital:** Recola
-
+*
 **Overview:**
 
 The Separatists are a shadowy faction who infiltrated the Rebel 10 faction and used their power to destroy the Rescueland Empire. They are now the ultimate power in the multiverses.

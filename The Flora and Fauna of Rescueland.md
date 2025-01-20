@@ -1,4 +1,4 @@
-*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
+***SPDX-License-Identifier:*** *CC-BY-NC-SA-4.0*
 
 Rescueland has a unique ecosystem, entirely isolated from Earth, which has nurtured a diverse range of flora and fauna. Each species has evolved in distinct ways, adapting to their environment without any similarities to Earth's life forms. This document provides detailed insights into some of the most notable inhabitants, highlighting their physical characteristics, behaviors, habitat, and ecological importance.
 
