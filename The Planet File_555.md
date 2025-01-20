@@ -1,14 +1,7 @@
-***SPDX-License-Identifier:*** *CC-BY-NC-SA-4.0*
+*SPDX-License-Identifier: CC-BY-NC-SA-4.0*
 
 
-This file presents a brief summary of the major planets, listed according to their distance from Rescueland. Note that it does not encompass every planet, as doing so would exceed the processing capabilities of all the computers on Earth.
-
-## Past Planet Files
-
-There are several versions of the planet file available, each from a different time period. This particular version is the most up to date. Below is a list of the other versions:
-
-- [25 ADOTR](./The%20Planet%20File_25.md)
-- [555 ADOTR](./The%20Planet%20File_555.md)
+This file presents a brief summary of the major planets in 555 ADOTR, listed according to their distance from Rescueland. Note that it does not encompass every planet, as doing so would exceed the processing capabilities of all the computers on Earth.
 
 
 ## Keys
@@ -65,10 +58,6 @@ Different celestial bodies will have different heading sizes:
 #### Satelite
 
 ## Contents
-
---- 
-
-Any text that is ~~crossed out~~ indicates that the associated planet or faction has been destroyed.
 
 - [Core Systems](#core-systems)
   - [The Rescueland System](#the-rescueland-system)
@@ -131,8 +120,8 @@ Any text that is ~~crossed out~~ indicates that the associated planet or faction
     - [Casopi (R)](#casopi-r)
     - [Senena (I)](#senena-i)
     - [Scanal (I)](#scanal-i)
-  - ~~[Computerland System](#computerland-system)~~
-    - ~~[Computerland (I)](#computerland-i)~~
+  - [Computerland System](#computerland-system)
+    - [Computerland (I)](#computerland-i)
   - [Dara System](#dara-system)
     - [Zhalam (R)](#zhalam-r)
     - [Yurash (R)](#yurash-r)
@@ -146,11 +135,44 @@ Any text that is ~~crossed out~~ indicates that the associated planet or faction
 
 Various factions exist within the multiverses. The following abbreviations represent the factions to which the planet's loyalties lie:  
 
-- ~~**Rescueland Empire:** R~~
-- ~~**Rebel 10:** B~~  
-- **Separatists:** S  
-- **The Rebels:** M
-- **Independent:** I
+|Name|Abbreviation|
+|-----------|:--------:|
+|Rescueland Empire|R|
+|Rebel 10|B|
+|Seperatists|S|
+|Independent|I|
+
+
+### Rescueland Empire
+
+**Flag:** ![](images/RescuelandEmpire_flag.png)
+
+**Current Capital:** Rescueland
+
+**Overview:**
+
+Despite the name, The Rescueland Empire is not an empire but a cooperative entity dedicated to mutual assistance among planets in the multiverse. Officially a republic, it emphasizes democratic values. During war however, Weda, Commander of War, is able to take control. While others can give ideas, it is him who decides the final outcome. 
+
+**Goals:**
+
+To unify diverse planets under a system of collaboration and support during times of crisis.
+To promote peace, stability, and development across the multiverse while serving as a mediator in disputes.
+
+
+### Rebel 10
+
+**Flag:** ![](images/Rebel10_flag.png)
+
+**Current Capital:** Helucky
+
+**Overview:**
+
+The Rebel 10 is a faction composed of dissidents and ideologues who believe that the Rescueland Empire's governance is too relaxed and paternalistic. They comprise a diverse coalition, including former planets of the Rescueland Empire and planets that feel marginalized.
+
+**Goals:**
+
+To overthrow the Rescueland leadership, arguing that they can offer better governance and stricter regulations to the planets within its jurisdiction.
+To establish a new framework based on direct control and dictatorship.
     
 
 ### Separatists
@@ -158,26 +180,15 @@ Various factions exist within the multiverses. The following abbreviations repre
 **Flag:** ![](images/Seperatist_flag.png)
 
 **Current Capital:** Recola
-*
-**Overview:**
-
-The Separatists are a shadowy faction who infiltrated the Rebel 10 faction and used their power to destroy the Rescueland Empire. They are now the ultimate power in the multiverses.
-
-**Goals:**
-
-To commit atrocities across the multiverse while living in luxury, all in the name of the Rebel 10 faction.
-
-### The Rebels
 
 **Overview:**
 
-Prior to the Seperatist's ascension to power, a significant faction within the Rebel 10 broke off, diverging from the larger movement to form an independent force. This pivotal decision, though initially seen as a fracture, ultimately proved to be a salvation for these wayward rebels, as it shielded them from the Seperatist's brutal domination.
-By seceding from the Rebel 10, they managed to avoid being subjugated, instead forging their own path, separate from the Seperatist's influence. As a result, they were able to establish themselves as a distinct entity, emerging into the spotlight as a lone bastion of notable resistance against the Seperatist's stranglehold.
+The Separatists are a shadowy faction harboring a radical ideology focused on dismantling the Rescueland Empire entirely. Their ultimate goal is to plunge the multiverse into chaos, allowing them to establish control over key resources with little restistance during the ensuing anarchy.
 
 **Goals:**
 
-To restore order and revive Rescueland. 
-To dismantle the authoritarian regime of the Separatists.
+To eradicate the Rescueland and Helucky influence and disrupt communications, leaving planets disoriented and vulnerable.
+To take advantage of the ensuing chaos to establish their own authoritarian regime.
 
 ### Independent
 
@@ -201,26 +212,30 @@ To remain completely neutral to the skirmishes between the factions.
 
 **Pronounced:** resc-ooh-laned/r(with tongue roll)-ekk-ooh-ah
 
-**Capital:** Gfor
+**Capital:** Non-existent
 
-**Leader:** King Tafel
+**Leader:** none
 
-**Power Status:** 49/6000000000
+**Power Status:** 5999999997/6000000000
 
 Army Size:
-- **Interceptors:** 0
-- **Battle Ships:** 0
-- **Darkfighters:** 0
-- **Ground Force:** 32,000
+- **Interceptors:** 369 trillion
+- **Battle Ships:** 834,000
+- **Darkfighters:** 8
+- **Ground Force:** 423 octillion
 
 **Tech Level:** 12
 
-**Population:** 34 quadrillion
+**Population:** 8.9798*10^38
 
 **Atmosphere:** Nitrogen 90%, Hydrogen 8%, Oxygen 1%
 
-**General:** Rescueland, once a formidable superpower renowned for its technological advancements and strategic prowess, now exists in a state of desolation. The once-thriving landscapes, bustling cities, and centers of innovation have been reduced to barren wastelands, a stark reminder of its former glory. Following its conquest, the region has become a stronghold for Helucky's oppressive regime, primarily populated by their scientists and researchers, who relentlessly scour the territory in search of the elusive FFG well.
-The only remnants of Rescueland’s once-mighty military presence are a meager force of approximately 32,000 foot soldiers. This small band of dedicated fighters, composed of the remnants of Rescueland's former defenders, stands resolute against their oppressors. Despite facing insurmountable odds, they engage in guerrilla tactics, sabotage missions, and intelligence gathering, striving to undermine Helucky's control.
+**General:** Rescueland stands out as the first of the three prominent 'superpowers', alongside Helucky and Recola. What makes Rescueland particularly unique is its focus on the quality and training of its military forces, setting it apart even though it possesses the smallest army among the three superpowers. 
+The sheer effectiveness and elite training of Rescueland's troops allow them to compete on equal footing with larger forces. Their emphasis on teamwork and cohesion often leads to a highly disciplined fighting force capable of executing complex maneuvers under pressure.
+Geographically, Rescueland is an extraordinary planet, sometimes enveloped by the largest [FFG](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r) known in history. In the event of an invasion attempt, the invaders must strategically group and position themselves directly in front of the FFG, waiting for the shield to expire. Invaders must carefully plan their assault, as any miscalculation could result in disastrous consequences. Also, as the population is spread thin across hundreds of floating platforms, it is a colossal task to conquer all of Rescueland. 
+Rescueland's infrastructure and alliances also play a significant role in its defense strategy. While they may not have the sheer number of troops that Helucky or Recola boast, their innovative use of technology, along with diplomatic relationships developed over the years, provides them with additional layers of security. 
+
+For the few organic beings living on Rescueland, the local cuisine includes a variety of plant-based dishes, using both native and imported ingredients, primarily shipped in from [Fufe](#fufe-r). While not a dominant religion, some express devotion to the [Super Owls](./The%20Timeline%20of%20Resueland%20History.md#0-adotr-discovery-of-the-rings), holding ceremonies to invoke their blessings for protection and guidance by these seemingly supernatural beings. [Rescueland robots](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#rescueland-robots-r) coexist in a vibrant society where FCRT children go to school, live in houses, and experience a lifecycle reminiscent of living organisms due to the effects of Rescueland Gas. This integration creates a unique blend of culture and community, leading to educational systems and social structures akin to those of organic life.
 
 #### Hermonochy (R)
 
@@ -276,7 +291,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 57%, Nitrogen 33%, Argon 6%, CO2 3%
 
-**General:** Titan has a very dense foliage and was a very strong supporter of Rescueland. It is about earth size.
+**General:** Titan has a very dense foliage and is a very strong supporter of Rescueland. It is about earth size.
 
 ### Ralfialand (R)
 
@@ -336,11 +351,11 @@ Army Size:
 
 **Atmosphere:**
 
-**General:** Tortisland was the first non-core planet to join the Rescueland Empire. This lush, vibrant planet is primarily covered in dense flora, which plays a unique and vital role in the ecosystem and culture of Tortisland. Unlike any ordinary plant life, the flora on Tortisland exhibits sentience that allows it to communicate and interact with the environment and its inhabitants in extraordinary ways.Their diet incorporates a variety of fruits and vegetables unique to Tortisland. Beliefs are heavily intertwined with nature; their spirituality emphasizes the connectivity between all living beings and the importance of balance.
+**General:** Tortisland is the first non-core planet to join the Rescueland Empire. This lush, vibrant planet is primarily covered in dense flora, which plays a unique and vital role in the ecosystem and culture of Tortisland. Unlike any ordinary plant life, the flora on Tortisland exhibits sentience that allows it to communicate and interact with the environment and its inhabitants in extraordinary ways.Their diet incorporates a variety of fruits and vegetables unique to Tortisland. Beliefs are heavily intertwined with nature; their spirituality emphasizes the connectivity between all living beings and the importance of balance.
 
 ## The Bad Guy Land System (B)
 
-The Bad Guy Land system is where the Rebel 10 Faction was originally founded. All planets in this system are now under the control of Recola.
+The Bad Guy Land system is where the Rebel 10 Faction was originally founded. All planets in this system are now under the control of Rescueland.
 
 ### Bad Guy Land (B)
 
@@ -352,7 +367,7 @@ The Bad Guy Land system is where the Rebel 10 Faction was originally founded. Al
 
 **Capital:** Del
 
-**Leader:** Under Recola Control
+**Leader:** Under Rescueland Control
 
 **Power Status:** 4999839420/6000000000
 
@@ -368,7 +383,7 @@ Army Size:
 
 **Atmosphere:** Nitrogen 70%, Oxygen 20%, Sulfur Dioxide 10%
 
-**General:** Before Rescueland and then Recola asserted control, Bad Guy Land was known for its authoritarian regime, characterized by brutal enforcement tactics and the widespread oppression of its inhabitants. The culture was steeped in militarism, where warfare was viewed as a primary means of maintaining control and asserting dominance over other planets. 
+**General:** Before Rescueland asserted control, Bad Guy Land was known for its authoritarian regime, characterized by brutal enforcement tactics and the widespread oppression of its inhabitants. The culture was steeped in militarism, where warfare was viewed as a primary means of maintaining control and asserting dominance over other planets. 
 The population largely consisted of enslaved individuals, living under a constant threat of violence. The overall atmosphere was toxic, contributing to the bleak living conditions for its population.
 The societal structure was highly stratified, with the elite enjoying privileges while the vast majority suffered under the regime's oppressive policies.
 
@@ -382,7 +397,7 @@ The societal structure was highly stratified, with the elite enjoying privileges
 
 **Capital:** Ilines
 
-**Leader:** Under Recola Control
+**Leader:** Under Rescueland Control
 
 **Power Status:** 4999999990/6000000000
 
@@ -514,8 +529,8 @@ Army Size:
 
 **Atmosphere:** Oxygen 55%, Nitrogen 30%, Trace gases 15%
 
-**General:** Helucky is the most powerful planet, renowned for its sheer quantity of military resources and strategic capabilities. Its vast landscape is dotted with enormous military installations, factories and spaceports, all dedicated to producing one of the largest spaceborne interceptor armies known in the galaxy.
-The planet’s military doctrine revolves around overwhelming force and relentless waves of interceptors, enabling Helucky to effectively defend itself and project power across its sphere of influence. However, despite this advantage in numbers, Helucky faces significant strategic limitations.
+**General:** Helucky is the most powerful superpower, renowned for its sheer quantity of military resources and strategic capabilities. Its vast landscape is dotted with enormous military installations, factories and spaceports, all dedicated to producing one of the largest spaceborne interceptor armies known in the galaxy.
+The planet’s military doctrine revolves around overwhelming force and relentless waves of interceptors, enabling Helucky to effectively defend itself and project power across its sphere of influence. The sheer size of its interceptor army instills a sense of intimidation among rival powers; Helucky could potentially take on not just one, but both superpowers simultaneously. However, despite this advantage in numbers, Helucky faces significant strategic limitations.
 The primary obstacle hindering Helucky from launching an outright offensive is its insufficient fleet of battleships. Whereas interceptor crafts excel in air-to-air combat and rapid response, battleships are essential for commanding and controlling operations in vast sectors of space and for engaging formidable opponents effectively. The absence of a robust battleship fleet means that Helucky’s interceptors would be vulnerable when faced with sustained attacks. This vulnerability keeps Helucky leaders cautious, as an attack could leave them exposed to counterattacks and retaliatory strikes.
 Moreover, the planet’s leaders are acutely aware of the risks associated with instigating an attack, given the fearsome reputation of Rescueland’s numerous [darkfighters](./The%20Ship%20File.md#dark-grey-and-light-fighters).
 
@@ -811,7 +826,7 @@ Army Size:
 
 **Atmosphere:** Nitrogen 59%, Oxygen 30%, Argon 10%
 
-**General:** Recola stands as the most powerful superpower, emphasizing unparalleled speed in its fleet at the expense of several key systems like shields. This strategic choice enables its ships to outperform rivals in agility and rapid strike capability. To ensure the utmost secrecy, their forces are operating under stringent directives: they must be destroyed, rather than captured. This means that in the event of an impending defeat or encirclement by enemy forces, soldiers are expected to fight to death, going so far as to neutralize themselves rather than risk being captured and interrogated. Specializing in radar and radio manipulation, Recola has skillfully infiltrated Helucky and used its forces to anihalate Rescueland's army. This secrecy grants Recola a significant advantage, allowing it to maneuver strategically without revealing its capabilities or intentions.
+**General:** [Only recently discovered](./The%20Timeline%20of%20Resueland%20History.md#518-adotr-the-discovery-of-recola), Recola stands as the enigmatic third superpower, emphasizing unparalleled speed in its fleet at the expense of several key systems like shields. This strategic choice enables its ships to outperform rivals in agility and rapid strike capability. To ensure the utmost secrecy, their forces are operating under stringent directives: they must be destroyed, rather than captured. This means that in the event of an impending defeat or encirclement by enemy forces, soldiers are expected to fight to death, going so far as to neutralize themselves rather than risk being captured and interrogated. Specializing in radar and radio manipulation, Recola has skillfully influenced the outcome of the Rescueland-Helucky war, playing both sides from the shadows. The exact size of Recola's forces and the location of its home planet remain undiscovered by the other two superpowers, which refer to it simply as “The Third Army.” This secrecy grants Recola a significant advantage, allowing it to maneuver strategically without revealing its capabilities or intentions.
 
 
 ## Fadet System
@@ -987,7 +1002,8 @@ Army Size:
 
 **Atmosphere:** Oxygen 60%, Argon 20%, Neon 20%
 
-**General:** Keluha is a planet abundant in crystalline resources that draw commercial interests, while also prioritizing technological advancements in resource management. Located strategically within a remote mountain range is a Helucky stronghold, which is well-suited for launching offensive operations against neighboring systems.This base has been at the center of fierce contention between Recola and Helucky, resulting in a protracted conflict that ultimately led to one of the deadliest wars in recorded history, now commemorated as the second highest casualty war to date. 
+**General:** Keluha is a planet abundant in crystalline resources that draw commercial interests, while also prioritizing technological advancements in resource management. Located strategically within a remote mountain range is a Helucky stronghold, which is well-suited for launching offensive operations against neighboring systems. This base, recently reconquered from the precarious control of Recola, occupies a critical position that enables it to strike at key planets before Rescueland has the chance to mobilize its defenses. The ongoing conflict between Helucky and Recola for control of this base carries significant implications for the regional balance of power. Despite facing heavy casualties, Recola remains resolute in its efforts to maintain its position, knowing that losing Keluha could lead to a dramatic shift in their fortunes.
+
 
 ## Mewfa System
 
