@@ -18,7 +18,7 @@ This document outlines all significant events that have taken place since the es
 - [18 ADOTR: The Super Twos](#18-adotr-the-super-twos)
 - [21 ADOTR: The First Battle Against Bad Guy Land](#21-adotr-the-first-battle-against-bad-guy-land)
 - [22 ADOTR: The Founding of the Anti-Bad Guy Land Union](#22-adotr-the-founding-of-the-anti-bad-guy-land-union)
-- [23-24 ADOTR: The First War for Rescueland](#23-24-adotr-the-war-for-rescueland)
+- [23-24 ADOTR: The War for Rescueland](#23-24-adotr-the-war-for-rescueland)
 - [25 ADOTR: The Formation of the Rescueland Empire](#25-adotr-the-formation-of-the-rescueland-empire)
 - [26 ADOTR: The Failed Attack](#26-adotr-the-failed-attack)
 - [27 ADOTR: The Defeat of Ukakia](#27-adotr-the-defeat-of-ukakia)
@@ -36,12 +36,14 @@ This document outlines all significant events that have taken place since the es
 - [508 ADOTR: War against Horsa](#508-adotr-war-against-horsa)
 - [510 ADOTR: The War Against Federre](#510-adotr-the-war-against-federre)
 - [511 ADOTR: The Discovery of Helucky](#511-adotr-the-discovery-of-helucky)
-- [515 ADOTR: The Second War for Rescueland and The Battle of Helucky](#515-adotr-the-second-war-for-rescueland)
+- [515 ADOTR: The Second War for Rescueland](#515-adotr-the-second-war-for-rescueland)
+  - [The Battle of Helucky](#the-battle-of-helucky)
 - [518 ADOTR: The Discovery of Recola](#518-adotr-the-discovery-of-recola)
 - [550 ADOTR: Battle for the Helucky Base](#550-adotr-battle-for-the-helucky-base)
 - [551 ADOTR: The Return of Helucky](#551-adotr-the-return-of-helucky)
 - [553 ADOTR: The Third Battle of The Keluha Bases](#553-adotr-the-third-battle-of-the-keluha-bases)
 - [555 ADOTR: The Second Ice War](#555-adotr-the-second-ice-war)
+- [558 ADOTR: The Third Battle of Rescueland](#558-adotr-the-third-battle-of-rescueland)
   
 
 ## Keys
@@ -559,3 +561,18 @@ However, just before the planned offensive, internal dissent began to surface wi
 TTheir reasoning hinged on a pragmatic assessment: a conciliatory approach could lead to a quicker resolution of the conflict and reduce attrition among their ranks. This internal dispute created a fissure between command decisions and the sentiments of frontline soldiers, causing some commanders to pause and reconsider their aggressive stance. As heated debates erupted, the bickering distracted them from their assault, resulting in a temporary halt to their bombardment of the Helucky base.
 
 Recognizing the opportunity presented by the Recolas’ hesitance, the Helucky defenders quickly mobilized. With the wall compromised and many of their defenses rendered ineffective, they initiated emergency protocols to evacuate personnel and equipment. A the remaining 9 divisions of Helucky ships launched from the base, utilizing the emerging gap in the Recola offensive to execute a strategic retreat aimed at seeking reinforcements from their home territory.
+
+## 558 ADOTR: The Third Battle of Rescueland
+
+| Name    | Start Troops   | End Troops     | Losses       | Prisoners Taken |
+|---------|----------------|----------------|--------------|------------------|
+| Rescueland | 369 Divisions | 135 Divisions | 234 Divisions | 12 Battalions |
+| Helucky | 76,000,000,000,000,000 Divisions | 5,645,901,111,430 Divisions | 75,994,341,000,000,000 Divisions | 28 Platoons |
+
+In a sudden and decisive move, Helucky, now fully infiltrated by the insidious influence of Recola, launched a meticulously planned and executed unprovoked attack on Rescueland, marking the beginning of the Third Battle of Rescueland. After a tense and anticipatory waiting period of ten years for the FFG to expire, staggering 76,000,000,000,000,000 divisions of Helucky's ships descended upon the Rescueland fleet consisting of a meager 369 divisions.
+As the Helucky armada descended, the initial strikes were characterized by overwhelming and relentless aggression. Advanced technologies and battle strategies, developed under Recola’s control, paved the way for a swift onslaught of laser fire, slit bombs, and sophisticated electronic warfare. The surprise attack caught the defenders of Rescueland off guard, leading to a chaotic scramble to establish a defensive posture.
+Helucky's numerical superiority became apparent almost immediately, as the attack rapidly dismantled the Rescueland defense efforts. The resulting confusion on the battlefield significantly hampered the deployment of Rescueland’s squadrons, with many suffering devastating losses before even engaging the enemy. The stark contrast in capabilities between Helucky and Rescueland rapidly shifted the tactical situation to one of hopelessness.
+
+Acknowledging the futility of resistance against such overwhelming odds, strategic planning shifted dramatically. The leadership within Rescueland recognized the need to prioritize the survival of their forces. An evacuation plan was swiftly initiated, targeting Computerland, which was far enough away that the Heluckies would be unable to follow. Under the chaos of battle, systematic withdrawal to this digital world commenced. 
+Simultaneously, efforts were underway to protect Rescueland's critical assets, particularly the vital FFG well located beneath their main starport. Covert operations were launched to reactivate the decoy wells originally set during [The Second War for Rescueland](#515-adotr-the-second-war-for-rescueland). These decoys aimed to mislead Helucky’s forces, drawing them away from the true well, thus safeguarding this essential resource and allowing for possible future recovery. 
+As the last of Rescueland's divisions executed their retreat into Computerland, the remnants of their fleet vanished from Helucky’s perspective, leaving behind a battlefield marked by devastation yet still harboring prospects for recovery.
