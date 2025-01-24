@@ -64,11 +64,12 @@ Different celestial bodies will have different heading sizes:
 
 #### Satelite
 
-## Contents
-
 --- 
 
 Any text that is ~~crossed out~~ indicates that the associated planet or faction has been destroyed.
+
+## Contents
+
 
 - [Core Systems](#core-systems)
   - [The Rescueland System](#the-rescueland-system)

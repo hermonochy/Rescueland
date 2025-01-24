@@ -25,3 +25,6 @@ In an important moment for intergalactic relationships, Computerland discovered 
 ## 15 ADOTR: The Breach of the Universal Border
 
 After the successful alliance with Rescueland, they managed to learn and borrow some tech from them to travel between universes. With this new technology, Computerland fully comprehended the extent of the danger posed by Bad Guy Land, which they had hitherto only glimpsed through the occasional scout ship.
+
+
+
