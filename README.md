@@ -6,9 +6,9 @@ Recua, aka Rescueland, is part of the multiverse, as few people know it. Its loc
 The name 'Rescueland' formed in the process of Recua 'rescuing' civilisations against a phletora of hostile invaders dotted around the multiverses. The name has stuck ever since. 
 To give an illustration of space scale: If the earth-known universe corresponds to the content of a tea cup, the earth would be a single electron, and Rescueland corresponds to the cup containing our known world. Rescueland existed since when the cup was filled, i.e., the event commonly known as the Big Bang.
 
-Rescueland existance began 5,630,630 r.ly (Rescueland years) BDOTR (Before the Discovery of the Rings), which is exactly when the Big Bang happened, and has evolved for 500,000 earth years anno domini, coming up with technology nobody on earth in 2025 AD would remotely think of being possible. 
+Rescueland existance began 5,630,630 r.ly (Rescueland years) BDOTR (Before the Discovery of the Rings), which is exactly when the Big Bang happened, and has evolved for 500,000 earth years anno domini, coming up with technology nobody on earth in the 21st century would remotely think of being possible. 
 
-Computerland, in the analogon of the tea cup model, is another cup planet, allied to Rescueland, so far away that even the longest-range ships find it impractical to travel between them regularly. In this scale, imagine the distance between the Computerland and Rescueland cups corresponding to the distance between Spain and New Caledonia.
+Computerland, in the analogon of the tea cup model, is another cup planet, allied to Rescueland, so far away that even the longest ranging of ships find it impractical to travel between them regularly. In this scale, imagine the distance between the Computerland and Rescueland cups corresponding to the distance between Spain and New Caledonia.
 
 
 ## Fact Files
@@ -26,7 +26,7 @@ forms a unique and well balanced ecosystem in the multiverse. Strict protection 
 This ecosystem with its diverse genetic pool is acrucial basis for continued technological development, without which all artificial life would go into irreversible decline. Certainly, visitors from other planets find the aesthtics of creatures with hyperspectral bioluminecense fascinating in itself. Famed throughout the multiverse, afflent visitors are attracted from as far as Computerland.
 
 - [The Planet File](./The%20Planet%20File.md)
-holds key data on all major civilizations in and around the Rescueland Empire, notably population, atmospheric conditions, emblems, geography, military capabilities, political systems, multiversal status and general information, arranged by distance to Rescueland. The planet file also introduces the multiversal factions.
+holds key data on all major civilizations in and around the Rescueland Empire, notably population, atmospheric conditions, emblems, geography, military capabilities, political systems, multiversal status and other general information, arranged by distance to Rescueland. The planet file also introduces the multiversal factions.
 
 - [The Ship File](./The%20Ship%20File.md)
 provides insights into the design fundamentals of all major spacecraft utilized by planets with a technology level exceeding 10.
@@ -43,7 +43,7 @@ details the biographies and achievements of the most notable leaders on the supe
 
 For being able to follow the short stories linked in this paragraph, it is essential to be intimately familiar with the Timeline of Rescueland History (see above).
 
-- [The Beginning of The War for Rescueland](./Short_Stories/The%20Beginning%20of%20The%20War%20for%20Rescueland.md) recounts the start of the first major war that took place on Rescueland, from the perspective of the first FRJ having noticed the military events that would lead to the conquering of Rescueland.
+- [The Beginning of The War for Rescueland](./Short_Stories/The%20Beginning%20of%20The%20War%20for%20Rescueland.md) recounts the start of the first major war that took place on Rescueland, from the perspective of the first FRJ having noticed the military events that would lead to the first conquering of Rescueland.
 
 - [The Last Stand](./Short_Stories/The%20Last%20Stand.md) is an episode told by R-6B, a Recola interceptor in command of defending the Keluha base under Helucky attack.
 

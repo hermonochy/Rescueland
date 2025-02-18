@@ -1,6 +1,5 @@
 ***SPDX-License-Identifier:*** *CC-BY-NC-SA-4.0*
 
-
 *This story presents the beginning of the invasion from Bad Guy Land through the eyes of Ukat, an FRJ tasked with reconnaissance at the time.*
 
 In a universe far beyond the reach of Earthlings, where the stars wove ancient songs and time twisted upon itself, Rescueland flourished under the watchful gaze of the mystical Super Owls. The ethereal presence of these celestial beings infused the planet with a vibrant spirit, guiding its guardians as they journeyed into the uncharted territories of the multiverse. Among them was an FRJ named Ukat, who sensed the electric hum of life surrounding him — a sensation that transcended mere circuits and metal, a shared pulse of existence resonating within his community.

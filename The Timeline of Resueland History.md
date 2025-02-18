@@ -44,11 +44,15 @@ This document outlines all significant events that have taken place since the es
 - [553 ADOTR: The Third Battle of The Keluha Bases](#553-adotr-the-third-battle-of-the-keluha-bases)
 - [555 ADOTR: The Second Ice War](#555-adotr-the-second-ice-war)
 - [558 ADOTR: The Third Battle of Rescueland](#558-adotr-the-third-battle-of-rescueland)
+- [559 ADOTR: The Destruction of Computerland](#559-adotr-the-destruction-of-computerland)
 - [559 ADOTR: The Splintering](#559-adotr-the-splintering)
 - [560 ADOTR: The Recola Genocide](#560-adotr-the-recola-genocide)
   - [The Attack on Filto](#the-attack-on-filto)
   - [The Siege of Klesone](#the-siege-of-klesone)
-- [565 - 578 ADOTR: The Rise of the Rebels](#565---578-adotr-the-rise-of-the-rebels)
+- [565-578 ADOTR: The Rise of the Rebels](#565-578-adotr-the-rise-of-the-rebels)
+- [579 ADOTR: The Nearly Fatal Plan](#579-adotr-the-nearly-fatal-plan)
+- [582 ADOTR: The Alliance](#582-adotr-the-alliance)
+  - [The Joint Attack](#the-joint-attack)
 
 ## Keys
 
@@ -581,9 +585,21 @@ Acknowledging the futility of resistance against such overwhelming odds, strateg
 Simultaneously, efforts were underway to protect Rescueland's critical assets, particularly the vital FFG well located beneath their main starport. Covert operations were launched to reactivate the decoy wells originally set during [The Second War for Rescueland](#515-adotr-the-second-war-for-rescueland). These decoys aimed to mislead Helucky’s forces, drawing them away from the true well, thus safeguarding this essential resource and allowing for possible future recovery. 
 As the last of Rescueland's divisions executed their retreat into Computerland, the remnants of their fleet vanished from Helucky’s perspective, leaving behind a battlefield marked by devastation yet still harboring prospects for recovery.
 
+## 559 ADOTR: The Destruction of Computerland
+
+In the aftermath of the defeat of Rescueland by the [Rebel 10 faction](./The%20Planet%20File_555.md#rebel-10), which had previously been infiltrated by [Recola](./The%20Planet%20File.md#recola-s), a select group of Rescuelanders found refuge in Computerland; however, this brief period of refuge was swiftly disrupted by the brewing conflict.  Helucky's forces, emboldened by their recent tactical victories, began to mobilize and prepare for an offensive against Computerland, ultimately executing a surprise, unprovoked attack on the digital sanctuary. 
+As Helucky systematically built up their fleet of battleships capable of transporting their massive numbers of interceptors across the gargantuan expanse of space to Computerland, the inhabitants of the planet found themselves completely caught off guard. The suddenness and ferocity of the assault compelled the population to hurriedly organize defenses, which were hampered by the overwhelming might of Helucky’s military might. 
+Recognizing the brewing catastrophe, Computerland's governing officials swiftly implemented a comprehensive defensive strategy aimed at mitigating the invasion's impact while ensuring the security of their citizens. They mobilized available resources, fortifying key sectors and rallying the populace to stand united against the oncoming threat. In tandem, leadership made the grave decision to initiate evacuation plans, orchestrating the rapid preparation of vessels intended to transport essential personnel and vulnerable citizens to safer territories. 
+Unfortunately, these evacuation efforts faced devastating setbacks. As the Helucky onslaught intensified, numerous evacuation vessels were systematically targeted and destroyed, leaving the defenders with minimal options. Amidst the chaos, only a limited number of ships successfully navigated the perilous conditions, securing a small group of survivors while the majority faced impending doom. 
+
+As the situation rapidly escalated and evacuation attempts were increasingly thwarted, Computerland's leadership was forced to consider extreme measures to preserve what remained of their civilization. Acknowledging the desperate circumstances, the governing bodies resolved to undertake a last-ditch effort of monumental significance. The sentient electrical beings devised a bold plan: to channel the planet's substantial electrical energy from its molten Conductium core. 
+This complex orchestration of energy manipulation was an extraordinary endeavor that combined intricate technical knowledge with urgent necessity. As the leaders executed this intricate plan, the temperature within the Conductium core began to rise sharply, eventually surpassing its established melting point. With the accumulation of energy reaching critical levels, the Conductium transitioned into a gaseous state, igniting a series of unpredictable and intensely volatile reactions. 
+The energy discharge that followed was cataclysmic. Exceeding both practical and theoretical limits, the resulting explosion obliterated everything within its blast radius, culminating in the total annihilation of Computerland. The force of the detonation unleashed shockwaves that resonated throughout the surrounding space, altering the trajectories of nearby celestial bodies. The scale of this destruction was both total and irrevocable, transforming what had once been a vibrant civilization into an unrecognizable void in the cosmos. 
+The consequences of this cataclysm marked the definitive end of Computerland. The loss resonated across adjacent territories, fundamentally changing the dynamics of the region. All contributions from Computerland, including its technological advancements and cultural heritage, were irretrievably erased, leaving behind haunting reminders of the fragility inherent in even the most advanced societies when confronted by relentless aggression. 
+
 ## 559 ADOTR: The Splintering
 
-In the wake of the cataclysmic events that marked the destruction of the last resisting powerhouse, [Computerland](./The%20Timeline%20of%20Computerland%20History.md#559-adotr-the-destruction-of-computerland), and the significant power shifts that ensued, the galaxy witnessed a seismic transformation that became known as "The Splintering". The once-dominant factions - The Rescueland Empire, Rebel 10, and the Separatists - gave way to a chaotic reorganization of power, leading to the emergence of dozens of new factions vying for influence and control. 
+In the wake of the cataclysmic events that marked the destruction of yet another resisting powerhouse, [Computerland](./The%20Timeline%20of%20Computerland%20History.md#559-adotr-the-destruction-of-computerland), and the significant power shifts that ensued, the galaxy witnessed a seismic transformation that became known as "The Splintering". The once-dominant factions - The Rescueland Empire, Rebel 10, and the Separatists - gave way to a chaotic reorganization of power, leading to the emergence of dozens of new factions vying for influence and control. 
 With the Rescueland Empire obliterated and its leadership decimated during the Third Battle of Rescueland, and the Rebel 10 faction fallen victim to infiltration and eventual takeover by the Separatists, the Separatists were positioned as the most formidable faction in the galaxy, holding better strategic resources and military capabilities than any other entity, with The Rebels following a not-so-close second.
 However, the vacuum of power left by the collapse of the Rescueland Empire and the internal strife within the Rebel 10 catalyzed the rise of numerous new factions, each with their own agendas, ideologies, and objectives. The galaxy broke into a myriad of political entities, resulting in a complex web of alliances, rivalries, and conflicts that defined the new era. 
 As these new factions emerged, conflicts erupted and alliances shifted rapidly. The balance of power became fluid and unpredictable, leading to a fractured galaxy marked by instability and strife. Clashes among the factions became common, with each group pursuing its own interests, aspirations, and vendettas in a universe that had fractured into a multitude of competing entities. 
@@ -591,7 +607,7 @@ In this chaotic landscape, the Separatists maintained their position as the most
 
 ## 560 ADOTR: The Recola Genocide
 
-As the fractures from The Splintering reverberated throughout the galaxy, the Recola faction, eager to capitalize on the chaos and assert their dominance, launched a calculated and systematic campaign to eradicate all remnants of Rescueland. 
+As the fractures from *The Splintering* reverberated throughout the galaxy, the Recola faction, eager to capitalize on the chaos and assert their dominance, launched a calculated and systematic campaign to eradicate all remnants of Rescueland. 
 Under the command of Recola's strategic leadership, fleets of warships were dispatched to systematically target every remaining Rescueland installation, whether it was military, research or civilian. 
 The meticulous nature of the Recola campaign ensured that no major military outpost was left unscathed. 
 
@@ -605,17 +621,18 @@ Another significant casualty of the campaign was the old retirement base for out
 |---------|----------------|----------------|--------------|------------------|------------------|
 | Recola | 3 Divisions| 3 Divisions | 2 Divisions | 1 Division | 2 Filto Battalions |
 | Helucky | 21 Divisions | 21 Divisions | 10 Divisions | 11 Divisions | 2 Filto Battalions |
-| Rescueland | 3 Divisions | 3 Divisions | 0 | 3 Divisions | 3 Platoons |
+| Rescueland | 3 Divisions | 3 Divisions | 0 | 3 Divisions | 0 |
 | Filto | 3 Divisions | 3 Divisions | 1 Division | 2 Divisions | 0 |
 
-As the dust settled from the devastation inflicted upon Rescueland’s remaining military bases, the focus of Recola’s conquests turned towards [Filto](./The%20Planet%20File.md#filto-s). This planet had transformed into a refuge for the last three divisions of Rescueland fighters, bolstered by three divisions from Filto itself. The difficult terrain of Filto, with its craggy mountains and labyrinthine valleys, favoured the cause of the defenders, creating natural fortification which could be exploited in their favor.
+As the dust settled from the devastation inflicted upon Rescueland’s remaining military bases, the focus of Recola’s conquests turned towards [Filto](./The%20Planet%20File.md#filto-s). This planet had transformed into a refuge for the last three divisions of Rescueland fighters in the vicinity, bolstered by three divisions from Filto itself. The difficult terrain of Filto, with its craggy mountains and labyrinthine valleys, favoured the cause of the defenders, creating natural fortification which could be exploited in their favor.
 As Recola's forces mobilized for their assault, Rescueland and Filto divisions prepared diligently for the fight ahead. Recognizing the scales were against them, they devised a strategy utilising their only advantage - the unique attributes of Filto’ interceptors, while weak in traditional firepower nevertheless possessed remarkable stablity. The interceptors had earned a reputation for being incredibly challenging to destroy; only Darkfighters could exceed this reputation. 
-As the Helucky and Recola fleet appeared in orbit, a dark omen signaled the impending violence. Helucky interceptors filled the skies in their colossal numbers.
 
 The initial assault began with an aerial bombardment by heavy bombers aimed at destabilizing Filto's defenses. 
-Despite the overwhelming strength of the Recola assault Filto's interceptor team turned to action. These agile aircraft darted with remarkable speed through the skies, evading incoming projectiles with balletic precision. Their ability to manipulate the terrain provided them with an edge leading fleets of Heluckies into narrow canyons and deceptive valley where they could escape and counterattack. For a time it seemed as if the defenders might hold. 
+Despite the overwhelming strength of the Recola assault, Filto's interceptor teams turned to action. These agile aircraft darted with remarkable speed through the skies, evading incoming projectiles with balletic precision. Their ability to manipulate the terrain provided them with an edge, leading fleets of Heluckies into narrow canyons and deceptive valleys where they could escape and counterattack. For a time it seemed as if the defenders might hold. 
+
 As the battle raged and Filto's interceptors valiantly defended their home, the Helucky forces revealed their trump card: Their advanced catapults, formidable siege engines capable of devastating long-range strikes. Positioned strategically by the Recola command, these catapults began launching projectiles that streaked across the sky with lethal intent. 
 Upon impact, these high-explosive projectiles caused catastrophic damage to the interceptor squadrons, dismantling the defenders' fortifications and shattering their hopes of maintaining their positions. The tightly knit formations of Filto’s interceptors were quickly scattered by the explosive force of the bombardment, reducing the defenses that had held against traditional weaponry to wreckage.
+
 In the wake of the catapult barrage, the Recola military surged forward, mobilizing ground troops to launch a final coordinated attack on the beleaguered divisions of Rescueland and Filto. What had once been a well-organized defense quickly devolved into frantic skirmishes where the defenders fought courageously but in vain. 
 Filto, once a bastion of hope amid despair, succumbed to the oppressive forces of Recola. The planet’s vibrant landscapes were marred by the scars of war, buildings reduced to ruins, and the once proud banner of resistance was torn down, signaling the end of a valiant struggle.
 
@@ -639,7 +656,7 @@ As the siege dragged on into the second week, Klesone's once-thriving capital, R
 After two weeks of the siege, Recola forces commenced a final push, overwhelming Klesonian lines. Troops breached the capital, leading to intense urban warfare as Klesonian defenders made their last stand. Despite their best efforts, the defenders were systematically overrun. 
 By the end of the siege, Klesone had succumbed to Recola's military might. The losses were catastrophic: ground forces reduced to a fraction of their original size, interceptor squadrons decimated, and Rrinai lay in ruins. The last planet fighting for Rescueland had fallen, giving Recola total control over all multiverses.
 
-## 565 - 578 ADOTR: The Rise of the Rebels
+## 565-578 ADOTR: The Rise of the Rebels
 
 As Recola solidified its dominance in the wake of the siege of Klesone, a new faction emerged amid the chaos—a group of dissident Heluckies who had splintered from the Helucky Empire. Opposed to their government's aggressive militarization and the orders to attack Rescueland, they adopted the mantle of "*[The Rebels.](./The%20Planet%20File.md#the-rebels)*" This faction sought to undermine the Recola regime and protect the ideals they once held dear. 
 
@@ -649,4 +666,34 @@ By the end of 576 ADOTR, the impact of these rebel operations became evident. In
 The Rebels also garnered sympathy and support from those disillusioned by the Recola regime, increasing recruitment efforts among diverse sectors of Helucky society. Their message of resistance against oppression began to thrall the populace, slowly building a network of supporters who supplied intelligence and resources for their cause. 
 In mid-577 ADOTR, the Rebels escalated their operations, launching a series of bold strikes against key Recola communications hubs and fuel depots. These actions inflicted tactical setbacks on Recola's operations, disrupting supply lines and slowing the momentum of their ongoing campaigns. Reports indicated that over a third of Recola's fuel reserves were destroyed, causing logistical nightmares for their fleets operating across multiple fronts.
 The Rebels did not operate without consequence. Recola retaliated with vehement fury, cracking down on suspected rebel sympathizers within populated Helucky regions. Nevertheless, the Rebels continued to adapt, using misinformation to draw Recola forces into traps and allowing them to strike where their numbers were greatest. 
-By 578 ADOTR, the rebels had established themselves as a significant force in the ongoing conflict, with their actions against Recola undermining the regime’s aura of invincibility. Recola authorities began to recognize the potential threat posed by this burgeoning rebellion, prompting the deployment of special forces tasked with dismantling the rebel network.
+By 578 ADOTR, the Rebels had established themselves as a significant force in the ongoing conflict, with their actions against Recola undermining the regime’s illusion of invincibility. Recola authorities began to recognize the potential threat posed by this burgeoning rebellion, prompting the deployment of special forces tasked with dismantling the rebel network.
+
+## 579 ADOTR: The Nearly Fatal Plan
+
+ In 579 ADOTR, driven by overconfidence and a thirst for tangible victories, the Rebels formulated a daring strategy to reclaim the Rescueland base on Keluha from Recola control. Despite the proximity of a well-fortified Helucky base, bristling with well-equipped troops, the Rebels believed they could seize the strategically important territory. The plan hinged on a quick strike, a rapid occupation of the base, and the hope that they could hold against any counterattack. 
+Their initial deployment involved a small force of roughly 30 Divisions, tasked with repairing the base's defenses, under the cover of a surprise attack. The Rebels were able to swiftly seize the base, but unfortunately, the activity didn't go unnoticed. Sensing the intrusion, the nearby Helucky base sent out a sizable contingent of their own troops, swiftly boxing the Rebels into the newly secured base. 
+The siege that followed endured for weeks, with the Rebels managing to maintain control of the base, the siege appearing to work in their favor. Only the Helucky forces took heavy casualties, while the Rebels' repairs and reinforcements held the line. The defenders had a good strategic advantage, allowing them to take out their enemy without taking damage.
+
+However, the walls of the base eventually succumbed to repeated assaults. The Rebels began suffering catastrophic losses. Recola's superior numbers and relentless attacks were starting to break down their defenses. The Rebels had their ranks decimated. 
+In a desperate attempt to salvage the situation, the remaining Rebels initiated an elaborate escape plan. The plan was centered around tricking the enemy into believing there were more defenders than there actually were. The team of engineers automated the base's primary cannon, creating the illusion of ongoing resistance and significantly depleting the enemy. As expected, the dwindling Helucky troops started to retreat, their numbers and morale shattered. 
+Exploiting the moment of confusion and chaos, one division out of the original thirty managed to escape, taking advantage of the temporary break in the siege to break the encirclement and retreat from Keluha. 
+The Rebel Heluckies had paid a heavy price for their hubris. This nearly fatal plan had left them severely weakenedand serving as a stark reminder of their miscalculation. The loss of so many troops and resources would significantly affect the rebellion, and would require time to recover. 
+
+## 582 ADOTR: The Alliance
+
+In 582 ADOTR, the Rebels found themselves in a critical state. After years of escalating conflict and relentless clashes against Recola's forces, the capacity for independent resistance began to wane. It was during this trying period that an unexpected opportunity arose: the discovery of remnants from Rescueland’s military, who had evaded captures and clashes amidst the backdrop of Recola's expanding dominance. 
+
+The remnants had taken refuge in the outer sectors of the multiverse, battle-hardened and eager for revenge. 
+Initial contact between the Rebels and the Rescueland military leaders was tenuous. Each group was wary of the other, having previously fought one another and had built walls of distrust. However, shared goals soon overshadowed any reservations. As strategies were discussed and alliances were formed, a mutual understanding emerged. 
+By pooling their resources, the coalition began to develop a comprehensive strategic framework for sustained resistance against the Recola and Helucky forces. The Rebels brought invaluable knowledge of base building and local intelligence, while the Rescueland military offered advanced combat strategies, weaponry, and access to the last remaining depot of FFG. This newfound partnership allowed them to coordinate operations across multiple sectors, multiplying their striking power.
+
+### The Joint Attack 
+
+In late 582 ADOTR, The Rebels and Rescueland plotted their first joint attack, aimed at reclaiming strategic footholds within Recola-occupied territories. This bold initiative involved ambushing a lightly defended Recola supply convoy traveling between two key strongholds, which promised vital resources for both fighting factions.
+
+As the operation commenced, the coordination between the two factions became evident. Rebel interceptors swooped in to confuse and distract the enemy pilots, while Rescueland troops positioned themselves for a rapid assault on the convoy’s escort forces. The ensuing battle was fierce but marked the beginning of a series of successes that emboldened both factions. 
+The momentum gained from this operation immediately led to more attacks. The coalition rapidly escalated their efforts, launching a series of counteroffensives that targeted Recola command posts and communication hubs. These operations were meticulously planned, combining the adaptability of the Rebels with the systematic approach of the Rescueland military, allowing them to strike hard and vanish into the shadows before full Recola defenses could react.
+
+Throughout 583 ADOTR, their collaboration only deepened. Joint training sessions were established to blend tactics and strengthen their operational cohesion. The Rebels adapted to new combat doctrines, integrating Rescueland’s advanced technology and strategic insights into their own methodologies. Meanwhile, Rescueland officers learned the intricacies of planning base positioning, enabling them to plan asymmetrical operations that thoroughly disrupted Recola supply lines. 
+The growing success of the alliance transformed the landscape of the conflict. Reports began to circulate through Recola ranks of the growing unity among opposition factions, igniting fear and caution among their commanders. Special task forces were dispatched to investigate the surge in insurgent activity, but they remained consistently outmaneuvered by the coalition’s nimble tactics. 
+By the end of 583 ADOTR, the once disparate Rebels and Rescueland military remnants had forged a potent alliance, emboldening their struggle against a common enemy. The tide had begun to turn, hope kindled for the multiverse.
