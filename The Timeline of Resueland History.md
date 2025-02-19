@@ -669,15 +669,30 @@ The Rebels did not operate without consequence. Recola retaliated with vehement 
 By 578 ADOTR, the Rebels had established themselves as a significant force in the ongoing conflict, with their actions against Recola undermining the regime’s illusion of invincibility. Recola authorities began to recognize the potential threat posed by this burgeoning rebellion, prompting the deployment of special forces tasked with dismantling the rebel network.
 
 ## 579 ADOTR: The Nearly Fatal Plan
+ 
+| Name    | Initial Troops   | Total Troops | End Troops     | Losses       | Opponents Captured |
+|---------|----------------|----------------|--------------|------------------|------------------|
+| The Rebels | 30 Divisions| 30 Divisions | 1 Division | 26 Divisions | 0 |
+| The Seperatists/Rebel 10 | 100 Divisions | 150 Divisions | 80 Divisions | 70 Divisions | 3 Divisions |
 
  In 579 ADOTR, driven by overconfidence and a thirst for tangible victories, the Rebels formulated a daring strategy to reclaim the Rescueland base on Keluha from Recola control. Despite the proximity of a well-fortified Helucky base, bristling with well-equipped troops, the Rebels believed they could seize the strategically important territory. The plan hinged on a quick strike, a rapid occupation of the base, and the hope that they could hold against any counterattack. 
 Their initial deployment involved a small force of roughly 30 Divisions, tasked with repairing the base's defenses, under the cover of a surprise attack. The Rebels were able to swiftly seize the base, but unfortunately, the activity didn't go unnoticed. Sensing the intrusion, the nearby Helucky base sent out a sizable contingent of their own troops, swiftly boxing the Rebels into the newly secured base. 
 The siege that followed endured for weeks, with the Rebels managing to maintain control of the base, the siege appearing to work in their favor. Only the Helucky forces took heavy casualties, while the Rebels' repairs and reinforcements held the line. The defenders had a good strategic advantage, allowing them to take out their enemy without taking damage.
 
-However, the walls of the base eventually succumbed to repeated assaults. The Rebels began suffering catastrophic losses. Recola's superior numbers and relentless attacks were starting to break down their defenses. The Rebels had their ranks decimated. 
+However, the walls of the base eventually succumbed to the repeated bombardment, and the Rebels began suffering catastrophic losses. Recola's superior numbers and relentless attacks were starting to break down their defenses, and the Rebels had their ranks decimated. 
 In a desperate attempt to salvage the situation, the remaining Rebels initiated an elaborate escape plan. The plan was centered around tricking the enemy into believing there were more defenders than there actually were. The team of engineers automated the base's primary cannon, creating the illusion of ongoing resistance and significantly depleting the enemy. As expected, the dwindling Helucky troops started to retreat, their numbers and morale shattered. 
 Exploiting the moment of confusion and chaos, one division out of the original thirty managed to escape, taking advantage of the temporary break in the siege to break the encirclement and retreat from Keluha. 
 The Rebel Heluckies had paid a heavy price for their hubris. This nearly fatal plan had left them severely weakenedand serving as a stark reminder of their miscalculation. The loss of so many troops and resources would significantly affect the rebellion, and would require time to recover. 
+
+---
+
+Later that year, consumed by rage and grief following the disastrous "Nearly Fatal Plan", the remaining Rebel forces unleashed a brutal and relentless campaign of retribution against the Helucky base on Keluha. The rebels, shattered by their losses, were now solely driven by a desire to exact revenge on the forces that had decimated their ranks.
+
+Utilizing the chaos of the preceding siege to assess the weaknesses, the Rebels deployed a collection of newly constructed anti-bunker catapults. Although these catapults sacrificed some payload capacity compared to their conventional counterparts, they boasted an extraordinary range and propulsion system, enabling projectiles to travel at unprecedented velocities. This allowed the Rebels to maintain a safe distance from the Helucky base, while relentlessly pounding the Helucky defenses. For the Heluckies, the situation quickly deteriorated into a nightmare. The rebel forces were able to keep up a steady supply of attacks, their foes unable to mount any form of resistance. 
+The Heluckies, caught completely off guard by the unexpected barrage, found themselves utterly incapable of mounting any effective defense. Their troops, already exhausted and demoralized from the previous siege, were hopelessly outmatched. 
+The rebel onslaught was relentless. The catapults rained destruction upon the Helucky base, systematically destroying structures, shattering morale, and inflicting catastrophic casualties. Soon the Helucky ranks had been decimated, with over 90% of their troops eliminated. Their once-imposing wall cannons, proving no match for the ranged assault, were reduced to smoldering wreckage, losing over half of their numbers. The walls themselves, repeatedly struck by the devastating projectiles, suffered severe damage, crumbling under the relentless attack.
+
+Faced with imminent annihilation, the remaining Helucky troops attempted a desperate evacuation. However, their retreat quickly devolved into a rout. The rebels, sensing their vulnerability, pursued ruthlessly, inflicting further casualties on the fleeing Heluckies. Most of the remaining troops were eliminated while the majority attempted to evacuate, with only 2% of the original Helucky garrison escaping. The survivors fled to the conquered planet of Filto, hoping to find refuge and regroup.
 
 ## 582 ADOTR: The Alliance
 
