@@ -3,6 +3,12 @@
 
 This file presents a brief summary of the major planets in 555 ADOTR, listed according to their distance from Rescueland. Note that it does not encompass every planet, as doing so would exceed the processing capabilities of all the computers on Earth.
 
+## Past Planet Files
+
+There are several versions of the planet file available, each from a different time period. This particular version is from 555 ADOTR. Below is a list of the other versions:
+
+- [Current](./The%20Planet%20File.md)
+- [25 ADOTR](./The%20Planet%20File_25.md)
 
 ## Keys
 

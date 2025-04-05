@@ -53,6 +53,7 @@ This document outlines all significant events that have taken place since the es
 - [579 ADOTR: The Nearly Fatal Plan](#579-adotr-the-nearly-fatal-plan)
 - [582 ADOTR: The Alliance](#582-adotr-the-alliance)
   - [The Joint Attack](#the-joint-attack)
+- [584 ADOTR: The Sea Battles](#584-adotr-the-sea-battles)
 
 ## Keys
 
@@ -696,7 +697,7 @@ Faced with imminent annihilation, the remaining Helucky troops attempted a despe
 
 ## 582 ADOTR: The Alliance
 
-In 582 ADOTR, the Rebels found themselves in a critical state. After years of escalating conflict and relentless clashes against Recola's forces, the capacity for independent resistance began to wane. It was during this trying period that an unexpected opportunity arose: the discovery of remnants from Rescueland’s military, who had evaded captures and clashes amidst the backdrop of Recola's expanding dominance. 
+In 582 ADOTR, the Rebels found themselves in a critical state. After years of escalating conflict and relentless clashes against Recola's forces, the capacity for independent resistance began to wane. It was during this trying period that an unexpected opportunity arose: the discovery of some remnants from Rescueland’s military, who had evaded captures and clashes amidst the backdrop of Recola's expanding dominance. 
 
 The remnants had taken refuge in the outer sectors of the multiverse, battle-hardened and eager for revenge. 
 Initial contact between the Rebels and the Rescueland military leaders was tenuous. Each group was wary of the other, having previously fought one another and had built walls of distrust. However, shared goals soon overshadowed any reservations. As strategies were discussed and alliances were formed, a mutual understanding emerged. 
@@ -712,3 +713,30 @@ The momentum gained from this operation immediately led to more attacks. The coa
 Throughout 583 ADOTR, their collaboration only deepened. Joint training sessions were established to blend tactics and strengthen their operational cohesion. The Rebels adapted to new combat doctrines, integrating Rescueland’s advanced technology and strategic insights into their own methodologies. Meanwhile, Rescueland officers learned the intricacies of planning base positioning, enabling them to plan asymmetrical operations that thoroughly disrupted Recola supply lines. 
 The growing success of the alliance transformed the landscape of the conflict. Reports began to circulate through Recola ranks of the growing unity among opposition factions, igniting fear and caution among their commanders. Special task forces were dispatched to investigate the surge in insurgent activity, but they remained consistently outmaneuvered by the coalition’s nimble tactics. 
 By the end of 583 ADOTR, the once disparate Rebels and Rescueland military remnants had forged a potent alliance, emboldening their struggle against a common enemy. The tide had begun to turn, hope kindled for the multiverse.
+
+## 584 ADOTR: The Sea Battles
+
+ 
+| Name    | Initial Troops   | Total Troops | End Troops     | Losses       | Opponents Captured |
+|---------|----------------|----------------|--------------|------------------|------------------|
+| The Rebels | 4 Battalions | 4 Battalions | 3.5 Battalions | 1/2 a Battalion | 5 Battalions |
+| The Heluckies | 30 Battalions | 30 Battalions | 3 Battalions | 27 Battalions | 2 Companies |
+
+In a calculated endeavor to reclaim the strategically vital Keluha base, the Heluckies initiated a large-scale sea invasion. This operation involved the deployment of 10 massive interceptor-carriers accompanied by 30 battleship escort battalions, aiming to surprise the rebel forces and Rescuelanders who had established a fortified presence in the region.
+
+In anticipation of the attack, the Rebels mobilized 4 battalions of their navy, consisting of larger, heavily armed, and significantly thicker-armored ships. The superior design and capabilities of these vessels provided the Rebels with an overwhelming advantage in terms of firepower and durability. 
+As the Heluckies' fleet advanced, they retained one tactical edge: the size of their ships made them more challenging to target accurately, allowing them to absorb some initial fire without sustaining critical damage. However, this advantage was short-lived in the face of the superior armament and strategic positioning of the rebel forces. 
+Upon engagement, the rebel ships unleashed a barrage of concentrated fire on the Heluckies' fleet. Utilizing advanced targeting systems and superior gunnery, they executed coordinated strikes that capitalized on the Heluckies' vulnerability. The Rebels systematically targeted the escort battalions first, leading to a rapid decimation of the Heluckies' support ships. The efficiency of the Rebels' firepower was evident as they systematically dismantled the attacking formation. 
+Within a brief period, all but one of the troop carriers were sunk, a calamity that drastically diminished the Heluckies' operational capacity. Furthermore, nearly 90% of the escort battalions were lost to the precise and relentless assault from the rebel fleet. The Rebels’ superior ship designs and armament proved decisive in the outcome of the battle, allowing them to maintain the initiative throughout the confrontation.
+
+In the aftermath of the engagement, the Rebels affirmed their dominance over the waters on Keluha, effectively controlling the maritime avenues and complicating any potential retaliatory efforts from the Heluckies, severely crippling the Heluckies' naval strength.
+
+--- 
+
+Determined to reclaim their lost territory and regain their naval dominance, the Heluckies refused to concede defeat following the significant losses incurred during the sea invasion of Keluha base. In an effort to restore their maritime capabilities, they drastically increased boat production, rapidly bossting their fleet to prepare for renewed engagements against the Rebels.
+
+In the ensuing weeks, the Heluckies launched a series of small-scale attacks aimed at probing the defenses of the rebel forces. One notable assault nearly turned the tide in their favor. The attack caught the Rebels somewhat off guard, as the Heluckies executed a highly coordinated strike with a larger-than-usual contingent of ships. This close call resulted in significant damage to the rebel fleet, with the Heluckies coming alarmingly close to decimating the remainder of the opposing forces.
+
+However, once again underestimating the Rebels, the Heluckies decided to send an insufficient number of ships to capitalize on their momentary advantage. This miscalculation allowed the Rebels to regroup and mount a formidable defense. Exploiting the Heluckies' numerical shortcomings, the Rebels launched a counter-offensive that resulted in the destruction of the Helucky ships sent to finish them off.
+
+Consequently, the Heluckies found themselves in a precarious position once again, as their fleet suffered heavy losses during this engagement. The remaining ships were insufficient to mount another effective attack immediately thereafter, leaving the Heluckies in a state of vulnerability. The brief resurgence in naval activity ultimately ended in disappointment, allowing the Rebels time to recover their strength.
