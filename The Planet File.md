@@ -984,7 +984,7 @@ Army Size:
 
 **General:** Known for its deep-space exploration programs, Heloa is home to Lumen University, a prestigious institution.
 
-### Keluha (E)
+### Keluha (M)
 
 **Name:** Keluha
 
@@ -1010,7 +1010,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 60%, Argon 20%, Neon 20%
 
-**General:** Keluha is a planet abundant in crystalline resources that draw commercial interests, while also prioritizing technological advancements in resource management. Located strategically within a remote mountain range is a Helucky stronghold, which is well-suited for launching offensive operations against neighboring systems.This base has been at the center of fierce contention between Recola and Helucky, resulting in a protracted conflict that ultimately led to one of the deadliest wars in recorded history, now commemorated as the second highest casualty war to date. 
+**General:** Keluha is a planet abundant in crystalline resources that draw commercial interests, while also prioritizing technological advancements in resource management. Located strategically within a remote mountain range is a Helucky stronghold, which is well-suited for launching offensive operations against neighboring systems.This base has been at the center of fierce contention between Recola and Helucky, resulting in a protracted conflict that ultimately led to one of the deadliest wars in recorded history, now commemorated as the second highest casualty war to date.  Currently though, the Rebels control it after defeating Helucky in [The Sea Battles](./The%20Timeline%20of%20Resueland%20History.md#584-adotr-the-sea-battles).
 
 ## Mewfa System
 
