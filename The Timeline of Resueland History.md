@@ -105,15 +105,16 @@ This document outlines all significant events that have taken place since the es
 - [590 ADOTR](#590-adotr)
   - [The Turning of the Tide](#the-turning-of-the-tide)
   - [The Takeover](#the-takeover)
-
+- [591 ADOTR](#591-adotr)
+  - [The 5th Army's Rapid Expansion](#the-5th-armys-rapid-expansion)
 
 ## Keys
 
 ### Time
 
-- 1 Earth year ≈ 0.001126 Rescueland years
-- 1 Earth month ≈ 0.01252 Rescueland months (time it takes Hermonochy to orbit Rescueland)
-- 1 Earth day ≈ 0.0823 Rescueland days
+- 1 Rescueland year ≈ 888 Earth years
+- 1 Rescueland month (time it takes Hermonochy to orbit Rescueland) ≈ 80 Earth months
+- 1 Rescueland day ≈ 12 Earth days
 
 ### Military Structure
 
@@ -908,7 +909,7 @@ However, this initial setback revealed a critical and previously underestimated 
 
 Recognizing this weakness, the new faction rapidly devised a new plan to invade the Keluha base. They hacked into a convoy of Recola interceptors, exploiting the unprotected communication channels. Through this intrusion, they successfully transmitted a virus, which cused the infected ships to immediately turn on their own. This manipulation caused the Recola interceptors to execute a coordinated attack against the the rebel base on Keluha.
 
-Despite suffering enormous losses in this internal deception, the hacked fleet proved to be far more effective in combat than the initial assault. The manipulated interceptors, now under the control of the mysterious invaders, unleashed a devastating barrage of firepower directly upon the rebel defenses. Unprepared, the Rebels quickly lost the outer defenses, giving the invading force further cover. In a matter of weeks, the Recola-controlled ships succeeded in breaching the defenses of the Keluha base and annihilating the rebel forces within.
+Despite suffering enormous losses in this internal deception, the hacked fleet proved to be far more effective in combat than the initial assault. The manipulated interceptors, now under the control of the mysterious invaders, unleashed a devastating barrage of firepower directly upon the rebel defenses. Unprepared, the Rebels quickly lost the outer defenses, giving the invading force further cover. In a matter of weeks, the Recola-controlled ships succeeded in breaching the defenses of the Keluha base and annihilating the rebel forces within. They immediately proceded to invade the other planets of the system, gaining complete dominance over the Hana system.
 
 ### The Takeover
 
@@ -919,3 +920,22 @@ Meanwhile, the threat from the Fifth Army grew more imminent. By the time the Re
 Faced with this unprecedented assault, the Recola commanders and the remaining Recola ships equipped with partial defenses were forced to abandon their positions. They vanished into the unknown depths of the universe, abandoning their homeworld and scattering across the void to escape the onslaught.
 
 This sequence of events left the original superpowers alliance against the 5th army with only three factions remaining to oppose it: Rescueland, Helucky, and the Rebel forces. Despite their combined military might—mainly due to Helucky’s sheer interceptor numbers—the alliance was now in a precarious position. They possessed overwhelming firepower but lacked crucial intelligence about the Fifth Army’s true nature, capabilities, and strategic plans. Without understanding their enemy, they faced a dire uncertainty: where to strike, how to counter the Fifth Army’s increasingly sophisticated tactics, and whether they could hold the line long enough to uncover the secrets behind this formidable foe. 
+
+### The Dual Battles
+
+Following the initial clash, the 5th Army issued a bold directive for their fleet to launch a coordinated assault on Rescueland, at the time firmly under Helucky control. The Heluckies, well-prepared and numerically superior, managed to hold the line against the Recolas forces. Anticipating this, the Rescuelanders, seeking to buy time and deceive the enemy, advised the Helucky command to send their invasion fleet to attack the Keluha base under control of the 5th army.
+
+For a critical period, both fronts—Rescueland and Keluha—saw simultaneous battles. Soon, due to insufficient troop numbers, the Recolas on Rescueland, increasingly strained and demoralized, received orders to retreat and divert their efforts to reinforce the Keluha front.
+
+The Recolas' decision to abandon Rescueland was a critical mistake. Had they maintained their hold, they could have secured control over the FFG and Rescueland gas. Unaware of Rescueland's true strategic value, the 5th Army launched a surprise counterattack against the Helucky forces attacking Keluha from behind. This flanking maneuver forced the Helucky forces into a precarious encirclement, forcing them to retreat toward the outer defenses they had established earlier.
+
+After numerous attempts to break free, the Helucky forces eventually succeeded in escaping the encirclement and retreated back to Helucky. Whith their alliance fully secured, Rescueland was able to reclaim their long-lost planet, restoring their the territory. This series of space battles concluded with no territorial changes—each side suffering heavy troop losses, but no land altered hands. 
+
+## 591 ADOTR
+### The 5th Army's Rapid Expansion
+
+With control of the Keluha base secured, the 5th Army swiftly transitioned from defensive operations to an aggressive campaign of expansion across the Rescueland multiverse. Exploiting their newfound strategic advantage, they launched targeted strikes into neighboring systems, systematically overwhelming and subjugating nearly all of them. The Hana, Klesone, Fil, Udas, Nad, G2320, Rihe, Fadet, Egla, and numerous smaller, less significant systems fell one after another.
+
+This rapid conquest was facilitated by a critical intelligence gap. The Helucky-Rescueland-Rebel alliance lacked comprehensive information on the goals of their enemy, leaving them unable to mount effective defenses. The 5th Army capitalized on this ignorance, deploying minimal forces to these outlying regions and swiftly establishing control before any significant resistance could be organized.
+
+As the campaign progressed, the alliance's holdings dwindled. The once-sprawling network of systems was reduced to only the core system, the Helucky system, the Badguyland system, and the Telor system. Each of these remained fiercely contested, but the vast majority of the multiverse fell under the 5th Army's expanding dominion. 
