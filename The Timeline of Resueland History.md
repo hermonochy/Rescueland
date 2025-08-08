@@ -5,6 +5,7 @@ This document outlines all significant events that have taken place since the es
 
 ## Contents
 
+- [Contents](#contents)
 - [Keys](#keys)
   - [Time](#time)
   - [Military Structure](#military-structure)
@@ -26,7 +27,7 @@ This document outlines all significant events that have taken place since the es
   - [The First Battle Against Bad Guy Land](#the-first-battle-against-bad-guy-land)
 - [22 ADOTR](#22-adotr)
   - [The Founding of the Anti-Bad Guy Land Union](#the-founding-of-the-anti-bad-guy-land-union)
-- [23-24 ADOTR](#23-24-adotr)
+- [23—24 ADOTR](#2324-adotr)
   - [The War for Rescueland](#the-war-for-rescueland)
 - [25 ADOTR](#25-adotr)
   - [The Formation of the Rescueland Empire](#the-formation-of-the-rescueland-empire)
@@ -40,7 +41,7 @@ This document outlines all significant events that have taken place since the es
   - [The Siege of Imperium](#the-siege-of-imperium)
 - [38 ADOTR](#38-adotr)
   - [Discovery of the Force Field Gel](#discovery-of-the-force-field-gel)
-- [38-40 ADOTR](#38-40-adotr)
+- [38—40 ADOTR](#3840-adotr)
   - [The Dispute Over FFG](#the-dispute-over-ffg)
 - [58 ADOTR](#58-adotr)
   - [Discovery of Mutant Force Field Gel](#discovery-of-mutant-force-field-gel)
@@ -54,7 +55,7 @@ This document outlines all significant events that have taken place since the es
   - [War against Mega Mega Mega Mega Mega Mega Mega Mega Mega Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Bad Guy Land](#war-against-mega-mega-mega-mega-mega-mega-mega-mega-mega-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-bad-guy-land)
 - [106 ADOTR](#106-adotr)
   - [The Revolution of the Army](#the-revolution-of-the-army)
-- [105-508 ADOTR](#105-508-adotr)
+- [105—508 ADOTR](#105508-adotr)
   - [The Golden Age](#the-golden-age)
 - [508 ADOTR](#508-adotr)
   - [War against Horsa](#war-against-horsa)
@@ -85,7 +86,7 @@ This document outlines all significant events that have taken place since the es
   - [The Recola Genocide](#the-recola-genocide)
     - [The Attack on Filto](#the-attack-on-filto)
     - [The Siege of Klesone](#the-siege-of-klesone)
-- [565-578 ADOTR](#565-578-adotr)
+- [565—578 ADOTR](#565578-adotr)
   - [The Rise of the Rebels](#the-rise-of-the-rebels)
 - [579 ADOTR](#579-adotr)
   - [The Nearly Fatal Plan](#the-nearly-fatal-plan)
@@ -94,7 +95,7 @@ This document outlines all significant events that have taken place since the es
   - [The Joint Attack](#the-joint-attack)
 - [584 ADOTR](#584-adotr)
   - [The Sea Battles](#the-sea-battles)
-- [584-585 ADOTR](#584-585-adotr)
+- [584—585 ADOTR](#584585-adotr)
   - [The Rebuilding of the Keluha Base](#the-rebuilding-of-the-keluha-base)
 - [586 ADOTR](#586-adotr)
   - [The Expedition](#the-expedition)
@@ -105,8 +106,13 @@ This document outlines all significant events that have taken place since the es
 - [590 ADOTR](#590-adotr)
   - [The Turning of the Tide](#the-turning-of-the-tide)
   - [The Takeover](#the-takeover)
+  - [The Dual Battles](#the-dual-battles)
 - [591 ADOTR](#591-adotr)
   - [The 5th Army's Rapid Expansion](#the-5th-armys-rapid-expansion)
+- [593—597 ADOTR](#593597-adotr)
+  - [The Counter-offensive](#the-counter-offensive)
+- [599 ADOTR](#599-adotr)
+  - [The Revenge of The 5th Army](#the-revenge-of-the-5th-army)
 
 ## Keys
 
@@ -963,3 +969,17 @@ The last stand was on Klesone, a planet that would become infamous in the annals
 The coalition was forced to fight on two fronts, stretched thin and vulnerable. Just when defeat seemed imminent, the Recola leaders made a critical decision: to divert their fleets from Klesone to reinforce the Keluha Base, which they deemed far more valuable and strategically crucial. This decision was yet another mistake; it left the remnants of their forces on Klesone surrounded and vulnerable.
 
 As the Helucky forces pressed their advantage, the surrounded Recola troops, cut off and outnumbered, resorted to desperate measures. Seeing no way out, they destroyed many Helucky ships in a frenzied effort to deny the enemy a complete victory. When the Heluckies finally exterminated all Recolas, the casualties end up being staggering. In the end, out of a total of 30 divisions, only 2 Helucky divisions and 5 Rebel battalions survived the brutal conflict. The remaining Recola forces were completely wiped out.
+
+## 599 ADOTR
+
+### The Revenge of The 5th Army
+
+In the year 599 ADOTR, the 5th Army's seemingly foolish decision marked a disastrous turn in the ongoing conflict: they ordered the Recola to launch a direct assault on the Keluha base—a move that defied strategic logic and common sense. The Recola, still significantly depleted after their previous battles, lacked the necessary numbers and resources to sustain such an attack. After just minutes of fighting, they were immediately overwhelmed by superior numbers and the well-fortified defenses. The assault was a catastrophic failure; the Recola troops were swiftly repelled, suffering heavy casualties and a humiliating defeat.
+
+Meanwhile, news of an attack on Helucky itself reached the Keluha base and the other planets of the Rescueland-Helucky-Rebel alliance—an overwhelming force estimated to number in the decillions, far exceeding even Helucky’s capacity to defend itself.
+
+In a desperate bid to bolster their defenses, the alliance's troops hastened toward Helucky, hoping to stem the tide of destruction. It was during this chaos that a critical revelation emerged: the 5th Army, in their desperation, had resorted to the old [Holo-Decoy Defense System](./The%20Technology%20of%20Rescueland,%20Computerland%20and%20it's%20surrounding%20Planets.md#holo-decoy-defense-system-r), on a scale unheard of ever before. In reality, their forces did not exceed 5 divisions.
+
+Just as the reenforcements from the outer systems arrived, the Recola troops suddenly fled. Taking advantage of the chaos and the illusion, the Recola swiftly infiltrated and took control of the mostly undefended systems surrounding Helucky. The alliance’s forces, deceived and unprepared, could do little to stop the advance.
+
+The situation worsened as the Recola, now in control of critical systems, launched a coordinated assault on the Keluha base. Despite initial efforts to resist, the resilient defenses eventually fell, and the base was captured. The fall of Keluha marked a significant blow to the alliance’s strategic position, leaving many more systems vulnerable. Within a few days, the Recola had regained all their lost territory.
