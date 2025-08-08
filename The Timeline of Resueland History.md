@@ -113,6 +113,7 @@ This document outlines all significant events that have taken place since the es
   - [The Counter-offensive](#the-counter-offensive)
 - [599 ADOTR](#599-adotr)
   - [The Revenge of The 5th Army](#the-revenge-of-the-5th-army)
+  - [The Pirate Alliance](#the-pirate-alliance)
 
 ## Keys
 
@@ -980,6 +981,14 @@ Meanwhile, news of an attack on Helucky itself reached the Keluha base and the o
 
 In a desperate bid to bolster their defenses, the alliance's troops hastened toward Helucky, hoping to stem the tide of destruction. It was during this chaos that a critical revelation emerged: the 5th Army, in their desperation, had resorted to the old [Holo-Decoy Defense System](./The%20Technology%20of%20Rescueland,%20Computerland%20and%20it's%20surrounding%20Planets.md#holo-decoy-defense-system-r), on a scale unheard of ever before. In reality, their forces did not exceed 5 divisions.
 
-Just as the reenforcements from the outer systems arrived, the Recola troops suddenly fled. Taking advantage of the chaos and the illusion, the Recola swiftly infiltrated and took control of the mostly undefended systems surrounding Helucky. The alliance’s forces, deceived and unprepared, could do little to stop the advance.
+Just as the re-enforcements from the nearby systems arrived, the Recola troops suddenly fled. Taking advantage of the chaos and the illusion, the Recola swiftly infiltrated and took control of the mostly undefended systems surrounding Helucky. The alliance’s forces, deceived and unprepared, could do little to stop the advance.
 
-The situation worsened as the Recola, now in control of critical systems, launched a coordinated assault on the Keluha base. Despite initial efforts to resist, the resilient defenses eventually fell, and the base was captured. The fall of Keluha marked a significant blow to the alliance’s strategic position, leaving many more systems vulnerable. Within a few days, the Recola had regained all their lost territory.
+The situation worsened as the Recola, now in control of critical systems, relaunched a coordinated assault on the Keluha base. Despite initial efforts to resist, the resilient defenses eventually fell, and the base was captured. The fall of Keluha marked a significant blow to the alliance’s strategic position, leaving many more systems vulnerable. Within a few days, the Recola had regained all their lost territory.
+
+### The Pirate Alliance
+
+Following the devastating defeat of the Rescueland-Helucky-Rebel Alliance forces, and the subsequent occupation of their territories by the numerically overwhelming Recola forces, a new and unsettling power dynamic emerged. The pirate faction, an independent and often ruthless group, realized their precarious position. Isolated pockets of resistance were being systematically crushed, and the vast recola armies, seemingly endless, now patrolled the skies and oceans of the conquered territories.
+
+Faced with this stark reality, the pirates were forced to make an alliance with the 5th Army. In return for a shield against the potential wrath of the Recola, the pirates pledged their formidable naval assets to the 5th Army. While their interceptor capabilities were limited, the pirates possessed a fleet of exceptionally well-maintained and highly effective battleships. Their water-based vessels, in particular, were far superior to anything the Alliance had possessed, even the infamous rebel fleet. 
+
+However, this uneasy alliance was far from ideal. The pirates, accustomed to operating independently, chafed under the newfound military hierarchy imposed by the 5th Army. The 5th Army, in turn, resented the pirates' lack of rigid adherence to military doctrine.
