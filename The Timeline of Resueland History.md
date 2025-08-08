@@ -183,7 +183,7 @@ In the aftermath of the successful operation on N2, small factions within the li
 
 In Year 22 ADOTR, the leaders of the [Core Planets](./The%20Planet%20File.md#core-systems) convened to establish the Anti-Bad Guy Land Union, creating a collaborative alliance dedicated to mutual assistance and defense against common threats in the multiverse. This pivotal moment laid the groundwork for what would later evolve into the Rescueland Empire.
 
-## 23-24 ADOTR
+## 23—24 ADOTR
 ### The War for Rescueland
 
 Following their preliminary victories, Rescueland’s forces were emboldened but unaware of Bad Guy Land’s plans for a coordinated and overwhelming assault. Bad Guy Land sought revenge for previous defeats and had been quietly amassing a formidable fleet.
@@ -271,7 +271,7 @@ With training and experiments underway, Rescuelanders developed comprehensive st
 News of Rescueland's advancements in defence technology, FFG, reached neighbouring factions and former adversaries. Diplomatic conversations had to navigate concerns and collaborations concerning the newly unveiled power, reshaping the political landscape as alliances were tested and fortified.
 The discovery and harnessing of Force Field Gel became a defining moment in Rescueland's evolution into a formidable interstellar power. With innovative technology at their disposal, Rescueland not only enhanced its military might but also solidified its position as a leader in defensive capabilities. The implications of FFG extended beyond mere warfare, influencing strategies, alliances, and the very future of intergalactic relations as Rescueland stepped confidently into a new era of exploration and expansion. For a more detailed overview click [here](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r).
 
-## 38-40 ADOTR
+## 38—40 ADOTR
 ### The Dispute Over FFG
 
 In the midst of the technological advancements brought about by FFG, disputes arose around the sharing of new technologies between Rescueland and their allies, leading to a minor conflict with the planets feeling slighted. Tensions rose in the form of sabotaged equipment and covert operations, but diplomatic interventions kept the situation from escalating into open warfare.
@@ -428,7 +428,7 @@ By 107 ADOTR, the Rescueland military had successfully integrated the new classe
 
 The success of the revolution of the armies fundamentally altered the course of Rescueland’s military history. With the introduction of Interceptors, Battleships, and Pocket Destroyers, alongside a commitment to organisational excellence, the Empire stood fortified against any future threats. The revolution marked a new era of military prowess, poised to defend the Empire's interests across the galaxy and maintain peace and order in an ever-evolving universe.
 
-## 105-508 ADOTR
+## 105—508 ADOTR
 ### The Golden Age
 
 Mega*9 Ultra*9 Bad Guy Land's destruction struck fear into any other resistance, and the Rescueland Empire experienced a very long era of peace, allowing technology to advance massively.
@@ -747,7 +747,7 @@ By the end of the siege, Klesone had succumbed to Recola's military might. The l
 | Helucky | 210 Divisions | 332 Divisions | 130 Divisions | 202 Divisions | 200 Divisions (Foot soldiers) and 3 Interceptor Divisions |
 | Klesone | 253 Battalions | 253 Battalions | 3 Battalions | 250 Battalions | 0 |
 
-## 565-578 ADOTR
+## 565—578 ADOTR
 ### The Rise of the Rebels
 
 As Recola solidified its dominance in the wake of the siege of Klesone, a new faction emerged amid the chaos—a group of dissident Heluckies who had splintered from the Helucky Empire. Opposed to their government's aggressive militarization and the orders to attack Rescueland, they adopted the mantle of "*[The Rebels.](./The%20Planet%20File.md#the-rebels)*" This faction sought to undermine the Recola regime and protect the ideals they once held dear. 
@@ -861,7 +861,7 @@ As it joined the fray, the super-battleship commenced a relentless assault, depl
 | The Heluckies | 100 Battalions | 143 Battalions | 17 Battalions | 126 Battalions | 0 |
 
 
-## 584-585 ADOTR
+## 584—585 ADOTR
 ### The Rebuilding of the Keluha Base
 
 In the wake of their decisive naval victory on Keluha, the rebel forces swiftly capitalized on their strategic advantage, culminating in the complete seizure of the former Helucky base. Their victory in last naval engagement resulted in the destruction of the Helucky fleet in the nearby area, effectively crippling any immediate counterattack. The rebels, reinforced by their recent triumph, moved decisively to secure and rebuild the vital installation. 
@@ -934,8 +934,32 @@ After numerous attempts to break free, the Helucky forces eventually succeeded i
 ## 591 ADOTR
 ### The 5th Army's Rapid Expansion
 
-With control of the Keluha base secured, the 5th Army swiftly transitioned from defensive operations to an aggressive campaign of expansion across the Rescueland multiverse. Exploiting their newfound strategic advantage, they launched targeted strikes into neighboring systems, systematically overwhelming and subjugating nearly all of them. The Hana, Klesone, Fil, Udas, Nad, G2320, Rihe, Fadet, Egla, and numerous smaller, less significant systems fell one after another.
+With control of the Keluha base secured, the 5th Army swiftly transitioned from defensive operations to an aggressive campaign of expansion across the Rescueland multiverse. Exploiting their newfound strategic advantage, they launched targeted strikes into neighboring systems, systematically overwhelming and subjugating nearly all of them. The Hana, Klesone, Fil, Udas, Nad, G2320, Rihe, Fadet, Egla, and numerous smaller, less significant systems all fell, one after another.
 
 This rapid conquest was facilitated by a critical intelligence gap. The Helucky-Rescueland-Rebel alliance lacked comprehensive information on the goals of their enemy, leaving them unable to mount effective defenses. The 5th Army capitalized on this ignorance, deploying minimal forces to these outlying regions and swiftly establishing control before any significant resistance could be organized.
 
-As the campaign progressed, the alliance's holdings dwindled. The once-sprawling network of systems was reduced to only the core system, the Helucky system, the Badguyland system, and the Telor system. Each of these remained fiercely contested, but the vast majority of the multiverse fell under the 5th Army's expanding dominion. 
+As the campaign progressed, the alliance's holdings dwindled. The once-sprawling network of systems was reduced to only the core system, the Helucky system, the Badguyland system, and the Telor system. Each of these remained fiercely contested, but the vast majority of the multiverse had fallen under the 5th Army's expanding dominion. 
+
+## 593—597 ADOTR
+### The Counter-offensive
+
+Over the following years, Rescueland's leadership grew increasingly alarmed at the relentless erosion of their territorial holdings. The initial strategy of targeted strikes proved ineffective; every attempt to seize a key system risked triggering swift enemy reinforcement from nearby systems, especially the formidable Keluha Base. The proximity of Keluha, now a well-fortified stronghold and logistical hub for enemy resupply, meant that any significant offensive was met with a deluge of reinforcements, nullifying territorial gains and incurring heavy military and civilian casualties.
+
+Recognizing the limitations of these tactics, the Rescueland strategists, along with their allies—the Heluckies and the Rebels—concluded that a different approach was necessary. They devised a daring plan: to coordinate simultaneous assaults on all locations of strategic value across the contested sectors. By overwhelming the enemy on every front at once, they hoped to stretch the 5th Army’s resources too thin to respond effectively, thereby gaining crucial footholds without provoking a counterproductive escalation.
+
+The three factions embarked on a massive military buildup. Over the next few years, they expanded their armies, meticulously training troops and developing logistics networks that could sustain simultaneous offensives. This period was marked by slow, deliberate progress. Each side had to find ways to expand their forces covertly, avoiding detection by the 5th Army's surveillance systems and intelligence networks. The buildup was carefully calibrated to avoid provoking the enemy into preemptive strikes, allowing the coalition to amass a formidable force in secret.
+
+By the time their collective strength was ready, the military forces had grown exponentially. The combined armies and fleets had surged to outpower the 5th Army's forces in the contested systems, outnumbering them 39 to 1.
+
+---
+
+The coalition’s plan unfurled with devastating precision. Coordinated across multiple systems, the attack commenced simultaneously—an overwhelming barrage designed to catch the enemy off guard and prevent effective reinforcement or retreat. The assault force was composed of a brutal ratio: ten Helucky interceptors, one Rebel division, and a single Rescueland class F pocket destroyer per target system. This streamlined yet formidable force aimed to maximize firepower while minimizing logistical footprints, allowing for rapid, synchronized strikes across the contested sectors.
+
+Recolas, already stretched thin by their defensive commitments, could muster only a handful of divisions—no more than five in even their most strategically vital systems. Many Recola controlled planets fell within days; Aquarion was the first to succumb, its defenses overwhelmed in a matter of hours. Its inhabitants' platforms and habitats were severely damaged in the initial barrage, leaving the planet's surface scarred and its infrastructure crippled. The remaining Recola forces abandoned the planet, retreating to more defensible positions, while the devastation inflicted on Aquarion took years to repair.
+
+Ukakia followed swiftly, and notably, it was here that the Heluckies suffered the least losses during the campaign. Their rapid, targeted strikes and coordinated defenses allowed them to secure the planet efficiently, preserving much of their force for subsequent operations. Over the course of several months, the coalition pressed forward, systematically taking planet after planet. Each victory was hard-won, with the defenders mounting fierce resistance, but the tide was undeniably turning.
+
+The last stand was on Klesone, a planet that would become infamous in the annals of the conflict. The battle there was one of the bloodiest and most destructive of the entire campaign, earning a reputation as one of the highest casualty-rate engagements fought during the rebellion. As the Helucky forces advanced, the Recolas realized that their initial retreat had become a full-scale withdrawal—some systems, sensing imminent defeat, fled before the final confrontation. These fleeing forces gathered into a sizable force, attempting a desperate counterattack—flanking the Heluckies on Klesone in a last-ditch effort to save their remaining territories. 
+The coalition was forced to fight on two fronts, stretched thin and vulnerable. Just when defeat seemed imminent, the Recola leaders made a critical decision: to divert their fleets from Klesone to reinforce the Keluha Base, which they deemed far more valuable and strategically crucial. This decision was yet another mistake; it left the remnants of their forces on Klesone surrounded and vulnerable.
+
+As the Helucky forces pressed their advantage, the surrounded Recola troops, cut off and outnumbered, resorted to desperate measures. Seeing no way out, they destroyed many Helucky ships in a frenzied effort to deny the enemy a complete victory. When the Heluckies finally exterminated all Recolas, the casualties end up being staggering. In the end, out of a total of 30 divisions, only 2 Helucky divisions and 5 Rebel battalions survived the brutal conflict. The remaining Recola forces were completely wiped out.
