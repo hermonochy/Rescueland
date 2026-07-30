@@ -903,7 +903,7 @@ This pattern repeated relentlessly over the following years: the battlestation, 
 
 Due to the relentless and devastating attacks launched by the mysterious battlestation, for the first time in history, all four of the original superpowers—Rescueland, Helucky, Recola, and the Rebels—formed a unified alliance against this unprecedented threat. Recognizing the existential danger posed by the enigmatic Fifth Army and its colossal battlestation, these ancient rivals set aside their differences and pooled their formidable resources and technological advancements.
 
-This historic alliance culminated in the creation of the largest space force ever known in the multiverse, featuring an awe inspiring number of several nonillion ships. This force became almost unstoppable, utilising each factions strengths: Rescueland stratigical prowess and high quality troops, Helucky's sheer numbers, Recola's stealth and manipulation techniques and the Rebels experience competing against larger forces.
+This historic alliance culminated in the creation of the largest space force ever known in the multiverse, featuring an awe inspiring number of several nonillion ships. This force became almost unstoppable, utilising each factions strengths: Rescueland stratigical prowess and high quality troops, Helucky's sheer numbers, Recola's stealth and manipulation techniques and the Rebels experience competing against larger forces. 
 
 ## 590 ADOTR
 ### The Turning of the Tide
@@ -912,9 +912,9 @@ In the year 590 ADOTR, an unprecedented event unfolded within the ongoing confli
 
 Initially, the new force encountered significant difficulties in executing their mission. The ships, despite their advanced technological capabilities, were unfamiliar with the local tactical environment and the specific defensive measures employed by the rebels. Their formations and attack patterns were ineffectual against the well-prepared resistance of the rebels. The rebels' anti bunker catapaults and automated defenses inflicted heavy casualties, and the invading fleet was forced into a hasty retreat, suffering the loss of approximately half of their ships in the process.
 
-However, this initial setback revealed a critical and previously underestimated flaw in the design and operational protocols of the Recola fleet. The primary concern in their design had thus far been the absence of a shield system; yet, the recent engagement exposed an even more fundamental vulnerability: the interceptors employed by Recola lacked any mechanism to block signals sent into them. While they could effectively block the signals of enemies, they had no capacity to prevent signals from infiltrating themselves.
+However, this initial setback revealed a critical and previously underestimated flaw in the design and operational protocols of the Recola fleet. The primary concern in their design had thus far been the absence of a shield system; yet, the recent engagement exposed an even more fundamental vulnerability: the interceptors employed by Recola lacked any mechanism to block signals sent into them. While they could effectively jam enemy signals, they had no capacity to prevent signals from infiltrating themselves.
 
-Recognizing this weakness, the new faction rapidly devised a new plan to invade the Keluha base. They hacked into a convoy of Recola interceptors, exploiting the unprotected communication channels. Through this intrusion, they successfully transmitted a virus, which cused the infected ships to immediately turn on their own. This manipulation caused the Recola interceptors to execute a coordinated attack against the the rebel base on Keluha.
+Recognizing this weakness, the new faction rapidly devised a new plan to invade the Keluha base. They hacked into a convoy of Recola interceptors, exploiting the unprotected communication channels. Through this intrusion, they successfully transmitted a virus, causing the infected ships to immediately turn on their own. This manipulation caused the Recola interceptors to execute a coordinated attack against the the rebel base on Keluha.
 
 Despite suffering enormous losses in this internal deception, the hacked fleet proved to be far more effective in combat than the initial assault. The manipulated interceptors, now under the control of the mysterious invaders, unleashed a devastating barrage of firepower directly upon the rebel defenses. Unprepared, the Rebels quickly lost the outer defenses, giving the invading force further cover. In a matter of weeks, the Recola-controlled ships succeeded in breaching the defenses of the Keluha base and annihilating the rebel forces within. They immediately proceded to invade the other planets of the system, gaining complete dominance over the Hana system.
 
@@ -992,3 +992,75 @@ Following the devastating defeat of the Rescueland-Helucky-Rebel Alliance forces
 Faced with this stark reality, the pirates were forced to make an alliance with the 5th Army. In return for a shield against the potential wrath of the Recola, the pirates pledged their formidable naval assets to the 5th Army. While their interceptor capabilities were limited, the pirates possessed a fleet of exceptionally well-maintained and highly effective battleships. Their water-based vessels, in particular, were far superior to anything the Alliance had possessed, even the infamous rebel fleet. 
 
 However, this uneasy alliance was far from ideal. The pirates, accustomed to operating independently, chafed under the newfound military hierarchy imposed by the 5th Army. The 5th Army, in turn, resented the pirates' lack of rigid adherence to military doctrine.
+
+## 600 ADOTR
+
+### Recola Consolidation of the Dara System
+
+Following some setbacks in the Fil system, Recola redirected its focus to the distant Dara system. A Recola battleship, carrying 3 companies of fighters, entered the orbit of Zhalam and initiated a low‑altitude bombardment, disabling Zhalam’s primary power generators, forcing the planet’s civilian council to capitulate and accept Recola governance in exchange for restoration of essential services. The swift surrender of Zhalam opened the path for Recola to occupy Yurash without resistance, completing the takeover of the entire Dara system.
+
+### The fall of The Talu System
+
+With the Dara system under its control, Recola moved onto the Talu system. Recola launched a coordinated night‑time raid on Jequai, deploying a swarm of interceptors that saturated the planet’s airspace. The Rescueland defense sent after the loss of the Dara system, already stretched thin, were unable to mount an organized defense. Within hours, Recola forces secured Jequai’s capital, and the neighboring planet of Muru.
+
+## 601 ADOTR
+
+### Recola’s Dominion over all other Systems
+
+By 601 ADOTR, Recola’s methodical campaign of sabotage, targeted assaults, and strategic subterfuge had once again culminated in the firm control of every system that shared the same multiversal neighborhood as Rescueland, with the sole exceptions of the Core planets and Helucky. All other planets, from the outer reaches of the Prima system through the Dara and Talu clusters, now bowed to the 5th Army.
+
+## 602-710 ADOTR
+
+### The Silent Stalemate
+
+Following the consolidation of the Dara and Talu systems, the galaxy entered a prolonged period of eerie tranquility known as "The Silent Stalemate." Both the 5th Army-Recola coalition and the Rescueland-Helucky-Rebel alliance were severely weakened by decades of continuous warfare, leaving them in a state of exhaustion. The massive fleets that had once swept across the stars now lay dormant, their crews battered and their resources depleted.
+
+During these decades, the 5th Army and Recola solidified their grip over the conquered territories. They established a rigid, oppressive administration, enslaving the majority of the population on occupied planets to fuel their war machine and rebuild their shattered infrastructure. The 5th Army's mysterious battlestation remained a silent sentinel in orbit, while Recola's stealth capabilities allowed them to enforce their will from the shadows. The exact scale of their military power became a subject of intense speculation and fear. No one knew how many fighters the Recolas and the 5th Army truly possessed. Estimates varied wildly: some intelligence suggested they had already surpassed Helucky in numbers, potentially fielding forces in the nonillions; others believed they had suffered such catastrophic losses that their numbers were now comparable to, or even fewer than, the Rebel forces.
+
+This critical lack of intelligence bred a paralyzing paranoia within the alliance. The Heluckies, despite likely still possessing the largest army in the universe (estimated in the octillions), found themselves unable to launch any offensive. Fearful of walking into a trap or facing an enemy of unknown magnitude, they adopted a purely defensive posture. The bulk of their massive interceptor fleets were redeployed to guard the Core System, Helucky, and the remaining alliance planets, creating a dense, impenetrable shield around their territories.
+
+The alliance spent these quiet years in a desperate, frantic buildup. Rescueland, Helucky, and the Rebels worked tirelessly to repair their fleets, train new recruits, and develop countermeasures against the 5th Army's hacking capabilities. Every ship built, every pilot trained, and every resource stockpiled was done in the shadow of uncertainty. 
+
+#### The Search for Recola
+
+During the Silent Stalemate, the Alliance's most consuming obsession became the desperate search for the hidden homeworld of the Recola. For decades, the location of the Recola capital had remained the Alliances's greatest strategic blind spot, a mystery that paralyzed the Alliance's ability to plan any meaningful offensive. The Helucky High Command, terrified by the unknown scale of the enemy, refused to commit their massive octillion-strong interceptor fleets to any operation that wasn't a direct defense of their own systems. This uncertainty created a suffocating atmosphere of paranoia, where every sensor blip was scrutinized and every rumor of a hidden fleet was treated as a potential existential threat.
+
+To break this deadlock, the Alliance launched a coordinated, galaxy-spanning manhunt that consumed the resources of Rescueland, Helucky, and the Rebels. Rescueland deployed its most advanced stealth scouts, masking their signatures with refined Rescueland Gas to slip past the 5th Army's automated defenses, while the Rebels utilized their extensive network of underground contacts and the "Whisper Network" to chase down every whisper of a hidden planet. Helucky, despite its reluctance to expose its forces, contributed thousands of long-range sensor buoys, casting a vast, invisible net across the uncharted sectors of the multiverse. The goal was singular and absolute: to locate the Recola homeworld. Strategists on all sides agreed that finding this planet was the key to unlocking the war. Without knowing where the enemy was based, the Alliance could not gauge the true strength of the Recola fleet, leaving them unable to calculate the odds of victory or defeat.
+
+The stakes of this search were nothing less than the fate of the entire multiverse. Alliance leaders believed that if they could pinpoint the Recola homeworld, they could finally dispel the fog of war. A direct scan of the planet's surface and orbital shipyards would reveal the exact number of troops and ships, shattering the myths of nonillion-sized armies or phantom forces that kept the Heluckies in a defensive crouch. More importantly, locating the planet would provide the coordinates for the ultimate counterstrike. The plan was to mobilize the full might of the Helucky fleet, combined with the elite forces of Rescueland and the guerrilla tactics of the Rebels, to converge on the Recola system in a single, overwhelming assault. This would be the biggest battle in the history of the multiverse, a decisive engagement where the Alliance hoped to crush the enemy's command structure and end the war in one fell swoop.
+
+For years, the hunt yielded only frustration and false leads. Sensors picked up "ghost" signals that vanished upon approach, and scouts reported "shadows" that turned out to be natural phenomena or automated decoys. 
+
+#### The Underground Resurgence
+
+In 620 ADOTR, particularly on distant planets like Zhalam and Jequai, a grassroots resistance movement began to form. Unlike the organized military efforts of the Rebels, these were small, decentralized cells of civilians and former soldiers who used the 5th Army's own slave labor camps to smuggle weapons and data. They focused on sabotage of supply lines and the destruction of automated mining drones. While they avoided direct combat, their activities slowly eroded the 5th Army's efficiency, forcing Recola to divert significant resources to internal security rather than fleet expansion.
+
+#### The Discovery of the "Ghost Fleet"
+
+Scout ships from the Rebel faction, reported sightings of a massive, silent fleet drifting arounf the Dara System. These ships bore Recola markings but showed no active power signatures or communication signals. Dubbed the "Ghost Fleet" by the alliance, it was unclear if these were dormant reserve forces, or a decoy. The sighting sent the Helucky leadership into a panic, recalling almost all forces back to their planet.
+
+
+## 711 ADOTR
+### The Breaking of the Stalemate: The Battle of Keluha
+
+After an age of silence and paralyzing uncertainty, the delicate balance of the Silent Stalemate finally shattered. The Rescueland and Rebel leadership finally convinced the hesitant Helucky High Command that the time for defense had passed. The intelligence gathered suggested that the Recola fleet, while formidable, was not the nonillion-sized phantom force the Heluckies feared, and that the Alliance now possessed the numerical superiority to strike a decisive blow. The Helucky leadership, though still wary, authorized the first major offensive in decades.
+
+The operation began with a massive deployment of 28 Helucky divisions. Their objective was to seize the strategic Keluha system, specifically the Rescueland-built base, which had been abandoned by the Alliance during the stalemate and left to decay. The Helucky fleet arrived at this abandoned Rescueland base via space, establishing a secure foothold on the planet's surface. However, the system contained two distinct bases separated by a vast, treacherous sea: the abandoned Rescueland base on one shore, and the Helucky-built base on the opposite shore, which had been occupied and fortified by the Recola forces during the silence.
+
+The Recola intelligence network detected the Helucky arrival immediately. In a desperate bid to crush the Alliance before they could consolidate, the 5th Army ordered a massive counter-offensive. They mobilized a fleet of 65 divisions, deploying their infamous "Death Barges." The barges were so flimsy and poorly armored that they could be sunk by a single shot, making the journey a literal death sentence for the troops on board.
+
+As the Recola fleet crossed the vast sea separating the two bases, they were met with a withering barrage from the waiting Helucky forces on the Rescueland shore. The result was catastrophic. Before the barges even reached the shoreline, nearly a third of the 65 divisions were obliterated, their fragile vessels exploding into the sea. Those that managed to reach the beach suffered even heavier losses as they disembarked under heavy fire, their "death barges" proving to be coffins for the soldiers they carried.
+
+Panic set in among the Recola command as they watched their invasion force dissolve. Realizing their barges were useless against the Alliance's firepower, the surviving Recola forces attempted a frantic retreat back across the sea to their fortified base. They abandoned the beach and fled onto their few remaining battleships, using a desperate screen of frigates and scouts as a rear guard to delay the pursuing Alliance. The retreat was a slaughter. The Recola rear guard was decimated, and the battleships, though more durable, suffered heavy losses as they tried to evacuate the remnants of the force. By the time the surviving Recola troops reached the safety of the Helucky-built base, their 65 divisions had been whittled down to a mere 26.
+
+The Rebels, who had been providing a constant stream of reinforcements and tactical leadership throughout the engagement, played a crucial role in the next phase. With the Recola fleet decimated and their barges gone, the Rebels utilized their own sturdy ships to ferry the Helucky troops across the vast sea. This allowed the Helucky forces to cross with minimal losses, losing only about 4 divisions during the transit.
+
+Shortly after the initial assault on the Rescueland base began, the Helucky leadership, seeing the enemy in disarray, committed a second wave: a fresh army of 52 divisions. With this influx of fresh troops, the Alliance force became overwhelmingly powerful, totaling over 70 divisions against the battered 26 Recola divisions. The Helucky interceptors, now reinforced by the elite Rebel ground forces and transported across the sea by Rebel ships, swarmed the perimeter of the Helucky-built base.
+
+The Recola defenders, demoralized by the loss of their fleet and the failure of their barges, put up a fierce but futile resistance. The Helucky forces, led by the tactical genius of the Rebel commanders, systematically breached the outer defenses. They used the decay of the base against the defenders, collapsing tunnels and sealing off escape routes. The Recola command, realizing that the base was lost, attempted to evacuate their remaining high-value assets via the few remaining space elevators, but the Alliance's air superiority prevented any significant escape.
+
+As the Helucky and Rebel forces pushed deeper into the heart of the base, the Recola leadership made a final, desperate stand in the central command center. However, the sheer weight of the Alliance numbers proved insurmountable. The Helucky interceptors, now operating in perfect coordination with the Rebel ground troops, overwhelmed the last pockets of resistance. By the end of the day, the Keluha base had fallen completely. The 5th Army's attempt to repel the invasion had ended in a catastrophic defeat, with the loss of nearly 40 divisions and the destruction of their Death Barge fleet.
+
+The victory at Keluha marked the end of the Silent Stalemate. The Alliance had not only secured a critical strategic position but had also proven that the Recola and 5th Army were not invincible. And, at last, the fear that had paralyzed the Helucky High Command for decades was finally dispelled. 
+
+
