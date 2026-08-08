@@ -253,7 +253,7 @@ To remain completely neutral to the skirmishes between the factions.
 **Power Status:** 5999999997/6000000000
 
 Army Size:
-- **Interceptors:** 224 trillion
+- **Interceptors:** 112 billion
 - **Battle Ships:** 530,021
 - **Darkfighters:** 8
 - **Ground Force:** 675 octillion
@@ -552,7 +552,7 @@ Army Size:
 **Power Status:** 5999999999/6000000000
 
 Army Size:
-- **Interceptors:** 145 nonillion
+- **Interceptors:** 145 trillion
 - **Battle Ships:** 133,000
 - **Darkfighters:** 5
 - **Ground Force:** 37 septillion
@@ -849,7 +849,7 @@ Army Size:
 **Power Status:** 5999999998/6000000000
 
 Army Size:
-- **Interceptors:** 567 octillion
+- **Interceptors:** 56 trillion
 - **Battle Ships:** 6780
 - **Darkfighters:** 3
 - **Ground Force:** 146 hexillion

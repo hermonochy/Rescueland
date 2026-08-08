@@ -5,7 +5,6 @@ This document outlines all significant events that have taken place since the es
 
 ## Contents
 
-- [Contents](#contents)
 - [Keys](#keys)
   - [Time](#time)
   - [Military Structure](#military-structure)
@@ -27,7 +26,7 @@ This document outlines all significant events that have taken place since the es
   - [The First Battle Against Bad Guy Land](#the-first-battle-against-bad-guy-land)
 - [22 ADOTR](#22-adotr)
   - [The Founding of the Anti-Bad Guy Land Union](#the-founding-of-the-anti-bad-guy-land-union)
-- [23—24 ADOTR](#2324-adotr)
+- [23 - 24 ADOTR](#2324-adotr)
   - [The War for Rescueland](#the-war-for-rescueland)
 - [25 ADOTR](#25-adotr)
   - [The Formation of the Rescueland Empire](#the-formation-of-the-rescueland-empire)
@@ -41,7 +40,7 @@ This document outlines all significant events that have taken place since the es
   - [The Siege of Imperium](#the-siege-of-imperium)
 - [38 ADOTR](#38-adotr)
   - [Discovery of the Force Field Gel](#discovery-of-the-force-field-gel)
-- [38—40 ADOTR](#3840-adotr)
+- [38 - 40 ADOTR](#3840-adotr)
   - [The Dispute Over FFG](#the-dispute-over-ffg)
 - [58 ADOTR](#58-adotr)
   - [Discovery of Mutant Force Field Gel](#discovery-of-mutant-force-field-gel)
@@ -55,7 +54,7 @@ This document outlines all significant events that have taken place since the es
   - [War against Mega Mega Mega Mega Mega Mega Mega Mega Mega Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Ultra Bad Guy Land](#war-against-mega-mega-mega-mega-mega-mega-mega-mega-mega-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-ultra-bad-guy-land)
 - [106 ADOTR](#106-adotr)
   - [The Revolution of the Army](#the-revolution-of-the-army)
-- [105—508 ADOTR](#105508-adotr)
+- [105 - 508 ADOTR](#105508-adotr)
   - [The Golden Age](#the-golden-age)
 - [508 ADOTR](#508-adotr)
   - [War against Horsa](#war-against-horsa)
@@ -86,7 +85,7 @@ This document outlines all significant events that have taken place since the es
   - [The Recola Genocide](#the-recola-genocide)
     - [The Attack on Filto](#the-attack-on-filto)
     - [The Siege of Klesone](#the-siege-of-klesone)
-- [565—578 ADOTR](#565578-adotr)
+- [565 - 578 ADOTR](#565578-adotr)
   - [The Rise of the Rebels](#the-rise-of-the-rebels)
 - [579 ADOTR](#579-adotr)
   - [The Nearly Fatal Plan](#the-nearly-fatal-plan)
@@ -95,7 +94,7 @@ This document outlines all significant events that have taken place since the es
   - [The Joint Attack](#the-joint-attack)
 - [584 ADOTR](#584-adotr)
   - [The Sea Battles](#the-sea-battles)
-- [584—585 ADOTR](#584585-adotr)
+- [584 - 585 ADOTR](#584585-adotr)
   - [The Rebuilding of the Keluha Base](#the-rebuilding-of-the-keluha-base)
 - [586 ADOTR](#586-adotr)
   - [The Expedition](#the-expedition)
@@ -109,7 +108,7 @@ This document outlines all significant events that have taken place since the es
   - [The Dual Battles](#the-dual-battles)
 - [591 ADOTR](#591-adotr)
   - [The 5th Army's Rapid Expansion](#the-5th-armys-rapid-expansion)
-- [593—597 ADOTR](#593597-adotr)
+- [593 - 597 ADOTR](#593597-adotr)
   - [The Counter-offensive](#the-counter-offensive)
 - [599 ADOTR](#599-adotr)
   - [The Revenge of The 5th Army](#the-revenge-of-the-5th-army)
@@ -146,9 +145,9 @@ Rescueland originated coinciding with the Big Bang, establishing itself as a sig
 ## 0 ADOTR
 ### Discovery of the Rings
 
-The Rings were discovered by the Super Owls, who gained consciousness and a range of abilities, including shape-shifting, size-shifting, mass-shifting, space flight, telepathic communication, elemental manipulation, physics manipulation, enhanced agility and time perception alteration. Some minor magical properties include the ability to create illusions, emit bursts of light for distraction, communicate with nature,and influence growth.
+The Rings were discovered by the Super Owls, who gained consciousness and a range of abilities, including shape-shifting, size-shifting, mass-shifting, space flight, telepathic communication, elemental manipulation, physics manipulation, enhanced agility and time perception alteration. Some minor magical properties include the ability to create illusions, emit bursts of light for distraction, communicate with nature, and influence growth.
 
-## 2 ADOTR
+## 3 ADOTR
 ### The Launch of the First Spaceship
 
 Rescueland successfully launched its first spaceship, intended for scientific exploration of the multiverse beyond its home planet. In the lead-up to the launch, a mock mission was conducted to test the vessel's systems, during which a critical malfunction nearly derailed the launch. The crisis led to emergency meetings among engineers and leaders that resulted in innovative safety protocols.
@@ -156,7 +155,7 @@ Rescueland successfully launched its first spaceship, intended for scientific ex
 ## 4 ADOTR
 ### The First Successful Entry of Another Multiverse
 
-Rescueland succeeded in building and deploying a massive ship, The Colossal Squid, capable of traversing into another multiverse, expanding their understanding of the cosmos.
+Rescueland succeeded in building and deploying a massive ship, The Colossal Squid, capable of traversing into another multiverse, expanding their understanding of the cosmos. 
 
 ## 8 ADOTR
 ### Discovery of Bad Guy Land
@@ -190,7 +189,7 @@ In the aftermath of the successful operation on N2, small factions within the li
 
 In Year 22 ADOTR, the leaders of the [Core Planets](./The%20Planet%20File.md#core-systems) convened to establish the Anti-Bad Guy Land Union, creating a collaborative alliance dedicated to mutual assistance and defense against common threats in the multiverse. This pivotal moment laid the groundwork for what would later evolve into the Rescueland Empire.
 
-## 23—24 ADOTR
+## 23 - 24 ADOTR
 ### The War for Rescueland
 
 Following their preliminary victories, Rescueland’s forces were emboldened but unaware of Bad Guy Land’s plans for a coordinated and overwhelming assault. Bad Guy Land sought revenge for previous defeats and had been quietly amassing a formidable fleet.
@@ -224,6 +223,18 @@ With the command ship destroyed and the enemy forces disorganised, the remaining
 
 [The Rescueland Empire](./The%20Planet%20File.md#rescueland-empire) was formed, a union between almost all planets that promised to help one another in times of need.
 
+The Empire operated on a principle of universal protection. Every member planet received military guarantees from the whole. No individual world needed to maintain its own standing army; instead, the Imperial fleet would respond to any threat, anywhere. This arrangement offered unprecedented security for civilian populations and allowed member worlds to redirect resources from military spending to technological and cultural development.
+
+However, this universal protection came with an unintended consequence: the gradual erosion of local defensive capability. Over decades, planets within the Empire ceased maintaining meaningful military forces altogether. Why invest in interceptors, battleships, and trained pilots when the Imperial fleet would arrive at the first sign of trouble? This "coddling effect" meant that local populations lost not only their military infrastructure but also their martial traditions, strategic thinking, and the institutional knowledge required for self-defense.
+
+The Empire's governance structure reflected its collective ideals. It had no single ruler, no emperor, no monarch. Authority rested with the council—a representative body drawing delegates from every member planet. Major decisions required broad consensus, ensuring that no single faction could impose its will on the others. This system worked well for peacetime governance, trade agreements, and diplomatic matters.
+
+In emergencies, however, the Council could appoint a Commander of War with temporary emergency authority. This individual would coordinate Imperial military responses, bypassing bureaucratic delays during active conflicts. Crucially, the Commander of War's powers were limited and revocable.
+
+Weda was appointed the first Commander of War in 25 ADOTR and has held the position continuously ever since. His leadership through the final battles against Bad Guy Land, the Siege of Imperium, and the subsequent wars established him as a figure of unquestioned tactical competence. The Council trusted his judgment, and his reputation remained untarnished through decades of conflict. However, the check remained in place: if the Council or the public began to perceive Weda's actions as exceeding mere defense—aggressive expansion, punitive campaigns, or unnecessary conquest—they retained the authority to stop him.
+
+This delicate balance between centralized emergency power and collective oversight would become increasingly contentious as the Empire grew. By 578 ADOTR, dissatisfaction with the "coddling" of member worlds had crystallized into organized opposition. The Rebel 10 faction emerged explicitly from this critique, arguing that the Empire's universal protection had made planets complacent, vulnerable, and dependent. They believed that only by restoring local military capability and rejecting the protective umbrella could civilizations truly survive in a dangerous multiverse.
+
 ## 26 ADOTR
 ### The Failed Attack
 
@@ -232,8 +243,10 @@ Through espionage and intelligence gathering, the Rescuelanders learnt of Bad Gu
 ## 27 ADOTR
 ### The Defeat of Ukakia
 
-With Bad Guy Land severely weakened, Rescueland shifted its focus to [Ukakia](./The%20Planet%20File.md#ukakia), which had forged a dangerous alliance with Bad Guy Land. The Rescuelanders decided on a rapid strike team, equipped with cloaking technology and speedy vehicles. They approached using terrain as cover, allowing them to reach the Ukakian capital undetected. The assault began at dawn, with the strike team disabling communication towers and regional defences. Meanwhile, a larger force attacked the planet from space, distracting the space and air forces. Confusion ensued as the defence spread thin, too focused on the larger attack to properly address the intruders within. The Rescuelanders moved quickly through the capital, taking down key military targets and garnering civilian support along the way. Local populations rose in revolt against their Ukakian oppressors, further weakening defensive efforts against the Rescuelanders. Within hours, Ukakia surrendered, and Rescueland drew them into the Empire. However, some Ukakian forces managed to escape, joining other forces with the same intent as them. They now fight alongside [Helucky](./The%20Planet%20File.md#helucky-b).
-
+With Bad Guy Land severely weakened, Rescueland shifted its focus to [Ukakia](./The%20Planet%20File.md#ukakia), which had forged a dangerous alliance with Bad Guy Land. The Rescuelanders decided on a rapid strike team, equipped with cloaking technology and speedy vehicles. They approached using terrain as cover, allowing them to reach the Ukakian capital undetected. The capital of Ukakia was not a sprawling city—it was a single structure: Akeris Tower, the largest tower in existence. This colossal edifice pierced completely through Ukakia's atmosphere, its summit extending into the void above. Ships could dock directly at its peak, bypassing the planet's atmosphere entirely. Every Ukakian command structure, military installation, and governmental seat was housed within the walls of Akeris Tower alone. To capture the tower was to capture the entire nation. 
+The Rescuelander strike team infiltrated directly into Akeris Tower itself. Cloaked and undetected, they ascended the tower's interior shafts, moving past defences that had been designed to repel attacks from below or from space—not from within. At dawn, they initiated their assault inside the tower, disabling communication relays and regional defence systems embedded throughout its levels. Meanwhile, a larger force attacked from space, creating the illusion of an orbital bombardment and drawing Ukakia's remaining air and space forces into the sky—away from the tower's interior. 
+Confusion ensued. The defences spread thin, too focused on the external threat to properly address the intruders now fighting within the tower's walls. The Rescuelanders moved methodically through Akeris Tower, floor by floor, taking down key military targets and cutting command links at their source. Along the way, some lower-level workers and personnel turned against their Ukakian oppressors, further weakening the defence. 
+Within hours, control of Akeris Tower—and therefore the entirety of Ukakia—passed to Rescueland. With their capital seized and no alternate seat of government, Ukakia surrendered. Rescueland drew them into the Empire. However, some Ukakian forces managed to escape through the tower's docking bays at the summit before the final lock-down was complete. They fled to other systems, joining other forces with the same intent as them. 
 ## 34 ADOTR
 ### The Final Battle Against Bad Guy Land
 
@@ -278,7 +291,7 @@ With training and experiments underway, Rescuelanders developed comprehensive st
 News of Rescueland's advancements in defence technology, FFG, reached neighbouring factions and former adversaries. Diplomatic conversations had to navigate concerns and collaborations concerning the newly unveiled power, reshaping the political landscape as alliances were tested and fortified.
 The discovery and harnessing of Force Field Gel became a defining moment in Rescueland's evolution into a formidable interstellar power. With innovative technology at their disposal, Rescueland not only enhanced its military might but also solidified its position as a leader in defensive capabilities. The implications of FFG extended beyond mere warfare, influencing strategies, alliances, and the very future of intergalactic relations as Rescueland stepped confidently into a new era of exploration and expansion. For a more detailed overview click [here](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#force-field-gel-r).
 
-## 38—40 ADOTR
+## 38 - 40 ADOTR
 ### The Dispute Over FFG
 
 In the midst of the technological advancements brought about by FFG, disputes arose around the sharing of new technologies between Rescueland and their allies, leading to a minor conflict with the planets feeling slighted. Tensions rose in the form of sabotaged equipment and covert operations, but diplomatic interventions kept the situation from escalating into open warfare.
@@ -438,59 +451,50 @@ The success of the revolution of the armies fundamentally altered the course of 
 ## 105—508 ADOTR
 ### The Golden Age
 
-Mega*9 Ultra*9 Bad Guy Land's destruction struck fear into any other resistance, and the Rescueland Empire experienced a very long era of peace, allowing technology to advance massively.
+Mega*9 Ultra*9 Bad Guy Land's defeat struck fear into any other resistance, and the Rescueland Empire experienced a very long era of peace, allowing technology to advance massively.
 
 ## 508 ADOTR
 ### War against Horsa
 
-In 508 ADOTR, the Rescueland Empire faced a formidable threat from the planet Horsa, which had also advanced its military technology and fielded a newly constructed fleet. With a well-organised and powerful military, Horsa posed an immediate danger to Rescueland’s territorial integrity. Drawing upon their recently restructured military, the Rescueland Empire prepared for an intense confrontation that would shape the future of both civilizations.
+In 508 ADOTR, the Rescueland Empire faced a new kind of threat from the planet Horsa. Unlike the tyrannical regimes of Bad Guy Land, which sought slavery and conquest, Horsa posed a danger born of ideological opposition to the Empire's structure. Horsa had advanced its military technology and fielded a newly constructed fleet to challenge what they viewed as the Empire's fatal weakness.
 
-Horsa, a planet known for its resource-rich environments and strategic positioning within the galaxy, had empowered its military significantly in recent years. With the ambition to expand its influence, the Horsa military under the command of General Kael developed advanced warships and refined tactics that could potentially rival the Rescueland Space Force.
-Rescueland's intelligence had detected unusual military movements from Horsa, prompting military strategists, including Commander of War, Weda, to assume a posture of readiness. With a new fleet numbering a few hundred thousand ships -an impressive size but still dwarfed by the scales possible in the galaxy - the Rescueland military prepared for potential engagement.
+Horsa, a planet known for its resource-rich environments and strategic positioning, had empowered its military significantly in recent years. Under the command of General Kael, Horsa developed advanced warships and refined tactics driven by a specific philosophy: that the Rescueland Empire's policy of universal protection "coddled" its members, weakening local planetary defenses and creating dependency. Horsa believed planets should maintain their own martial strength rather than relying on Imperial intervention.
 
-As relations deteriorated, skirmishes broke out near Horsa’s outer rim. In the early months of 508 ADOTR, two fleets collided in what would become one of the first significant space battles of the war.
-The Rescueland fleet, organised into a cohesive task force of Interceptors, Battleships, and Pocket Destroyers, advanced towards Horsa’s territory. Weda led the fleet from the bridge of the flagship, the Perigrine, a class-A Battleship.
+Rescueland's intelligence detected these unusual military movements, prompting Commander of War Weda to assume a posture of readiness. With a new fleet numbering a few hundred thousand ships—a respectable size but dwarfed by galactic standards—the Rescueland military prepared for an intense confrontation.
 
-The first engagement involved a clash between Rescueland Interceptors and Horsa Interceptors. Agile manoeuvres and precise targeting software allowed Rescueland’s small but advanced interceptor squadrons to hold their ground against Horsa’s opponents.
-As Rescueland’s Interceptors engaged the Horsa Interceptors, General Kael unleashed the Titan-Class Battleships. Their heavy artillery unleashed a torrent of firepower against Rescueland’s formations. The Battleships took hits but maintained strong defensive formations, soaking damage for evasive Pocket Destroyers to flank enemy vessels.
-As the war progressed, both sides demonstrated their adaptability, each employing innovative strategies to maximise the strengths of their ship classes.
-Utilising the high-speed capabilities of Rescueland Interceptors, Commander of War Weda ordered them to engage in aggressive flanking manoeuvres. They used the nebula clouds surrounding Horsa as cover to launch surprise strikes against the Titan-Class vessels, drawing fire away from their own Battleships.
-A squadron of Rescueland Pocket Destroyers was dispatched to shield the Battleships from the encroaching Torpedo Cruisers. Skillful piloting and the effective use of FFG technology allowed these ships to intercept numerous torpedoes, shockingly altering their trajectories and rendering them ineffective against the capital ships.
-As Horsa's forces began to regroup, Rescueland’s Battleships initiated a coordinated broadside attack using their long-range missile systems. A combination of timed strikes made possible through integrated targeting systems allowed them to severely damage the leading Titan-Class battleships, tipping the scales of the war.
+As relations deteriorated, skirmishes broke out near Horsa's outer rim. In the early months of 508 ADOTR, two fleets collided in what would become one of the first significant space battles of the war. The Rescueland fleet, organised into a cohesive task force of Interceptors, Battleships, and Pocket Destroyers, advanced towards Hosa's territory. Weda led the fleet from the bridge of the flagship, the Perigrine, a class-A Battleship.
 
-A decisive engagement occurred above Horsa's capital city, as both fleets converged for a final stand.
-With winning momentum, the Rescueland fleet accelerated its assault, launching waves of Interceptors that overwhelmed Horsa’s defensive lines. A full-throttle strike from Pocket Destroyers followed, smashing into the flanks of Horsa’s formation.
-After hours of fierce conflict, the Horsa Titan-Class Battleships, having sustained heavy losses, struggled to maintain formation. Miscommunication within their ranks led to vulnerabilities which Rescueland capitalised on, ruthlessly taking down ship after ship.
-In a final desperate bid, General Kael attempted to retreat within the last standing Titan-Class Battleship. However, forces coordinated through Weda’s unified command system intercepted them, leading to his capture and averting further escalation of the conflict.
+The first engagement involved a clash between Rescueland Interceptors and Horsa Interceptors. Agile manoeuvres and precise targeting software allowed Rescueland's small but advanced interceptor squadrons to hold their ground. As Rescueland's Interceptors engaged, General Kael unleashed the Titan-Class Battleships. Their heavy artillery unleashed a torrent of firepower against Rescueland's formations. The Battleships took hits but maintained strong defensive formations, soaking damage for evasive Pocket Destroyers to flank enemy vessels.
 
-The war against Horsa ended with another victory for the Rescueland Empire. The organisation and efficiency demonstrated in the battle underscored the success of the recent military reforms.
-With the capture of General Kael and the devastation of its fleet, Horsa was forced into submission. Rescueland negotiators entered discussions to guarantee peace and prevent further militaristic ambitions from Horsa.
+Utilising the high-speed capabilities of Rescueland Interceptors, Commander of War Weda ordered them to engage in aggressive flanking manoeuvres. They used the nebula clouds surrounding Horsa as cover to launch surprise strikes against the Titan-Class vessels, drawing fire away from their own Battleships. A squadron of Rescueland Pocket Destroyers was dispatched to shield the Battleships from the encroaching Torpedo Cruisers. Skillful piloting and the effective use of FFG technology allowed these ships to intercept numerous torpedoes, rendering them ineffective against the capital ships.
+
+A decisive engagement occurred above Horsa's capital city. With winning momentum, the Rescueland fleet accelerated its assault. After hours of fierce conflict, the Horsa Titan-Class Battleships struggled to maintain formation. In a final desperate bid, General Kael attempted to retreat within the last standing Titan-Class Battleship. Forces coordinated through Weda's unified command system intercepted them, leading to his capture.
+
+The war against Horsa ended with another victory for the Rescueland Empire. The organisation and efficiency demonstrated in the battle underscored the success of the recent military reforms. With the capture of General Kael and the devastation of its fleet, Horsa was forced into submission. However, the ideological challenge remained. Horsa would later be recognised as the original founding place of what would become the Rebel 10 faction—those who believed the Empire's coddling was a curse rather than a blessing.
 
 ## 510 ADOTR
 ### The War Against Federre
 
-In the wake of the victory over Horsa, the Rescueland Empire enjoyed another brief period of stability; however, this tranquillity was soon interrupted by the emergence of Federre, a planet from a nearby galaxy equipped with equally advanced technologies and ambitions similar to those of Horsa. The rulers of Federre were determined to assert their dominance over the region, setting the stage for yet another high-tech conflict.
-Initially, Weda underestimated the military capabilities of Federre, believing their advances in technology and military restructuring would afford them another easy victory. Federre’s military included fleets outfitted with advanced cloaking technology, modern weaponry designed to bypass most defences, and their elite Eagle Fighters - at the time considered some of the most formidable fighters in the galaxy. Their forces outnumbered Rescueland's at the outset, comprising over a trillion technologically enhanced ships.
-As tensions escalated, a series of skirmishes erupted near strategic trade routes. Utilising covert operations, Federre forces ambushed Rescueland supply lines, leading to significant logistical disruptions. Caught off-guard, Rescueland suffered heavy losses in these early engagements, and their initial counter-attacks were met with overwhelming force.
-The situation became dire when Federre launched a surprise offensive against the Rescueland flagship, the Perigrine, during an attempt at negotiation. The Federre fleet, led by agile Eagle Fighters, compromised the Rescueland fleet’s defences before destroying critical support vessels, forcing Rescueland forces into a defensive position with several ships captured or destroyed in the chaos.
+In the wake of the victory over Horsa, the Rescueland Empire enjoyed another brief period of stability; however, this tranquillity was soon interrupted by the emergence of Federre, a planet from a nearby galaxy. Federre shared Horsa's philosophical opposition to the Empire, representing a second front in this ideological war. The rulers of Federre were determined to assert their dominance not merely for power, but to prove that independent military strength was superior to reliance on Imperial aid.
 
----
+Federre was equipped with equally advanced technologies and ambitions similar to those of Horsa. Initially, Weda underestimated the military capabilities of Federre, believing their advances would afford them another easy victory. Federre's military included fleets outfitted with advanced cloaking technology, modern weaponry designed to bypass most defences, and their elite Eagle Fighters—at the time considered some of the most formidable fighters in the galaxy. Their forces outnumbered Rescueland's at the outset, comprising over a trillion technologically enhanced ships.
 
-Recognizing the threat Federre posed, Weda re-evaluated their strategy. They focused on reconnaissance and intelligence-gathering to fully understand Federre’s new found tactics and technological advancements. The development of specialised countermeasures became paramount, leading to the creation of new technology explicitly designed to counter cloaking technologies and the threat posed by the Eagle Fighters.
-With these new devices, Rescueland engineers developed a sensor array capable of detecting Federre vessels during their invisibility phases. Simultaneously, they began retrofitting older ships with improved weapon systems, replacing [Solitme](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#solitme-u-sol-eet-meh) slit bombs with [Techanda](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#techanda-u-teh-chuhn-dahh).
-With adequate reinforcements and major strategic upgrades in technology, Rescueland finally prepared for a large-scale counteroffensive. Spurred by a renewed sense of determination, the Rescueland forces launched an assault aimed at key Federre strongholds, culminating in an all-or-nothing battle above the planet.
-As Rescueland forces approached Federre’s defences, they deployed the new sensor arrays, allowing their ships to detect incoming enemy vessels despite their cloaking technology. Recognizing that surprise had proven vital to Federre's previous victories, Rescueland commanders took strategic positions and scrambled their forces.
-In the pivotal battle over Federre, Rescueland interspersed their fleets, including specialised units to counter the Eagle Fighters, employing advanced weaponry in a harmonious concert. With coordinated assaults and improved communication, they established formations designed to outmanoeuvre Federre's tactics.
-Federre, ironically underestimating the intelligence advancements of Rescueland, found its forces in disarray as they faced waves of Rescueland ships reinforced with rapid-response squadrons. The Rescueland fleet engaged in aerial dogfights, utilising superior speed and quality to cripple Federre formations.
-As the battle intensified, Rescueland deployed [Hydro-Bombs](./The%20Technology%20of%20Rescueland%2C%20Computerland%20and%20it's%20surrounding%20Planets.md#hydro-bombs-rhf) to finish off most of the remaining fighters, further causing chaos among Federre ranks.
-Finally, in a coordinated strike, specialised ships deployed FFG to absorb incoming projectiles while breaching the heavily fortified Federre command ship. Forcing their way onto the flagship led to a brutal ground engagement; Rescueland forces claimed victory over the planet and dismantled Federre's hierarchical control.
+As tensions escalated, a series of skirmishes erupted near strategic trade routes. Utilising covert operations, Federre forces ambushed Rescueland supply lines. Caught off-guard, Rescueland suffered heavy losses. The situation became dire when Federre launched a surprise offensive against the Rescueland flagship, the Perigrine, during an attempt at negotiation.
+
+Recognizing the threat, Weda re-evaluated strategy. Rescueland engineers developed a sensor array capable of detecting Federre vessels during their invisibility phases. Simultaneously, they began retrofitting older ships with improved weapon systems, replacing Solitme slit bombs with Techanda. In the pivotal battle over Federre, Rescueland forces deployed these countermeasures, deploying Hydro-Bombs to finish off remaining fighters. Finally, specialised ships deployed FFG to breach the heavily fortified Federre command ship.
+
+Rescueland forces claimed victory and dismantled Federre's hierarchical control. The defeat of Federre demonstrated that while the Empire could suppress ideological challenges militarily, the underlying philosophy—that planets should not rely on external protection—continued to simmer across the galaxy.
 
 ## 511 ADOTR
 ### The Discovery of Helucky
 
-During the conflicts against the remaining pockets of Federre resistance, a momentous event unfolded that would shift the balance of power in the galaxy: the unexpected discovery of Helucky. During a series of skirmishes with Federre forces, Rescueland scouts encountered a newly emerged ship, one that far surpassed anything Federre had deployed. 
-Initially, the emergence of Helucky invoked an air of apprehension. The Rescuelanders recognized that this new player in the cosmic arena could drastically alter the trajectory of their ongoing conflicts. Reports indicated that Helucky was not merely a military power but also had a deep-seated interest in expanding its own influence across the multiverse. Tensions mounted as the Rescueland Empire, already strained from skirmishes with Federre, prepared to confront yet another formidable adversary.
-Realizing the urgent need to adapt, Rescueland engineers raced against time to develop countermeasures capable of neutralizing Helucky's technological edge. Collaborative efforts were launched with other allies in the multiverse, as the potential for yet another war loomed large. 
+During the conflicts against the remaining pockets of Federre resistance, a momentous event unfolded that would shift the balance of power in the galaxy: the unexpected discovery of Helucky. During a series of skirmishes with Federre forces, Rescueland scouts encountered a newly emerged ship, one that far surpassed anything Federre had deployed.
+
+Initially, the emergence of Helucky invoked an air of apprehension. The Rescuelanders recognized that this new player in the cosmic arena could drastically alter the trajectory of their ongoing conflicts. Reports indicated that Helucky was not merely a military power but also had a deep-seated interest in expanding its own influence across the multiverse, operating on a model of self-reliance that mirrored the ideologies of Horsa and Federre, but on a vastly larger scale.
+
+Helucky represented a different tier of threat. Unlike the opportunistic tyranny of Bad Guy Land or the localized ideological dissent of Horsa, Helucky possessed a military doctrine built on overwhelming independent force. Tensions mounted as the Rescueland Empire, already strained from skirmishes with Federre, prepared to confront yet another formidable adversary. This discovery set the stage for a future where the conflict would no longer be about territory, but about the fundamental philosophy of how civilizations defend themselves.
+
+Realizing the urgent need to adapt, Rescueland engineers raced against time to develop countermeasures capable of neutralizing Helucky's technological edge. Collaborative efforts were launched with other allies in the multiverse, as the potential for yet another war loomed large.
 
 ## 515 ADOTR
 ### The Second War for Rescueland
@@ -534,7 +538,7 @@ The attacking force executed a calculated assault on Helucky’s rear guard. The
 During this chaos, the *Firefly* successfully evaded detection and plotted a course toward the *Perigrine*, Rescueland's flagship. This battleship had been fortified and prepared to receive the evacuees. Upon arrival, the hostages were welcomed by relief personnel, who provided food, medical attention, and shelter in the ship’s medical bay, which was geared for immediate assistance. The ship, maintaining course back to the safety of Rescueland, served as a point of stabilization amidst ongoing conflict.
 
 ## 518 ADOTR
-### The Discovery of Recola
+### The Discovery of the Third Army
 
 In a strategic zone between Rescueland and Helucky territories, near the planet [Wonto](./The%20Planet%20File.md#wonto-r), an unidentified ship was detected intruding into the aerial space governed by both powers. Initial scans conducted by Rescueland's surveillance teams indicated that the vessel did not match any known designs used by either military. Given the heightened state of alert resulting from ongoing conflict, Rescueland forces deemed it prudent to engage.
 Following standard operating procedures, Rescueland launched a series of targeted defensive actions. The unidentified ship was successfully shot down. Upon impact with the atmosphere, the vessel ignited, creating a significant fireball that rendered recovery efforts redundant. The ruins of the craft were scattered over a wide area, and attempts to piece together the fragments were met with difficulties, leading to the conclusion that the ship had been completely annihilated.
@@ -545,18 +549,32 @@ This series of incidents eventually became classified under the formal designati
 
 The emergence of the Third Army significantly altered the dynamics of the ongoing war. With the presence of this additional, unpredictable force, both superpowers were compelled to reconsider their military strategies. 
 The fundamental change arose from the realization that no superpower could fully deploy their military forces without risking vulnerability to a potential attack from the other. If one committed its full might to an offensive against one target, it would leave itself open to being struck by the remaining force. This strategic paralysis effectively leveled the playing field, providing Rescueland - typically at a disadvantage due to its comparatively smaller military - an unexpected layer of protection.
-Ironically, the Third Army's intent to destroy the superpowers instead protected Rescueland. The looming threat of the Third Army limited Helucky's operational options, forcing them to weigh the risks of escalating their military commitments. Instead of launching extensive attacks that could have overwhelmed Rescueland, Helucky had to adopt a more cautious approach, wary of the potential repercussions from Recola.
+Ironically, the Third Army's intent to destroy the superpowers instead protected them. The looming threat of the Third Army limited Helucky's operational options, forcing them to weigh the risks of escalating their military commitments. Instead of launching extensive attacks that could have overwhelmed Rescueland, Helucky had to adopt a more cautious approach, wary of the potential repercussions.
+
+## 532 ADOTR
+### The Recola Revelation
+
+For over a decade after the initial incidents classified as "The Third Army," both Helucky and Rescueland operated under incomplete intelligence. The unidentified vessels remained anonymous, their faction origin unconfirmed despite repeated engagements. Military analysts theorized various possibilities—from independent mercenary groups to a hidden civilization—but no definitive identification existed.
+
+In 532 ADOTR, a joint Helucky-Rescueland task force pursued an unidentified transport ship attempting to cross into the Wonto System. The vessel moved through standard navigation routes but transmitted encrypted signals that neither power could decrypt using conventional methods. After a seven-day chase across three systems, Rescueland interceptors successfully disabled the transport's engines and boarding teams secured the hull. 
+Inside, engineers discovered critical intelligence. When decrypted, the data revealed the mysterious "Third Army" was a coordinated military entity calling itself Recola, operating under formal command structure rather than as independent raiders.
+
+The discovery sent shockwaves through both powers. For the first time, strategic assessments acknowledged that "The Third Army" was not a nuisance faction but a legitimate superpower rivaling their own capabilities. The revelation forced immediate reevaluation of all military deployments.
+
+Helucky High Command initially dismissed the findings as disinformation, fearing the psychological impact on their troops. Rescueland leadership, however, accepted the intelligence as verified through cross-referencing multiple recovered fragments from other Third Army vessels destroyed since 518 ADOTR.
+
+The most unsettling implication involved the "Recola homeworld" referenced in the logs. Its location remained undisclosed, but the frequency of supply shipments suggested a nearby position within contested space—a fact that would prove strategically significant in coming conflicts.
 
 ## 550 ADOTR
 ### Battle for the Helucky Base
 
-Following years of skirmishes and power struggles in the region, Helucky constructed a massive strategic base on the crystalline-rich planet Keluha. Known as the Helucky stronghold, the base was designed to secure their interests and launch offensives against neighboring systems, particularly against Klesone and the Fil System. For a while, the Helucky forces dominated the base, leveraging their overwhelming numbers with 17 divisions of interceptors and 3 quadrillion ground troops. 
-However, as tensions rose between Helucky and Recola, the latter, with its powerful fleet, sought to destabilize Helucky's hold on Keluha. Employing their advanced tech level, Recola initiated a stealthy blockade, cutting off all communications to the Helucky base. This effectively wore down the Helucky troops, who, isolated and unable to receive reinforcements or crucial information, grew fatigued over time. Sensing their opportunity about a (earth) year later, Recola launched a surprise strike against the base, overwhelming Helucky forces who were too exhausted to mount an effective defense. Just as it seemed Helucky was on the verge of losing the base completely, the Rescueland Empire intervened, mobilizing their fleet to assist Helucky. 
+Following years of skirmishes and power struggles in the region, Helucky constructed a massive strategic base on the crystalline-rich planet Keluha. The Helucky stronghold was designed to secure their interests and launch offensives against neighboring systems, particularly against Klesone and the Fil System. For a while, the Helucky forces dominated the base, leveraging their overwhelming numbers with 17 divisions of interceptors and 3 quadrillion ground troops. 
+However, as tensions rose between Helucky and Recola following the Recola Revelation of 532 ADOTR, the latter, with its powerful fleet revealed to number in the trillions, sought to destabilize Helucky's hold on Keluha. Employing their advanced tech level, Recola initiated a stealthy blockade, cutting off all communications to the Helucky base. This effectively wore down the Helucky troops, who, isolated and unable to receive reinforcements or crucial information, grew fatigued over time. Sensing their opportunity about an earth year later, Recola launched a surprise strike against the base, overwhelming Helucky forces who were too exhausted to mount an effective defense. Just as it seemed Helucky was on the verge of losing the base completely, the Rescueland Empire intervened, mobilizing their fleet to assist Helucky. For the first time in their history, Rescueland had aided one whom they were at war with.
 
 ---
 
-However, the gratitude was short-lived. In a shocking turn of events, Helucky betrayed the Rescuelanders. After allowing Rescueland forces to take a foothold in their base, the Helucky troops, motivated by the presence of their own ambitions, turned on the Rescuelanders. Without warning, they initiated a barrage of fire on the Rescueland forces, who had come to aid them. This betrayal stemmed from the fact that Rescueland also had a base on Keluha- as requested by the native population - which jeopardized Helucky's plans to dominate the surrounding systems. The presence of Rescueland limited the effectiveness of Helucky’s own base and threatened their long-term strategy of expansion.
-Rescueland troops were forced to retreat, evacuating Keluhean citizens to Rescueland. Helucky had seized control of the base once again, although the cost of their betrayal incurred significant enmity from their former allies.
+However, the gratitude was short-lived. In a shocking turn of events, Helucky betrayed the Rescuelanders. After allowing Rescueland forces to take a foothold in their base, the Helucky troops, motivated by the presence of their own ambitions, turned on the Rescuelanders. Without warning, they initiated a barrage of fire on the Rescueland forces, who had come to aid them. This betrayal stemmed from the fact that Rescueland also had a base on Keluha - as requested by the native population - which jeopardized Helucky's plans to dominate the surrounding systems. The presence of Rescueland limited the effectiveness of Helucky’s own base and threatened their long-term strategy of expansion.
+Rescueland troops were forced to retreat, evacuating Keluhean citizens to Rescueland. Helucky had seized control of the base once again, although the cost of their betrayal incurred significant enmity from their temporary allies.
 
 ---
 
@@ -594,10 +612,10 @@ Ultimately, after an intense battle, Helucky's surviving forces managed to break
 
 
 Following the chaotic struggles for dominance on Keluha, a strategic plan took shape within Helucky military command. Two crucial bases - one a Rescueland base and the other Helucky - had fallen under Recola's control, and Helucky sought to exploit Recola’s vulnerabilities. A well-crafted plan was set in motion to draw Recola's troops away from the Helucky base.
-Mobilizing an impressive 21 divisions - 21 trillion ships - the Helucky forces launched a coordinated assault on the Rescueland base currently under Recola control. The intent of this decoy attack was to overwhelm the Rescueland base, disrupting Recola's defenses and diverting their attention and resources from the Helucky stronghold.
+Mobilizing 21 divisions the Helucky forces launched a coordinated assault on the Rescueland base currently under Recola control. The intent of this decoy attack was to overwhelm the Rescueland base, disrupting Recola's defenses and diverting their attention and resources from the Helucky stronghold.
 Despite Helucky's numerical superiority, Recola’s forces were well-prepared and responded with determined resistance. As Helucky’s offensive capabilities clashed with Recola’s defensive strategies, they began to encounter significant challenges. Heavy losses were inflicted on the decoy front, where Recola’s counterattacks decimated portions of Helucky's advancing divisions.
 Recognizing the opportunity, Recola quickly mobilized their defending forces. While they were prepared, they faced unexpected resilience from the Helucky offensive. The clash escalated into a brutal battle, causing significant losses for Recola as they struggled to contain the Helucky surge. To bolster their defenses, 5 divisions were dispatched from the captured Helucky base to reinforce the Rescueland position.
-Meanwhile, Helucky’s main army - an impressive 430 divisions - took advantage of the turmoil at the Rescueland base to initiate a coordinated assault aimed directly at their captured Helucky base. This maneuver allowed them to capitalize on Recola's diverted attention and reduced strength, executing a timely strike to reclaim their territory. Reports indicated that Helucky divisions engaged at the Rescueland base could retreat and regroup, joining the main Helucky army.
+Meanwhile, Helucky’s main army - an impressive 430 divisions, almost the entire helucky army - took advantage of the turmoil at the Rescueland base to initiate a coordinated assault aimed directly at their captured Helucky base. This maneuver allowed them to capitalize on Recola's diverted attention and reduced strength, executing a timely strike to reclaim their territory. Reports indicated that Helucky divisions engaged at the Rescueland base could retreat and regroup, joining the main Helucky army.
 With a reinvigorated and unified front, the Helucky troops surged forward, targeting Recola’s outer defenses. The combined strength of Helucky forces, now bolstered by those who had broken through from the initial assault, posed a considerable threat. They pressed their advantage decisively, and the coordinated assault became relentless. Facing heavy attrition and setbacks, Recola began to retreat in disarray, having lost nearly half their troops. This retreat allowed the Helucky forces to seize the outer defenses once securely held by Recola.
 
 ---
@@ -665,7 +683,7 @@ Recognizing the opportunity presented by the Recolas’ hesitance, the Helucky d
 ## 558 ADOTR
 ### The Third Battle of Rescueland
 
-In a sudden and decisive move, Helucky, now fully infiltrated by the insidious influence of Recola, launched a meticulously planned and executed unprovoked attack on Rescueland, marking the beginning of the Third Battle of Rescueland. After a tense and anticipatory waiting period of ten years for the FFG to expire, staggering 76,000,000,000,000,000 Divisions of Helucky's ships descended upon the Rescueland fleet consisting of a 'meager' 369 divisions.
+In a sudden and decisive move, Helucky, now fully infiltrated by the insidious influence of Recola, launched a meticulously planned and executed unprovoked attack on Rescueland, marking the beginning of the Third Battle of Rescueland. After a tense and anticipatory waiting period of ten years for the FFG to expire, staggering 760 Divisions of Helucky's ships descended upon the Rescueland fleet consisting of a 'meager' 36 divisions.
 As the Helucky armada descended, the initial strikes were characterized by overwhelming and relentless aggression. Advanced technologies and battle strategies, developed under Recola’s control, paved the way for a swift onslaught of laser fire, slit bombs, and sophisticated electronic warfare. The surprise attack caught the defenders of Rescueland off guard, leading to a chaotic scramble to establish a defensive posture.
 Helucky's numerical superiority became apparent immediately, as the attack rapidly dismantled the Rescueland defense efforts. The resulting confusion on the battlefield significantly hampered the deployment of Rescueland’s squadrons, with many suffering devastating losses before even engaging the enemy. The stark contrast in capabilities between Helucky and Rescueland rapidly shifted the tactical situation to one of hopelessness.
 
@@ -675,8 +693,8 @@ As the last of Rescueland's divisions executed their retreat into Computerland, 
 
 | Name    | Start Troops   | End Troops     | Losses       | Prisoners Taken |
 |---------|----------------|----------------|--------------|------------------|
-| Rescueland | 369 Divisions | 135 Divisions | 234 Divisions | 12 Battalions |
-| Helucky | 76,000,000,000,000,000 Divisions | 70,354,098,890,000,000 Divisions | 5,645,901,111,430,651 Divisions | 28 Platoons |
+| Rescueland | 36 Divisions | 13 Divisions | 23 Divisions | 12 Battalions |
+| Helucky | 760 Divisions | 700 Divisions | 60 Divisions | 28 Platoons |
 
 ## 559 ADOTR
 ### The Destruction of Computerland
@@ -695,7 +713,7 @@ The consequences of this cataclysm marked the definitive end of Computerland. Th
 ### The Splintering
 
 In the wake of the cataclysmic events that marked the destruction of yet another resisting powerhouse, [Computerland](./The%20Timeline%20of%20Computerland%20History.md#559-adotr-the-destruction-of-computerland), and the significant power shifts that ensued, the galaxy witnessed a seismic transformation that became known as "The Splintering". The once-dominant factions - The Rescueland Empire, Rebel 10, and the Separatists - gave way to a chaotic reorganization of power, leading to the emergence of dozens of new factions vying for influence and control. 
-With the Rescueland Empire obliterated and its leadership decimated during the Third Battle of Rescueland, and the Rebel 10 faction fallen victim to infiltration and eventual takeover by the Separatists, the Separatists were positioned as the most formidable faction in the galaxy, holding better strategic resources and military capabilities than any other entity, with The Rebels following a not-so-close second.
+With the Rescueland Empire obliterated and its leadership decimated during the Third Battle of Rescueland, and the Rebel 10 faction fallen victim to infiltration and eventual takeover by the Separatists, the Separatists were positioned as the most formidable faction in the galaxy, holding better strategic resources and military capabilities than any other entity. 
 However, the vacuum of power left by the collapse of the Rescueland Empire and the internal strife within the Rebel 10 catalyzed the rise of numerous new factions, each with their own agendas, ideologies, and objectives. The galaxy broke into a myriad of political entities, resulting in a complex web of alliances, rivalries, and conflicts that defined the new era. 
 As these new factions emerged, conflicts erupted and alliances shifted rapidly. The balance of power became fluid and unpredictable, leading to a fractured galaxy marked by instability and strife. Clashes among the factions became common, with each group pursuing its own interests, aspirations, and vendettas in a universe that had fractured into a multitude of competing entities. 
 In this chaotic landscape, the Separatists maintained their position as the most powerful faction, yet the instability created by The Splintering allowed for unexpected alliances and uprisings to challenge their dominance. The galaxy grappled with both the remnants of its previous structure and the new reality of fragmented power, setting the stage for an era defined by factionalism and ongoing conflict.
@@ -754,10 +772,10 @@ By the end of the siege, Klesone had succumbed to Recola's military might. The l
 | Helucky | 210 Divisions | 332 Divisions | 130 Divisions | 202 Divisions | 200 Divisions (Foot soldiers) and 3 Interceptor Divisions |
 | Klesone | 253 Battalions | 253 Battalions | 3 Battalions | 250 Battalions | 0 |
 
-## 565—578 ADOTR
+## 565 - 578 ADOTR
 ### The Rise of the Rebels
 
-As Recola solidified its dominance in the wake of the siege of Klesone, a new faction emerged amid the chaos—a group of dissident Heluckies who had splintered from the Helucky Empire. Opposed to their government's aggressive militarization and the orders to attack Rescueland, they adopted the mantle of "*[The Rebels.](./The%20Planet%20File.md#the-rebels)*" This faction sought to undermine the Recola regime and protect the ideals they once held dear. 
+As Recola solidified its dominance in the wake of the siege of Klesone, a new faction emerged amid the chaos - a group of dissident Heluckies who had splintered from the Helucky Empire. Opposed to their government's aggressive militarization and the orders to attack Rescueland, they adopted the mantle of "*[The Rebels.](./The%20Planet%20File.md#the-rebels)*" This faction sought to undermine the Recola regime and protect the ideals they once held dear. 
 
 In 565 ADOTR, mysterious and highly coordinated strikes began to target passing Helucky envoys and military convoys. Operating from hidden bases scattered across various planets in the galaxy, the Rebels initiated a campaign of sabotage against both Recola supply lines and their military operations. Their tactics evolved rapidly, relying heavily on guerrilla warfare principles, which proved effective against larger, more cumbersome Helucky forces. 
 The initial series of rebel attacks saw significant success. Utilizing stealth ships and refurbished interceptors, the Rebels executed precision strikes that inflicted serious damage on Recola battleships and military transports. As reports emerged from various sectors, it became clear that the Recola dominance was being contested, albeit from the shadows. 
@@ -868,7 +886,7 @@ As it joined the fray, the super-battleship commenced a relentless assault, depl
 | The Heluckies | 100 Battalions | 143 Battalions | 17 Battalions | 126 Battalions | 0 |
 
 
-## 584—585 ADOTR
+## 584 - 585 ADOTR
 ### The Rebuilding of the Keluha Base
 
 In the wake of their decisive naval victory on Keluha, the rebel forces swiftly capitalized on their strategic advantage, culminating in the complete seizure of the former Helucky base. Their victory in last naval engagement resulted in the destruction of the Helucky fleet in the nearby area, effectively crippling any immediate counterattack. The rebels, reinforced by their recent triumph, moved decisively to secure and rebuild the vital installation. 
@@ -882,11 +900,11 @@ By 585 ADOTR, the rebuilt Keluha base was fully functional and strategically for
 In a bold move driven by curiosity and strategic interest, the Helucky and Recola factions decided to launch an expedition to a distant and largely unexplored sector of the multiverse, an area marked by mysterious activity detected on sensors but few detailed scans. This region had long been suspected to harbor advanced civilizations and unknown phenomena that could alter the balance of power. 
 The Heluckies committed their space and sea fleet for this venture, providing a formidable array of interceptors and sea ships to scout and secure the outer reaches. Meanwhile, the Recolas contributed their long-distance troop transport vessel No. 7274, a craft capable of carrying troops, other ships, and supplies across multiversal distances with minimal detection risk. To ensure that the expedition did not trigger any hostile reactions or be used for malicious purposes, the Rebels and Rescuers formed a separate, covert expedition. They traveled with Rebel advanced sea ships, interceptors, and the Rescueland vessel *Damselfly*, a an old but long-range transport with stealth and rapid deployment capabilities.
 
-As both expeditions ventured through the uncharted multiverse, they encountered numerous alien races—some primitive, others surprisingly advanced—many of which had never been documented before. These encounters ranged from peaceful exchanges and trade to fierce skirmishes. The Helucky-Recola and Rebel-Rescueland expeditions, despite their attempts at staying apart, found themselves in conflict with each other amidst the chaos, their forces fighting fiercely over territorial control. Helucky quickly gained space superiority while the Rebels' had mastery over the seas. 
+As both expeditions ventured through the uncharted multiverse, they encountered numerous alien races - some primitive, others surprisingly advanced - many of which had never been documented before. These encounters ranged from peaceful exchanges and trade to fierce skirmishes. The Helucky-Recola and Rebel-Rescueland expeditions, despite their attempts at staying apart, found themselves in conflict with each other amidst the chaos, their forces fighting fiercely over territorial control. Helucky quickly gained space superiority while the Rebels' had mastery over the seas. 
 
-After weeks of exploration, the Heluckies and Recolas prepared to depart the region. However, during their final patrol, as their fleet moved to withdraw, they were suddenly ambushed by an unseen force—an entity that eluded their sensors and radar, yet made its presence known through seismic distortions and inexplicable energy surges. The mysterious attack inflicted heavy damage on the Recola transport, forcing a chaotic retreat. Despite their efforts to escape, they were unable to identify or counter the unseen aggressor, which seemed to phase in and out of detection.
+After weeks of exploration, the Heluckies and Recolas prepared to depart the region. However, during their final patrol, as their fleet moved to withdraw, they were suddenly ambushed by an unseen force - an entity that eluded their sensors and radar, yet made its presence known through seismic distortions and inexplicable energy surges. The mysterious attack inflicted heavy damage on the Recola transport, forcing a chaotic retreat. Despite their efforts to escape, they were unable to identify or counter the unseen aggressor, which seemed to phase in and out of detection.
 
-Just as the fleets were about to flee the region, their sensors caught a glimpse of an enormous, awe-inspiring shape on their scanners—a colossal structure shaped like an asterisk. This titanic battlestation dwarfed even the once-massive spaceship "Colossal Squid," the largest ship known in history, belonging to the Rescueland fleet, with its size and complexity suggesting it was a remnant of a civilization far older and more advanced than any they had previously encountered. 
+Just as the fleets were about to flee the region, their sensors caught a glimpse of an enormous, awe-inspiring shape on their scanners - a colossal structure shaped like an asterisk. This titanic battlestation dwarfed even the once-massive spaceship "Colossal Squid," the largest ship known in history, belonging to the Rescueland fleet, with its size and complexity suggesting it was a remnant of a civilization far older and more advanced than any they had previously encountered. 
 During their hasty retreat, the Helucky and Recola ships sustained damage to their fuel tanks, forcing them into a perilous race against time. Realising that they could not escape alone, the Helucky/Recola forces forged an urgent pact with the Rebels and Rescuelanders to join forces temporarily. The combined fleet, now a patchwork of ships from all four factions, fled together, narrowly outrunning the battlestation as it loomed silently in the void.
 
 A few weeks after their escape, the mysterious battlestation settled into a nearby orbit, drifting ominously in the void. For months, it remained stationary, a silent monolith that radiated an unsettling presence. Any ships attempting to approach or investigate it were met with fierce energy discharges and destructive waves emanating from its surface, effectively making it a deadly no-go zone.
@@ -894,14 +912,14 @@ A few weeks after their escape, the mysterious battlestation settled into a near
 ## 587 ADOTR
 ### The Attacks
 
-After an extended period of silence, the colossal battlestation unexpectedly launched a single interceptor. This lone craft, seemingly insignificant compared to the station’s enormous structure, proceeded with terrifying precision and speed. Without warning, it attacked a nearby Helucky patrol, unleashing a devastating barrage that annihilated hundreds of ships in a matter of moments. The entire strike was executed flawlessly, with the interceptor suffering no damage whatsoever, as its energy signatures and trajectory remained undetectable until the moment of attack. Eventually the remaining Helucky troops manage to rally, a desperate counterattack that succeeded in destroying the single interceptor—though at a staggering toll of three platoons of ships lost in the process.
+After an extended period of silence, the colossal battlestation unexpectedly launched a single interceptor. This lone craft, seemingly insignificant compared to the station’s enormous structure, proceeded with terrifying precision and speed. Without warning, it attacked a nearby Helucky patrol, unleashing a devastating barrage that annihilated hundreds of ships in a matter of moments. The entire strike was executed flawlessly, with the interceptor suffering no damage whatsoever, as its energy signatures and trajectory remained undetectable until the moment of attack. Eventually the remaining Helucky troops manage to rally, a desperate counterattack that succeeded in destroying the single interceptor - though at a staggering toll of three platoons of ships lost in the process.
 
 This pattern repeated relentlessly over the following years: the battlestation, seemingly dormant for ages, would suddenly unleash a lone interceptor to strike at vulnerable patrols and convoys, each time decimating large numbers of ships before retreating back into obscurity. Oddly, the attacks would often avoid Recola ships, instead focusing their attacks on Helucky and the other factions. Over time, the superpowers began to adapt, deploying more sophisticated tactics and weapons. Gradually, their fleets improved, with approximately thirty Helucky ships capable of downing a single enemy interceptor.
 
 ## 588 ADOTR
 ### The Alliance
 
-Due to the relentless and devastating attacks launched by the mysterious battlestation, for the first time in history, all four of the original superpowers—Rescueland, Helucky, Recola, and the Rebels—formed a unified alliance against this unprecedented threat. Recognizing the existential danger posed by the enigmatic Fifth Army and its colossal battlestation, these ancient rivals set aside their differences and pooled their formidable resources and technological advancements.
+Due to the relentless and devastating attacks launched by the mysterious battlestation, for the first time in history, all four of the original superpowers - Rescueland, Helucky, Recola, and the Rebels - formed a unified alliance against this unprecedented threat. Recognizing the existential danger posed by the enigmatic Fifth Army and its colossal battlestation, these ancient rivals set aside their differences and pooled their formidable resources and technological advancements.
 
 This historic alliance culminated in the creation of the largest space force ever known in the multiverse, featuring an awe inspiring number of several nonillion ships. This force became almost unstoppable, utilising each factions strengths: Rescueland stratigical prowess and high quality troops, Helucky's sheer numbers, Recola's stealth and manipulation techniques and the Rebels experience competing against larger forces. 
 
@@ -926,17 +944,17 @@ Meanwhile, the threat from the Fifth Army grew more imminent. By the time the Re
 
 Faced with this unprecedented assault, the Recola commanders and the remaining Recola ships equipped with partial defenses were forced to abandon their positions. They vanished into the unknown depths of the universe, abandoning their homeworld and scattering across the void to escape the onslaught.
 
-This sequence of events left the original superpowers alliance against the 5th army with only three factions remaining to oppose it: Rescueland, Helucky, and the Rebel forces. Despite their combined military might—mainly due to Helucky’s sheer interceptor numbers—the alliance was now in a precarious position. They possessed overwhelming firepower but lacked crucial intelligence about the Fifth Army’s true nature, capabilities, and strategic plans. Without understanding their enemy, they faced a dire uncertainty: where to strike, how to counter the Fifth Army’s increasingly sophisticated tactics, and whether they could hold the line long enough to uncover the secrets behind this formidable foe. 
+This sequence of events left the original superpowers alliance against the 5th army with only three factions remaining to oppose it: Rescueland, Helucky, and the Rebel forces. Despite their combined military might - mainly due to Helucky’s sheer interceptor numbers - the alliance was now in a precarious position. They possessed overwhelming firepower but lacked crucial intelligence about the Fifth Army’s true nature, capabilities, and strategic plans. Without understanding their enemy, they faced a dire uncertainty: where to strike, how to counter the Fifth Army’s increasingly sophisticated tactics, and whether they could hold the line long enough to uncover the secrets behind this formidable foe. 
 
 ### The Dual Battles
 
 Following the initial clash, the 5th Army issued a bold directive for their fleet to launch a coordinated assault on Rescueland, at the time firmly under Helucky control. The Heluckies, well-prepared and numerically superior, managed to hold the line against the Recolas forces. Anticipating this, the Rescuelanders, seeking to buy time and deceive the enemy, advised the Helucky command to send their invasion fleet to attack the Keluha base under control of the 5th army.
 
-For a critical period, both fronts—Rescueland and Keluha—saw simultaneous battles. Soon, due to insufficient troop numbers, the Recolas on Rescueland, increasingly strained and demoralized, received orders to retreat and divert their efforts to reinforce the Keluha front.
+For a critical period, both fronts - Rescueland and Keluha - saw simultaneous battles. Soon, due to insufficient troop numbers, the Recolas on Rescueland, increasingly strained and demoralized, received orders to retreat and divert their efforts to reinforce the Keluha front.
 
 The Recolas' decision to abandon Rescueland was a critical mistake. Had they maintained their hold, they could have secured control over the FFG and Rescueland gas. Unaware of Rescueland's true strategic value, the 5th Army launched a surprise counterattack against the Helucky forces attacking Keluha from behind. This flanking maneuver forced the Helucky forces into a precarious encirclement, forcing them to retreat toward the outer defenses they had established earlier.
 
-After numerous attempts to break free, the Helucky forces eventually succeeded in escaping the encirclement and retreated back to Helucky. Whith their alliance fully secured, Rescueland was able to reclaim their long-lost planet, restoring their the territory. This series of space battles concluded with no territorial changes—each side suffering heavy troop losses, but no land altered hands. 
+After numerous attempts to break free, the Helucky forces eventually succeeded in escaping the encirclement and retreated back to Helucky. Whith their alliance fully secured, Rescueland was able to reclaim their long-lost planet, restoring their the territory. This series of space battles concluded with no territorial changes - each side suffering heavy troop losses, but no land altered hands. 
 
 ## 591 ADOTR
 ### The 5th Army's Rapid Expansion
@@ -947,12 +965,12 @@ This rapid conquest was facilitated by a critical intelligence gap. The Helucky-
 
 As the campaign progressed, the alliance's holdings dwindled. The once-sprawling network of systems was reduced to only the core system, the Helucky system, the Badguyland system, and the Telor system. Each of these remained fiercely contested, but the vast majority of the multiverse had fallen under the 5th Army's expanding dominion. 
 
-## 593—597 ADOTR
+## 593 - 597 ADOTR
 ### The Counter-offensive
 
 Over the following years, Rescueland's leadership grew increasingly alarmed at the relentless erosion of their territorial holdings. The initial strategy of targeted strikes proved ineffective; every attempt to seize a key system risked triggering swift enemy reinforcement from nearby systems, especially the formidable Keluha Base. The proximity of Keluha, now a well-fortified stronghold and logistical hub for enemy resupply, meant that any significant offensive was met with a deluge of reinforcements, nullifying territorial gains and incurring heavy military and civilian casualties.
 
-Recognizing the limitations of these tactics, the Rescueland strategists, along with their allies—the Heluckies and the Rebels—concluded that a different approach was necessary. They devised a daring plan: to coordinate simultaneous assaults on all locations of strategic value across the contested sectors. By overwhelming the enemy on every front at once, they hoped to stretch the 5th Army’s resources too thin to respond effectively, thereby gaining crucial footholds without provoking a counterproductive escalation.
+Recognizing the limitations of these tactics, the Rescueland strategists, along with their allies - the Heluckies and the Rebels - concluded that a different approach was necessary. They devised a daring plan: to coordinate simultaneous assaults on all locations of strategic value across the contested sectors. By overwhelming the enemy on every front at once, they hoped to stretch the 5th Army’s resources too thin to respond effectively, thereby gaining crucial footholds without provoking a counterproductive escalation.
 
 The three factions embarked on a massive military buildup. Over the next few years, they expanded their armies, meticulously training troops and developing logistics networks that could sustain simultaneous offensives. This period was marked by slow, deliberate progress. Each side had to find ways to expand their forces covertly, avoiding detection by the 5th Army's surveillance systems and intelligence networks. The buildup was carefully calibrated to avoid provoking the enemy into preemptive strikes, allowing the coalition to amass a formidable force in secret.
 
@@ -960,13 +978,13 @@ By the time their collective strength was ready, the military forces had grown e
 
 ---
 
-The coalition’s plan unfurled with devastating precision. Coordinated across multiple systems, the attack commenced simultaneously—an overwhelming barrage designed to catch the enemy off guard and prevent effective reinforcement or retreat. The assault force was composed of a brutal ratio: ten Helucky interceptors, one Rebel division, and a single Rescueland class F pocket destroyer per target system. This streamlined yet formidable force aimed to maximize firepower while minimizing logistical footprints, allowing for rapid, synchronized strikes across the contested sectors.
+The coalition’s plan unfurled with devastating precision. Coordinated across multiple systems, the attack commenced simultaneously - an overwhelming barrage designed to catch the enemy off guard and prevent effective reinforcement or retreat. The assault force was composed of a brutal ratio: ten Helucky interceptors, one Rebel division, and a single Rescueland class F pocket destroyer per target system. This streamlined yet formidable force aimed to maximize firepower while minimizing logistical footprints, allowing for rapid, synchronized strikes across the contested sectors.
 
-Recolas, already stretched thin by their defensive commitments, could muster only a handful of divisions—no more than five in even their most strategically vital systems. Many Recola controlled planets fell within days; Aquarion was the first to succumb, its defenses overwhelmed in a matter of hours. Its inhabitants' platforms and habitats were severely damaged in the initial barrage, leaving the planet's surface scarred and its infrastructure crippled. The remaining Recola forces abandoned the planet, retreating to more defensible positions, while the devastation inflicted on Aquarion took years to repair.
+Recolas, already stretched thin by their defensive commitments, could muster only a handful of divisions - no more than five in even their most strategically vital systems. Many Recola controlled planets fell within days; Aquarion was the first to succumb, its defenses overwhelmed in a matter of hours. Its inhabitants' platforms and habitats were severely damaged in the initial barrage, leaving the planet's surface scarred and its infrastructure crippled. The remaining Recola forces abandoned the planet, retreating to more defensible positions, while the devastation inflicted on Aquarion took years to repair.
 
 Ukakia followed swiftly, and notably, it was here that the Heluckies suffered the least losses during the campaign. Their rapid, targeted strikes and coordinated defenses allowed them to secure the planet efficiently, preserving much of their force for subsequent operations. Over the course of several months, the coalition pressed forward, systematically taking planet after planet. Each victory was hard-won, with the defenders mounting fierce resistance, but the tide was undeniably turning.
 
-The last stand was on Klesone, a planet that would become infamous in the annals of the conflict. The battle there was one of the bloodiest and most destructive of the entire campaign, earning a reputation as one of the highest casualty-rate engagements fought during the rebellion. As the Helucky forces advanced, the Recolas realized that their initial retreat had become a full-scale withdrawal—some systems, sensing imminent defeat, fled before the final confrontation. These fleeing forces gathered into a sizable force, attempting a desperate counterattack—flanking the Heluckies on Klesone in a last-ditch effort to save their remaining territories. 
+The last stand was on Klesone, a planet that would become infamous in the annals of the conflict. The battle there was one of the bloodiest and most destructive of the entire campaign, earning a reputation as one of the highest casualty-rate engagements fought during the rebellion. As the Helucky forces advanced, the Recolas realized that their initial retreat had become a full-scale withdrawal - some systems, sensing imminent defeat, fled before the final confrontation. These fleeing forces gathered into a sizable force, attempting a desperate counterattack - flanking the Heluckies on Klesone in a last-ditch effort to save their remaining territories. 
 The coalition was forced to fight on two fronts, stretched thin and vulnerable. Just when defeat seemed imminent, the Recola leaders made a critical decision: to divert their fleets from Klesone to reinforce the Keluha Base, which they deemed far more valuable and strategically crucial. This decision was yet another mistake; it left the remnants of their forces on Klesone surrounded and vulnerable.
 
 As the Helucky forces pressed their advantage, the surrounded Recola troops, cut off and outnumbered, resorted to desperate measures. Seeing no way out, they destroyed many Helucky ships in a frenzied effort to deny the enemy a complete victory. When the Heluckies finally exterminated all Recolas, the casualties end up being staggering. In the end, out of a total of 30 divisions, only 2 Helucky divisions and 5 Rebel battalions survived the brutal conflict. The remaining Recola forces were completely wiped out.
@@ -975,9 +993,9 @@ As the Helucky forces pressed their advantage, the surrounded Recola troops, cut
 
 ### The Revenge of The 5th Army
 
-In the year 599 ADOTR, the 5th Army's seemingly foolish decision marked a disastrous turn in the ongoing conflict: they ordered the Recola to launch a direct assault on the Keluha base—a move that defied strategic logic and common sense. The Recola, still significantly depleted after their previous battles, lacked the necessary numbers and resources to sustain such an attack. After just minutes of fighting, they were immediately overwhelmed by superior numbers and the well-fortified defenses. The assault was a catastrophic failure; the Recola troops were swiftly repelled, suffering heavy casualties and a humiliating defeat.
+In the year 599 ADOTR, the 5th Army's seemingly foolish decision marked a disastrous turn in the ongoing conflict: they ordered the Recola to launch a direct assault on the Keluha base - a move that defied strategic logic and common sense. The Recola, still significantly depleted after their previous battles, lacked the necessary numbers and resources to sustain such an attack. After just minutes of fighting, they were immediately overwhelmed by superior numbers and the well-fortified defenses. The assault was a catastrophic failure; the Recola troops were swiftly repelled, suffering heavy casualties and a humiliating defeat.
 
-Meanwhile, news of an attack on Helucky itself reached the Keluha base and the other planets of the Rescueland-Helucky-Rebel alliance—an overwhelming force estimated to number in the decillions, far exceeding even Helucky’s capacity to defend itself.
+Meanwhile, news of an attack on Helucky itself reached the Keluha base and the other planets of the Rescueland-Helucky-Rebel alliance - an overwhelming force estimated to number in the quadrillions, far exceeding even Helucky’s capacity to defend itself.
 
 In a desperate bid to bolster their defenses, the alliance's troops hastened toward Helucky, hoping to stem the tide of destruction. It was during this chaos that a critical revelation emerged: the 5th Army, in their desperation, had resorted to the old [Holo-Decoy Defense System](./The%20Technology%20of%20Rescueland,%20Computerland%20and%20it's%20surrounding%20Planets.md#holo-decoy-defense-system-r), on a scale unheard of ever before. In reality, their forces did not exceed 5 divisions.
 
@@ -1063,4 +1081,50 @@ As the Helucky and Rebel forces pushed deeper into the heart of the base, the Re
 
 The victory at Keluha marked the end of the Silent Stalemate. The Alliance had not only secured a critical strategic position but had also proven that the Recola and 5th Army were not invincible. And, at last, the fear that had paralyzed the Helucky High Command for decades was finally dispelled. 
 
+
+## 715 ADOTR
+### The Revolution of the Helucky Army
+
+Following the breaking of the Silent Stalemate and the decisive victory at the Battle of Keluha, the Helucky military undertook a sweeping revolution of its armed forces. Recognising the need for greater efficiency and firepower in the ongoing conflict against the 5th Army and Recola, Helucky engineers and military strategists introduced entirely new interceptor designs to replace their existing fleet.
+
+Two primary designs emerged from this overhaul. The first was a new regular interceptor, which was significantly faster to produce and cheaper to manufacture than its predecessors while also being more heavily armed. However, this new design came with a notable limitation: the interceptors were unable to travel very far on their own, necessitating the use of transporters to carry them during any invasion. The second design was a new scout interceptor, which was very lightly armed but considerably faster, specifically engineered to outrun Recola interceptors.
+
+The impact of this revolution was remarkable. Despite the Helucky military having already built up a massive number of interceptors during the decades of the Silent Stalemate, the new designs were so efficient to produce that they caught up to the previously accumulated numbers within a matter of months - a feat that had previously taken many years. As a result, Helucky's interceptor count was boosted to extraordinarily large numbers, further cementing their position as the faction with the largest military force in the multiverse.
+
+## 716 ADOTR
+### The Revolution of the Recola Army
+
+Following numerous embarrassing defeats against the newly revolutionised Helucky forces, the 5th Army determined that a similar overhaul of the Recola interceptor fleet was imperative. Modifying the Recola interceptors to be cheaper and quicker to build, the 5th Army initiated a production programme that mirrored the Helucky approach.
+
+Soon, the Recola army also rose to extraordinarily large numbers, bringing them almost - but not quite - on equal footing with the Helucky army. Like their Helucky counterparts, the new Recola interceptors were unable to travel very far on their own, likewise requiring transporters for any invasion-scale deployment.
+
+## 717 ADOTR
+### The Recola Raids
+
+The 5th Army launched a massive raid force of 80 divisions to strike the most powerful systems in the vicinity of the Fil System, targeting the Hana, Klesone, and Udas systems one after the other. This operation served multiple purposes: testing their newly designed transporters, wreaking chaos within the alliance, causing planets to lose faith in the alliance's ability to protect them, and weakening forces that could potentially disrupt a future invasion of the Fil System to gain access to the Rescueland cache hidden on Filto.
+
+As the Recola forces invaded each system in turn, they wreaked havoc before the Heluckies could respond. However, Keluha managed to send a message to Helucky, prompting the Helucky leadership to dispatch their own transporter to deal with the invading army each time. A recurring pattern emerged across the raids: the Recolas would invade and wreak havoc, the Heluckies would arrive very late due to having a much slower transporter, the Recolas would flee while taking many losses, and the Heluckies would give chase after the much faster Recola transporter.
+
+By the end of the campaign, only 10 Recola and 5th Army divisions remained. Their transporter was heavily damaged, having lost its main engine and primary cannon. The situation appeared hopeless for the remaining Recola forces. In a final move, the 10 remaining Recola divisions launched an assault on the Keluha base, which was defended by 38 Helucky divisions. Astonishingly, the 10 Recola divisions successfully captured the base, achieving what seemed impossible against overwhelming odds.
+
+Following the capture, the raiders handed the base over to their leadership. However, the 5th Army leadership no longer wanted the base, as they determined they could not hold it. The troops who had fought and bled to conquer the Keluha base were infuriated by this disregard for their effort. In defiance, these troops split from the 5th Army and formed their own independent group, claiming the Keluha base as their own.
+
+This faction became known as The Severed, declaring Keluha Base as their territory and vowing to defend it regardless of orders from distant leadership. They maintained Recola technology and ship designs but operated under their own command structure, rejecting the authority of both the 5th Army and Recola.
+
+### The Keluha Accord
+
+In the aftermath of The Severed's capture of the Keluha base, Rescueland and Helucky leadership convened to determine the long-term status of the contested installation. Both factions recognized that neither the Rescueland nor the Helucky Empire was in a position to maintain permanent control - the base had been heavily damaged during the fighting, and any attempt to reclaim it by force would invite devastating retaliation from the 5th Army or Recola homeworld.
+
+Rescueland diplomats proposed a novel solution: entrust the base to The Severed. Having witnessed how fiercely the 5th Army defectors defended their hard-won position - and having confirmed through local intelligence that The Severed had established peaceful relations with the Keluhean civilian population - Rescueland leadership persuaded Helucky command that this arrangement would serve the Alliance's strategic interests better than continued conflict.
+
+During negotiations, a critical point of contention arose: Rescueland and Helucky demanded full intelligence sharing, particularly regarding the location of Recola's hidden homeworld. For decades, this had been the Alliance's greatest strategic blind spot - a mystery that paralyzed their ability to plan any meaningful offensive. Finding Recola was considered the key to ending the war entirely; with that knowledge, the combined might of Helucky, Rescueland, and the Rebels could converge on the enemy capital in a single, overwhelming assault.
+
+The Severed refused outright. Having formerly served under the 5th Army and maintained contact with Recola forces even after the split, they possessed some of the most accurate intelligence on Recola's whereabouts. However, they would not disclose this information to the Alliance. Their reasoning was clear: if the Alliance located Recola, they would launch a total annihilation campaign that would wipe out all traces of Recola civilization - including the soldiers who had once served alongside them in the 5th Army.
+
+The Severed's knowledge of Recola's location also served as the necessary leverage against the 5th Army. Having severed ties, The Severed remained vulnerable to reprisal from their former command. But they possessed sensitive operational data: not just where Recola was hidden, but also the 5th Army's command structures, supply routes, and strategic objectives. 
+Any attempt to attack Keluha would risk The Severed releasing this information to the Alliance. Once Recola was exposed, the 5th Army would face overwhelming Alliance forces converging on their base for their forces. The resulting annihilation campaign would threaten the entire 5th Army-Recola coalition.
+
+The final compromise was explicit: The Severed would share tactical intelligence about 5th Army movements, patrol schedules, and regional deployments. They would not however share strategic intelligence about Recola's homeworld, supply depots, or long-term fleet concentrations.
+
+By the end of 717 ADOTR, Alliance engineers had begun training The Severed technicians in base operations. Helucky transport ships resumed scheduled visits to deliver supplies, and Rescueland scouts established regular patrol routes through the outer system. The Severed, for their part, dismantled their blockade and allowed civilian shipping to pass freely.
 

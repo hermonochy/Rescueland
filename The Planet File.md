@@ -152,6 +152,7 @@ Various factions exist within the multiverses. The following abbreviations repre
     - Rebels
 - **5th Army:** 5  
 - **The Pirate Court:** P
+- **The Servered:** S
 - **Independent:** I
 
 
@@ -163,14 +164,14 @@ Various factions exist within the multiverses. The following abbreviations repre
 
 **Overview:**
 
-Despite the name, The Rescueland Empire is not an empire but a cooperative entity dedicated to mutual assistance among planets in the multiverse. Officially a republic, it emphasizes democratic values. During war however, Weda, Commander of War, is able to take control. While others can give ideas, it is him who decides the final outcome. 
+Despite the name, the Rescueland Empire is not a traditional empire but a cooperative republic dedicated to mutual assistance among planets in the multiverse. Officially, it operates as a democratic entity emphasizing collective governance and shared defense. During wartime, however, authority shifts to a Commander of War with emergency powers. While the Council can offer counsel, the Commander alone decides final outcomes in military operations.
 
-Currently the Rescueland Empire is working alongside the Rebels and Rebel 10 faction.
+Currently, the Rescueland Empire works alongside The Rebels and Rebel 10 in a coalition opposing the 5th Army and Recola forces. Relations with The Severed are cooperative but strained due to their refusal to share Recola homeworld intelligence.
 
 **Goals:**
 
-To unify diverse planets under a system of collaboration and support during times of crisis.
-To promote peace, stability, and development across the multiverse while serving as a mediator in disputes.
+- To unify diverse planets under a system of collaboration and support during times of crisis.
+- To promote peace, stability, and development across the multiverse while serving as a mediator in disputes.
 
 
 ### Rebel 10
@@ -181,14 +182,14 @@ To promote peace, stability, and development across the multiverse while serving
 
 **Overview:**
 
-The Rebel 10 is a faction composed of dissidents and ideologues who believe that the Rescueland Empire's governance is too relaxed and paternalistic. They comprise a diverse coalition, including former planets of the Rescueland Empire and planets that feel marginalized.
+The Rebel 10 is a faction composed of dissidents and ideologues who believe that the Rescueland Empire's governance is too relaxed and paternalistic. They comprise a diverse coalition, including former planets of the Rescueland Empire and planets that feel marginalized. Over time, the faction absorbed planets that felt marginalized by the Rescueland Empire's "coddling" policies—specifically, the practice of providing universal protection while local defensive capabilities atrophied.
 
 However, they have made a temporary pact with Rescueland to fight the 5th army.
 
 **Goals:**
+- Reform the Rescueland Empire to restore local military autonomy
+- Prevent other factions from falling into dependency
 
-To overthrow the Rescueland leadership, arguing that they can offer better governance and stricter regulations to the planets within its jurisdiction.
-To establish a new framework based on direct control and dictatorship.
     
 ### The Rebels
 
@@ -201,8 +202,30 @@ Now they work closely alongside the Rescueland Empire and their former faction i
 
 **Goals:**
 
-To restore order and revive the Rescueland Empire. 
-To dismantle the 5th army.
+- Dismantle the 5th Army and Recola forces
+- Restore order and revive the Rescueland Empire
+
+### The 5th Army
+
+**Current Capital:** Unknown (possibly mobile or hidden)
+
+**Overview:**
+
+The 5th Army operates alongside Recola in a coalition that has dominated galactic affairs since the Third Battle of Rescueland. Much information about their organization, origins, and true command structure remains classified or unknown.
+
+What is known:
+- They control Recola technology and forces, but their own origins predate Recola's prominence
+- They possess a massive, mysterious battlestation resembling an asterisk—possibly centuries or millennia old
+- Their fleet includes hacked vessels, including Recola interceptors vulnerable to signal infiltration
+- Their strategic objective appears to be dominance of all systems sharing Rescueland's multiversal neighborhood
+
+Command structure remains opaque. Some reports indicate a ruthless, cunning warlord at their apex, others suggest distributed command without singular leadership. Intelligence suggests they may be composed of multiple factions operating under unified direction.
+
+**Goals:**
+
+- Dominate all systems in Rescueland's multiversal neighborhood
+- Expand influence beyond current territory
+- Neutralize Alliance threat permanently
 
 ### The Pirate Court
 
@@ -214,15 +237,28 @@ Emerging from the shadows of the collapsing factions, the Pirate Court formed a 
 
 To establish pirate havens across key sectors of space, enforce their rule through intimidation, and control trade to amass wealth and resources.
 
-### The Ehana Federation
+### The Severed
+
+**Current Capital:** Keluha (Helucky-built base)
 
 **Overview:**
 
-Having left the Rescueland Empire, Ehana was strong enough to unite the planets of the [Hana System](#hana-system), emerging into the Ehana Federation. Founded on principles of mutual cooperation and collective defense, the Federation aimed to protect its member planets from the aggression of the 5th army and pirate factions, positioning itself as a diplomatic counterweight in the galaxy.
+The Severed is an independent faction formed when 5th Army troops refused to abandon the Keluha base after conquering it. Following the 717 ADOTR Recola Raids, the remaining 10 divisions captured the Helucky-built base from 38 Helucky defenders in what appeared an impossible victory. When the 5th Army leadership ordered them to relinquish the position, these troops defied command, severing ties and declaring sovereignty.
+
+Named for their severed connection to the 5th Army chain of command, The Severed controls Keluha's strategic base while maintaining Recola-derived technology and ship designs. They rejected authority from both the 5th Army and Recola homeworld, operating under their own military hierarchy.
+
+Their survival owes more to intelligence leverage than military strength. The Severed possesses knowledge of Recola's hidden homeworld location—a secret the Alliance desperately wants. By withholding this information from the Alliance, they protect their former comrades. By threatening to reveal it to the Alliance if attacked, they deter the 5th Army from reprisal.
+
+This triangular deterrence has allowed The Severed to survive despite being outnumbered by all major powers.
+
+The Keluha Accord formalized their relationship with the Rescueland-Helucky-Rebel Alliance: the Empire pledges military aid if the 5th Army threatens the base, provides technical training for maintenance, and allows civilian coexistence—but does not receive Recola intelligence. The Severed reciprocates by allowing Alliance access to non-military zones and sharing tactical intelligence about 5th Army movements.
 
 **Goals:**
 
-To foster unity among diverse civilizations, maintain peace, and establish trade agreements that promote prosperity for all member worlds.
+- Maintain independent sovereignty over Keluha base
+- Protect Recola from Alliance annihilation campaigns
+- Preserve former 5th Army personnel and culture 
+- Avoid becoming proxy for any major power's agenda
 
 ### Independent
 
@@ -387,8 +423,6 @@ Army Size:
 
 ## The Bad Guy Land System (A)
 
-The Bad Guy Land system is where the Rebel 10 Faction was originally founded. All planets in this system are now under the control of Rescueland.
-
 ### Bad Guy Land (A)
 
 **Name:** Bad Guy Land
@@ -474,6 +508,96 @@ Army Size:
 **Atmosphere:** Oxygen 55%, Nitrogen 35%, Methane 10%
 
 **General:** Emerging as a formidable threat following the defeat of Mega Bad Guy Land, Ultra Bad Guy Land is governed by a deeply ingrained hostility toward the Rescueland Empire. Intent on revenge, they initiated a series of retaliatory strikes aimed at destabilizing the Empire while seeking to restore their once-mighty reputation.
+
+### Mega*9 Ultra*9 Bad Guy Land (A)
+
+**Name:** Mega*9 Ultra*9 Bad Guy Land
+
+**Flag:** ![](images/MegaNineUltraNine_flag.png)
+
+**Pronounced:** Meh-gah-nine Ul-trah-nine Bad Guy Land
+
+**Capital:** Tyanis Prime
+
+**Leader:** Under Rescueland Control (Warlord Tyanus captured)
+
+**Power Status:** 5999999995/6000000000
+
+Army Size:
+- **Interceptors:** Quadrillions
+- **Battle Ships:** Thousands
+- **Darkfighters:** None recorded
+- **Ground Force:** Quadrillions
+
+**Tech Level:** 11
+
+**Population:** Unknown
+
+**Atmosphere:** Unknown
+
+**General:** Located on a single planet boasting a gargantuan military force composed of quadrillions of ships. Ruled by Warlord Tyanus until his capture in 104 ADOTR. Following defeat, the planet was incorporated into the Empire. Infrastructure was heavily damaged during the conflict but remains functional for industrial purposes. Marked the beginning of the Golden Age (105-508 ADOTR).
+
+## Horsa System
+
+### Horsa (A)
+
+The Horsa system is where the Rebel 10 Faction was originally founded. 
+
+**Name:** Horsa
+
+**Flag:** ![](images/Horsa_flag.png)
+
+**Pronounced:** Hor-sah
+
+**Capital:** Kaelis Prime
+
+**Leader:** Under Rescueland Control (formerly General Kael)
+
+**Power Status:** 3891024765/6000000000
+
+Army Size:
+- **Interceptors:** 15 trillion
+- **Battle Ships:** 247
+- **Darkfighters:** 0
+- **Ground Force:** 420 trillion
+
+**Tech Level:** 10
+
+**Population:** 350 quadrillion
+
+**Atmosphere:** Oxygen 55%, Nitrogen 30%, Argon 15%
+
+**General:** Resource-rich world strategically positioned within the galaxy. Developed advanced Titan-Class Battleships prior to 508 ADOTR. Integrated into the Rescueland Empire after the War Against Horsa (508 ADOTR) and the capture of General Kael. Mining operations extract rare resources for battleship construction.
+
+## Federre System
+
+### Federre (A)
+
+**Name:** Federre
+
+**Flag:** ![](images/Federre_flag.png)
+
+**Pronounced:** Feh-der-reh
+
+**Capital:** Eagle Spire
+
+**Leader:** Under Rescueland Control (formerly Elite Command Council)
+
+**Power Status:** 4523891047/6000000000
+
+Army Size:
+- **Interceptors:** 87 trillion
+- **Battle Ships:** 892
+- **Darkfighters:** 0
+- **Ground Force:** 680 trillion
+
+**Tech Level:** 11
+
+**Population:** 520 quadrillion
+
+**Atmosphere:** Oxygen 62%, Nitrogen 28%, Trace gases 10%
+
+**General:** Planet from a nearby galaxy equipped with advanced technologies. Notable for cloaking technology and elite Eagle Fighter designs. Conquered during the War Against Federre (510 ADOTR). The defeat directly preceded the discovery of Helucky in 511 ADOTR when scouts encountered emerging powers during skirmish operations.
 
 ## Klesone System
 
@@ -613,7 +737,7 @@ The three inhabited planets in the Fil system operate in a cooperative trio, eac
 **Power Status:** 5918648566/6000000000
 
 Army Size:
-- **Interceptors:** 682 billion
+- **Interceptors:** 5 trillion
 - **Battle Ships:** 897
 - **Darkfighters:** 2
 - **Ground Force:** 35 trillion

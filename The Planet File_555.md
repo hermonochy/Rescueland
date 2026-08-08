@@ -598,8 +598,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 55%, Nitrogen 30%, Trace gases 15%
 
-**General:** While weak in traditional firepower, Filto's interceptors are incredibly difficult to destroy, only outmatched by darkfighters. As the primary military manufacturer for all three Fil planets, Filto equips them with advanced military assets, reinforcing their collective defense. Rescueland has a concealed cache of weaponry hidden on this planet, intended for use only in emergencies. This stockpile also includes the small sample of [mutant FFG](./The%20Timeline%20of%20Resueland%20History.md#58-adotr-discovery-of-mutant-force-field-gel) that Rescueland has.
-
+**General:** While weak in traditional firepower, Filto's interceptors are incredibly difficult to destroy, only outmatched by darkfighters and lightfighterlings. As the primary military manufacturer for all three Fil planets, Filto equips them with advanced military assets, reinforcing their collective defense. Rescueland has a concealed cache of weaponry hidden on this planet, intended for use only in emergencies. This stockpile also includes the small sample of [mutant FFG](./The%20Timeline%20of%20Resueland%20History.md#58-adotr-discovery-of-mutant-force-field-gel) that Rescueland has.
 
 ### Filna (R)
 
