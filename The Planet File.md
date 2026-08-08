@@ -569,36 +569,6 @@ Army Size:
 
 **General:** Resource-rich world strategically positioned within the galaxy. Developed advanced Titan-Class Battleships prior to 508 ADOTR. Integrated into the Rescueland Empire after the War Against Horsa (508 ADOTR) and the capture of General Kael. Mining operations extract rare resources for battleship construction.
 
-## Federre System
-
-### Federre (A)
-
-**Name:** Federre
-
-**Flag:** ![](images/Federre_flag.png)
-
-**Pronounced:** Feh-der-reh
-
-**Capital:** Eagle Spire
-
-**Leader:** Under Rescueland Control (formerly Elite Command Council)
-
-**Power Status:** 4523891047/6000000000
-
-Army Size:
-- **Interceptors:** 87 trillion
-- **Battle Ships:** 892
-- **Darkfighters:** 0
-- **Ground Force:** 680 trillion
-
-**Tech Level:** 11
-
-**Population:** 520 quadrillion
-
-**Atmosphere:** Oxygen 62%, Nitrogen 28%, Trace gases 10%
-
-**General:** Planet from a nearby galaxy equipped with advanced technologies. Notable for cloaking technology and elite Eagle Fighter designs. Conquered during the War Against Federre (510 ADOTR). The defeat directly preceded the discovery of Helucky in 511 ADOTR when scouts encountered emerging powers during skirmish operations.
-
 ## Klesone System
 
 ### Klesone (A)
@@ -982,7 +952,7 @@ Army Size:
 
 **Atmosphere:** Nitrogen 59%, Oxygen 30%, Argon 10%
 
-**General:** Recola was previously the third superpower, but had its fleet hacked by the 5th army and is now sleaves to their bidding. Their interceptor design is known for emphasizing unparalleled speed in its fleet at the expense of several key systems, which was what allowed the 5th army to hack them in the first place. Specializing in radar and radio manipulation, Recola has skillfully influenced the outcome of the Rescueland-Helucky war, playing both sides from the shadows. The exact size of Recola's forces and the location of its home planet remain undiscovered by the alliance, who refer to it simply as “The Third Army.” This secrecy bodes well for the 5th army, as the superpowers are now uncertain where to strike due to lack of information.
+**General:** Recola was previously the third superpower, but had its fleet hacked by the 5th army and is now sleaves to their bidding. Their interceptor design is known for emphasizing unparalleled speed in its fleet at the expense of several key systems, which was what allowed the 5th army to hack them in the first place. Specializing in radar and radio manipulation, Recola has skillfully influenced the outcome of the Rescueland-Helucky war, playing both sides from the shadows. The exact size of Recola's forces and the location of its home planet remain undiscovered by the alliance. This secrecy bodes well for the 5th army, as the superpowers are now uncertain where to strike due to lack of information.
 
 ## Fadet System
 
@@ -1396,7 +1366,7 @@ Army Size:
 
 **General:** Terranova is one of the greenest planets known, with 90% of the planet being covered in some form of plant.
 
-# Outside of Universe
+# Outside of the Rescueland Universe
 
 ## Prima System
 
@@ -1427,6 +1397,37 @@ Army Size:
 **Atmosphere:** Oxygen 58%, Nitrogen 32%, Argon 8%, Trace gases 2%  
 
 **General:** Wehaya is characterized by its expansive forests and vast oceans, with cities built on stilts to accommodate rising sea levels. Its military is somewhat underfunded, but the populace is known for their resourcefulness and resilience. The social structure is divided between those who support the ruling council and a  advocating for greater autonomy and environmental protections.
+
+## Federre System
+
+### Federre (A)
+
+**Name:** Federre
+
+**Flag:** ![](images/Federre_flag.png)
+
+**Pronounced:** Feh-der-reh
+
+**Capital:** The Spire
+
+**Leader:** Under Rescueland Control 
+
+**Power Status:** 4523891047/6000000000
+
+Army Size:
+- **Interceptors:** 87 trillion
+- **Battle Ships:** 892
+- **Darkfighters:** 0
+- **Ground Force:** 680 trillion
+
+**Tech Level:** 11
+
+**Population:** 520 quadrillion
+
+**Atmosphere:** Oxygen 62%, Nitrogen 28%, Trace gases 10%
+
+**General:** Planet from a nearby galaxy equipped with advanced technologies. Notable for cloaking technology and elite Eagle Fighter designs. Conquered during the War Against Federre (510 ADOTR). The defeat directly preceded the discovery of Helucky in 511 ADOTR when scouts encountered emerging powers during skirmish operations.
+
 
 ### Alish (A)
 

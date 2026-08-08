@@ -942,9 +942,21 @@ In the chaos following the fall of the Rebel base on Keluha, a single squadron o
 
 Meanwhile, the threat from the Fifth Army grew more imminent. By the time the Recolas attempted to implement countermeasures, the Fifth Army’s forces had already struck. Their hacking units infiltrated the Recola interceptors, turning their own fleet against them. The main fleet of Recola interceptors stationed on their home planet was compromised, launching attacks upon their own world in a catastrophic betrayal. Simultaneously, the massive battlestation of the Fifth Army joined the fray, overwhelming the remaining defenses.
 
-Faced with this unprecedented assault, the Recola commanders and the remaining Recola ships equipped with partial defenses were forced to abandon their positions. They vanished into the unknown depths of the universe, abandoning their homeworld and scattering across the void to escape the onslaught.
+Faced with this unprecedented assault, the Recola leadership attempted a desperate escape. Boarding the few remaining ships equipped with partial defenses, they fought through the chaos to break orbit. However, the Fifth Army anticipated the move. Intercepting the fleeing vessels before they could clear the system, the Fifth Army captured the entire Recola leadership and took them as prisoners.
 
 This sequence of events left the original superpowers alliance against the 5th army with only three factions remaining to oppose it: Rescueland, Helucky, and the Rebel forces. Despite their combined military might - mainly due to Helucky’s sheer interceptor numbers - the alliance was now in a precarious position. They possessed overwhelming firepower but lacked crucial intelligence about the Fifth Army’s true nature, capabilities, and strategic plans. Without understanding their enemy, they faced a dire uncertainty: where to strike, how to counter the Fifth Army’s increasingly sophisticated tactics, and whether they could hold the line long enough to uncover the secrets behind this formidable foe. 
+
+### The Long Betrayal
+
+Behind closed doors, the captured Recola leadership made a decision that would echo through centuries. Privately, they vowed revenge on the Fifth Army—even if it took hundreds of generations to execute. They understood that outright defiance would result in immediate execution, so they chose a different path: patience and deception.
+
+In public, the Recola leadership pretended to be completely satisfied with their situation. They professed loyalty to the Fifth Army, praising its strength and vision. Slowly, they began to build trust, offering strategic advice that genuinely helped the Fifth Army win battles. Each successful campaign they assisted in was another step in their long game, embedding themselves deeper into the Fifth Army's command structure.
+
+Over time, their counsel became indispensable. They advised on fleet deployments, system invasions, and tactical maneuvers—all designed to strengthen the Fifth Army while secretly positioning themselves to control its direction. Their goal was not merely to regain freedom, but to gain so much trust from the Fifth Army that they would essentially own it from within.
+
+This strategy required extraordinary patience. Some of the original Recola leaders would never live to see its completion. Successors would inherit the plan, sworn to secrecy and commitment to the cause. Generations of prisoners-turned-advisors would carry the torch, each generation pushing the agenda forward without revealing the true purpose behind their counsel.
+
+To the Fifth Army, they appeared as loyal servants who had accepted their fate. In reality, they were building a Trojan horse—one that would take centuries to fully infiltrate. This long-game betrayal would remain undetected until the very moment the Recola leadership judged the time was right to turn the Fifth Army's own strength against it.
 
 ### The Dual Battles
 
