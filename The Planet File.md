@@ -1539,7 +1539,7 @@ Army Size:
 
 **Atmosphere:** Oxygen 57%, Nitrogen 33%, CO2 8%, Helium 2%  
 
-**General:** Casopi possesses a mix of rugged mountain terrains and fertile valleys. The Casopian military is known for its strategic prowess, navigating the political landscape to avoid open conflict while still maintaining a capable defensive posture. Recent reforms have aimed to integrate technology into daily governance, leading to burgeoning tech sectors.
+**General:** Casopi possesses a mix of rugged mountain terrains and fertile valleys. The Casopian military is known for its strategic prowess. A Rescueland Outpost established in 15 ADOTR operates in the system, developing independent technology divergent from Empire standards. In 558 ADOTR, the Outpost repelled a 5th Army invasion using superior forces including a Darkfighter. Following the 717 ADOTR Helucky Expedition reinforcement, the system hosts a combined Alliance force.
 
 ### Senena (I)
 
@@ -1635,7 +1635,7 @@ Army Size:
 
 **Flag:** ![](images/Zhalam_flag.png)
 
-**Pronounced:** zha-la-hmn
+**Pronounced:** ja-la-hmn
 
 **Capital:** Uvorin
 
