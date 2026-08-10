@@ -646,7 +646,7 @@ Army Size:
 Army Size:
 - **Interceptors:** 800 trillion
 - **Battle Ships:** 500
-- **Darkfighters:** 5
+- **Darkfighters:** 4
 - **Ground Force:** 37 septillion
 
 **Tech Level:** 12
@@ -853,7 +853,7 @@ Leader: Vardok
 Power Status: 3891024765/6000000000  
 
 Army Size:  
-Interceptors: 32 billion
+Interceptors: 2 trillion
 Battle Ships: 102
 Darkfighters: 0
 Ground Force: 15 trillion
@@ -943,7 +943,7 @@ Army Size:
 Army Size:
 - **Interceptors:** 360 trillion
 - **Battle Ships:** 6780
-- **Darkfighters:** 3
+- **Darkfighters:** 0
 - **Ground Force:** 146 hexillion
 
 **Tech Level:** 12
@@ -1116,7 +1116,7 @@ Army Size:
 **Power Status:** 4074491000/6000000000
 
 Army Size:
-- **Interceptors:** 93 billion
+- **Interceptors:** 9 trillion
 - **Battle Ships:** 650
 - **Darkfighters:** 0
 - **Ground Force:** 829 billion
@@ -1727,7 +1727,7 @@ Army Size:
 
 **Leader:** Kanzo
 
-**Power Status:** 5639824657/6000000000
+**Power Status:** 4639824657/6000000000
 
 Army Size:
 - **Interceptors:** 600,000
@@ -1755,7 +1755,7 @@ Army Size:
 
 **Leader:** Baviyo
 
-**Power Status:** 3700096785/6000000000
+**Power Status:** 2700096785/6000000000
 
 Army Size:
 - **Interceptors:** 85,000
