@@ -1,15 +1,16 @@
 *SPDX-License-Identifier: CC-BY-NC-SA-4.0*
 
 
-This file presents a brief summary of the major planets, listed according to their distance from Rescueland. Note that it does not encompass every planet, as doing so would exceed the processing capabilities of all the computers on Earth.
+This file presents a brief summary of the major planets, listed according to their distance from Rescueland. Note that it does not encompass every planet, as doing so would exceed the storage capabilities of all the computers on Earth.
 
 ## Past Planet Files
 
-There are several versions of the planet file available, each from a different time period. This particular version is from 555 ADOTR. Below is a list of the other versions:
+There are several versions of the planet file available, each from a different time period. This particular version is from 717 ADOTR. Below is a list of the other versions:
 
 - [25 ADOTR](./The%20Planet%20File_25.md)
 - [555 ADOTR](./The%20Planet%20File_555.md)
 - [570 ADOTR](./The%20Planet%20File_570.md)
+- [710 ADOTR](./The%20Planet%20File_710.md)
 
 ## Keys
 
@@ -23,7 +24,7 @@ There are several versions of the planet file available, each from a different t
 
 **Leader:** The planet's leader or its political system  
 
-**Power Status:** Each inhabited planet is assigned a military power ranking from 1 to 6,000,000,000. This may not align with the army size, as some ships are more advanced than others.  
+**Power Status:** Each inhabited planet is assigned a military power ranking from 1 to 12. This may not align with the army size, as some ships are more advanced than others.
 
 **Army Size:** Total count of military personnel  
 
@@ -34,19 +35,7 @@ There are several versions of the planet file available, each from a different t
 
 *Note: Rarer ship types have been excluded.*  
 
-**Tech Level:** A measure of technological advancement, rated on a scale of 1 to 12 for military capability:  
-1. Stone Age  
-2. Medieval Age  
-3. Present-Day Earth  
-4. Regular transport available within the system  
-5. Initial exploration of nearby systems  
-6. Colonies established in nearby systems, exploring deeper into their universe (most Scifi films such as Star Wars is at this level)  
-7. Technology to occasionally leave their universe  
-8. Capability to regularly exit their universe  
-9. Development of more dangerous, system-destroying weaponry  
-10. Ship range surpasses the distance from Recua to Computerland and back  
-11. Efficient bi-directional conversion of energy and matter
-12. Transdimensional exploratory capabilities 
+**Tech Level:** A measure of technological advancement, rated on a scale of 1 to 12.
 
 **Population:** Total number of inhabitants  
 
@@ -286,7 +275,7 @@ To remain completely neutral to the skirmishes between the factions.
 
 **Leader:** none
 
-**Power Status:** 5999999997/6000000000
+**Power Status:** 12
 
 Army Size:
 - **Interceptors:** 224 billion
@@ -319,7 +308,7 @@ For the few organic beings living on Rescueland, the local cuisine includes a va
 
 **Leader:** none
 
-**Power Status:** 5048725876/6000000000
+**Power Status:** 10
 
 Army Size:
 - **Interceptors:** 75,000
@@ -347,7 +336,7 @@ Army Size:
 
 **Leader:** Monoquia
 
-**Power Status:** 5097748458/6000000000
+**Power Status:** 10
 
 Army Size:
 - **Interceptors:** 1,000
@@ -375,7 +364,7 @@ Army Size:
 
 **Leader:** Erros
 
-**Power Status:** 5000132320/6000000000
+**Power Status:** 10
 
 Army Size:
 - **Interceptors:** 2200
@@ -405,7 +394,7 @@ Army Size:
 
 **Leader:** none
 
-**Power Status:** 5063245856/6000000000
+**Power Status:** 10
 
 Army Size:
 - **Interceptors:** 66 million
@@ -435,7 +424,7 @@ Army Size:
 
 **Leader:** Under Rescueland Control
 
-**Power Status:** 4999839420/6000000000
+**Power Status:** 10
 
 Army Size:
 - **Interceptors:** 40 million
@@ -465,7 +454,7 @@ The societal structure was highly stratified, with the elite enjoying privileges
 
 **Leader:** Under Rescueland Control
 
-**Power Status:** 4999999990/6000000000
+**Power Status:** 12
 
 Army Size:
 - **Interceptors:** 50 million
@@ -493,7 +482,7 @@ Army Size:
 
 **Leader:** Ultra Warlord Malgor
 
-**Power Status:** 5475082105/6000000000
+**Power Status:** 11
 
 Army Size:
 - **Interceptors:** 85 million
@@ -521,7 +510,7 @@ Army Size:
 
 **Leader:** Under Rescueland Control (Warlord Tyanus captured)
 
-**Power Status:** 5999999995/6000000000
+**Power Status:** 12
 
 Army Size:
 - **Interceptors:** Quadrillions
@@ -553,7 +542,7 @@ The Horsa system is where the Rebel 10 Faction was originally founded.
 
 **Leader:** Under Rescueland Control (formerly General Kael)
 
-**Power Status:** 3891024765/6000000000
+**Power Status:** 8
 
 Army Size:
 - **Interceptors:** 15 trillion
@@ -583,7 +572,7 @@ Army Size:
 
 **Leader:** Alpic
 
-**Power Status:** 5999999900/6000000000
+**Power Status:** 12
 
 Army Size:
 - **Interceptors:** 25 trillion
@@ -611,7 +600,7 @@ Army Size:
 
 **Leader:** Alpic
 
-**Power Status:** 5803458538/6000000000
+**Power Status:** 12
 
 Army Size:
 - **Interceptors:** 127
@@ -641,7 +630,7 @@ Army Size:
 
 **Leader:** The Great Computer
 
-**Power Status:** 5999999999/6000000000
+**Power Status:** 12
 
 Army Size:
 - **Interceptors:** 800 trillion
@@ -656,8 +645,8 @@ Army Size:
 **Atmosphere:** Oxygen 55%, Nitrogen 30%, Trace gases 15%
 
 **General:** Helucky is the most powerful superpower, renowned for its sheer quantity of military resources and strategic capabilities. Its vast landscape is dotted with enormous military installations, factories and spaceports, all dedicated to producing one of the largest spaceborne interceptor armies known in the galaxy.
-The planet’s military doctrine revolves around overwhelming force and relentless waves of interceptors, enabling Helucky to effectively defend itself and project power across its sphere of influence. The sheer size of its interceptor army instills a sense of intimidation among rival powers; Helucky could potentially take on the 5th army by itself. Allied with Rescueland, Helucky is essentially unstoppable. However, despite this advantage in numbers, Helucky faces significant strategic limitations.
-The primary obstacle hindering Helucky from launching an outright offensive is its insufficient fleet of battleships. Whereas interceptor crafts excel in air-to-air combat and rapid response, battleships are essential for commanding and controlling operations in vast sectors of space and for engaging formidable opponents effectively. The absence of a robust battleship fleet means that Helucky’s interceptors would be vulnerable when faced with sustained attacks. This vulnerability keeps Helucky leaders cautious, as an attack could leave them exposed to counterattacks and retaliatory strikes.
+The planet's military doctrine revolves around overwhelming force and relentless waves of interceptors, enabling Helucky to effectively defend itself and project power across its sphere of influence. The sheer size of its interceptor army instills a sense of intimidation among rival powers; Helucky could potentially take on the 5th army by itself. Allied with Rescueland, Helucky is essentially unstoppable. However, despite this advantage in numbers, Helucky faces significant strategic limitations.
+The primary obstacle hindering Helucky from launching an outright offensive is its insufficient fleet of battleships. Whereas interceptor crafts excel in air-to-air combat and rapid response, battleships are essential for commanding and controlling operations in vast sectors of space and for engaging formidable opponents effectively. The absence of a robust battleship fleet means that Helucky's interceptors would be vulnerable when faced with sustained attacks. This vulnerability keeps Helucky leaders cautious, as an attack could leave them exposed to counterattacks and retaliatory strikes.
 Also, Helucky and Rescueland are currently unaware of the location of Recola and the 5th army, so are unaware of where to send their troops.
 
 ### Imperium (A)
@@ -672,7 +661,7 @@ Also, Helucky and Rescueland are currently unaware of the location of Recola and
 
 **Leader:** Xarendos  
 
-**Power Status:** 5125487350/6000000000  
+**Power Status:** 10  
 
 Army Size:
 - **Interceptors:** 65 billion
@@ -704,7 +693,7 @@ The three inhabited planets in the Fil system operate in a cooperative trio, eac
 
 **Leader:** Eloha
 
-**Power Status:** 5918648566/6000000000
+**Power Status:** 12
 
 Army Size:
 - **Interceptors:** 5 trillion
@@ -733,7 +722,7 @@ Army Size:
 
 **Leader:** Fulah
 
-**Power Status:** 0508648564/6000000000
+**Power Status:** 1
 
 Army Size:
 - **Interceptors:** 0
@@ -762,7 +751,7 @@ Army Size:
 
 **Leader:** Eholo
 
-**Power Status:** 5908648565/6000000000
+**Power Status:** 12
 
 Army Size:
 - **Interceptors:** 20
@@ -792,7 +781,7 @@ Army Size:
 
 **Leader:** Under Rescueland Control
 
-**Power Status:** 2999999995/6000000000
+**Power Status:** 6
 
 Army Size:
 - **Interceptors:** 15 million
@@ -822,7 +811,7 @@ Army Size:
 
 **Leader:** King Coators
 
-**Power Status:** 3223200000/6000000000
+**Power Status:** 6
 
 Army Size:
 - **Interceptors:** 3198
@@ -850,7 +839,7 @@ Capital: Akeris Tower
 
 Leader: Vardok  
 
-Power Status: 3891024765/6000000000  
+Power Status: 8  
 
 Army Size:  
 Interceptors: 2 trillion
@@ -878,7 +867,7 @@ General: The surface of Ukakia is a mix of sprawling metropolitan areas and rugg
 
 **Leader:** Tsar Protader
 
-**Power Status:** 3400000000/6000000000
+**Power Status:** 7
 
 Army Size:
 - **Interceptors:** 14
@@ -908,7 +897,7 @@ Army Size:
 
 **Leader:** Zoltar
 
-**Power Status:** 4400576250/6000000000
+**Power Status:** 9
 
 Army Size:
 - **Interceptors:** 4.5 million
@@ -938,7 +927,7 @@ Army Size:
 
 **Leader:** The 5th Army
 
-**Power Status:** 5999999998/6000000000
+**Power Status:** 12
 
 Army Size:
 - **Interceptors:** 360 trillion
@@ -968,7 +957,7 @@ Army Size:
 
 **Leader:** The Council
 
-**Power Status:** 2900000000/6000000000
+**Power Status:** 6
 
 Army Size:
 - **Interceptors:** 679
@@ -998,7 +987,7 @@ Army Size:
 
 **Leader:** None
 
-**Power Status:** 0000000310/6000000000
+**Power Status:** 1
 
 Army Size:
 - **Interceptors:** 0
@@ -1028,7 +1017,7 @@ The inhabitants have developed a belief system that venerates the concept of Res
 
 **Leader:** Kahn Coars
 
-**Power Status:** 3600000000/6000000000
+**Power Status:** 7
 
 Army Size:
 - **Interceptors:** 2 million
@@ -1057,7 +1046,7 @@ Army Size:
 
 **Leader:** High Lord Tacer
 
-**Power Status:** 3100000000/6000000000
+**Power Status:** 6
 
 Army Size:
 - **Interceptors:** 7430
@@ -1085,7 +1074,7 @@ Army Size:
 
 **Leader:** Luncil
 
-**Power Status:** 3700000000/6000000000
+**Power Status:** 7
 
 Army Size:
 - **Interceptors:** 46,000
@@ -1101,7 +1090,7 @@ Army Size:
 
 **General:** Known for its deep-space exploration programs, Heloa is home to Lumen University, a prestigious institution known far and wide on a level akin to oxford.
 
-### Keluha (A)
+### Keluha (A/S)
 
 **Name:** Keluha
 
@@ -1113,7 +1102,7 @@ Army Size:
 
 **Leader:** Copace
 
-**Power Status:** 4074491000/6000000000
+**Power Status:** 8
 
 Army Size:
 - **Interceptors:** 9 trillion
@@ -1143,7 +1132,7 @@ Army Size:
 
 **Leader:** unknown
 
-**Power Status:** 5031270958/6000000000
+**Power Status:** 10
 
 Army Size:
 - **Interceptors:** Approx 1700
@@ -1171,7 +1160,7 @@ Army Size:
 
 **Leader:** Thegences
 
-**Power Status:** 4556732960/6000000000
+**Power Status:** 9
 
 Army Size:
 
@@ -1200,7 +1189,7 @@ Army Size:
 
 **Leader:** Auor
 
-**Power Status:** 5200000000/6000000000
+**Power Status:** 10
 
 Army Size:
 
@@ -1229,7 +1218,7 @@ Army Size:
 
 **Leader:** Prime Minister Equats
 
-**Power Status:** 3000000000/6000000000
+**Power Status:** 6
 
 Army Size:
 
@@ -1260,7 +1249,7 @@ Army Size:
 
 **Leader:** King Counics
 
-**Power Status:** 2849100000/6000000000
+**Power Status:** 5
 
 Army Size:
 
@@ -1291,7 +1280,7 @@ Army Size:
 
 **Leader:** Supreme Pyot
 
-**Power Status:** 4900000000/6000000000
+**Power Status:** 10
 
 Army Size:
 
@@ -1320,7 +1309,7 @@ Army Size:
 
 **Leader:** Ice Council
 
-**Power Status:** 3200000000/6000000000
+**Power Status:** 6
 
 Army Size:
 
@@ -1349,7 +1338,7 @@ Army Size:
 
 **Leader:** Governor Ecard
 
-**Power Status:** 3650000000/6000000000
+**Power Status:** 7
 
 Army Size:
 
@@ -1382,7 +1371,7 @@ Army Size:
 
 **Leader:** Elorik  
 
-**Power Status:** 2750056120/6000000000  
+**Power Status:** 5  
 
 **Army Size:**  
 - **Interceptors:** 22,000  
@@ -1412,7 +1401,7 @@ Army Size:
 
 **Leader:** Under Rescueland Control 
 
-**Power Status:** 4523891047/6000000000
+**Power Status:** 9
 
 Army Size:
 - **Interceptors:** 87 trillion
@@ -1441,7 +1430,7 @@ Army Size:
 
 **Leader:** Celestra  
 
-**Power Status:** 3420100000/6000000000  
+**Power Status:** 7  
 
 **Army Size:**  
 - **Interceptors:** 4 million  
@@ -1469,7 +1458,7 @@ Army Size:
 
 **Leader:** Orvane  
 
-**Power Status:** 3825000000/6000000000  
+**Power Status:** 7  
 
 **Army Size:**  
 - **Interceptors:** 10 million  
@@ -1497,7 +1486,7 @@ Army Size:
 
 **Leader:** Mordekai  
 
-**Power Status:** 4583917000/6000000000  
+**Power Status:** 9  
 
 **Army Size:**  
 - **Interceptors:** 28 million  
@@ -1525,7 +1514,7 @@ Army Size:
 
 **Leader:** Zanderel  
 
-**Power Status:** 3964780000/6000000000   
+**Power Status:** 8   
 
 **Army Size:**  
 - **Interceptors:** 18,000   
@@ -1553,7 +1542,7 @@ Army Size:
 
 **Leader:** Qerith  
 
-**Power Status:** 3012500000/6000000000  
+**Power Status:** 6  
 
 **Army Size:**  
 - **Interceptors:** 15 million  
@@ -1581,7 +1570,7 @@ Army Size:
 
 **Leader:** Lurith  
 
-**Power Status:** 2502410400/6000000000  
+**Power Status:** 5  
 
 **Army Size:**  
 - **Interceptors:** 8 million  
@@ -1611,7 +1600,7 @@ Army Size:
 
 **Leader:** Revilo
 
-**Power Status:** 5999853247/6000000000
+**Power Status:** 12
 
 Army Size:
 - **Interceptors:** 50 trillion
@@ -1641,7 +1630,7 @@ Army Size:
 
 **Leader:** Varnak
 
-**Power Status:** 2508702472/6000000000
+**Power Status:** 4
 
 Army Size:
 - **Interceptors:** 150,000
@@ -1669,7 +1658,7 @@ Army Size:
 
 **Leader:** Gromthar
 
-**Power Status:** 1052759436/6000000000
+**Power Status:** 2
 
 Army Size:
 - **Interceptors:** 126
@@ -1699,7 +1688,7 @@ Army Size:
 
 **Leader:** Xiltra
 
-**Power Status:** 4200000000/6000000000
+**Power Status:** 8
 
 Army Size:
 - **Interceptors:** 300,000
@@ -1727,7 +1716,7 @@ Army Size:
 
 **Leader:** Kanzo
 
-**Power Status:** 4639824657/6000000000
+**Power Status:** 9
 
 Army Size:
 - **Interceptors:** 600,000
@@ -1755,7 +1744,7 @@ Army Size:
 
 **Leader:** Baviyo
 
-**Power Status:** 2700096785/6000000000
+**Power Status:** 5
 
 Army Size:
 - **Interceptors:** 85,000
