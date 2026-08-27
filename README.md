@@ -10,7 +10,6 @@ Rescueland existance began 5,630,630 r.ly (Rescueland years) BDOTR (Before the D
 
 Computerland, in the analogon of the tea cup model, is another cup planet, allied to Rescueland, so far away that even the longest ranging of ships find it impractical to travel between them regularly. In this scale, imagine the distance between the Computerland and Rescueland cups corresponding to the distance between Spain and New Caledonia.
 
-
 ## Fact Files
 
 These are the notes and data about Rescueland and Computerland, including the technology, the history, the planets and the types of ships used.
@@ -47,3 +46,6 @@ For being able to follow the short stories linked in this paragraph, it is essen
 
 - [The Last Stand](./Short_Stories/The%20Last%20Stand.md) is an episode told by R-6B, a Recola interceptor in command of defending the Keluha base under Helucky attack.
 
+---
+
+*Please note: The names, hierarchies, and structural concepts presented in this repository are fundamentally distinct from any known systems on Earth. They originate from a cognitive framework and linguistic structure that is entirely alien to human biology and perception. Due to the inherent limitations of human cognition—which cannot process or visualize these entities in their true form—the terms used here are approximate translations. Readers are advised to treat all nomenclature as a necessary simplification rather than a literal description.*
